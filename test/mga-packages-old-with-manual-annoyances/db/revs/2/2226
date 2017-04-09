@@ -1,0 +1,144 @@
+id: 2-8.0-2226.r2226/0
+type: dir
+pred: 2-8.0.r2223/5709
+count: 57
+text: 2223 5617 79 0 d1540020c2d4a44324ba87b955d9dc42
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.16/5.mga3
+copyfrom: 2223 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2135.r2135/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2157.r2157/0
+K 6
+3.mga3
+V 22
+dir 2-8.0-2192.r2192/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2222.r2222/0
+K 6
+5.mga3
+V 22
+dir 2-8.0-2226.r2226/0
+END
+ENDREP
+id: 3-2132.0.r2226/471
+type: dir
+pred: 3-2132.0.r2222/432
+count: 5
+text: 2226 259 199 0 58358f93812f28eb2e3ef7d946ddf21d
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2226/471
+END
+ENDREP
+id: 35-8.0.r2226/780
+type: dir
+pred: 35-8.0.r2222/741
+count: 23
+text: 2226 646 121 0 7cb52b6dae3d1711f8a9ea4a41698d1f
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2223/5709
+K 8
+pristine
+V 22
+dir 2-8.0-2225.r2225/0
+K 8
+releases
+V 20
+dir 35-8.0.r2226/780
+END
+ENDREP
+id: 1-7.0.r2226/1122
+type: dir
+pred: 1-7.0.r2225/422
+count: 143
+text: 2226 945 164 0 fc70a08679da2706c463cc66112e272f
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2226/1122
+K 6
+kernel
+V 20
+dir 1-5.0.r2218/2449
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2204/2356
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2180/2214
+K 7
+systemd
+V 21
+dir 1-40.0.r2196/1444
+END
+ENDREP
+id: 0-1.0.r2226/1495
+type: dir
+pred: 0-1.0.r2225/793
+count: 2075
+text: 2226 1278 204 0 0220724c66d0f1fd4531262f4b2d5788
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2226/1495
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2226/1743
+type: dir
+pred: 0.0.r2225/1038
+count: 2226
+text: 2226 1647 83 0 c122bcd298193209bc7edf9311b0a6df
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2225-1pt add-dir false false /cauldron/glibc/releases/6:2.16/5.mga3
+2223 /cauldron/glibc/current
+
+1743 1883

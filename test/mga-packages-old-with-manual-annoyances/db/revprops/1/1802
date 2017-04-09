@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-26T08:37:51.542159Z
+K 7
+svn:log
+V 23
+require dracut >= 017-9
+END

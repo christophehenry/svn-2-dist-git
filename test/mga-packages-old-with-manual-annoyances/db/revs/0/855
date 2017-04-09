@@ -1,0 +1,90 @@
+id: 2-3.0-855.r855/0
+type: dir
+pred: 2-3.0.r853/2015
+count: 80
+text: 853 1926 76 0 d898432ed0a1de41dea7467e4c1acac5
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/pristine
+copyfrom: 854 /cauldron/kernel-linus/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r853/2015
+K 8
+pristine
+V 20
+dir 2-3.0-855.r855/0
+K 8
+releases
+V 19
+dir n-3.0.r839/1106
+END
+ENDREP
+id: 1-2.0.r855/386
+type: dir
+pred: 1-2.0.r854/92
+count: 169
+text: 855 255 118 0 7a2ee78403d64c3894bb240975f9a988
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r809/1599
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r855/386
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 20
+dir 1-40.0.r852/1101
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r855/788
+type: dir
+pred: 0-1.0.r854/491
+count: 787
+text: 855 544 231 0 46b9b3aeff739d4a6a09e6cb4ad3b88b
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r855/788
+K 7
+updates
+V 21
+dir 0-539.0.r848/2157
+END
+ENDREP
+id: 0.0.r855/1027
+type: dir
+pred: 0.0.r854/731
+count: 855
+text: 855 934 80 0 6a3bb205a36460d288f8b8ede3d753bf
+cpath: /
+copyroot: 0 /
+
+2-3._0.t854-nq add-dir false false /cauldron/kernel-linus/pristine
+854 /cauldron/kernel-linus/current
+
+1027 1161

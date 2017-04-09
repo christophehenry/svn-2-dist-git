@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2014-01-13T19:44:18.313286Z
+K 7
+svn:log
+V 176
+- Ensure native unit [Install] section information is suppressed for sysvinit scripts on enable
+- Ensure chkconfig does not reload systemd when we are mid-operation (mga#12278)
+END

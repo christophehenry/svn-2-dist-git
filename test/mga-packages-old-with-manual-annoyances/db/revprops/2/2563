@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-09T00:09:29.581568Z
+K 7
+svn:log
+V 64
+- update to 3.4.18
+- drop merged patches:
+  * DM10, DN10, FE02
+
+
+END

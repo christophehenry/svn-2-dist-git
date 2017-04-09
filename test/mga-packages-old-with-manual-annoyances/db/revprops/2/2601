@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-12-06T15:33:03.770846Z
+K 7
+svn:log
+V 98
+- drop compress modules at install time patch
+  (obsolete as we compress them at rpm build time)
+
+
+END

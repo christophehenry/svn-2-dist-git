@@ -1,0 +1,172 @@
+id: 2-6.0-525.r525/0
+type: dir
+pred: 2-6.0.r522/744
+count: 168
+text: 522 531 200 0 0ac24919984c001bf2f9494b784b20fc
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/releases/2.6.38.8/2.mga2
+copyfrom: 522 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga2
+V 20
+dir 2-6.0-504.r504/0
+K 6
+2.mga2
+V 20
+dir 2-6.0-525.r525/0
+END
+ENDREP
+id: 3-501.0.r525/350
+type: dir
+pred: 3-501.0.r504/313
+count: 2
+text: 525 259 78 0 a5d5876d527ea9799b0aa6b268c4495b
+cpath: /cauldron/kernel/releases/2.6.38.8
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+K 8
+2.6.38.7
+V 20
+dir 3-485.0.r488/315
+K 8
+2.6.38.8
+V 20
+dir 3-501.0.r525/350
+END
+ENDREP
+id: 2-14.0.r525/1079
+type: dir
+pred: 2-14.0.r504/1040
+count: 35
+text: 525 522 544 0 9e92ef2e9c2768ccc8edae78951b4c84
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-6.0.r522/744
+K 8
+pristine
+V 20
+dir 2-6.0-524.r524/0
+K 8
+releases
+V 20
+dir 2-14.0.r525/1079
+END
+ENDREP
+id: 1-5.0.r525/1375
+type: dir
+pred: 1-5.0.r524/374
+count: 247
+text: 525 1244 118 0 d6ee486678cee1911ad91289ee15ea9b
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r525/1375
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r509/1242
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r492/1135
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0.r525/1777
+type: dir
+pred: 0-1.0.r524/772
+count: 524
+text: 525 1530 234 0 bad8a49db148c05cd5cda096007441ec
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r525/1777
+END
+ENDREP
+id: 0.0.r525/1980
+type: dir
+pred: 0.0.r524/972
+count: 525
+text: 525 1925 42 0 07c4cdf507046cb25e4c956e665dfc89
+cpath: /
+copyroot: 0 /
+
+2-6._0.t524-ek add-dir false false /cauldron/kernel/releases/2.6.38.8/2.mga2
+522 /cauldron/kernel/current
+
+1980 2115

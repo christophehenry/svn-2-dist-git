@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-20T00:21:36.949838Z
+K 7
+svn:log
+V 68
+- update samsung-laptop driver
+- drop old samsung-backlight driver
+
+
+END

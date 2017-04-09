@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-18T21:37:10.163785Z
+K 7
+svn:log
+V 55
+- update to 3.12.8
+- sync defconfigs with core kernel
+
+
+END

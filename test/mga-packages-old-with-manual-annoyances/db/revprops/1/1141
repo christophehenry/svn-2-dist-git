@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+anssi
+K 8
+svn:date
+V 27
+2011-12-07T23:49:35.360043Z
+K 7
+svn:log
+V 66
+remove tags created by incorrect markreleases caused by bug #2633
+
+END

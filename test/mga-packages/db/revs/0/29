@@ -1,0 +1,90 @@
+id: 3-29.0.r29/0
+type: dir
+count: 0
+cpath: /cauldron/rpm/releases/1:4.6.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 16
+dir 3-29.0.r29/0
+END
+ENDREP
+id: 37-12.0.r29/140
+type: dir
+pred: 37-12.0.r12/80911
+count: 1
+text: 29 89 38 38 3a29d386a292a57bf08257215a9dbcd1
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-12.0.r28/948
+K 8
+pristine
+V 19
+dir 2-12.0-13.r13/0
+K 8
+releases
+V 19
+dir 37-12.0.r29/140
+END
+ENDREP
+id: 1-11.0.r29/428
+type: dir
+pred: 1-11.0.r28/1289
+count: 7
+text: 29 299 116 116 de18b6ba7baee7845313359b6b8e3114
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r25/917
+K 6
+kernel
+V 17
+dir 1-5.0.r22/804
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 18
+dir 1-11.0.r29/428
+END
+ENDREP
+id: 0-1.0.r29/734
+type: dir
+pred: 0-1.0.r28/1597
+count: 28
+text: 29 578 143 143 ea26256ba8962d89847e8ffbc1054a95
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r29/734
+END
+ENDREP
+id: 0.0.r29/932
+type: dir
+pred: 0.0.r28/1798
+count: 29
+text: 29 879 40 40 e3a9b09413f87c7a011a5420ded6d3c6
+cpath: /
+copyroot: 0 /
+
+_3.0.t28-s add-dir false false /cauldron/rpm/releases/1:4.6.1
+
+
+932 1063

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-01T09:41:37.865492Z
+K 7
+svn:log
+V 66
+- add patch:
+  * CK02: fix some booting issues with BFS sceduler
+
+
+END

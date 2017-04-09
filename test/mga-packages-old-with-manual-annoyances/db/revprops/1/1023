@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T22:16:58.339884Z
+K 7
+svn:log
+V 184
+- mm: fix negative commitlimit when gigantic hugepages are allocated
+- mm: fix race between mremap and removing migration entry
+- mm, hotplug: fix error handling in mem_online_node()
+
+
+END

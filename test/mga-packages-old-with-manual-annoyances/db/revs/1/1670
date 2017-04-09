@@ -1,0 +1,164 @@
+id: 2-41.0-1670.r1670/0
+type: dir
+pred: 2-41.0.r1666/617
+count: 109
+text: 1666 525 79 0 3208c9b8e2c18a2765cba3901e314d73
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/44/1.mga2
+copyfrom: 1666 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-41.0-1670.r1670/0
+END
+ENDREP
+id: 3-1667.0.r1670/317
+type: dir
+pred: 3-1667.0.r1667/0
+count: 1
+text: 1670 260 44 0 2bd34152e30814a559578918ea8bbb32
+cpath: /cauldron/systemd/releases/44
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1270/955
+K 2
+38
+V 22
+dir 3-1305.0.r1364/560
+K 2
+39
+V 22
+dir 3-1392.0.r1433/396
+K 2
+40
+V 22
+dir 3-1460.0.r1499/356
+K 2
+43
+V 22
+dir 3-1530.0.r1647/479
+K 2
+44
+V 22
+dir 3-1667.0.r1670/317
+END
+ENDREP
+id: p-41.0.r1670/905
+type: dir
+pred: p-41.0.r1667/508
+count: 58
+text: 1670 487 405 0 65c90b89d1ab240067e3369ae2631c68
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r1666/617
+K 8
+pristine
+V 23
+dir 2-41.0-1669.r1669/0
+K 8
+releases
+V 20
+dir p-41.0.r1670/905
+END
+ENDREP
+id: 1-40.0.r1670/1208
+type: dir
+pred: 1-40.0.r1669/386
+count: 260
+text: 1670 1072 123 0 b78f32e088b2ae8ff80dcedc6d456237
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1582/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r1662/2087
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1653/1997
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1665/1889
+K 7
+systemd
+V 21
+dir 1-40.0.r1670/1208
+K 4
+udev
+V 21
+dir 1-27.0.r1555/1158
+END
+ENDREP
+id: 0-1.0.r1670/1622
+type: dir
+pred: 0-1.0.r1669/796
+count: 1546
+text: 1670 1369 240 0 63c6ccbc59db9d885e12b8ac3e986ec1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1670/1622
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1670/1870
+type: dir
+pred: 0.0.r1669/1041
+count: 1670
+text: 1670 1774 83 0 ee9deba605c854303a6a505f39902357
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1669-1ad add-dir false false /cauldron/systemd/releases/44/1.mga2
+1666 /cauldron/systemd/current
+
+1870 2010

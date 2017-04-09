@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-05T18:05:38.712272Z
+K 7
+svn:log
+V 135
+- drop patch: sound-alsa-hda_intel-prealloc-4mb-dmabuffer.patch
+  (it's replaced by the upstream SND_HDA_PREALLOC_SIZE config option)
+
+
+END

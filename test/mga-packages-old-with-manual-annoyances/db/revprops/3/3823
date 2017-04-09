@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-13T23:03:39.268014Z
+K 7
+svn:log
+V 219
+- update to 3.12-rc5
+- drop merged/obsolete patches
+- fix ndiswrapper and mach64 drivers build with 3.12
+- update aufs patch
+- update overlayfs patches
+- rediff IFWLOG patch
+- update defconfigs
+- update dkms conflicts
+
+
+END

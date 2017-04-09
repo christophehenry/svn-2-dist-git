@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-12-25T18:34:01.745595Z
+K 7
+svn:log
+V 44
+ports is now merged back with upstream glibc
+END

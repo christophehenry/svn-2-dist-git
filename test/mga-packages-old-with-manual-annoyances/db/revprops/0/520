@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T20:48:09.089040Z
+K 7
+svn:log
+V 81
+ath9k: revert changes that crashes the kernel (mga #144, regression since 2.6.35)
+END

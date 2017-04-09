@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T16:15:04.963029Z
+K 7
+svn:log
+V 158
+- xhci: Reject double add of active endpoints
+- xhci: Add reset on resume quirk for asrock p67 host
+- xhci: Always set urb->status to zero for isoc endpoints
+
+END

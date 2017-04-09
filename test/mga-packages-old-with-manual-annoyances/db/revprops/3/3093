@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-27T11:19:25.614403Z
+K 7
+svn:log
+V 687
+- update to 3.8.10
+- drop merged / obsolete patches:
+  * AA01-AA20: 3.8.6+ stable fixes (merged)
+  * DP01: disable-aspm-link check for ath5k (obsolete)
+- add patches:
+  * AA01: aio: fix possible invalid memory access when DEBUG is enabled
+  * AA02: TTY: do not update atime/mtime on read/write (CVE-2013-0160)
+  * AA03: TTY: fix atime/mtime regression
+  * BD01: block: fix max discard sectors limit
+  * DG01: drm/radeon: don't use get_engine_clock() on APUs
+    (mga #8077, fdo #62493)
+  * DG02: drm/radeon: add some new SI PCI ids
+  * DG03: drm/radeon: add new richland pci ids
+  * DI10-DI12: intel_idle: add Haswell support
+- make EFI_VARS builtin on x86_64
+- set DEFAULT_NLS to utf8
+
+
+END

@@ -1,0 +1,144 @@
+id: 2-41.0-907.r907/0
+type: dir
+pred: 2-41.0.r903/1748
+count: 49
+text: 903 1657 78 0 45895681bffa648481c5b8bf101b21c7
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/37/1.mga2
+copyfrom: 903 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-907.r907/0
+END
+ENDREP
+id: 3-904.0.r907/311
+type: dir
+pred: 3-904.0.r904/0
+count: 1
+text: 907 256 42 0 e71d1dc4eef50e84b98c2a0c87b1e4cd
+cpath: /cauldron/systemd/releases/37
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 20
+dir 3-904.0.r907/311
+END
+ENDREP
+id: p-41.0.r907/718
+type: dir
+pred: p-41.0.r904/330
+count: 19
+text: 907 476 229 0 df917c0684d8d1454ee5bddc7cf15e2e
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r903/1748
+K 8
+pristine
+V 21
+dir 2-41.0-906.r906/0
+K 8
+releases
+V 19
+dir p-41.0.r907/718
+END
+ENDREP
+id: 1-40.0.r907/1015
+type: dir
+pred: 1-40.0.r906/379
+count: 93
+text: 907 882 120 0 eaa1fdcbbd536fcff7322403cd34fb5d
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r894/1488
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r874/1495
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r870/1240
+K 7
+systemd
+V 20
+dir 1-40.0.r907/1015
+K 4
+udev
+V 19
+dir 1-27.0.r900/947
+END
+ENDREP
+id: 0-1.0.r907/1416
+type: dir
+pred: 0-1.0.r906/777
+count: 835
+text: 907 1171 232 0 0a5f2a961f2df76ca9d0e080b990c312
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r907/1416
+K 7
+updates
+V 21
+dir 0-539.0.r902/2177
+END
+ENDREP
+id: 0.0.r907/1658
+type: dir
+pred: 0.0.r906/1016
+count: 907
+text: 907 1564 81 0 7eb819ce7cde8557e710cc7285235572
+cpath: /
+copyroot: 0 /
+
+2-41._0.t906-p6 add-dir false false /cauldron/systemd/releases/37/1.mga2
+903 /cauldron/systemd/current
+
+1658 1794

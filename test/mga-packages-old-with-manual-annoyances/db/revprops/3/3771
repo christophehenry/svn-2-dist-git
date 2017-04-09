@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-03T17:34:17.620770Z
+K 7
+svn:log
+V 43
+- update to 3.10.15
+- drop merged patches
+
+
+END

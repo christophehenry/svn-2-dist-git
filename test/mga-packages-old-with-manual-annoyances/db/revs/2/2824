@@ -1,0 +1,276 @@
+id: 2-3.0-2824.r2824/0
+type: dir
+pred: 2-3.0-1912.r2582/3687
+count: 144
+text: 2582 3586 88 0 8a06d14d00acc99ebe48be454decdf58
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /updates/2/kernel-linus/releases/3.4.24/2.mga2
+copyfrom: 2582 /updates/2/kernel-linus/current
+
+PLAIN
+K 6
+2.mga2
+V 22
+dir 2-3.0-2824.r2824/0
+END
+ENDREP
+id: 4-2824.0-1912.r2824/338
+type: dir
+count: 0
+text: 2824 282 43 0 6842b6469a070e88a2c70064d8a497f1
+cpath: /updates/2/kernel-linus/releases/3.4.24
+copyroot: 1912 /updates/2
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+K 8
+2.6.38.4
+V 20
+dir 3-368.0.r371/325
+K 8
+2.6.38.5
+V 20
+dir 3-414.0.r417/325
+K 8
+2.6.38.6
+V 20
+dir 3-438.0.r441/325
+K 8
+2.6.38.7
+V 20
+dir 3-474.0.r477/325
+K 8
+2.6.38.8
+V 22
+dir 3-506.0.r1141/1710
+K 5
+3.0.0
+V 20
+dir 3-582.0.r667/565
+K 5
+3.0.4
+V 20
+dir 3-754.0.r757/322
+K 5
+3.1.0
+V 20
+dir 3-827.0.r972/543
+K 5
+3.1.1
+V 22
+dir 3-1054.0.r1057/329
+K 5
+3.1.2
+V 22
+dir 3-1069.0.r1072/329
+K 5
+3.1.3
+V 22
+dir 3-1076.0.r1079/329
+K 5
+3.1.4
+V 22
+dir 3-1114.0.r1136/366
+K 5
+3.1.5
+V 22
+dir 3-1143.0.r1146/329
+K 5
+3.1.6
+V 22
+dir 3-1220.0.r1223/329
+K 5
+3.2.0
+V 22
+dir 3-1240.0.r1291/375
+K 5
+3.2.1
+V 22
+dir 3-1314.0.r1317/329
+K 5
+3.2.2
+V 22
+dir 3-1405.0.r1429/367
+K 5
+3.2.5
+V 22
+dir 3-1447.0.r1450/328
+K 5
+3.2.6
+V 22
+dir 3-1506.0.r1509/328
+K 5
+3.2.7
+V 22
+dir 3-1519.0.r1522/330
+K 5
+3.2.9
+V 22
+dir 3-1557.0.r1560/330
+K 5
+3.3.0
+V 22
+dir 3-1596.0.r1653/422
+K 5
+3.3.1
+V 22
+dir 3-1709.0.r1712/330
+K 5
+3.3.3
+V 22
+dir 3-1788.0.r1791/330
+K 5
+3.3.4
+V 22
+dir 3-1813.0.r1816/330
+K 5
+3.3.5
+V 22
+dir 3-1854.0.r1857/330
+K 5
+3.3.6
+V 22
+dir 3-1879.0.r1882/330
+K 6
+3.4.24
+V 27
+dir 4-2824.0-1912.r2824/338
+END
+ENDREP
+id: n-3.0-1912.r2824/1832
+type: dir
+pred: n-3.0.r1882/1784
+count: 87
+text: 2824 512 1307 0 ff8d6046464868cbb5c20d875254332b
+cpath: /updates/2/kernel-linus/releases
+copyroot: 1912 /updates/2
+
+PLAIN
+K 7
+current
+V 24
+dir 2-3.0-1912.r2679/686
+K 8
+pristine
+V 22
+dir 2-3.0-1881.r1881/0
+K 8
+releases
+V 25
+dir n-3.0-1912.r2824/1832
+END
+ENDREP
+id: 1-2.0-1912.r2824/2167
+type: dir
+pred: 1-2.0-1912.r2679/1071
+count: 340
+text: 2824 2023 131 0 110cfe5402569fde6eb14a6ecb67da4d
+cpath: /updates/2/kernel-linus
+copyroot: 1912 /updates/2
+
+PLAIN
+K 5
+glibc
+V 25
+dir 1-7.0-1912.r2434/1090
+K 6
+kernel
+V 25
+dir 1-5.0-1912.r2823/1609
+K 12
+kernel-linus
+V 25
+dir 1-2.0-1912.r2824/2167
+K 10
+kernel-tmb
+V 27
+dir 1-149.0-1912.r2681/4002
+K 7
+systemd
+V 21
+dir 1-40.0.r1911/1703
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0-1912.r2824/2628
+type: dir
+pred: 0-1.0-1912.r2823/2064
+count: 1891
+text: 2824 2355 260 0 fcf3a3f436a74697dea05de479431cea
+cpath: /updates/2
+copyroot: 1912 /updates/2
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1468/2339
+K 1
+2
+V 25
+dir 0-1.0-1912.r2824/2628
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r2824/2932
+type: dir
+pred: 0-539.0.r2823/2368
+count: 226
+text: 2824 2804 115 0 72a5bb717fd3978146826c7990fe2715
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 21
+dir 0-1.0.r2819/16278
+K 7
+updates
+V 22
+dir 0-539.0.r2824/2932
+END
+ENDREP
+id: 0.0.r2824/3184
+type: dir
+pred: 0.0.r2823/2620
+count: 2824
+text: 2824 3087 84 0 08fc227ca1ce6c7ed2f3a6d8da95ac3d
+cpath: /
+copyroot: 0 /
+
+_4.0-1912.t2823-26f add-dir false false /updates/2/kernel-linus/releases/3.4.24
+
+2-3._0.t2823-26f add-dir false false /updates/2/kernel-linus/releases/3.4.24/2.mga2
+2582 /updates/2/kernel-linus/current
+
+3184 3324

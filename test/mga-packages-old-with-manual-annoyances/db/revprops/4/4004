@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-04T22:19:37.834585Z
+K 7
+svn:log
+V 308
+- update to 3.12.3
+- drop merged patches:
+  * AA01-AA15: stable queue fixes
+  * DB10: bluetooth suspend/resume fix
+  * MB13-MB15: ndiswrapper buildfixes
+- update patches:
+  * CK01: -ck patchset including BFS 0.444
+- * MB10: ndiswrapper 1.59
+- add patches:
+  * FS01-FS02: squashfs multi-decompressor support
+
+
+END

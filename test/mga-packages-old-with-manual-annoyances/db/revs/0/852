@@ -1,0 +1,152 @@
+id: 2-41.0-852.r852/0
+type: dir
+pred: 2-41.0.r849/610
+count: 47
+text: 849 521 76 0 4e30e0b388d12791afbcd1a3c4ed80ec
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/35/5.mga2
+copyfrom: 849 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-816.r816/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-820.r820/0
+K 6
+3.mga2
+V 21
+dir 2-41.0-825.r825/0
+K 6
+4.mga2
+V 21
+dir 2-41.0-835.r835/0
+K 6
+5.mga2
+V 21
+dir 2-41.0-852.r852/0
+END
+ENDREP
+id: 3-813.0.r852/461
+type: dir
+pred: 3-813.0.r835/425
+count: 5
+text: 852 254 194 0 d12df9ccd1cd069878f91309ee101bc5
+cpath: /cauldron/systemd/releases/35
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+END
+ENDREP
+id: p-41.0.r852/805
+type: dir
+pred: p-41.0.r835/769
+count: 15
+text: 852 629 163 0 ee785996873d7b4f57cada9e418f8a2e
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-41.0.r849/610
+K 8
+pristine
+V 21
+dir 2-41.0-851.r851/0
+K 8
+releases
+V 19
+dir p-41.0.r852/805
+END
+ENDREP
+id: 1-40.0.r852/1101
+type: dir
+pred: 1-40.0.r851/376
+count: 83
+text: 852 969 119 0 8ec92f28f4e65e19f107b6f7947a96d2
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r809/1599
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r839/1406
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 20
+dir 1-40.0.r852/1101
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r852/1502
+type: dir
+pred: 0-1.0.r851/774
+count: 784
+text: 852 1257 232 0 6156acdbc0f3588a62c8947dbd30968a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r852/1502
+K 7
+updates
+V 21
+dir 0-539.0.r848/2157
+END
+ENDREP
+id: 0.0.r852/1744
+type: dir
+pred: 0.0.r851/1013
+count: 852
+text: 852 1650 81 0 aa1149f01a7f543fb7b4caf4003475a6
+cpath: /
+copyroot: 0 /
+
+2-41._0.t851-nn add-dir false false /cauldron/systemd/releases/35/5.mga2
+849 /cauldron/systemd/current
+
+1744 1880

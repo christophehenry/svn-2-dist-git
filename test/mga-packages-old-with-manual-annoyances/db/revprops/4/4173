@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-18T21:45:10.785453Z
+K 7
+svn:log
+V 42
+- update to 3.12.8
+- drop merged patches
+
+
+END

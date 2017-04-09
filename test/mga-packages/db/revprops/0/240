@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-02-19T11:33:32.701860Z
+K 7
+svn:log
+V 48
+patch 70 can die once we reach rpm-4.9 (SILENT)
+
+END

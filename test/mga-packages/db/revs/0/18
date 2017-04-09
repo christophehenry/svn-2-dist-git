@@ -1,0 +1,75 @@
+id: 2-18.0.r18/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 17
+dir 2-6.0.r17/589
+K 8
+pristine
+V 18
+dir 2-6.0-16.r16/0
+K 8
+releases
+V 16
+dir 2-18.0.r18/0
+END
+ENDREP
+id: 1-5.0.r18/208
+type: dir
+pred: 1-5.0.r17/891
+count: 6
+text: 18 84 111 111 b0327083e1bbe857d589a653a6659080
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/359
+K 6
+kernel
+V 17
+dir 1-5.0.r18/208
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 19
+dir 1-11.0.r14/1458
+END
+ENDREP
+id: 0-1.0.r18/513
+type: dir
+pred: 0-1.0.r17/1195
+count: 17
+text: 18 357 143 143 d1b30d5ab00c86f429c8045ee526caee
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r18/513
+END
+ENDREP
+id: 0.0.r18/711
+type: dir
+pred: 0.0.r17/1395
+count: 18
+text: 18 658 40 40 1256ee08dcd7a26796f0506e975bed6a
+cpath: /
+copyroot: 0 /
+
+_2.0.t17-h add-dir false false /cauldron/kernel/releases
+
+
+711 842

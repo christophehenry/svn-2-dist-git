@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-30T20:44:16.343752Z
+K 7
+svn:log
+V 63
+cifs: fix parsing of password mount option (requested by blino)
+END

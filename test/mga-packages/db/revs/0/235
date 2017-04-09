@@ -1,0 +1,131 @@
+id: 2-150.0-235.r235/0
+type: dir
+pred: 2-150.0.r232/636
+count: 7
+text: 232 545 78 78 2d3b971a662ea6ab4ce244746595ec96
+cpath: /cauldron/bugzilla/releases/4.0/1.mga1
+copyfrom: 232 /cauldron/bugzilla/current
+
+PLAIN
+K 12
+0.rc2.1.mga1
+V 22
+dir 2-150.0-158.r158/0
+K 6
+1.mga1
+V 22
+dir 2-150.0-235.r235/0
+END
+ENDREP
+id: 3-155.0.r235/308
+type: dir
+pred: 3-155.0.r158/275
+count: 2
+text: 235 206 89 89 ad9ec588acf7aa13fea57e4d8edcbd7b
+cpath: /cauldron/bugzilla/releases/4.0
+copyroot: 0 /
+
+PLAIN
+K 3
+4.0
+V 20
+dir 3-155.0.r235/308
+END
+ENDREP
+id: j-150.0.r235/529
+type: dir
+pred: j-150.0.r158/494
+count: 3
+text: 235 478 38 38 4307b22fec52e2e9f2b7225189821f47
+cpath: /cauldron/bugzilla/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-150.0.r232/636
+K 8
+pristine
+V 22
+dir 2-150.0-234.r234/0
+K 8
+releases
+V 20
+dir j-150.0.r235/529
+END
+ENDREP
+id: 1-149.0.r235/830
+type: dir
+pred: 1-149.0.r234/330
+count: 15
+text: 235 695 122 122 6341ecf8b0042692027ec30613f0b67b
+cpath: /cauldron/bugzilla
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r220/1069
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r221/977
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r235/1331
+type: dir
+pred: 0-1.0.r234/830
+count: 234
+text: 235 990 328 328 2ba1da6871cb5ea1efd6d6eab60b8876
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r235/1331
+END
+ENDREP
+id: 0.0.r235/1535
+type: dir
+pred: 0.0.r234/1032
+count: 235
+text: 235 1480 42 42 890a4e7f9dd5026134d02ee68f0d6c44
+cpath: /
+copyroot: 0 /
+
+2-150._0.t234-6i add-dir false false /cauldron/bugzilla/releases/4.0/1.mga1
+232 /cauldron/bugzilla/current
+
+1535 1672

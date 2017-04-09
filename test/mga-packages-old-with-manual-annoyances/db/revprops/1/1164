@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2011-12-15T10:54:06.669444Z
+K 7
+svn:log
+V 60
+Do not start getty on tty1, it's used for X11 now (mga#3430)
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-02T09:06:30.163068Z
+K 7
+svn:log
+V 117
+- enable X86_X2APIC, X86_REROUTE_FOR_BROKEN_BOOT_IRQS, FHANDLE
+- disable COMPAT_VDSO (not needed since glibc-2.3.3)
+
+
+END

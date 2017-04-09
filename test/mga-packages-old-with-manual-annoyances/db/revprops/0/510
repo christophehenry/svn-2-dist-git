@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T16:06:49.799515Z
+K 7
+svn:log
+V 184
+- drm/i915: Add a no lvds quirk for the Asus EeeBox PC EB1007
+- drm/radeon/kms: viewport height has to be even
+- drm/radeon/kms: fix for radeon on systems >4GB without hardware iommu
+
+
+END

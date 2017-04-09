@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T19:01:00.179168Z
+K 7
+svn:log
+V 460
+- intel-iommu: Flush unmaps at domain_exit
+- intel-iommu: Only unlink device domains from iommu
+- intel-iommu: Check for identity mapping candidate using system dma mask
+- intel-iommu: Speed up processing of the identity_mapping function
+- intel-iommu: Dont cache iova above 32bit
+- intel-iommu: Use coherent DMA mask when requested
+- intel-iommu: Remove Host Bridge devices from identity mapping
+- intel-iommu: Add domain check in domain_remove_one_dev_info
+
+
+END

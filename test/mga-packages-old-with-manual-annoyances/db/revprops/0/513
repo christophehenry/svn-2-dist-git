@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T17:23:17.805338Z
+K 7
+svn:log
+V 288
+- usb: core: Tolerate protocol stall during hub and port status read
+- usb-storage: redo incorrect reads
+- usbnet/cdc_ncm: add missing .reset_resume hook
+- usb: cdc-acm: Adding second ACM channel support for Nokia E7 and C7
+- usb: serial: add another 4N-GALAXY.DE PID to ftdi_sio driver
+
+
+END

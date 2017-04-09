@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T21:55:10.188760Z
+K 7
+svn:log
+V 684
+- raid fixes from upstream
+  * md/raid10: 
+    Don't try to recovery unmatched (and unused) chunks
+    fix failure when trying to repair a read error
+  * md/raid5:
+    In ops_run_io, inc nr_pending before calling md_wait_for_blocked_rde
+    Do not add data_offset before call to is_badbloc
+    delayed stripe bits fix
+- other fixes from upstream
+  * crypto:
+    aesni-intel - fix unaligned cbc decrypt for x86-32
+  * gma500:
+    don't register the ACPI video bus
+  * Tools:
+    hv: verify origin of netlink connector message (CVE-2012-2669)
+  * scsi & usb-storage: 
+    add try_rc_10_first flag
+  * usb/host/xHCI:
+    Increase the timeout for controller save/restore state operation
+
+
+END

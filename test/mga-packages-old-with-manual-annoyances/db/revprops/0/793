@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T16:37:19.972965Z
+K 7
+svn:log
+V 87
+option: add support for yuga series and huawei k3770, k3771, k3806, k4510, k4511, k4605
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-28T17:34:39.278562Z
+K 7
+svn:log
+V 324
+- Bluetooth: Fix crash in l2cap_build_cmd() with small MTU
+- Bluetooth: Fix invalid length check in l2cap_information_rsp()
+- net/8139cp: reset BQL when ring tx ring cleared
+- net/r8169: fix offloaded tx checksum for small packets
+- net: phy: fix a bug when verify the EEE support
+- net/tg3: Avoid delay during MMIO access
+
+
+END

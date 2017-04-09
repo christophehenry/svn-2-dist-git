@@ -1,0 +1,132 @@
+id: 2-305.0-312.r312/0
+type: dir
+pred: 2-305.0.r305/15817
+count: 1
+text: 305 15644 82 82 9bc76cc25ac6da55ce39ad395d2931f8
+props: 305 15739 65 65 1631fdc6041a572cb8648123f960812e
+cpath: /cauldron/kernel-tmb/releases/2.6.37.2/1.mga1
+copyfrom: 305 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-312.r312/0
+END
+ENDREP
+id: 3-309.0.r312/331
+type: dir
+pred: 3-309.0.r309/0
+count: 1
+text: 312 275 43 43 706f518243750101175a21a7545209d9
+cpath: /cauldron/kernel-tmb/releases/2.6.37.2
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+END
+ENDREP
+id: r-305.0.r312/562
+type: dir
+pred: r-305.0.r309/153
+count: 2
+text: 312 506 43 43 a9f77ee16037fd329333e53f2008f14f
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-305.0.r305/15817
+K 8
+pristine
+V 22
+dir 2-305.0-311.r311/0
+K 8
+releases
+V 20
+dir r-305.0.r312/562
+END
+ENDREP
+id: 1-304.0.r312/867
+type: dir
+pred: 1-304.0.r311/396
+count: 6
+text: 312 730 124 124 1354f12c0ed3ce4b06d40d50f6e8ea87
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r308/945
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r272/991
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r312/1411
+type: dir
+pred: 0-1.0.r311/939
+count: 311
+text: 312 1028 370 370 8b9c930d90a744751ccdb3613976d0e1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r312/1411
+END
+ENDREP
+id: 0.0.r312/1616
+type: dir
+pred: 0.0.r311/1141
+count: 312
+text: 312 1561 42 42 508b00959cfc48d4284db3585f49273c
+cpath: /
+copyroot: 0 /
+
+2-305._0.t311-8n add-dir false false /cauldron/kernel-tmb/releases/2.6.37.2/1.mga1
+305 /cauldron/kernel-tmb/current
+
+1616 1753

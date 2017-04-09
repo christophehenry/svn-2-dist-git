@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-03-02T15:36:11.047060Z
+K 7
+svn:log
+V 50
+Change syslog patch and use the one sent upstream
+
+END

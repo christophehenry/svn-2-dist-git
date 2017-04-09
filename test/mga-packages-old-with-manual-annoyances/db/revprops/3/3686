@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-04T19:40:38.634591Z
+K 7
+svn:log
+V 46
+disable GOLDFISH emulator support (mga #11062)
+END

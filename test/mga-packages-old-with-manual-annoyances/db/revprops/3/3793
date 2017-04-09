@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-06T11:08:42.181239Z
+K 7
+svn:log
+V 70
+initialize the pointer guard used for pointer mangling (CVE-2013-4788)
+END

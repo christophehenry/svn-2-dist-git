@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-14T15:59:38.504106Z
+K 7
+svn:log
+V 60
+require dracut >= 015-1 for support of xz compressed modules
+END

@@ -1,0 +1,142 @@
+PLAIN
+K 7
+10.mga1
+V 20
+dir 2-8.0-126.r126/0
+K 9
+11.2.mga1
+V 22
+dir 2-8.0-1380.r1380/0
+K 7
+11.mga1
+V 20
+dir 2-8.0-248.r248/0
+K 6
+9.mga1
+V 18
+dir 2-8.0-26.r26/0
+END
+ENDREP
+id: 3-23.0-540.r1381/170
+type: dir
+pred: 3-23.0-540.r1380/482
+count: 6
+text: 1381 0 157 0 64750ad8f554200db9ff3ec302d9f839
+cpath: /updates/1/glibc/releases/6:2.12.1
+copyroot: 540 /updates/1
+
+PLAIN
+K 8
+6:2.12.1
+V 24
+dir 3-23.0-540.r1381/170
+END
+ENDREP
+id: 35-8.0-540.r1381/421
+type: dir
+pred: 35-8.0-540.r1380/735
+count: 7
+text: 1381 361 47 0 c864388334ae8d4106bfb1fb6c06cac8
+cpath: /updates/1/glibc/releases
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 24
+dir 2-8.0-540.r1378/6285
+K 8
+pristine
+V 20
+dir 2-8.0-247.r247/0
+K 8
+releases
+V 24
+dir 35-8.0-540.r1381/421
+END
+ENDREP
+id: 1-7.0-540.r1381/745
+type: dir
+pred: 1-7.0-540.r1380/1059
+count: 40
+text: 1381 604 128 0 8425945d116b7c069151ab0d3948a1bb
+cpath: /updates/1/glibc
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 23
+dir 1-7.0-540.r1381/745
+K 6
+kernel
+V 25
+dir 1-5.0-540.r1255/28803
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r911/1784
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 24
+dir 1-27.0-540.r858/1022
+END
+ENDREP
+id: 0-1.0-540.r1381/1185
+type: dir
+pred: 0-1.0-540.r1380/1501
+count: 591
+text: 1381 920 252 0 4b3b3558a7be9dffe5c3577e7e28b144
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1381/1185
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r1381/1447
+type: dir
+pred: 0-539.0.r1380/1764
+count: 112
+text: 1381 1356 78 0 de765c730f2e9f689d2a41448d199c5d
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1376/1379
+K 7
+updates
+V 22
+dir 0-539.0.r1381/1447
+END
+ENDREP
+id: 0.0.r1381/1697
+type: dir
+pred: 0.0.r1380/2014
+count: 1381
+text: 1381 1601 83 0 60102beeada8cca1987cb573f424ed02
+cpath: /
+copyroot: 0 /
+
+2-8.0-1379.r1379/0 delete-dir false false /updates/1/glibc/releases/6:2.12.1/11.1.mga1
+
+
+1697 1837

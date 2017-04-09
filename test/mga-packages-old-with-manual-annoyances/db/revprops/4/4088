@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T18:49:21.226415Z
+K 7
+svn:log
+V 60
+nouveau_acpi: convert acpi_get_handle() to acpi_has_method()
+END

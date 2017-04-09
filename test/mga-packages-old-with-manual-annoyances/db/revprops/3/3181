@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-12T11:43:15.711929Z
+K 7
+svn:log
+V 413
+- update to 3.8.13
+- drop merged patches:
+  * BD01: block discard fix
+  * DG01-DG03: drm/radeon fixes
+  * DG12: drm/cirrus fix
+  * DG21-DG25: drm/i915 fixes
+- add patches:
+  * DI20-DI22: Input: Cypress PS2 support
+  * DI30-DI31: Input: Cypress APA support
+  * DI40-DI41: Input: Synaptics bugfixes
+  * DI50-DI64: Input: ALPS Rushmore and Dolphin V1 support
+  * DI70-DI75: Input: Wacom: DTH-2242 and 0x10d support
+
+
+END

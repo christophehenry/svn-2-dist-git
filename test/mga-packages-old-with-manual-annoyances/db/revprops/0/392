@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-26T21:43:25.507875Z
+K 7
+svn:log
+V 54
+hp-wmi: add support for rfkill on HP Mini 5102 (Anssi)
+END

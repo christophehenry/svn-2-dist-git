@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-12T19:33:14.898715Z
+K 7
+svn:log
+V 131
+- disable memory cgroups on desktop(586) and netbook kernels as it has
+  unwanted overhead (server kernels still have it enabled)
+
+
+END

@@ -1,0 +1,148 @@
+id: 2-28.0-1485.r1485/0
+type: dir
+pred: 2-28.0.r1481/3788
+count: 66
+text: 1481 3694 81 0 7e70e58b4981230a1209a768924f578e
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/181/1.mga2
+copyfrom: 1481 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-28.0-1485.r1485/0
+END
+ENDREP
+id: 3-1482.0.r1485/314
+type: dir
+pred: 3-1482.0.r1482/0
+count: 1
+text: 1485 257 44 0 a6d7e8399c555575f48d00d09e936be6
+cpath: /cauldron/udev/releases/181
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+K 3
+175
+V 22
+dir 3-1177.0.r1336/432
+K 3
+180
+V 22
+dir 3-1440.0.r1443/314
+K 3
+181
+V 22
+dir 3-1482.0.r1485/314
+END
+ENDREP
+id: 1f-28.0.r1485/774
+type: dir
+pred: 1f-28.0.r1482/380
+count: 28
+text: 1485 482 279 0 ebea692c88f5894116e7da18c46c8096
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-28.0.r1481/3788
+K 8
+pristine
+V 23
+dir 2-28.0-1484.r1484/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1485/774
+END
+ENDREP
+id: 1-27.0.r1485/1078
+type: dir
+pred: 1-27.0.r1484/384
+count: 135
+text: 1485 940 125 0 ebf1af43eefc3c87c7906e8d71be91bf
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1434/6496
+K 6
+kernel
+V 20
+dir 1-5.0.r1479/1155
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1450/1746
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1467/1637
+K 7
+systemd
+V 21
+dir 1-40.0.r1463/1140
+K 4
+udev
+V 21
+dir 1-27.0.r1485/1078
+END
+ENDREP
+id: 0-1.0.r1485/1488
+type: dir
+pred: 0-1.0.r1484/791
+count: 1361
+text: 1485 1235 240 0 dab1c4b445e137b473272d688ebf85ff
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1485/1488
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1485/1736
+type: dir
+pred: 0.0.r1484/1036
+count: 1485
+text: 1485 1640 83 0 c1838d30f7d960b61f20028937a42380
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1484-158 add-dir false false /cauldron/udev/releases/181/1.mga2
+1481 /cauldron/udev/current
+
+1736 1876

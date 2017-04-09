@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-08T20:30:02.682611Z
+K 7
+svn:log
+V 67
+gpu/drm/i915: add disable_pch_pwm module option (Colin, bko #47941)
+END

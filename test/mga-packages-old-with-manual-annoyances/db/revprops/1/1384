@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-24T22:01:01.318045Z
+K 7
+svn:log
+V 93
+- KVM: x86: Prevent starting PIT timers in the absence of irqchip support
+  (CVE-2011-4622)
+
+
+END

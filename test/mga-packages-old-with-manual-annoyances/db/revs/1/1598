@@ -1,0 +1,90 @@
+id: 2-3.0-1598.r1598/0
+type: dir
+pred: 2-3.0.r1595/811
+count: 118
+text: 1595 721 77 0 b606e8d759d084916efd3ccbedd24586
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/pristine
+copyfrom: 1597 /cauldron/kernel-linus/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r1595/811
+K 8
+pristine
+V 22
+dir 2-3.0-1598.r1598/0
+K 8
+releases
+V 20
+dir n-3.0.r1596/1184
+END
+ENDREP
+id: 1-2.0.r1598/393
+type: dir
+pred: 1-2.0.r1597/93
+count: 282
+text: 1598 259 121 0 b2d593e14d332bed8355df6c567ca60b
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1582/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r1594/9363
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r1598/393
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1576/1752
+K 7
+systemd
+V 21
+dir 1-40.0.r1586/1218
+K 4
+udev
+V 21
+dir 1-27.0.r1555/1158
+END
+ENDREP
+id: 0-1.0.r1598/806
+type: dir
+pred: 0-1.0.r1597/503
+count: 1474
+text: 1598 554 239 0 3e72fb48e190c3d267c7065c059d4fe1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r1598/806
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1598/1051
+type: dir
+pred: 0.0.r1597/749
+count: 1598
+text: 1598 956 82 0 c1b605c9949ff30995e5d871f847d64f
+cpath: /
+copyroot: 0 /
+
+2-3._0.t1597-18d add-dir false false /cauldron/kernel-linus/pristine
+1597 /cauldron/kernel-linus/current
+
+1051 1189

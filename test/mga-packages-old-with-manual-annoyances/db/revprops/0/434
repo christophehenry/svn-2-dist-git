@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-08T21:33:16.722952Z
+K 7
+svn:log
+V 32
+clean /lib/modules/ on uninstall
+END

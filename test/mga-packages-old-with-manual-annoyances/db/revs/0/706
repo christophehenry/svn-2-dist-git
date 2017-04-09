@@ -1,0 +1,151 @@
+id: 4-706.0.r706/0
+type: file
+count: 0
+text: 703 0 266 249 5a363067663daf52290c2c44bfe29838 5ad20ee812cd0c51a041a8de800f5911f66f7d63 705-jl/_6
+cpath: /cauldron/kernel/current/SOURCES/patch-3.0.1-rc1.bz2.sign
+copyroot: 0 /
+
+PLAIN
+K 21
+README.kernel-sources
+V 21
+file 4-11.0.r11/10761
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 22
+file 7-11.0.r640/13431
+K 22
+linux-3.0.tar.bz2.sign
+V 19
+file 4-687.0.r687/0
+K 24
+patch-3.0.1-rc1.bz2.sign
+V 19
+file 4-706.0.r706/0
+K 8
+sha1.lst
+V 20
+file b-11.0.r705/100
+END
+ENDREP
+id: 4-6.0.r706/535
+type: dir
+pred: 4-6.0.r705/586
+count: 78
+text: 706 223 299 0 8c58873b1b033cc3aa13eedc883f55a5
+cpath: /cauldron/kernel/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r313/109
+K 7
+PATCHES
+V 20
+dir 6-51.0.r692/1937
+K 7
+SOURCES
+V 18
+dir 4-6.0.r706/535
+K 5
+SPECS
+V 19
+dir 6-6.0.r698/1561
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r706/916
+type: dir
+pred: 2-6.0.r705/967
+count: 214
+text: 706 703 200 0 9ba305803563a0af2b415e66f8e31c55
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-6.0.r706/916
+K 8
+pristine
+V 20
+dir 2-6.0-669.r669/0
+K 8
+releases
+V 20
+dir 2-14.0.r670/1137
+END
+ENDREP
+id: 1-5.0.r706/1262
+type: dir
+pred: 1-5.0.r705/1313
+count: 310
+text: 706 1131 118 0 ee375656074f1b786b579a5f331b394a
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r706/1262
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r703/1547
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 20
+dir 1-40.0.r696/2527
+K 4
+udev
+V 20
+dir 1-27.0.r674/1030
+END
+ENDREP
+id: 0-1.0.r706/1665
+type: dir
+pred: 0-1.0.r705/1716
+count: 685
+text: 706 1418 234 0 c590fd380679ac15655b5f3f4f7653fd
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r706/1665
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r706/1908
+type: dir
+pred: 0.0.r705/1959
+count: 706
+text: 706 1814 81 0 37d0e96576f66f5ea76957c00c15b35e
+cpath: /
+copyroot: 0 /
+
+_4.0.t705-jl add-file true false /cauldron/kernel/current/SOURCES/patch-3.0.1-rc1.bz2.sign
+
+
+1908 2044

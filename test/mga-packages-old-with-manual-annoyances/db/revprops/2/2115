@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T21:20:41.592332Z
+K 7
+svn:log
+V 579
+- filesystem fixes from upstream
+  * ext4:
+    fix the free blocks calculation for ext3 file systems w/ uninit_bg
+  * udf: 
+    Use 'ret' instead of abusing 'i' in udf_load_logicalvol()
+    Avoid run away loop when partition table length is corrupted (CVE-2012-3400)
+    Fortify loading of sparing table (CVE-2012-3400)
+  * epoll:
+    clear the tfile_check_list on -ELOO (CVE-2012-3375)
+- mm fixes from upstream
+  * pmd_read_atomic: 
+    fix 32bit PAE pmd walk vs pmd_populate SMP race condition (CVE-2012-2372)
+  * hugetlb: 
+    fix resv_map leak in error path (CVE-2012-2390)
+
+
+END

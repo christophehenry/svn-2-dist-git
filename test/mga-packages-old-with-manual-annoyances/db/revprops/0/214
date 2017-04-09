@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-20T00:35:01.304920Z
+K 7
+svn:log
+V 53
+rediff x86-pci-toshiba-equium-a60-assign-busses.patch
+END

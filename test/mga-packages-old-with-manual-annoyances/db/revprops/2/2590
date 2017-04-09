@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-11-29T12:28:18.479813Z
+K 7
+svn:log
+V 108
+- Apply upstream patch to fix a crash related service name lookups.
+- Enable xz compression in journal logs.
+END

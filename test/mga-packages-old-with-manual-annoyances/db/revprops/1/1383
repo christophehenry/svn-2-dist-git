@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-24T20:45:17.584267Z
+K 7
+svn:log
+V 62
+- fix Integer overflow DoS in posix/fnmatch.c (CVE-2011-1659)
+
+END

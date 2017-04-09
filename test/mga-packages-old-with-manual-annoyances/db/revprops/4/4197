@@ -1,0 +1,39 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T14:50:29.333760Z
+K 7
+svn:log
+V 1352
+- update to 3.12.8
+- drop patches:
+  * DA20: Marvell 88SE9170 SATA id, merged
+- add patches:
+  * AX10, AX11: x86 idle: restore mwait_idle()
+  * AX15: x86, quirks: Add workaround for AMD F16h Erratum 792
+  * AX16: x86, cpu: Add workaround for AMD F16h Erratum 793 (CVE-2013-6885)
+  * DA10: revert: 'ACPI: Add BayTrail SoC GPIO and LPSS ACPI IDs' as it
+          causes boot hangs
+  * DH10: hwmon: (coretemp) Fix truncated name of alarm attributes
+  * DM10: md/raid5: Fix possible confusion when multiple write errors occur
+  * DM11: md/raid10: fix two bugs in handling of known-bad-blocks
+  * DM12: md/raid10: fix bug when raid10 recovery fails to recover a block
+  * DM13: md: fix problem when adding device to read-only array with bitmap
+  * DN01: ax88179_178a: Remove AX_MEDIUM_ALWAYS_ONE bit in
+          AX_MEDIUM_STATUS_MODE register to avoid TX throttling
+  * DN05: via-rhine: Fix tx_timeout handling
+  * DN10: b43: fix the wrong assignment of status.freq in b43_rx()
+  * DU10: revert: 'usbcore: set lpm_capable field for LPM capable root hubs'
+          (breaks some usb devices)
+  * FS10: vfs: Fix a regression in mounting proc
+  * FS11: vfs: In d_path don't call d_dname on a mount point
+  * FS12: writeback: Fix data corruption on NFS
+  * KF01: fork: Allow CLONE_PARENT after setns(CLONE_NEWPID)
+  * NR01: net: rds: fix per-cpu helper usage
+
+
+END

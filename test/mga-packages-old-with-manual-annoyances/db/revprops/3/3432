@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2013-07-19T18:45:42.799617Z
+K 7
+svn:log
+V 20
+disable USB_CHIPIDEA
+END

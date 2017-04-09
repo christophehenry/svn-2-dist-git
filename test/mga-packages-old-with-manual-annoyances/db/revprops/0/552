@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 8
+schedbot
+K 8
+svn:date
+V 27
+2011-06-22T22:07:38.711859Z
+K 7
+svn:log
+V 254
+Incorrect markrelease caused by bug #2633 - log message edited to avoid broken
+rpm changelogs.
+
+Original log message was:
+> %repsys markrelease
+> version: 2.6.38.8
+> release: 1.mga1
+> revision: 112541
+> 
+> Copying 2.6.38.8-1.mga1 to releases/ directory.
+
+END

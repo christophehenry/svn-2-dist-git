@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-01-20T01:48:03.166020Z
+K 7
+svn:log
+V 133
+revert manbo drop, it breaks many things (and builds packages as i386 on i586), we need to merge manbo files instead of dropping them
+END

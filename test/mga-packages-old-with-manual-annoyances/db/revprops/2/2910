@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-28T21:54:01.939464Z
+K 7
+svn:log
+V 148
+- update to 3.4.34
+- drop merged patches:
+  * AM01, KP10, NC01
+- add patch:
+  * AX15: platform/efi: Make noefi really disable EFI runtime serivces
+
+
+END

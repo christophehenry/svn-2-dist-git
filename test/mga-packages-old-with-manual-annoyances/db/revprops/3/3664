@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-30T10:57:00.834149Z
+K 7
+svn:log
+V 253
+- drm/nouveau/mc: fix race condition between constructor and request_irq()
+- jfs: fix readdir cookie incompatibility with NFSv4
+- sunrpc: Fix memory corruption issue on 32-bit highmem systems
+- workqueue: cond_resched() after processing each work item
+
+
+END

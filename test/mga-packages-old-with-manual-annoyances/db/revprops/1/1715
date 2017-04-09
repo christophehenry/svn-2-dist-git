@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-02T20:20:22.479841Z
+K 7
+svn:log
+V 207
+- drm/nouveau: fix thinko causing init to fail on cards without accel
+- drm/nouveau: default to 8bpc for non-LVDS panels if EDID isn't useful
+- drm/nouveau/i2c: fix thinko/regression on really old chipsets
+
+
+END

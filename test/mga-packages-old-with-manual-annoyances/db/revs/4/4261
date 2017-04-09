@@ -1,0 +1,33 @@
+id: 0-4261.0.r4261/0
+type: dir
+count: 0
+cpath: /obsolete
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r4260/3446
+K 8
+obsolete
+V 20
+dir 0-4261.0.r4261/0
+K 7
+updates
+V 23
+dir 0-539.0.r4240/17089
+END
+ENDREP
+id: 0.0.r4261/208
+type: dir
+pred: 0.0.r4260/3695
+count: 4261
+text: 4261 72 123 0 b35544670ceee2fd2e5ab3c0f7a95140
+cpath: /
+copyroot: 0 /
+
+_0.0.t4260-3ac add-dir false false /obsolete
+
+
+208 346

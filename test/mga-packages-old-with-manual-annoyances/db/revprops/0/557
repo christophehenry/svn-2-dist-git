@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-06T23:46:02.116783Z
+K 7
+svn:log
+V 53
+proc: restrict access to /proc/PID/io (CVE-2011-2495)
+END

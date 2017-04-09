@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-14T18:53:11.034186Z
+K 7
+svn:log
+V 630
+- ACPICA: Fix possible buffer overflow during a field unit read operation
+- ALSA: HDA: Fix Oops caused by dereference NULL pointer
+- ARM: OMAP: RX-51: change probe order of touchscreen and panel SPI devices
+- ASoC: wm8994: missing break in wm8994_aif3_hw_params()
+- dm stripe: fix regression in stripe_width calculation
+- dm table: fix write same support
+- KVM: VMX: fix halt emulation while emulating invalid guest sate
+- nfsd4: don't allow owner override on 4.1 CLAIM_FH opens
+- nfsd: fix oops when legacy_recdir_name_error is passed a -ENOENT error
+- shm: fix null pointer deref when userspace specifies invalid hugepage size
+
+
+END

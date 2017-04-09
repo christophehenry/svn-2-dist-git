@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-22T11:34:05.496676Z
+K 7
+svn:log
+V 65
+remove arm files from source/devel rpms when not building for arm
+END

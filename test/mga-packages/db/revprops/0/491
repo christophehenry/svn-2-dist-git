@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2011-03-23T23:28:41.752385Z
+K 7
+svn:log
+V 143
+- fix cross_program_prefix
+- move gnuext macro for build_cross case after isarch definition
+- doesn't create a ld.so.cache in build_cross case
+
+END

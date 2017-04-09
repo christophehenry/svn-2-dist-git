@@ -1,0 +1,168 @@
+id: 2-6.0-554.r554/0
+type: dir
+pred: 2-6.0.r551/1133
+count: 81
+text: 551 918 202 202 74e559c1c48fe88960b14ab404581b0a
+props: 550 1159 65 65 1a9617fe8972d316158a191f99d4a3be
+cpath: /cauldron/kernel/releases/2.6.38.2/2.mga1
+copyfrom: 551 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-527.r527/0
+K 6
+2.mga1
+V 20
+dir 2-6.0-554.r554/0
+END
+ENDREP
+id: 3-524.0.r554/353
+type: dir
+pred: 3-524.0.r527/316
+count: 2
+text: 554 262 78 78 7ca3ee8c34044e14c3aa755b3e726845
+cpath: /cauldron/kernel/releases/2.6.38.2
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 19
+dir 3-19.0.r102/346
+K 8
+2.6.37.1
+V 20
+dir 3-249.0.r252/316
+K 8
+2.6.37.2
+V 20
+dir 3-291.0.r294/315
+K 8
+2.6.37.3
+V 20
+dir 3-373.0.r376/316
+K 8
+2.6.37.4
+V 20
+dir 3-396.0.r399/316
+K 6
+2.6.38
+V 20
+dir 3-459.0.r462/313
+K 8
+2.6.38.1
+V 20
+dir 3-499.0.r502/316
+K 8
+2.6.38.2
+V 20
+dir 3-524.0.r554/353
+END
+ENDREP
+id: 2-18.0.r554/850
+type: dir
+pred: 2-18.0.r527/811
+count: 18
+text: 554 526 311 311 c6d16c2596fd67b4817b19b27d6ca0c0
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r551/1133
+K 8
+pristine
+V 20
+dir 2-6.0-553.r553/0
+K 8
+releases
+V 19
+dir 2-18.0.r554/850
+END
+ENDREP
+id: 1-5.0.r554/1146
+type: dir
+pred: 1-5.0.r553/377
+count: 121
+text: 554 1015 118 118 372cab0bd5f94fad22684912b2e20639
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 19
+dir 1-5.0.r554/1146
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r529/1320
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r536/942
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r554/1691
+type: dir
+pred: 0-1.0.r553/918
+count: 550
+text: 554 1303 375 375 b69ed6a91194472081772d3d05ed658c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r554/1691
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r554/1934
+type: dir
+pred: 0.0.r553/1158
+count: 554
+text: 554 1841 80 80 bdf6762d2fd9c1b3c556cf7bfab26274
+cpath: /
+copyroot: 0 /
+
+2-6._0.t553-fd add-dir false false /cauldron/kernel/releases/2.6.38.2/2.mga1
+551 /cauldron/kernel/current
+
+1934 2071

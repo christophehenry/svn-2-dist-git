@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-22T05:54:01.256199Z
+K 7
+svn:log
+V 572
+- update to 3.1.6
+- drop patch DS01 (merged)
+- trigger dkms build in posttrans so modules get built at kernel install
+  instead of at boot (speeds up boot time with new kernel)
+- update desktop(586) & laptop summaries and descriptions to point out that
+  only 3-3.5GB RAM is detected on 32bit, and that server kernel is needed to
+  fully support 4GB or more
+- switch transparent hugepages from on by default to madvise (only enabled
+  for apps that requests it), as it fixes desktop freeze when accessing
+  slow media such as usb (thanks to fbui/mdv mail on @cooker ml).
+
+
+END

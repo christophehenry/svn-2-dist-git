@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-07-30T00:05:16.557610Z
+K 7
+svn:log
+V 83
+New version 32
+Rediff Mageia support patch
+fix file lists ( based on eugeni work )
+
+END

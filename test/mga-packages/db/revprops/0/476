@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-22T00:31:49.817982Z
+K 7
+svn:log
+V 89
+- update to firefox-4.0
+- enable to package beta/rc or final with %%if (Thierry Vignaud)
+
+END

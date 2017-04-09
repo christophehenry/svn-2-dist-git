@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-27T20:30:31.871873Z
+K 7
+svn:log
+V 58
+- update to 3.4.0
+- update defconfigs
+- update filelists
+
+
+END

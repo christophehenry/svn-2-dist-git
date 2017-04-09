@@ -1,0 +1,90 @@
+id: 2-41.0-1910.r1910/0
+type: dir
+pred: 2-41.0.r1908/5788
+count: 131
+text: 1908 5695 80 0 2bd5b6afa0a69e6469cd739dbcb774cc
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/pristine
+copyfrom: 1909 /cauldron/systemd/current
+
+PLAIN
+K 7
+current
+V 21
+dir 2-41.0.r1908/5788
+K 8
+pristine
+V 23
+dir 2-41.0-1910.r1910/0
+K 8
+releases
+V 21
+dir p-41.0.r1870/1355
+END
+ENDREP
+id: 1-40.0.r1910/390
+type: dir
+pred: 1-40.0.r1909/96
+count: 317
+text: 1910 252 125 0 f7325c8de41b7b6efbd6b631db218c63
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1823/1273
+K 6
+kernel
+V 20
+dir 1-5.0.r1907/2225
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1882/2092
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1901/2024
+K 7
+systemd
+V 20
+dir 1-40.0.r1910/390
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r1910/800
+type: dir
+pred: 0-1.0.r1909/503
+count: 1786
+text: 1910 548 239 0 9e592c1e8b347a8d5710da882e089cf1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r1910/800
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1910/1045
+type: dir
+pred: 0.0.r1909/749
+count: 1910
+text: 1910 950 82 0 95553f0bb7bccf48430c8f1ea470f7de
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1909-1h1 add-dir false false /cauldron/systemd/pristine
+1909 /cauldron/systemd/current
+
+1045 1183

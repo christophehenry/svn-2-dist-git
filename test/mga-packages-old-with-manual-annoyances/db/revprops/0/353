@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-16T12:32:57.369200Z
+K 7
+svn:log
+V 166
+- drm/radeon/kms: fix suspend on rv530 asics
+- drm/radeon/kms: pll tweaks for rv6xx
+- vm: fix mlock() on stack guard page
+- vm: fix vm_pgoff wrap in stack expansion
+
+
+END

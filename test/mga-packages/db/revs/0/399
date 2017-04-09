@@ -1,0 +1,148 @@
+id: 2-6.0-399.r399/0
+type: dir
+pred: 2-6.0.r395/1280
+count: 37
+text: 395 987 203 203 61c4ed6adf88aab5488ffab88cbe61bc
+props: 395 1203 64 64 22223f1dd7087f70bdc15318f9c27967
+cpath: /cauldron/kernel/releases/2.6.37.4/1.mga1
+copyfrom: 395 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-399.r399/0
+END
+ENDREP
+id: 3-396.0.r399/316
+type: dir
+pred: 3-396.0.r396/0
+count: 1
+text: 399 262 41 41 a9e6b2efc3743b6d3e9ed4bcbe5fb6eb
+cpath: /cauldron/kernel/releases/2.6.37.4
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 19
+dir 3-19.0.r102/346
+K 8
+2.6.37.1
+V 20
+dir 3-249.0.r252/316
+K 8
+2.6.37.2
+V 20
+dir 3-291.0.r294/315
+K 8
+2.6.37.3
+V 20
+dir 3-373.0.r376/316
+K 8
+2.6.37.4
+V 20
+dir 3-396.0.r399/316
+END
+ENDREP
+id: 2-18.0.r399/696
+type: dir
+pred: 2-18.0.r396/302
+count: 11
+text: 399 487 196 196 0136ffb95ad8a8228eafe1c324249c39
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r395/1280
+K 8
+pristine
+V 20
+dir 2-6.0-398.r398/0
+K 8
+releases
+V 19
+dir 2-18.0.r399/696
+END
+ENDREP
+id: 1-5.0.r399/992
+type: dir
+pred: 1-5.0.r398/377
+count: 62
+text: 399 861 118 118 f732c52dbcf117c9f5bd9e6a3677483e
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r386/1296
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r399/992
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r391/1068
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r399/1532
+type: dir
+pred: 0-1.0.r398/916
+count: 398
+text: 399 1146 373 373 b095b3478920fce9edafc9f96a35b837
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r399/1532
+END
+ENDREP
+id: 0.0.r399/1737
+type: dir
+pred: 0.0.r398/1118
+count: 399
+text: 399 1682 42 42 f6efe12f1125514314a60ea135aa770c
+cpath: /
+copyroot: 0 /
+
+2-6._0.t398-b2 add-dir false false /cauldron/kernel/releases/2.6.37.4/1.mga1
+395 /cauldron/kernel/current
+
+1737 1874

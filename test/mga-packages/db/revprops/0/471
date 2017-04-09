@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-21T00:24:58.497530Z
+K 7
+svn:log
+V 231
+- drop the vendor patch in accordance with xulrunner commits, c.f.:
+  http://svnweb.mageia.org/packages?view=revision&revision=65726
+- don't change upstream search engines prefs until it's decided what Mageia will
+  ship by default
+END

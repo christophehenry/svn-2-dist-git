@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-31T19:16:34.043547Z
+K 7
+svn:log
+V 755
+- updates from stable queue:
+  blkcg: Fix use-after-free of q->root_blkg and q->root_rl.blkg
+  ceph: avoid 32-bit page index overflow
+  ceph: fix dentry reference leak in encode_fh()
+  ceph: Fix oops when handling mdsmap that decreases max_mds
+  libceph: avoid NULL kref_put when osd reset races with alloc_msg
+  libceph: check for invalid mapping
+  floppy: don't call alloc_ordered_workqueue inside the alloc_disk loop
+  floppy: do put_disk on current dr if blk_init_queue fails
+  floppy: properly handle failure on add_disk loop
+  gpio-timberdale: fix a potential wrapping issue
+  gpiolib: Don't return -EPROBE_DEFER to sysfs, or for invalid gpios
+  md/raid1: Fix assembling of arrays containing Replacements
+  rbd: reset BACKOFF if unable to re-queue
+
+
+END

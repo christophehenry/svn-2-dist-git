@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-20T18:49:30.967798Z
+K 7
+svn:log
+V 94
+- update to 3.12.6
+- drop merged patches:
+  * AX10-AX13: kvm CVE fixes
+  * FX02: xfs CVE fix
+
+
+END

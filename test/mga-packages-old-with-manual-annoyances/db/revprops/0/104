@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-02-19T11:46:42.218187Z
+K 7
+svn:log
+V 328
+- drop merged patches:
+  idle-intel_idle-open-broadcast-clock-event-to-fix-boot-hang.patch
+  idle-intel_idle-fix-a-shutdown-regression.patch
+- rediff patches:
+  kernel-sched-automated-per-session-task-groups-20101130.patch
+  kernel-sched-autogroup-Fix-reference-leak.patch
+  kernel-sched-Fix-struct-autogroup-memory-leak.patch
+
+
+END

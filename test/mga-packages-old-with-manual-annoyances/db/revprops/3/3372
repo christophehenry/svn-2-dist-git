@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-28T18:15:43.444171Z
+K 7
+svn:log
+V 784
+- net: force a reload of first item in hlist_nulls_for_each_entry_rcu
+- ipv4: fix redirect handling for TCP packets
+- ipv4: ip_tunnel: fix kernel panic with icmp_dest_unreach
+- ipv4: tcp: bug fix in proportional rate reduction
+- ipv4: tcp: fix tcp_md5_hash_skb_data()
+- ipv4: tcp: xps: fix reordering issues
+- ipv6: assign rt6_info to inet6_ifaddr in init_loopback
+- ipv6: fix possible crashes in ip6_cork_release()
+- l2tp: Fix PPP header erasure and memory leak
+- l2tp: Fix sendmsg() return value
+- netlabel: improve domain mapping validation
+- team: check return value of team_get_port_by_index_rcu() for NULL
+- team: move add to port list before port enablement
+- iwlwifi: dvm: fix chain noise calibration
+- target/iscsi: don't corrupt bh_count in iscsit_stop_time2retain_timer()
+
+
+END

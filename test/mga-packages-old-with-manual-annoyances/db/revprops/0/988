@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-25T14:16:34.678651Z
+K 7
+svn:log
+V 59
+ext4: ext4_ext_insert_extent() kernel oops (CVE-2011-3638)
+
+END

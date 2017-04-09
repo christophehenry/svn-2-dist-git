@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-08T20:32:24.674457Z
+K 7
+svn:log
+V 118
+- Fix alignment of AVX safe area on x86-64 (BZ #12113, mga #1362)
+  (fixes java crashes on x86_64 hw supporting AVX)
+
+
+END

@@ -1,0 +1,167 @@
+id: f-3.0-540.r811/0
+type: file
+pred: f-3.0-540.r548/100
+count: 18
+text: 496 0 75 124 3ad3cf552daba205415c767e5ab403b6 b7ebd7ca5b0c259904cfa976b9adb525e092d3db 810-mi/_6
+cpath: /updates/1/kernel-linus/current/SOURCES/sha1.lst
+copyroot: 540 /updates/1
+
+PLAIN
+K 21
+README.kernel-sources
+V 19
+file 6-3.0.r3/72034
+K 36
+disable-mrproper-in-devel-rpms.patch
+V 19
+file 9-3.0.r158/334
+K 14
+i386_defconfig
+V 19
+file b-3.0.r413/675
+K 25
+linux-2.6.38.tar.bz2.sign
+V 21
+file 6-184.0.r184/800
+K 23
+patch-2.6.38.8.bz2.sign
+V 23
+file 5-549.0-540.r549/0
+K 8
+sha1.lst
+V 21
+file f-3.0-540.r811/0
+K 16
+x86_64_defconfig
+V 20
+file h-3.0.r413/1150
+END
+ENDREP
+id: 4-3.0-540.r811/637
+type: dir
+pred: 4-3.0-540.r549/632
+count: 34
+text: 811 252 372 0 4b37e967e68c580f7b09ac22954d0d56
+cpath: /updates/1/kernel-linus/current/SOURCES
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+SOURCES
+V 22
+dir 4-3.0-540.r811/637
+K 5
+SPECS
+V 23
+dir j-3.0-540.r549/1155
+END
+ENDREP
+id: 2-3.0-540.r811/927
+type: dir
+pred: 2-3.0-540.r549/1441
+count: 38
+text: 811 831 83 0 33e87247a9ec0d7b6a4f30f5d157cb1e
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /updates/1/kernel-linus/current
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 22
+dir 2-3.0-540.r811/927
+K 8
+pristine
+V 20
+dir 2-3.0-476.r476/0
+K 8
+releases
+V 18
+dir n-3.0.r477/906
+END
+ENDREP
+id: 1-2.0-540.r811/1300
+type: dir
+pred: 1-2.0-540.r549/1817
+count: 89
+text: 811 1167 120 0 8b99c73feecc9cb3827c146459f550f7
+cpath: /updates/1/kernel-linus
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 23
+dir 1-5.0-540.r806/1460
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r811/1300
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0-540.r811/1736
+type: dir
+pred: 0-1.0-540.r806/1891
+count: 537
+text: 811 1481 242 0 6ae21780fd83b0bf391fec3a092fd523
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 23
+dir 0-1.0-540.r811/1736
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r811/1995
+type: dir
+pred: 0-539.0.r806/2150
+count: 58
+text: 811 1905 77 0 5326016d616c867225f15b453ff30861
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r810/1379
+K 7
+updates
+V 21
+dir 0-539.0.r811/1995
+END
+ENDREP
+id: 0.0.r811/2239
+type: dir
+pred: 0.0.r810/1622
+count: 811
+text: 811 2145 81 0 e4c3619569f59557042dfe27b254cada
+cpath: /
+copyroot: 0 /
+
+f-3.0-540.t810-mi modify-file true false /updates/1/kernel-linus/current/SOURCES/sha1.lst
+
+
+2239 2375

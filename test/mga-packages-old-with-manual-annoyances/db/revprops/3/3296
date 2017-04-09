@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-21T05:52:53.876724Z
+K 7
+svn:log
+V 71
+rtlwifi: rtl8192cu: Fix problem in connecting to WEP or WPA(1) networks
+END

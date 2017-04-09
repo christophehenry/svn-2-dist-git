@@ -1,0 +1,140 @@
+id: 2-6.0-268.r268/0
+type: dir
+pred: 2-6.0.r264/1031
+count: 68
+text: 264 816 202 0 37ac5a5542a7b746cc11f02687d9aae3
+props: 143 1091 64 0 22223f1dd7087f70bdc15318f9c27967
+cpath: /cauldron/kernel/releases/2.6.38.1/1.mga1
+copyfrom: 264 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-268.r268/0
+END
+ENDREP
+id: 3-265.0.r268/313
+type: dir
+pred: 3-265.0.r265/0
+count: 1
+text: 268 259 41 0 22c65a6e6130e529dc1ead4a97241514
+cpath: /cauldron/kernel/releases/2.6.38.1
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+END
+ENDREP
+id: 2-14.0.r268/767
+type: dir
+pred: 2-14.0.r265/377
+count: 15
+text: 268 483 271 0 7a3ad5ed748ce215efac17a57a4b9bf6
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r264/1031
+K 8
+pristine
+V 20
+dir 2-6.0-267.r267/0
+K 8
+releases
+V 19
+dir 2-14.0.r268/767
+END
+ENDREP
+id: 1-5.0.r268/1061
+type: dir
+pred: 1-5.0.r267/374
+count: 101
+text: 268 930 118 0 e5dc77738d6fe686beaab4aa38e0ab2a
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r257/1075
+K 6
+kernel
+V 19
+dir 1-5.0.r268/1061
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r262/968
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r242/902
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r258/936
+END
+ENDREP
+id: 0-1.0.r268/1457
+type: dir
+pred: 0-1.0.r267/767
+count: 267
+text: 268 1215 229 0 59f26b5c942a417cef66f54cad1bad95
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r268/1457
+END
+ENDREP
+id: 0.0.r268/1660
+type: dir
+pred: 0.0.r267/967
+count: 268
+text: 268 1605 42 0 51a05e60de0a7fd241035212371f591a
+cpath: /
+copyroot: 0 /
+
+2-6._0.t267-7f add-dir false false /cauldron/kernel/releases/2.6.38.1/1.mga1
+264 /cauldron/kernel/current
+
+1660 1795

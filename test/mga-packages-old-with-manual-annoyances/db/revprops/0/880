@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-05T18:33:37.729216Z
+K 7
+svn:log
+V 48
+drop merged: media-video-uvc-fix-init-hang.patch
+END

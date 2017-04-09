@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-22T12:16:44.070716Z
+K 7
+svn:log
+V 102
+- ath5k: do not stop queues for full calibration
+- ath5k: do not re-run AGC calibration periodically
+
+
+END

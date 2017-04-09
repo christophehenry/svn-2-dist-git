@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-22T17:05:49.154725Z
+K 7
+svn:log
+V 55
+TOMOYO: Fix oops in tomoyo_mount_acl() (CVE-2011-2518)
+
+END

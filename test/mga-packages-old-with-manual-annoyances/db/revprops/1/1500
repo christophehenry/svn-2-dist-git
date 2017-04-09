@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-16T13:22:47.015830Z
+K 7
+svn:log
+V 51
+fix modules.description generation with .xz modules
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-27T20:43:33.028841Z
+K 7
+svn:log
+V 232
+- update to 3.4.1-rc1
+  * drop merged patches
+  * rediff IFWLOG, psd, unionfs shuttle-wmi and arm-udelay-fix patches
+- add buildfix for unionfs and kernel-3.4
+- add buildfix for radio-rttrack
+- update defconfigs
+- update filelists
+
+
+END

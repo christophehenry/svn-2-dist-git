@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-07T18:48:21.139070Z
+K 7
+svn:log
+V 98
+- require kmod instead of module-init-tools
+- BR pkgconfig(gtk+-2.0), flex, bison for perf tools
+
+
+END

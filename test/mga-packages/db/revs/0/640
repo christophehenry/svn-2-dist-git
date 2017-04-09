@@ -1,0 +1,160 @@
+id: 2-3.0-640.r640/0
+type: dir
+pred: 2-3.0.r636/2634
+count: 28
+text: 636 2545 76 76 e08ad095534354a535824534c7377908
+props: 635 1094 65 65 88b6826b7b5327873c78f3c07998e8b5
+cpath: /cauldron/kernel-linus/releases/2.6.38.4/1.mga1
+copyfrom: 636 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-640.r640/0
+END
+ENDREP
+id: 3-637.0.r640/327
+type: dir
+pred: 3-637.0.r637/0
+count: 1
+text: 640 273 41 41 ed2a51e30d83683866cb0d9e2f53e080
+cpath: /cauldron/kernel-linus/releases/2.6.38.4
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r391/459
+K 8
+2.6.38.1
+V 20
+dir 3-493.0.r496/326
+K 8
+2.6.38.2
+V 20
+dir 3-520.0.r523/326
+K 8
+2.6.38.3
+V 20
+dir 3-610.0.r613/327
+K 8
+2.6.38.4
+V 20
+dir 3-637.0.r640/327
+END
+ENDREP
+id: n-3.0.r640/792
+type: dir
+pred: n-3.0.r637/387
+count: 17
+text: 640 504 275 275 c606dca78456aa1e65eab3a61cc1a250
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r636/2634
+K 8
+pristine
+V 20
+dir 2-3.0-639.r639/0
+K 8
+releases
+V 18
+dir n-3.0.r640/792
+END
+ENDREP
+id: 1-2.0.r640/1091
+type: dir
+pred: 1-2.0.r639/387
+count: 66
+text: 640 961 117 117 96e1410d0cadcda6a79a44e0251c7b6a
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r626/1193
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r640/1091
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r620/983
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 20
+dir 1-43.0.r634/1008
+END
+ENDREP
+id: 0-1.0.r640/1641
+type: dir
+pred: 0-1.0.r639/934
+count: 636
+text: 640 1252 376 376 d7edae106ee0be648d2fc6fb8f8a6a63
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r640/1641
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r640/1884
+type: dir
+pred: 0.0.r639/1174
+count: 640
+text: 640 1791 80 80 26ae75750cb4461841d2f682a614e4b3
+cpath: /
+copyroot: 0 /
+
+2-3._0.t639-hr add-dir false false /cauldron/kernel-linus/releases/2.6.38.4/1.mga1
+636 /cauldron/kernel-linus/current
+
+1884 2021

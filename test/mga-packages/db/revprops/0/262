@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+misc
+K 8
+svn:date
+V 27
+2011-02-23T23:09:20.663609Z
+K 7
+svn:log
+V 77
+remove various Conflicts that are no longer relevant ( like on kernel 2.0.. )
+END

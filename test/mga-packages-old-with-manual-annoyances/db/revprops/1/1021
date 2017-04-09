@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T20:32:38.524393Z
+K 7
+svn:log
+V 343
+- mm/nommu.c: fix remap_pfn_range()
+- mm: vmscan: do not use page_count without a page pin
+- mm: oom: task->mm == NULL doesn't mean the memory was freed
+- mm: compaction: ensure that the compaction free scanner does not
+  move to the next zone
+- mm: compaction: abort compaction if too many pages are isolated and
+  caller is asynchronous V2
+
+
+END

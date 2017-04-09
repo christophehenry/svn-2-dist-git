@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T14:06:21.404034Z
+K 7
+svn:log
+V 79
+drm/radeon/r300/kms: do bounds checking for 3D_LOAD_VBPNTR and bump array limit
+END

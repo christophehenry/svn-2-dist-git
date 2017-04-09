@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-09-21T10:46:37.170921Z
+K 7
+svn:log
+V 202
+- New version: 207
+- Add various patches from upstream
+- Revert problematic patch from upstream leading to startup delays
+- Add patch from ML to address a timeout problem when stopping type=notify units
+END

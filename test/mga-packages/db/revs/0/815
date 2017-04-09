@@ -1,0 +1,151 @@
+id: d-150.0.r815/0
+type: file
+pred: d-150.0.r231/95
+count: 5
+text: 113 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 814-mm/_5
+cpath: /cauldron/bugzilla/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 28
+bugzilla-3.6-extern-id.patch
+V 23
+file 6-150.0.r150/14186
+K 39
+bugzilla-4.0-dont-mess-file-perms.patch
+V 26
+file 9-150.0-152.r152/2090
+K 22
+bugzilla-4.0-fhs.patch
+V 26
+file b-150.1-152.r152/2441
+K 8
+sha1.lst
+V 19
+file d-150.0.r815/0
+END
+ENDREP
+id: 4-150.0.r815/482
+type: dir
+pred: 4-150.0.r231/580
+count: 6
+text: 815 227 242 242 d68bba8965bb1892bf4ce1caaa0b280d
+cpath: /cauldron/bugzilla/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-150.0.r815/482
+K 5
+SPECS
+V 20
+dir f-150.0.r232/373
+END
+ENDREP
+id: 2-150.0.r815/748
+type: dir
+pred: 2-150.0.r232/636
+count: 7
+text: 815 657 78 78 99320391106de9078b8d207261fad899
+cpath: /cauldron/bugzilla/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-150.0.r815/748
+K 8
+pristine
+V 22
+dir 2-150.0-234.r234/0
+K 8
+releases
+V 20
+dir j-150.0.r235/529
+END
+ENDREP
+id: 1-149.0.r815/1048
+type: dir
+pred: 1-149.0.r235/830
+count: 16
+text: 815 913 122 122 071b54220de5db9403d581cc2194c819
+cpath: /cauldron/bugzilla
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r815/1048
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r811/1382
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r795/1247
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r774/1140
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r814/4054
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r815/1600
+type: dir
+pred: 0-1.0.r814/4602
+count: 811
+text: 815 1209 378 378 b1350471975236ddd3ef229cb5dba581
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r815/1600
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r815/1844
+type: dir
+pred: 0.0.r814/4847
+count: 815
+text: 815 1751 80 80 4494a3890bc09e5d418a69196f4fcc03
+cpath: /
+copyroot: 0 /
+
+d-150.0.t814-mm modify-file true false /cauldron/bugzilla/current/SOURCES/sha1.lst
+
+
+1844 1981

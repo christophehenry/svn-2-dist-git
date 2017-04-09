@@ -1,0 +1,98 @@
+id: 3-152.0.r152/0
+type: dir
+count: 0
+cpath: /cauldron/kernel-tmb/releases/2.6.37.2
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 18
+dir 3-152.0.r152/0
+END
+ENDREP
+id: r-150.0.r152/153
+type: dir
+pred: r-150.0.r150/16016
+count: 1
+text: 152 99 41 0 f63efe435840ad0ffc63dd0fccc6bed6
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-150.0.r150/15814
+K 8
+pristine
+V 22
+dir 2-150.0-151.r151/0
+K 8
+releases
+V 20
+dir r-150.0.r152/153
+END
+ENDREP
+id: 1-149.0.r152/458
+type: dir
+pred: 1-149.0.r151/396
+count: 3
+text: 152 321 124 0 b787b46f45dd796480034af3d5c506f7
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r126/860
+K 6
+kernel
+V 18
+dir 1-5.0.r148/904
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r132/889
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r152/458
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 18
+dir 1-27.0.r80/824
+END
+ENDREP
+id: 0-1.0.r152/856
+type: dir
+pred: 0-1.0.r151/796
+count: 151
+text: 152 617 226 0 4e0d275f99813a120ea4bcec614c85f9
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r152/856
+END
+ENDREP
+id: 0.0.r152/1056
+type: dir
+pred: 0.0.r151/998
+count: 152
+text: 152 1002 41 0 ba17d65cc58416f14fe560d10ef64e96
+cpath: /
+copyroot: 0 /
+
+_3.0.t151-47 add-dir false false /cauldron/kernel-tmb/releases/2.6.37.2
+
+
+1056 1191

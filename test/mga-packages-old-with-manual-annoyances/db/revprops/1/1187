@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2011-12-18T22:50:59.779243Z
+K 7
+svn:log
+V 61
+Merge in udev-161-env_STARTUP.patch to file we ship manually.
+END

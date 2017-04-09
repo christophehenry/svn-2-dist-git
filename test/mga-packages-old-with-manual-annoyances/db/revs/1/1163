@@ -1,0 +1,140 @@
+id: 2-28.0-1163.r1163/0
+type: dir
+pred: 2-28.0.r1160/635
+count: 50
+text: 1160 543 79 0 fcde7e77674907bc196916e29b610351
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/173/4.mga2
+copyfrom: 1160 /cauldron/udev/current
+
+PLAIN
+K 6
+3.mga2
+V 21
+dir 2-28.0-752.r752/0
+K 6
+4.mga2
+V 23
+dir 2-28.0-1163.r1163/0
+END
+ENDREP
+id: 3-749.0.r1163/350
+type: dir
+pred: 3-749.0.r752/307
+count: 2
+text: 1163 255 82 0 dfbac62185e30037f9a66ba97e6aa80b
+cpath: /cauldron/udev/releases/173
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+END
+ENDREP
+id: 1f-28.0.r1163/701
+type: dir
+pred: 1f-28.0.r752/653
+count: 19
+text: 1163 517 171 0 aebfd27121bdbe8cb852d1f58f8c0286
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-28.0.r1160/635
+K 8
+pristine
+V 23
+dir 2-28.0-1162.r1162/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1163/701
+END
+ENDREP
+id: 1-27.0.r1163/1003
+type: dir
+pred: 1-27.0.r1162/380
+count: 98
+text: 1163 866 124 0 f5b422e06f8d34a5f6533283f4d0d457
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1127/1033
+K 6
+kernel
+V 20
+dir 1-5.0.r1141/1497
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1146/1557
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1152/1446
+K 7
+systemd
+V 21
+dir 1-40.0.r1157/1554
+K 4
+udev
+V 21
+dir 1-27.0.r1163/1003
+END
+ENDREP
+id: 0-1.0.r1163/1412
+type: dir
+pred: 0-1.0.r1162/786
+count: 1068
+text: 1163 1159 240 0 ce64a7492e8e895e260d2e43e8bb0dda
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1163/1412
+K 7
+updates
+V 22
+dir 0-539.0.r1059/7070
+END
+ENDREP
+id: 0.0.r1163/1660
+type: dir
+pred: 0.0.r1162/1031
+count: 1163
+text: 1163 1564 83 0 346d90e634f53f23e8dc2887eae702e8
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1162-wa add-dir false false /cauldron/udev/releases/173/4.mga2
+1160 /cauldron/udev/current
+
+1660 1800

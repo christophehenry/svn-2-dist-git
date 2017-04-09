@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T19:28:52.236553Z
+K 7
+svn:log
+V 54
+drm/radeon: add missing display tiling setup for oland
+END

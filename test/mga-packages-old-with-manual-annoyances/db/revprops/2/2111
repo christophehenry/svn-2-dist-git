@@ -1,0 +1,51 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T14:46:02.786806Z
+K 7
+svn:log
+V 1409
+- drm fixes from upstream:
+  * core:
+    edid: don't return stack garbage from supports_rb
+    ttm: Fix buffer object metadata accounting regression v2
+    ttm: Fix spinlock imbalance
+  * i915:
+    Adding TV Out Missing modes
+    always use RPNSWREQ for turbo change requests
+    Mark the ringbuffers as being in the GTT domain
+    enable vdd when switching off the eDP panel
+    Fix eDP blank screen after S3 resume on HP desktops
+    Flush any outstanding work to turn the VDD off
+    properly handle interlaced bit for sdvo dtd conversion
+    Refactor the deferred PM_IIR handling into a single function
+    rip out the PM_IIR WARN
+    wait for a vblank to pass after tv detect
+  * nouveau:
+    disp: fix dithering not being enabled on some eDP macbooks
+    fbcon: using nv_two_heads is not a good idea
+  * radeon:
+    add some additional 6xx/7xx/EG register init
+    audio: don't hardcode CRTC id
+    fix bank information in tiling config
+    fix HD6790, HD6570 backend programming
+    fix regression in UMS CS ioctl
+    fix tiling and command stream checking on evergreen v3 (mga #6715)
+    fix typo in trinity tiling setup
+    fix vm deadlocks on cayman
+    fix VM page table setup on SI
+    fix XFX quirk
+    properly program gart on rv740, juniper, cypress, barts, hemlock
+  * sis:
+    initialize object_idr
+  * via:
+    initialize object_idr
+  * vmwgfx:
+    Fix nasty write past alloced memory area
+
+
+END

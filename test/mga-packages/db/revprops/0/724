@@ -1,0 +1,33 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-10T20:22:17.703520Z
+K 7
+svn:log
+V 1121
+- merge current stable queue:
+  cifs: change bleft in decode_unicode_ssetup back to signed type
+  cifs: check for bytes_remaining going to zero in CIFS_SessSetup
+  cifs: handle errors from coalesce_t2
+  cifs: refactor mid finding loop in cifs_demultiplex_thread
+  cifs: sanitize length checking in coalesce_t2
+  drm/radeon/kms: add pci id to acer travelmate quirk for 5730
+  drm/radeon/kms: fix gart setup on fusion parts (v2) backport
+  drm/i915/dp: Be paranoid in case we disable a DP before it is attached
+  drm/i915/lvds: Only act on lid notify when the device is on
+  drm/i915: Release object along create user fb error path
+  efi: Validate size of EFI GUID partition entries (CVE-2011-1776)
+  hw_breakpoints, powerpc: Fix CONFIG_HAVE_HW_BREAKPOINT off-case in ptrace_set_debugreg()
+  iwlwifi: add {ack, plpc}_check module parameters
+  ptrace: Prepare to fix racy accesses on task breakpoints
+  thinkpad-acpi: module autoloading for newer Lenovo ThinkPads
+  vm: Don't lock guardpage if the stack is growing up
+  vm: fix vm_pgoff wrap in upward expansion
+  x86, hw_breakpoints: Fix racy access to ptrace breakpoints
+
+
+END

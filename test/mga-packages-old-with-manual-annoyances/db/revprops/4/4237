@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-02-01T15:54:14.104564Z
+K 7
+svn:log
+V 76
+x86, x32: Correct invalid use of user timespec in the kernel (CVE-2014-0038)
+END

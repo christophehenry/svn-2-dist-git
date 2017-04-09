@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-24T00:24:22.136159Z
+K 7
+svn:log
+V 64
+sync with current stable queue (38 fixes to all over the kernel)
+END

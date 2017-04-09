@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-08T17:29:07.905506Z
+K 7
+svn:log
+V 98
+- drm/i915: Fix detection of base of stolen memory
+- drm/i915: Use MLC (l3$) for context objects
+
+
+END

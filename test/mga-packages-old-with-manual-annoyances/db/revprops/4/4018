@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-12-08T21:17:56.372865Z
+K 7
+svn:log
+V 236
+Use correct tarball
+
+SILENT: This was also done upstream in fedora.
+SILENT: http://pkgs.fedoraproject.org/cgit/systemd.git/commit/sources?id=59315f70289494424adaebda852a156c46bad5f3
+SILENT: Think it was also done on FDO but will confirm
+END

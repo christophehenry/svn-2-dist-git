@@ -1,0 +1,152 @@
+id: 2-3.0-391.r391/0
+type: dir
+pred: 2-3.0.r388/2707
+count: 17
+text: 388 2618 76 76 c7f4434557cc229dbb143cfa0354d67c
+props: 387 1214 65 65 314008806f3f8b47360f82bd1bf000f0
+cpath: /cauldron/kernel-linus/releases/2.6.38/1.mga1
+copyfrom: 388 /cauldron/kernel-linus/current
+
+PLAIN
+K 12
+0.rc7.1.mga1
+V 20
+dir 2-3.0-342.r342/0
+K 14
+0.rc7.2.1.mga1
+V 20
+dir 2-3.0-359.r359/0
+K 12
+0.rc8.1.mga1
+V 20
+dir 2-3.0-370.r370/0
+K 6
+1.mga1
+V 20
+dir 2-3.0-391.r391/0
+END
+ENDREP
+id: 3-339.0.r391/459
+type: dir
+pred: 3-339.0.r370/428
+count: 4
+text: 391 271 175 175 680acd433e5d51aa0088494158b63c62
+cpath: /cauldron/kernel-linus/releases/2.6.38
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r391/459
+END
+ENDREP
+id: n-3.0.r391/770
+type: dir
+pred: n-3.0.r370/739
+count: 9
+text: 391 638 119 119 9c14ba1913073f9392823e6fbe055dc2
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r388/2707
+K 8
+pristine
+V 20
+dir 2-3.0-390.r390/0
+K 8
+releases
+V 18
+dir n-3.0.r391/770
+END
+ENDREP
+id: 1-2.0.r391/1068
+type: dir
+pred: 1-2.0.r390/387
+count: 39
+text: 391 938 117 117 5ee74c3e210356392be4959411d767d5
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r386/1296
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r376/952
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r391/1068
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r391/1615
+type: dir
+pred: 0-1.0.r390/931
+count: 390
+text: 391 1229 373 373 8e1e4466b54d73f95850fc2a93bceeef
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r391/1615
+END
+ENDREP
+id: 0.0.r391/1820
+type: dir
+pred: 0.0.r390/1133
+count: 391
+text: 391 1765 42 42 69f7a250570a9ebca13e387c560b71ba
+cpath: /
+copyroot: 0 /
+
+2-3._0.t390-au add-dir false false /cauldron/kernel-linus/releases/2.6.38/1.mga1
+388 /cauldron/kernel-linus/current
+
+1820 1957

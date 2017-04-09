@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-28T13:19:33.546384Z
+K 7
+svn:log
+V 60
+update Intel 55xx quirk patch to the latest -stable revision
+END

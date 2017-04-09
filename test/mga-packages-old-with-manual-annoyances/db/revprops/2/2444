@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-17T18:27:07.744108Z
+K 7
+svn:log
+V 82
+disable acpi-video-add-blacklist-to-use-vendor-driver.patch, needs to be rewritten
+END

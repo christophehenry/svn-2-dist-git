@@ -1,0 +1,144 @@
+id: 2-3.0-496.r496/0
+type: dir
+pred: 2-3.0.r488/1153
+count: 21
+text: 488 1065 75 75 76d6f558125a9022cf813a579c51cae9
+props: 486 913 65 65 69259710eaf421881f1bd92ffb01f1e7
+cpath: /cauldron/kernel-linus/releases/2.6.38.1/1.mga1
+copyfrom: 488 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-496.r496/0
+END
+ENDREP
+id: 3-493.0.r496/326
+type: dir
+pred: 3-493.0.r493/0
+count: 1
+text: 496 272 41 41 df20f66e78344eb55b8cb2c3ec18b32a
+cpath: /cauldron/kernel-linus/releases/2.6.38.1
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r391/459
+K 8
+2.6.38.1
+V 20
+dir 3-493.0.r496/326
+END
+ENDREP
+id: n-3.0.r496/674
+type: dir
+pred: n-3.0.r493/270
+count: 11
+text: 496 503 158 158 63c676735aa40ca5e6f7d097daa0e6a7
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r488/1153
+K 8
+pristine
+V 20
+dir 2-3.0-495.r495/0
+K 8
+releases
+V 18
+dir n-3.0.r496/674
+END
+ENDREP
+id: 1-2.0.r496/973
+type: dir
+pred: 1-2.0.r495/386
+count: 47
+text: 496 843 117 117 271dd47790fe8cd7a6ec81a75b86766d
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r482/1515
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 19
+dir 1-5.0.r490/3084
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r496/973
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r492/939
+END
+ENDREP
+id: 0-1.0.r496/1520
+type: dir
+pred: 0-1.0.r495/932
+count: 495
+text: 496 1133 374 374 2336534fdb6103e91682264fc5fc85df
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r496/1520
+END
+ENDREP
+id: 0.0.r496/1725
+type: dir
+pred: 0.0.r495/1134
+count: 496
+text: 496 1670 42 42 d143784c3e1ab0f74b5c67d0f292dd28
+cpath: /
+copyroot: 0 /
+
+2-3._0.t495-dr add-dir false false /cauldron/kernel-linus/releases/2.6.38.1/1.mga1
+488 /cauldron/kernel-linus/current
+
+1725 1862

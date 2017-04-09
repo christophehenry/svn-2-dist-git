@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+alien
+K 8
+svn:date
+V 27
+2012-04-13T16:17:30.930973Z
+K 7
+svn:log
+V 60
+Ask the user to reboot if this package is updated (mga#5388)
+END

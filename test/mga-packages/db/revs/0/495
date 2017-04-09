@@ -1,0 +1,102 @@
+id: 2-3.0-495.r495/0
+type: dir
+pred: 2-3.0.r488/1153
+count: 21
+text: 488 1065 75 75 76d6f558125a9022cf813a579c51cae9
+props: 486 913 65 65 69259710eaf421881f1bd92ffb01f1e7
+cpath: /cauldron/kernel-linus/pristine
+copyfrom: 494 /cauldron/kernel-linus/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r488/1153
+K 8
+pristine
+V 20
+dir 2-3.0-495.r495/0
+K 8
+releases
+V 18
+dir n-3.0.r493/270
+END
+ENDREP
+id: 1-2.0.r495/386
+type: dir
+pred: 1-2.0.r494/91
+count: 46
+text: 495 256 117 117 e1d640ac0a3f4c00f4a686bfd211f2e4
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r482/1515
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 19
+dir 1-5.0.r490/3084
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r495/386
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r492/939
+END
+ENDREP
+id: 0-1.0.r495/932
+type: dir
+pred: 0-1.0.r494/632
+count: 494
+text: 495 545 374 374 8e1b90a26b1b7d1c36c4076cdbcfebbd
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r495/932
+END
+ENDREP
+id: 0.0.r495/1134
+type: dir
+pred: 0.0.r494/835
+count: 495
+text: 495 1080 41 41 61f8991e8148f6dde56e5772e03cc26b
+cpath: /
+copyroot: 0 /
+
+2-3._0.t494-dq add-dir false false /cauldron/kernel-linus/pristine
+494 /cauldron/kernel-linus/current
+
+1134 1270

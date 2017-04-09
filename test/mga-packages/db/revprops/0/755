@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-22T10:05:48.960558Z
+K 7
+svn:log
+V 64
+update to 2.6.38.7 (CVE-2011-1770, CVE-2011-1776, CVE-2011-1927)
+END

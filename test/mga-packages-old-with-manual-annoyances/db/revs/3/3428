@@ -1,0 +1,140 @@
+PLAIN
+K 21
+README.kernel-sources
+V 19
+file 6-3.0.r3/72034
+K 13
+arm_defconfig
+V 23
+file 4-677.0.r3393/8225
+K 36
+disable-mrproper-in-devel-rpms.patch
+V 21
+file 9-3.0.r3393/8480
+K 14
+i386_defconfig
+V 21
+file b-3.0.r3393/8753
+K 19
+linux-3.10.tar.sign
+V 23
+file 4-3392.0.r3392/729
+K 8
+sha1.lst
+V 18
+file f-3.0.r3427/0
+K 16
+x86_64_defconfig
+V 21
+file h-3.0.r3393/9008
+END
+ENDREP
+id: 4-3.0.r3428/373
+type: dir
+pred: 4-3.0.r3427/665
+count: 168
+text: 3428 0 360 0 8982ed4b09fad4f83c50ae8bb7d57298
+cpath: /cauldron/kernel-linus/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 19
+dir 4-3.0.r3428/373
+K 5
+SPECS
+V 20
+dir j-3.0.r3401/2243
+END
+ENDREP
+id: 2-3.0.r3428/639
+type: dir
+pred: 2-3.0.r3427/934
+count: 209
+text: 3428 549 77 0 fdc9ebbb89ee7a2b5bb1efa2f10d5980
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r3428/639
+K 8
+pristine
+V 22
+dir 2-3.0-3406.r3406/0
+K 8
+releases
+V 20
+dir n-3.0.r3407/3046
+END
+ENDREP
+id: 1-2.0.r3428/996
+type: dir
+pred: 1-2.0.r3427/1292
+count: 566
+text: 3428 862 121 0 0efb56db0d48b4fd4d73c33b0258c834
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3426/3482
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r3428/996
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3365/2633
+K 7
+systemd
+V 21
+dir 1-40.0.r3288/1626
+END
+ENDREP
+id: 0-1.0.r3428/1412
+type: dir
+pred: 0-1.0.r3427/1711
+count: 3044
+text: 3428 1159 240 0 4ea26bc1c9ba9c56c2b286f2dd1f182d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3428/1412
+K 7
+updates
+V 22
+dir 0-539.0.r3390/6935
+END
+ENDREP
+id: 0.0.r3428/1661
+type: dir
+pred: 0.0.r3427/1960
+count: 3428
+text: 3428 1565 83 0 771c229520599a8dec64d2432e91c88b
+cpath: /
+copyroot: 0 /
+
+4-3401.0.r3401/843 delete-file false false /cauldron/kernel-linus/current/SOURCES/patch-3.10.1.sign
+
+
+1661 1801

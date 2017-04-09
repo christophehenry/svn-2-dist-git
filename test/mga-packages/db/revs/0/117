@@ -1,0 +1,331 @@
+id: 4-117.0.r117/0
+type: file
+count: 0
+text: 12 33004 1017 2721 5b44c86cb14232e69c8ec5cb73069377 a391f583778224c9505dfdab14ee74d0508e3f44 116-38/_6
+cpath: /cauldron/rpm/current/SOURCES/rpm-4.6.0-rc2-manbo-rpmrc-rpmpopt.patch
+copyroot: 0 /
+
+PLAIN
+K 31
+fix_stack_protector_check.patch
+V 21
+file 6-12.0.r12/63619
+K 56
+introduce-_after_setup-which-is-called-after-setup.patch
+V 21
+file 9-12.0.r12/63845
+K 57
+introduce-_patch-and-allow-easy-override-when-the-p.patch
+V 21
+file b-12.0.r12/64100
+K 53
+introduce-apply_patches-and-lua-var-patches_num.patch
+V 21
+file d-12.0.r12/64356
+K 17
+mips_macros.patch
+V 21
+file f-12.0.r12/64609
+K 34
+rpm-4.4.2.2-gendiff-improved.patch
+V 21
+file h-12.0.r12/64824
+K 29
+rpm-4.4.2.2-rpmqv-ghost.patch
+V 21
+file j-12.0.r12/65057
+K 45
+rpm-4.4.2.3-rc1-transmeta-crusoe-is-686.patch
+V 21
+file l-12.0.r12/65284
+K 30
+rpm-4.6.0-bdb-xa-removal.patch
+V 21
+file n-12.0.r12/65527
+K 56
+rpm-4.6.0-do-not-run-lua-scripts-when-chroot-fails.patch
+V 21
+file p-12.0.r12/65755
+K 52
+rpm-4.6.0-do-not-run-scripts-when-chroot-fails.patch
+V 21
+file r-12.0.r12/66009
+K 57
+rpm-4.6.0-dont-add-excluded-files-to-check_fileList.patch
+V 21
+file t-12.0.r12/66259
+K 50
+rpm-4.6.0-fix-debug-info-default-permissions.patch
+V 21
+file v-12.0.r12/66515
+K 52
+rpm-4.6.0-fix-debugedit-canonicalization-error.patch
+V 21
+file x-12.0.r12/66763
+K 53
+rpm-4.6.0-lua-add-sources-and-patches-only-once.patch
+V 21
+file z-12.0.r12/67013
+K 32
+rpm-4.6.0-no-doc-conflicts.patch
+V 22
+file 11-12.0.r12/67266
+K 26
+rpm-4.6.0-ordererase.patch
+V 22
+file 13-12.0.r12/67499
+K 35
+rpm-4.6.0-rc1-bb-shortcircuit.patch
+V 22
+file 15-12.0.r12/67726
+K 29
+rpm-4.6.0-rc1-buildlang.patch
+V 22
+file 17-12.0.r12/67963
+K 40
+rpm-4.6.0-rc1-compat-PayloadIsLzma.patch
+V 22
+file 19-12.0.r12/68193
+K 47
+rpm-4.6.0-rc1-drop-skipping-ldconfig-hack.patch
+V 22
+file 1b-12.0.r12/68435
+K 32
+rpm-4.6.0-rc1-filetriggers.patch
+V 22
+file 1d-12.0.r12/68684
+K 37
+rpm-4.6.0-rc1-fix-nss-detection.patch
+V 22
+file 1f-12.0.r12/68920
+K 31
+rpm-4.6.0-rc1-headerIconv.patch
+V 22
+file 1h-12.0.r12/69159
+K 45
+rpm-4.6.0-rc1-non-pre-scripts-dont-fail.patch
+V 22
+file 1j-12.0.r12/69393
+K 52
+rpm-4.6.0-rc1-protect-against-non-robust-futex.patch
+V 22
+file 1l-12.0.r12/69640
+K 38
+rpm-4.6.0-rc1-provides-obsoleted.patch
+V 22
+file 1n-12.0.r12/69895
+K 38
+rpm-4.6.0-rc1-python-writeHdlist.patch
+V 22
+file 1p-12.0.r12/70134
+K 44
+rpm-4.6.0-rc1-read-macros_d-dot-macros.patch
+V 22
+file 1r-12.0.r12/70375
+K 55
+rpm-4.6.0-rc1-revert-unused-skipDir-functionality.patch
+V 22
+file 1t-12.0.r12/70620
+K 91
+rpm-4.6.0-rc1-speedup-by-not-checking-same-files-with-different-paths-through-symlink.patch
+V 22
+file 1v-12.0.r12/70877
+K 26
+rpm-4.6.0-rc1-syslog.patch
+V 22
+file 1x-12.0.r12/71171
+K 28
+rpm-4.6.0-rc1-weakdeps.patch
+V 22
+file 1z-12.0.r12/71399
+K 39
+rpm-4.6.0-rc2-manbo-rpmrc-rpmpopt.patch
+V 19
+file 4-117.0.r117/0
+K 36
+rpm-4.6.0-rc3-no_rm_-rf_DOCDIR.patch
+V 22
+file 23-12.0.r12/71872
+K 30
+rpm-4.6.0-rc3-xz-support.patch
+V 22
+file 25-12.0.r12/72109
+K 25
+rpm-4.6.0-rpm5-tags.patch
+V 22
+file 27-12.0.r12/72343
+K 47
+rpm-4.6.0-rpmvercmp-handle-missing-values.patch
+V 22
+file 29-12.0.r12/72570
+K 35
+rpm-4.6.1-arm_mips_isa_macros.patch
+V 22
+file 2b-12.0.r12/72819
+K 38
+rpm-4.6.1-mips_define_isa_macros.patch
+V 22
+file 2d-12.0.r12/73055
+K 30
+rpm-4.6.1-setup-rubygems.patch
+V 22
+file 2f-12.0.r12/73294
+K 60
+rpm-4.6.1-updated-debugedit-for-debug_pubtypes-section.patch
+V 22
+file 2h-12.0.r12/73526
+K 39
+rpm-allow-conflicting-ghost-files.patch
+V 22
+file 2j-12.0.r12/73790
+K 51
+rpm-check-file-trim-double-slash-in-buildroot.patch
+V 22
+file 2l-12.0.r12/74030
+K 26
+rpm-fix-corequisites.patch
+V 22
+file 2n-12.0.r12/74283
+K 28
+rpm-fix-islegacyprereq.patch
+V 22
+file 2p-12.0.r12/74512
+K 47
+rpm-forbid-badly-commented-define-in-spec.patch
+V 22
+file 2r-12.0.r12/74741
+K 20
+rpm-map-prereq.patch
+V 22
+file 2t-12.0.r12/74990
+K 69
+rpm-rpmbuild-check-useless-tags-in-non-existant-binary-packages.patch
+V 20
+file 2v-12.0.r26/174
+K 29
+rpm-russian-translation.patch
+V 22
+file 2x-12.0.r12/75483
+K 21
+rpm_add_armv5tl.patch
+V 22
+file 2z-12.0.r12/75713
+K 8
+sha1.lst
+V 22
+file 31-12.0.r12/75936
+END
+ENDREP
+id: 4-12.0.r117/4080
+type: dir
+pred: 4-12.0.r81/3823
+count: 3
+text: 117 240 3827 3827 68dc56623bff2b645b09b5fd653ec53e
+cpath: /cauldron/rpm/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-12.0.r117/4080
+K 5
+SPECS
+V 19
+dir 33-12.0.r88/512
+END
+ENDREP
+id: 2-12.0.r117/4341
+type: dir
+pred: 2-12.0.r88/765
+count: 13
+text: 117 4251 77 77 5f3021e050796c4cbd879fe9cb8cc29b
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-12.0.r117/4341
+K 8
+pristine
+V 19
+dir 2-12.0-85.r85/0
+K 8
+releases
+V 19
+dir 37-12.0.r86/629
+END
+ENDREP
+id: 1-11.0.r117/4687
+type: dir
+pred: 1-11.0.r88/1105
+count: 28
+text: 117 4556 118 118 4515a9ac5c8b0ee75cb47238e65a19a8
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 20
+dir 1-63.0.r116/2271
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r62/842
+K 3
+rpm
+V 20
+dir 1-11.0.r117/4687
+K 7
+systemd
+V 18
+dir 1-70.0.r99/945
+K 4
+udev
+V 19
+dir 1-43.0.r108/849
+END
+ENDREP
+id: 0-1.0.r117/5143
+type: dir
+pred: 0-1.0.r116/2731
+count: 116
+text: 117 4842 288 288 f0f643b4d6d2c81498479c887718400d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r117/5143
+END
+ENDREP
+id: 0.0.r117/5349
+type: dir
+pred: 0.0.r116/2937
+count: 117
+text: 117 5294 42 42 b97f81395856c160fd39f767f99f828b
+cpath: /
+copyroot: 0 /
+
+_4.0.t116-38 add-file true false /cauldron/rpm/current/SOURCES/rpm-4.6.0-rc2-manbo-rpmrc-rpmpopt.patch
+
+
+5349 5486

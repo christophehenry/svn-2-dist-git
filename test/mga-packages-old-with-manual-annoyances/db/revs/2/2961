@@ -1,0 +1,86 @@
+id: 2-6.0-2961.r2961/0
+type: dir
+pred: 2-6.0.r2958/1151
+count: 633
+text: 2958 934 204 0 c06d62da17d76e10bb5bea33e9a4b62f
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/pristine
+copyfrom: 2960 /cauldron/kernel/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r2958/1151
+K 8
+pristine
+V 22
+dir 2-6.0-2961.r2961/0
+K 8
+releases
+V 21
+dir 2-14.0.r2959/2315
+END
+ENDREP
+id: 1-5.0.r2961/385
+type: dir
+pred: 1-5.0.r2960/95
+count: 999
+text: 2961 249 123 0 519ddc0ba5c1c50b2b0be4279dbe8ec6
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2945/1080
+K 6
+kernel
+V 19
+dir 1-5.0.r2961/385
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2955/2929
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2544/2408
+K 7
+systemd
+V 21
+dir 1-40.0.r2948/2111
+END
+ENDREP
+id: 0-1.0.r2961/756
+type: dir
+pred: 0-1.0.r2960/463
+count: 2673
+text: 2961 540 203 0 26356a2f13f8502a52bbd3aa8f031bef
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2961/756
+K 7
+updates
+V 22
+dir 0-539.0.r2910/5172
+END
+ENDREP
+id: 0.0.r2961/1001
+type: dir
+pred: 0.0.r2960/709
+count: 2961
+text: 2961 906 82 0 6a997860e58d3b364e6e727a652ccbe7
+cpath: /
+copyroot: 0 /
+
+2-6._0.t2960-2a8 add-dir false false /cauldron/kernel/pristine
+2960 /cauldron/kernel/current
+
+1001 1139

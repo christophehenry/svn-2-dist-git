@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-17T23:47:41.414742Z
+K 7
+svn:log
+V 868
+- update to 3.4.32
+- drop patches:
+  * AA01-AA17: stable queue fixes (merged)
+- add patches:
+  * AM01: mm/page_alloc: fix up buggy pfn_to_bitidx calculation (Linus/LKML)
+  * AX10: x86/PCI: only check for spinlock being held in SMP kernels
+  * DA10: ACPI/thermal: _TMP and _CRT/_HOT/_PSV/_ACx dependency fix (mga #9079)
+  * DA60: ahci: Enable SB600 64bit DMA on MSI K9AGM2 (MS-7327) v2
+  * DA61: ahci: Add JMicron 362 device IDs
+  * DA62, DA63: ahci, ata_piix: Add Device IDs for Intel Lynx Point-LP PCH
+  * DA64, DA65: ahci, ata_piix: Add Device IDs for Intel Wellsburg PCH
+  * DI20: i2c-i801: Add Device IDs for Intel Wellsburg PCH
+  * DW01, DW02: add Watchdog Timer Device IDs for the Intel Lynx Point-LP and
+    Wellsburg PCH
+  * DS20, DS21: sound/hda: add Creative SoundCore3D support
+  * DS22-DS28: sound/hda: add Intel Lynx Point-LP, Haswell, Wellsburg support
+
+
+END

@@ -1,0 +1,71 @@
+id: 2-14.0.r14/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 17
+dir 2-6.0.r13/588
+K 8
+pristine
+V 18
+dir 2-6.0-12.r12/0
+K 8
+releases
+V 16
+dir 2-14.0.r14/0
+END
+ENDREP
+id: 1-5.0.r14/208
+type: dir
+pred: 1-5.0.r13/888
+count: 6
+text: 14 84 111 0 a2c924f18478f401d3fc7d0078d26c79
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/357
+K 6
+kernel
+V 17
+dir 1-5.0.r14/208
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r14/478
+type: dir
+pred: 0-1.0.r13/1158
+count: 13
+text: 14 355 110 0 8476bbab1c0a08c6e021030fbf0c7160
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r14/478
+END
+ENDREP
+id: 0.0.r14/674
+type: dir
+pred: 0.0.r13/1356
+count: 14
+text: 14 621 40 0 804956c5ca538713476c5751119e6401
+cpath: /
+copyroot: 0 /
+
+_2.0.t13-d add-dir false false /cauldron/kernel/releases
+
+
+674 804

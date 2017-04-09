@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-04-01T09:14:48.449602Z
+K 7
+svn:log
+V 87
+Fix the (ugly) net rule generator to not call udevadm info --run which no longer exists
+END

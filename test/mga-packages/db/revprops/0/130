@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-01-30T22:11:32.948245Z
+K 7
+svn:log
+V 51
+SILENT: delete file ./SOURCES/udev-164.tar.bz2.sign
+END

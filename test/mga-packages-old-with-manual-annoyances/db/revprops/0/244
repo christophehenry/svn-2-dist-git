@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2011-03-21T23:24:52.994082Z
+K 7
+svn:log
+V 113
+- Add support for glibc-ports
+- Add arm support
+- Add early mips support
+- Attempt to fix cross glibc generation
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-30T20:14:11.625306Z
+K 7
+svn:log
+V 190
+- eCryptfs fixes:
+  Gracefully refuse miscdev file ops on inherited/passed files
+  Fix lockdep warning in miscdev operations
+  Properly check for O_RDONLY flag before doing privileged open
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2012-08-04T05:52:49.164994Z
+K 7
+svn:log
+V 34
+rebuild with compressed debug info
+END

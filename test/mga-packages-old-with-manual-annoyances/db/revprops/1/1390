@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-01-25T21:26:36.203684Z
+K 7
+svn:log
+V 143
+- New version: 39
+- Enhanced filetriggers and made them non-config files (no more .rpmnews)
+- Fixed build error relating to a systemd/user dir
+
+END

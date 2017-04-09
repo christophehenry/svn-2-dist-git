@@ -1,0 +1,90 @@
+id: 2-8.0-2191.r2191/0
+type: dir
+pred: 2-8.0.r2189/4251
+count: 54
+text: 2189 4159 79 0 ac5740ce5bea7dcace87a7181da1ee88
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/pristine
+copyfrom: 2190 /cauldron/glibc/current
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2189/4251
+K 8
+pristine
+V 22
+dir 2-8.0-2191.r2191/0
+K 8
+releases
+V 20
+dir 35-8.0.r2157/660
+END
+ENDREP
+id: 1-7.0.r2191/422
+type: dir
+pred: 1-7.0.r2190/136
+count: 133
+text: 2191 245 164 0 18a69d252635e1db609c1a2fef744227
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r2191/422
+K 6
+kernel
+V 20
+dir 1-5.0.r2172/2411
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2163/2320
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2180/2214
+K 7
+systemd
+V 21
+dir 1-40.0.r2188/1407
+END
+ENDREP
+id: 0-1.0.r2191/793
+type: dir
+pred: 0-1.0.r2190/506
+count: 2040
+text: 2191 577 203 0 ae0649e54452b7175a08632702bb8bf2
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2191/793
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2191/1038
+type: dir
+pred: 0.0.r2190/752
+count: 2191
+text: 2191 943 82 0 fbf4f864f72ddcb364e2987fc042958d
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2190-1ou add-dir false false /cauldron/glibc/pristine
+2190 /cauldron/glibc/current
+
+1038 1176

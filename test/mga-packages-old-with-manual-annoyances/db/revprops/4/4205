@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T17:45:58.447818Z
+K 7
+svn:log
+V 156
+- Input: ALPS - change secondary devices name
+- Input: ALPS - add support for DualPoint device on Dell XT2
+- Input: ALPS - add support for Dolphin devices
+
+
+END

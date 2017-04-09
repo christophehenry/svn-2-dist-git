@@ -1,0 +1,204 @@
+PLAIN
+K 41
+firefox-3.0b3-check-default-browser.patch
+V 21
+file 6-64.0.r64/26860
+K 40
+firefox-3.5.3-default-mail-handler.patch
+V 21
+file 9-64.0.r64/27101
+K 27
+firefox-3.6.3-appname.patch
+V 21
+file b-64.0.r64/27344
+K 17
+firefox-kde.patch
+V 21
+file f-64.0.r411/8526
+K 32
+firefox-searchengines-askcom.xml
+V 21
+file j-64.0.r64/28284
+K 33
+firefox-searchengines-exalead.xml
+V 21
+file l-64.0.r64/28522
+K 33
+firefox-searchengines-jamendo.xml
+V 21
+file n-64.0.r64/28761
+K 15
+firefox.desktop
+V 21
+file p-64.0.r64/29000
+K 6
+kde.js
+V 21
+file r-64.0.r64/29221
+K 41
+mozilla-firefox-1.5-software-update.patch
+V 21
+file t-64.0.r64/29429
+K 41
+mozilla-firefox-1.5.0.6-systemproxy.patch
+V 21
+file v-64.0.r64/29675
+K 32
+mozilla-firefox-3.0.5-lang.patch
+V 21
+file x-64.0.r64/29920
+K 33
+mozilla-firefox-run-mozilla.patch
+V 22
+file 11-64.0.r64/30396
+K 8
+sha1.lst
+V 19
+file 13-64.0.r831/0
+K 25
+xulrunner-bug626035.patch
+V 22
+file 4-537.0.r537/7760
+K 42
+xulrunner_allow_to_use_system_libffi.patch
+V 22
+file 7-537.0.r537/7991
+K 36
+xulrunner_configure_neon_check.patch
+V 22
+file b-537.0.r537/8474
+K 21
+xulrunner_nojit.patch
+V 22
+file d-537.0.r537/8717
+END
+ENDREP
+id: 4-64.0.r833/1135
+type: dir
+pred: 4-64.0.r832/1200
+count: 30
+text: 833 0 1122 1122 15c140abcc0376f1ade9724cdea8cc2f
+cpath: /cauldron/firefox/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-64.0.r833/1135
+K 5
+SPECS
+V 21
+dir 15-64.0.r666/2286
+END
+ENDREP
+id: 2-64.0.r833/1402
+type: dir
+pred: 2-64.0.r832/1467
+count: 57
+text: 833 1310 79 79 c3e4cfae786af8319d0e07ddef72555e
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r833/1402
+K 8
+pristine
+V 21
+dir 2-64.0-676.r676/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r677/580
+END
+ENDREP
+id: 1-63.0.r833/1795
+type: dir
+pred: 1-63.0.r832/1860
+count: 111
+text: 833 1622 160 160 04a80195aa8ae3959756370eff8deb16
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r818/1150
+K 7
+firefox
+V 20
+dir 1-63.0.r833/1795
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r811/1382
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r795/1247
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r830/1179
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r826/1252
+K 7
+systemd
+V 19
+dir 1-70.0.r822/947
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r833/2347
+type: dir
+pred: 0-1.0.r832/2412
+count: 829
+text: 833 1956 378 378 e5bab10cdedad094ca0874928381c50c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r833/2347
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r833/2591
+type: dir
+pred: 0.0.r832/2656
+count: 833
+text: 833 2498 80 80 a283fa2daaee71241a6a3c8cfed05324
+cpath: /
+copyroot: 0 /
+
+4-664.0.r664/224 delete-file false false /cauldron/firefox/current/SOURCES/firefox-4.0.1.source.tar.bz2.asc
+
+
+2591 2728

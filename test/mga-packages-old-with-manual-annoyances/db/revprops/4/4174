@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-18T21:50:25.851449Z
+K 7
+svn:log
+V 103
+allow 64 cores/threads on desktop586 kernel too (as its also used in installer and on live i586 images)
+END

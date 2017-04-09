@@ -1,0 +1,144 @@
+id: 2-28.0-674.r674/0
+type: dir
+pred: 2-28.0.r671/609
+count: 33
+text: 671 518 78 0 44cb598b4574e03e7aa8642faa5a6f7e
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/172/4.mga2
+copyfrom: 671 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-28.0-616.r616/0
+K 6
+2.mga2
+V 21
+dir 2-28.0-656.r656/0
+K 6
+3.mga2
+V 21
+dir 2-28.0-660.r660/0
+K 6
+4.mga2
+V 21
+dir 2-28.0-674.r674/0
+END
+ENDREP
+id: 3-613.0.r674/419
+type: dir
+pred: 3-613.0.r660/381
+count: 4
+text: 674 250 156 0 1b71d84c22a199052a0966458301fa85
+cpath: /cauldron/udev/releases/172
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+END
+ENDREP
+id: 1f-28.0.r674/734
+type: dir
+pred: 1f-28.0.r660/696
+count: 16
+text: 674 585 136 0 12743dbe96ff73adaf052b5abd1ae22a
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-28.0.r671/609
+K 8
+pristine
+V 21
+dir 2-28.0-673.r673/0
+K 8
+releases
+V 20
+dir 1f-28.0.r674/734
+END
+ENDREP
+id: 1-27.0.r674/1030
+type: dir
+pred: 1-27.0.r673/372
+count: 74
+text: 674 897 120 0 c003a3b9233c323d2d4833c641b949af
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r670/1434
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r667/1521
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 19
+dir 1-40.0.r639/954
+K 4
+udev
+V 20
+dir 1-27.0.r674/1030
+END
+ENDREP
+id: 0-1.0.r674/1429
+type: dir
+pred: 0-1.0.r673/768
+count: 653
+text: 674 1183 233 0 575d1705ae27a3e40136fd00dfed1339
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r674/1429
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r674/1671
+type: dir
+pred: 0.0.r673/1007
+count: 674
+text: 674 1577 81 0 d49718fe69ad57e06beabc1914c4e3cb
+cpath: /
+copyroot: 0 /
+
+2-28._0.t673-ip add-dir false false /cauldron/udev/releases/172/4.mga2
+671 /cauldron/udev/current
+
+1671 1807

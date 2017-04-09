@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-21T13:42:11.230702Z
+K 7
+svn:log
+V 128
+- prepare for 3.0 final
+- drop uclevel define as its unused
+- drop kstable defines as sublevel will be used for stable patches
+
+
+END

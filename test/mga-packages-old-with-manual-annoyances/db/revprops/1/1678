@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-03-24T17:30:48.557007Z
+K 7
+svn:log
+V 90
+Hopefully address issues with fireware loading timeouts until kernel fixes come (mga#4557)
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-25T22:57:12.228274Z
+K 7
+svn:log
+V 165
+- Upstream fixes needed for upcoming gcc-4.7.1
+  * Fix warnings in regex (P60)
+  * Fix up regcomp/regexec (P61)
+  * Fix regex incomplete multi-byte character (P62)
+
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-05T23:03:31.573388Z
+K 7
+svn:log
+V 426
+- add support for booting without initrd
+  * https://wiki.mageia.org/en/Feature:BootSansRamdisk
+  * works on ahci controllers, with ext4 and btrfs filesystems
+  * theese options are now builtin: CONFIG_SCSI_MOD, CONFIG_SCSI,
+    CONFIG_BLK_DEV_SD, CONFIG_ATA, CONFIG_SATA_AHCI, CONFIG_EXT4_FS,
+    CONFIG_JBD2, CONFIG_BTRFS_FS, CONFIG_CRYPTO_CRC32C, CONFIG_CRC16,
+    CONFIG_CRC_T10DIF, CONFIG_LIBCRC32C, CONFIG_ZLIB_DEFLATE
+
+
+END

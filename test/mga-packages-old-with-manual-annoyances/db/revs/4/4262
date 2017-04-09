@@ -1,0 +1,48 @@
+id: 0-1.0-4262.r4262/0
+type: dir
+pred: 0-1.0.r4260/3446
+count: 3769
+text: 4260 3192 241 0 8644e92624e1cdb9158352492d43b004
+cpath: /obsolete/cauldron
+copyfrom: 4261 /cauldron
+
+PLAIN
+K 8
+cauldron
+V 22
+dir 0-1.0-4262.r4262/0
+END
+ENDREP
+id: 0-4261.0.r4262/233
+type: dir
+pred: 0-4261.0.r4261/0
+count: 1
+text: 4262 175 45 0 6cbb4b084ed1804ae9e9f0f164648608
+cpath: /obsolete
+copyroot: 0 /
+
+PLAIN
+K 8
+obsolete
+V 22
+dir 0-4261.0.r4262/233
+K 7
+updates
+V 23
+dir 0-539.0.r4240/17089
+END
+ENDREP
+id: 0.0.r4262/482
+type: dir
+pred: 0.0.r4261/208
+count: 4262
+text: 4262 383 86 0 e0eeed3ef809e313e30e385a391dab6d
+cpath: /
+copyroot: 0 /
+
+0-1.0.r4260/3446 delete-dir false false /cauldron
+
+0-1._0.t4261-3ad add-dir false false /obsolete/cauldron
+4261 /cauldron
+
+482 619

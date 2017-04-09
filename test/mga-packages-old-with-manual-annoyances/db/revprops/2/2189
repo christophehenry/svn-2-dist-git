@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2012-07-23T11:00:03.360033Z
+K 7
+svn:log
+V 99
+add a nscd.conf file in tmpfiles.d to create the nscd dir in /var/run (now in tmpfs), from openSUSE
+END

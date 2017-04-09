@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-18T23:37:23.793109Z
+K 7
+svn:log
+V 173
+- update desktop(586) summaries and descriptions to point out that only
+  3-3.5GB RAM is detected on 32bit, and that server kernel is needed to
+  fully support 4GB or more
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T22:27:33.780491Z
+K 7
+svn:log
+V 50
+add rts_pstor Realtek PCIe card reader (mga #3210)
+END

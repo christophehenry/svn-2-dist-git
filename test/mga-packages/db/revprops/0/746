@@ -1,0 +1,68 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-19T18:22:07.688002Z
+K 7
+svn:log
+V 2805
+- merge current stable queue:
+  * ARM: zImage: make sure the stack is 64-bit aligned
+  * ASoC: SSM2602: Fix 'Mic Boost2' control
+  * ASoC: UDA134x: Remove POWER_OFF_ON_STANDBY define
+  * block: rescan partitions on invalidated devices on -ENOMEDIA too
+  * can: fix SJA1000 dlc for RTR packets
+  * cdrom: always check_disk_change() on open
+  * cifs: add fallback in is_path_accessible for old servers
+  * cifs: Fix memory over bound bug in cifs_parse_mount_options
+  * clocksource: Install completely before selecting
+  * dccp: handle invalid feature options length (CVE-2011-1770)
+  * drm/radeon/kms: fix extended lvds info parsing
+  * ehea: Fix memory hotplug oops
+  * ehea: fix wrongly reported speed and port
+  * media: Fix cx88 remote control input
+  * hydra: Fix regression caused during net_device_ops conversion
+  * ipheth: Properly distinguish length and alignment in URBs and skbs
+  * libata: fix oops when LPM is used with PMP
+  * libertas: fix cmdpendingq locking
+  * megaraid_sas: Sanity check user supplied length before passing it to
+    dma_alloc_coherent()
+  * mm: use alloc_bootmem_node_nopanic() on really needed path
+  * ne-h8300: Fix regression caused during net_device_ops conversion
+  * net: dev_close() should check IFF_UP
+  * net: ip_expire() must revalidate route (CVE-2011-1927)
+  * net: slip, fix ldisc->open retval
+  * PCH_GbE : Fixed the issue of checksum judgment
+  * PCH_GbE : Fixed the issue of collision detection
+  * pch_gbe: support ML7223 IOH
+  * PM: Fix warning in pm_restrict_gfp_mask() during SNAPSHOT_S2RAM ioctl
+  * PM / Hibernate: Fix ioctl SNAPSHOT_S2RAM
+  * PM / Hibernate: Make snapshot_release() restore GFP mask
+  * rapidio: fix default routing initialization
+  * Revert "mmc: fix a race between card-detect rescan and clock-gate work
+    instances"
+  * rtc-s3c: fixup wake support for rtc
+  * scsi: Revert "[SCSI] Retrieve the Caching mode page"
+  * Revert "x86, AMD: Fix APIC timer erratum 400 affecting K8 Rev.A-E
+    processors"
+  * slcan: fix ldisc->open retval
+  * tick: Clear broadcast active bit when switching to oneshot
+  * tmpfs: fix off-by-one in max_blocks checks
+  * tmpfs: fix race between swapoff and writepage
+  * tmpfs: fix race between umount and swapoff
+  * tmpfs: fix race between umount and writepage
+  * tmpfs: fix spurious ENOSPC when racing with unswap
+  * media/v4l: Release module if subdev registration fails
+  * vmxnet3: Consistently disable irqs when taking adapter->cmd_lock
+  * vmxnet3: Fix inconsistent LRO state after initialization
+  * x86, AMD: Fix ARAT feature setting again
+  * x86, apic: Fix spurious error interrupts triggering on all non-boot APs
+  * x86: Fix UV BAU for non-consecutive nasids
+  * x86, mce, AMD: Fix leaving freed data in a list
+  * zorro8390: Fix regression caused during net_device_ops conversion
+
+
+END

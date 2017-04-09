@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2011-04-06T14:53:57.215901Z
+K 7
+svn:log
+V 134
+- import arm support. The kernel can build iop32x, kirkwood and versatile (qemu)
+  kernels but build only kirkwood and versatile atm.
+
+END

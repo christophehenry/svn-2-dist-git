@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-28T22:17:32.501375Z
+K 7
+svn:log
+V 138
+- update to latest upstream git including: drm/i915: Disable RC6 on 
+  Sandybridge by default (371de6e4e0042adf4f9b54c414154f57414ddd37)
+
+
+END

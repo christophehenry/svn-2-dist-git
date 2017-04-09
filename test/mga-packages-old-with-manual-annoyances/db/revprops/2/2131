@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-18T18:34:08.213490Z
+K 7
+svn:log
+V 344
+- merge glibc-2.16 branch:
+  * update to 2.16.0
+  * rediff P4, P6, P12, P28, P30, P31, P38, P44
+  * drop P49 (rpc change revert) as its replaced by
+    '--enable-obsolete-rpc' configure flag
+  * drop P48, P60-P62 (merged upstream)
+  * disable broken pdf doc build for now
+  * update filelists
+  * drop obsolete defattr and buildroot from spec
+
+
+END

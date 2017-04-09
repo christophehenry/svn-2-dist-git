@@ -1,0 +1,895 @@
+id: 6-558.0-540.r558/0
+type: file
+count: 0
+text: 557 0 855 1713 4c1b2ffe24a90a53af82f82aa6b1e453 4ebe6b18554ad9cfd254c208d6efd469d667b54b 557-fh/_8
+cpath: /updates/1/kernel/current/PATCHES/patches/fs-proc-restrict-access-to-proc-PID-io_CVE-2011-2495.patch
+copyroot: 540 /updates/1
+
+id: 68-51.0-540.r558/282
+type: file
+pred: 68-51.0-540.r556/316
+count: 73
+text: 557 868 95 12124 0c98ecbbfa12e1f31c1ed60f689fdc31 ed8ccd892b29e33185244fd528d4ea062e1f8c10 557-fh/_9
+cpath: /updates/1/kernel/current/PATCHES/patches/series
+copyroot: 540 /updates/1
+
+PLAIN
+K 27
+3rd-3rdparty-1.0-tree.patch
+V 22
+file t-51.0.r51/731654
+K 24
+3rd-3rdparty-merge.patch
+V 20
+file w-51.0.r221/274
+K 23
+3rd-acerhk-0.5.35.patch
+V 22
+file y-51.0.r51/732135
+K 32
+3rd-acerhk-2.6.36-buildfix.patch
+V 23
+file 10-51.0.r51/732376
+K 29
+3rd-acerhk-extra-cflags.patch
+V 23
+file 12-51.0.r51/732623
+K 47
+3rd-acerhk-fix-build-with-function-tracer.patch
+V 23
+file 14-51.0.r51/732868
+K 28
+3rd-acerhk-fix-include.patch
+V 21
+file 5-227.0.r227/534
+K 23
+3rd-acerhk-kbuild.patch
+V 23
+file 16-51.0.r51/733130
+K 37
+3rd-acerhk-proc_dir_entry-owner.patch
+V 23
+file 18-51.0.r51/733369
+K 24
+3rd-aes2501-kbuild.patch
+V 23
+file 1a-51.0.r51/733622
+K 21
+3rd-aes2501-r19.patch
+V 23
+file 1c-51.0.r51/733862
+K 32
+3rd-aes2501-rmmod-oops-fix.patch
+V 23
+file 1e-51.0.r51/734102
+K 30
+3rd-heci-2.6.36-buildfix.patch
+V 23
+file 1g-51.0.r51/734349
+K 23
+3rd-heci-3.2.0.24.patch
+V 23
+file 1i-51.0.r51/734595
+K 28
+3rd-heci-WARN-redefine.patch
+V 23
+file 1k-51.0.r51/734838
+K 26
+3rd-heci-use-sched.h.patch
+V 23
+file 1m-51.0.r51/735082
+K 26
+3rd-ndiswrapper-1.56.patch
+V 23
+file 1o-51.0.r51/735324
+K 37
+3rd-ndiswrapper-2.6.35-buildfix.patch
+V 23
+file 1q-51.0.r51/735571
+K 37
+3rd-ndiswrapper-2.6.36-buildfix.patch
+V 23
+file 1s-51.0.r51/735825
+K 29
+3rd-ndiswrapper-Kconfig.patch
+V 23
+file 1u-51.0.r51/736078
+K 40
+3rd-ndiswrapper-Makefile-build-fix.patch
+V 23
+file 1w-51.0.r51/736322
+K 47
+3rd-ndiswrapper-dma_addr_t-print-warn-fix.patch
+V 23
+file 1y-51.0.r51/736578
+K 45
+3rd-ndiswrapper-fix-wrapndis.c-includes.patch
+V 21
+file 5-225.0.r225/512
+K 22
+3rd-rfswitch-1.3.patch
+V 23
+file 20-51.0.r51/736841
+K 28
+3rd-rfswitch-build-fix.patch
+V 23
+file 22-51.0.r51/737082
+K 21
+3rd-viahss-0.92.patch
+V 23
+file 24-51.0.r51/737326
+K 32
+3rd-viahss-2.6.35-buildfix.patch
+V 23
+file 26-51.0.r51/737564
+K 23
+3rd-viahss-config.patch
+V 23
+file 28-51.0.r51/737812
+K 31
+3rd-viahss-module-license.patch
+V 23
+file 2a-51.0.r51/738050
+K 15
+3rdparty.series
+V 23
+file 2c-51.0.r51/738296
+K 39
+acpi-CLEVO-M360S-disable_acpi_irq.patch
+V 23
+file 2e-51.0.r51/738526
+K 30
+acpi-add-proc-event-regs.patch
+V 21
+file 2g-51.0.r215/272
+K 35
+acpi-dsdt-initrd-v0.9c-2.6.28.patch
+V 23
+file 2i-51.0.r51/739027
+K 34
+acpi-dsdt-initrd-v0.9c-fixes.patch
+V 23
+file 2k-51.0.r51/739279
+K 39
+acpi-processor-M720SR-limit-to-C2.patch
+V 23
+file 2m-51.0.r51/739530
+K 51
+acpi-video-add-blacklist-to-use-vendor-driver.patch
+V 21
+file 2o-51.0.r216/234
+K 30
+arm_fix_bad_udelay_usage.patch
+V 23
+file 8-307.0.r307/29637
+K 38
+ata-ahci-Intel-Panther-Point-ids.patch
+V 22
+file 5-378.0.r378/1105
+K 42
+ata-ata_piix-Intel-Panther-Point-ids.patch
+V 22
+file 8-378.0.r378/1354
+K 55
+block-blkdev_get-should-access-bd_disk-only-after.patch
+V 24
+file 6-544.0-540.r544/60
+K 38
+block-export-blk_-get-put-_queue.patch
+V 25
+file 9-544.0-540.r544/340
+K 46
+bluetooth-hci_usb-disable-isoc-transfers.patch
+V 23
+file 2q-51.0.r51/740052
+K 31
+char-agp-intel-new-Q57-id.patch
+V 21
+file 2s-51.0.r217/452
+K 21
+dm-raid-aliases.patch
+V 22
+file 8-301.0.r301/1768
+K 38
+firewire-ieee1394-module-aliases.patch
+V 21
+file 5-379.0.r379/794
+K 27
+fs-aufs2.1-38-modular.patch
+V 27
+file 5-223.0-374.r374/10671
+K 19
+fs-aufs2.1-38.patch
+V 26
+file 8-223.1-374.r463/2444
+K 91
+fs-ext4-init-timer-earlier-to-avoid-a-kernel-panic-in-__save_error_info_CVE-2011-2493.patch
+V 23
+file 6-556.0-540.r556/0
+K 62
+fs-fat-fix-corrupt-inode-flags-when-remove-attr_sys-flag.patch
+V 25
+file b-544.0-540.r544/605
+K 58
+fs-proc-restrict-access-to-proc-PID-io_CVE-2011-2495.patch
+V 23
+file 6-558.0-540.r558/0
+K 27
+fs-unionfs-2.5.3-oops.patch
+V 22
+file 7-463.0.r463/2769
+K 37
+fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+V 22
+file 9-463.0.r463/3010
+K 25
+fs-unionfs-buildfix.patch
+V 20
+file 5-224.0.r224/90
+K 60
+gpu-drm-Retry-i2c-transfer-of-EDID-block-after-failure.patch
+V 22
+file 5-352.0.r352/8198
+K 62
+gpu-drm-i915-Avoid-unmapping-pages-from-a-NULL-address-s.patch
+V 22
+file 8-352.0.r352/8470
+K 51
+gpu-drm-i915-Enable-GPU-semaphores-by-default.patch
+V 22
+file a-352.0.r352/8747
+K 62
+gpu-drm-i915-Fix-tiling-corruption-from-pipelined-fencin.patch
+V 22
+file c-352.0.r352/9012
+K 62
+gpu-drm-i915-Restore-missing-command-flush-before-interr.patch
+V 22
+file e-352.0.r352/9289
+K 68
+gpu-drm-i915-add-a-no-lvds-quirk-for-the-asus-eeebox-pc-eb1007.patch
+V 25
+file d-544.0-540.r544/892
+K 48
+gpu-drm-i915-dp-Sanity-check-eDP-existence.patch
+V 22
+file g-352.0.r352/9566
+K 27
+gpu-drm-mach64-2.6.31.patch
+V 23
+file 34-51.0.r51/741801
+K 36
+gpu-drm-mach64-2.6.36-buildfix.patch
+V 23
+file 36-51.0.r51/742045
+K 36
+gpu-drm-mach64-2.6.37-buildfix.patch
+V 23
+file 38-51.0.r51/742297
+K 46
+gpu-drm-mach64-fix-for-changed-drm_ioctl.patch
+V 23
+file 3a-51.0.r51/742548
+K 50
+gpu-drm-mach64-fix-for-changed-drm_pci_alloc.patch
+V 23
+file 3c-51.0.r51/742809
+K 26
+gpu-drm-mach64-fixes.patch
+V 23
+file 3e-51.0.r51/743074
+K 20
+gpu-drm-mach64.patch
+V 23
+file 3g-51.0.r51/743317
+K 62
+gpu-drm-radeon-kms-fix-for-radeon-on-systems-4gb-without.patch
+V 26
+file f-544.0-540.r544/1186
+K 55
+gpu-drm-radeon-kms-viewport-height-has-to-be-even.patch
+V 26
+file h-544.0-540.r544/1477
+K 42
+hid-usbhid-IBM-BladeCenterHS20-quirk.patch
+V 23
+file 3i-51.0.r51/743557
+K 57
+hwmon-coretemp-relax-target-temperature-range-check.patch
+V 26
+file j-544.0-540.r544/1762
+K 25
+ide-pci-sis5513-965.patch
+V 23
+file 3k-51.0.r51/743815
+K 35
+include-kbuild-export-pci_ids.patch
+V 23
+file 3m-51.0.r51/744055
+K 26
+init-netbook-Kconfig.patch
+V 22
+file 8-269.0.r269/5360
+K 38
+init-netbook-dont-wait-for-mouse.patch
+V 22
+file b-269.0.r269/5598
+K 35
+init-netbook-retry-root-mount.patch
+V 22
+file d-269.0.r269/5850
+K 52
+kbuild-compress-kernel-modules-on-installation.patch
+V 23
+file 3o-51.0.r51/744305
+K 29
+kbuild_firmware_install.patch
+V 23
+file b-307.0.r307/29884
+K 82
+kernel-taskstats-dont-allow-duplicate-entries-in-listener-mode_CVE-2011-2484.patch
+V 26
+file l-544.0-540.r544/2049
+K 45
+media-video-pwc-lie-in-proc-usb-devices.patch
+V 23
+file 40-51.0.r51/745947
+K 37
+media-video-pwc-no-ads-in-dmesg.patch
+V 23
+file 42-51.0.r51/746207
+K 65
+mm-ksm-fix-race-between-ksmd-and-exiting-task-CVE-2011-2183.patch
+V 26
+file n-544.0-540.r544/2359
+K 20
+mpt-vmware-fix.patch
+V 23
+file 44-51.0.r51/746459
+K 28
+mv643xx_eth_csum_part2.patch
+V 23
+file d-307.0.r307/30129
+K 61
+net-ipv4-inet_diag-fix-inet_diag_bc_audit_CVE-2011-2213.patch
+V 26
+file p-544.0-540.r544/2651
+K 42
+net-netfilter-IFWLOG-2.6.35-buildfix.patch
+V 23
+file 46-51.0.r51/746695
+K 42
+net-netfilter-IFWLOG-2.6.37-buildfix.patch
+V 23
+file 48-51.0.r51/746952
+K 30
+net-netfilter-IFWLOG-mdv.patch
+V 23
+file 4a-51.0.r51/747209
+K 26
+net-netfilter-IFWLOG.patch
+V 23
+file 4c-51.0.r51/747456
+K 29
+net-netfilter-ipset-6.2.patch
+V 23
+file 9-377.0.r377/67434
+K 29
+net-netfilter-ipset-6.4.patch
+V 23
+file c-377.0.r377/67682
+K 39
+net-netfilter-psd-2.6.35-buildfix.patch
+V 23
+file 4g-51.0.r51/747948
+K 27
+net-netfilter-psd-mdv.patch
+V 23
+file 4i-51.0.r51/748202
+K 23
+net-netfilter-psd.patch
+V 23
+file 4k-51.0.r51/748446
+K 49
+net-r8169-Be-verbose-when-unable-to-load-fw.patch
+V 21
+file 5-403.0.r403/906
+K 42
+net-r8169-add-a-new-chip-for-RTL8105.patch
+V 22
+file 9-480.0.r480/7449
+K 44
+net-r8169-add-a-new-chip-for-RTL8168DP.patch
+V 22
+file c-480.0.r480/7704
+K 41
+net-r8169-support-RTL8168E-RTL8111E.patch
+V 22
+file e-480.0.r480/7962
+K 50
+net-r8169-support-the-new-chips-for-RTL8105E.patch
+V 22
+file 5-401.0.r401/2156
+K 31
+net-sis190-fix-list-usage.patch
+V 23
+file 4m-51.0.r51/748687
+K 67
+net-usb-rndis_host-poll-status-channel-before-control-channel.patch
+V 23
+file 4o-51.0.r51/748933
+K 52
+net-wireless-ath9k-Fix-a-locking-related-issue.patch
+V 21
+file 5-250.0.r250/655
+K 54
+net-wireless-ath9k-fix-two-more-bugs-in-tx-power.patch
+V 26
+file r-544.0-540.r544/2939
+K 52
+net-wireless-ath9k-reset-chip-on-baseband-hang.patch
+V 26
+file t-544.0-540.r544/3220
+K 73
+net-wireless-ath9k-set-40-mhz-rate-only-if-hw-is-configured-in-ht40.patch
+V 26
+file v-544.0-540.r544/3501
+K 32
+net-wireless-ath9k-testfix.patch
+V 26
+file x-544.0-540.r544/3804
+K 89
+net-wireless-nl80211-fix-check-for-valid-ssid-size-in-scan-operations_CVE-2011-2517.patch
+V 23
+file z-544.0-554.r554/0
+K 65
+net-wireless-nl80211-fix-overflow-in-ssid_len_CVE-2011-2517.patch
+V 25
+file 7-554.0-540.r554/449
+K 39
+net-wireless-rt2800usb_disable_ps.patch
+V 22
+file 5-375.0.r375/1111
+K 52
+pci-add-ALI-M5229-ide-compatibility-mode-quirk.patch
+V 23
+file 5e-51.0.r51/752540
+K 68
+pci-intel-iommu-add-domain-check-in-domain_remove_one_dev_info.patch
+V 27
+file 11-544.0-540.r544/4366
+K 64
+pci-intel-iommu-check-for-identity-mapping-candidate-using.patch
+V 27
+file 13-544.0-540.r544/4663
+K 49
+pci-intel-iommu-dont-cache-iova-above-32bit.patch
+V 27
+file 15-544.0-540.r544/4958
+K 49
+pci-intel-iommu-flush-unmaps-at-domain_exit.patch
+V 27
+file 17-544.0-540.r544/5240
+K 59
+pci-intel-iommu-only-unlink-device-domains-from-iommu.patch
+V 27
+file 19-544.0-540.r544/5521
+K 62
+pci-intel-iommu-remove-host-bridge-devices-from-identity.patch
+V 27
+file 1b-544.0-540.r544/5812
+K 65
+pci-intel-iommu-speed-up-processing-of-the-identity_mapping.patch
+V 27
+file 1d-544.0-540.r544/6106
+K 58
+pci-intel-iommu-use-coherent-dma-mask-when-requested.patch
+V 27
+file 1f-544.0-540.r544/6403
+K 28
+pci-pciprobe-CardBusNo.patch
+V 23
+file 5g-51.0.r51/752809
+K 41
+platform-x86-add-shuttle-wmi-driver.patch
+V 21
+file 5m-51.0.r218/404
+K 68
+platform-x86-hp-wmi-add-rfkill-support-for-wireless-query-0x1b.patch
+V 22
+file 5-392.0.r392/9303
+K 71
+platform-x86-hp-wmi-allow-setting-input-and-output-buffer-sizes-s.patch
+V 22
+file 8-392.0.r392/9583
+K 71
+platform-x86-hp-wmi-check-query-return-value-in-hp_wmi_perform_qu.patch
+V 22
+file a-392.0.r392/9869
+K 71
+platform-x86-hp-wmi-clear-rfkill-device-pointers-when-appropriate.patch
+V 23
+file c-392.0.r392/10154
+K 70
+platform-x86-hp-wmi-make-rfkill-initialization-failure-non-fatal.patch
+V 23
+file e-392.0.r392/10440
+K 62
+platform-x86-hp-wmi-remove-a-variable-that-is-never-read.patch
+V 23
+file g-392.0.r392/10725
+K 71
+platform-x86-hp-wmi-split-rfkill-initialization-out-of-hp_wmi_bio.patch
+V 23
+file i-392.0.r392/11002
+K 64
+platform-x86-samsung-laptop-Samsung-R410P-backlight-driver.patch
+V 22
+file 5-400.0.r400/2930
+K 60
+platform-x86-samsung-laptop-add-support-for-N230-model.patch
+V 22
+file 8-400.0.r400/3205
+K 76
+platform-x86-samsung-laptop-make-dmi_check_cb-to-return-1-instead-of-0.patch
+V 22
+file a-400.0.r400/3478
+K 33
+platform-x86-samsung-laptop.patch
+V 22
+file 5-212.0.r212/9100
+K 27
+pnp-isapnp-async-init.patch
+V 23
+file 5o-51.0.r51/753856
+K 32
+pnp-pnpbios-off-by-default.patch
+V 23
+file 5q-51.0.r51/754099
+K 67
+revert-dell-laptop-Toggle-the-unsupported-hardware-killswitch.patch
+V 22
+file 5-445.0.r445/1078
+K 45
+revert-usb-option-add-id-for-zte-mf-330.patch
+V 27
+file 1h-544.0-540.r544/6693
+K 55
+scsi-fix-oops-caused-by-queue-refcounting-failure.patch
+V 27
+file 1j-544.0-540.r544/6967
+K 34
+scsi-megaraid-new-sysfs-name.patch
+V 23
+file 5s-51.0.r51/754346
+K 23
+scsi-ppscsi-2.6.2.patch
+V 23
+file 5u-51.0.r51/754595
+K 28
+scsi-ppscsi-mdvbz45393.patch
+V 23
+file 5w-51.0.r51/754838
+K 34
+scsi-ppscsi-sg-helper-update.patch
+V 23
+file 5y-51.0.r51/755081
+K 45
+scsi-ppscsi-update-for-scsi_data_buffer.patch
+V 23
+file 60-51.0.r51/755331
+K 23
+scsi-ppscsi_fixes.patch
+V 23
+file 62-51.0.r51/755593
+K 50
+security-tomoyo-fix-oops-in-tomoyo_mount_acl.patch
+V 27
+file 1l-544.0-540.r544/7254
+K 6
+series
+V 25
+file 68-51.0-540.r558/282
+K 32
+smack-unionfs-deadlock-fix.patch
+V 23
+file 6a-51.0.r51/756543
+K 40
+sound-alsa-hda-ad1884a-hp-dc-model.patch
+V 21
+file 6c-51.0.r327/815
+K 49
+sound-alsa-hda_intel-prealloc-4mb-dmabuffer.patch
+V 23
+file 6e-51.0.r51/757048
+K 33
+sound-bluetooth-SCO-support.patch
+V 23
+file 6g-51.0.r51/757313
+K 64
+usb-cdc-acm-adding-second-acm-channel-support-for-nokia-e7.patch
+V 27
+file 1n-544.0-540.r544/7533
+K 58
+usb-core-tolerate-protocol-stall-during-hub-and-port.patch
+V 27
+file 1p-544.0-540.r544/7828
+K 56
+usb-option-add-alcatel-x200-to-sendsetup-blacklist.patch
+V 27
+file 1r-544.0-540.r544/8118
+K 56
+usb-option-add-blacklist-for-zte-k3765-z-19d2-2002.patch
+V 27
+file 1t-544.0-540.r544/8407
+K 44
+usb-option-add-prolink-ph300-modem-ids.patch
+V 27
+file 1v-544.0-540.r544/8696
+K 44
+usb-option-add-zoom-4597-modem-usb-ids.patch
+V 27
+file 1x-544.0-540.r544/8972
+K 64
+usb-serial-add-another-4n-galaxy.de-pid-to-ftdi_sio-driver.patch
+V 27
+file 1z-544.0-540.r544/9248
+K 38
+usb-storage-redo-incorrect-reads.patch
+V 27
+file 21-544.0-540.r544/9544
+K 53
+usb-storage-unusual_devs-add-id-2.6.37-buildfix.patch
+V 23
+file 6i-51.0.r51/757564
+K 37
+usb-storage-unusual_devs-add-id.patch
+V 23
+file 6k-51.0.r51/757833
+K 55
+usb-usbnet-cdc_ncm-add-missing-.reset_resume-hook.patch
+V 27
+file 23-544.0-540.r544/9815
+K 54
+video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+V 22
+file 7-296.0.r296/7241
+K 47
+video-fb-avoid-oops-when-fw-fb-is-removed.patch
+V 22
+file 9-296.0.r296/7509
+K 50
+video-fix-use-after-free-by-vga16fb-on-rmmod.patch
+V 28
+file 25-544.0-540.r544/10102
+K 23
+video-mageia-logo.patch
+V 22
+file a-177.0.r177/7680
+K 55
+watchdog-iTCO_wdt-add-Intel-Panther-Point-support.patch
+V 22
+file 7-466.0.r466/1338
+K 48
+x86-amd-iommu-fix-3-possible-endless-loops.patch
+V 28
+file 27-544.0-540.r544/10384
+K 58
+x86-amd-iommu-fix-boot-crash-with-hidden-pci-devices.patch
+V 28
+file 29-544.0-540.r544/10664
+K 47
+x86-amd-iommu-use-only-per-device-dma_ops.patch
+V 28
+file 2b-544.0-540.r544/10955
+K 35
+x86-boot-video-80x25-if-break.patch
+V 23
+file 6q-51.0.r51/758622
+K 36
+x86-cpufreq-speedstep-dothan-3.patch
+V 23
+file 6s-51.0.r51/758872
+K 38
+x86-default_poweroff_up_machines.patch
+V 23
+file 6u-51.0.r51/759125
+K 64
+x86-increase-default-minimum-vmalloc-area-by-64MB-to-192MB.patch
+V 21
+file 5-405.0.r405/535
+K 61
+x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+V 23
+file 6w-51.0.r51/759379
+K 46
+x86-pci-toshiba-equium-a60-assign-busses.patch
+V 21
+file 6y-51.0.r214/126
+K 81
+xen-irq-implement-bind_interdomain_evtchn_to_irqhandler-for-backend-drivers.patch
+V 23
+file 7-315.0.r315/24823
+K 32
+xen-network-backend-driver.patch
+V 23
+file 9-315.0.r315/25118
+K 43
+xen-off-by-one-errors-in-multicalls.c.patch
+V 28
+file 2d-544.0-540.r544/11236
+END
+ENDREP
+id: s-51.0-540.r558/14447
+type: dir
+pred: s-51.0-540.r556/14390
+count: 82
+text: 558 544 13890 0 3eef9a5b1d5e04b739e0fe375d425da2
+cpath: /updates/1/kernel/current/PATCHES/patches
+copyroot: 540 /updates/1
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 20
+dir 4-210.0.r210/955
+K 7
+configs
+V 20
+dir i-51.0.r480/7269
+K 7
+patches
+V 25
+dir s-51.0-540.r558/14447
+K 7
+scripts
+V 22
+dir 70-51.0.r315/35171
+END
+ENDREP
+id: 6-51.0-540.r558/14872
+type: dir
+pred: 6-51.0-540.r556/14815
+count: 96
+text: 558 14651 208 0 bf04e9eeead74c533c4485b25b28daaf
+cpath: /updates/1/kernel/current/PATCHES
+copyroot: 540 /updates/1
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r313/109
+K 7
+PATCHES
+V 25
+dir 6-51.0-540.r558/14872
+K 7
+SOURCES
+V 22
+dir 4-6.0-540.r547/653
+K 5
+SPECS
+V 24
+dir 6-6.0-540.r544/26774
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0-540.r558/15295
+type: dir
+pred: 2-6.0-540.r556/15238
+count: 155
+text: 558 15068 214 0 a1781f7162ee1363e3e2ac65babb8f69
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /updates/1/kernel/current
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 24
+dir 2-6.0-540.r558/15295
+K 8
+pristine
+V 20
+dir 2-6.0-470.r470/0
+K 8
+releases
+V 20
+dir 2-14.0.r471/1002
+END
+ENDREP
+id: 1-5.0-540.r558/15673
+type: dir
+pred: 1-5.0-540.r556/15616
+count: 224
+text: 558 15536 124 0 6ab7e0c032354ca1582f485389c7569b
+cpath: /updates/1/kernel
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 24
+dir 1-5.0-540.r558/15673
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r549/1817
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0-540.r558/16108
+type: dir
+pred: 0-1.0-540.r556/16051
+count: 492
+text: 558 15852 243 0 068a0d2a7c654f97f38b5424aa9afdce
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r558/16108
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r558/16371
+type: dir
+pred: 0-539.0.r556/16314
+count: 13
+text: 558 16280 78 0 ffe8dfc3bbcdbdf4674ccb2bf7c3ec77
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r557/16765
+K 7
+updates
+V 22
+dir 0-539.0.r558/16371
+END
+ENDREP
+id: 0.0.r558/16620
+type: dir
+pred: 0.0.r557/17013
+count: 558
+text: 558 16524 83 0 28286fc754095b5d77e065ffc82387cf
+cpath: /
+copyroot: 0 /
+
+_6.0-540.t557-fh add-file true false /updates/1/kernel/current/PATCHES/patches/fs-proc-restrict-access-to-proc-PID-io_CVE-2011-2495.patch
+
+68-51.0-540.t557-fh modify-file true false /updates/1/kernel/current/PATCHES/patches/series
+
+
+16620 16759

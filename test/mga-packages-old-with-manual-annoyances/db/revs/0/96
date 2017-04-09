@@ -1,0 +1,102 @@
+id: 3-96.0.r96/0
+type: dir
+count: 0
+cpath: /cauldron/systemd/releases/18
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 16
+dir 3-96.0.r96/0
+END
+ENDREP
+id: p-41.0.r96/196
+type: dir
+pred: p-41.0.r91/543
+count: 5
+text: 96 88 95 0 6347621b3daae7b77135f31de597f2b1
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-41.0.r95/627
+K 8
+pristine
+V 19
+dir 2-41.0-90.r90/0
+K 8
+releases
+V 18
+dir p-41.0.r96/196
+END
+ENDREP
+id: 1-40.0.r96/482
+type: dir
+pred: 1-40.0.r95/968
+count: 32
+text: 96 354 115 0 a9724239898c6f34fa270665186ab38c
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r26/804
+K 6
+kernel
+V 19
+dir 1-5.0.r65/14068
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+K 7
+systemd
+V 18
+dir 1-40.0.r96/482
+K 4
+udev
+V 18
+dir 1-27.0.r80/824
+END
+ENDREP
+id: 0-1.0.r96/829
+type: dir
+pred: 0-1.0.r95/1316
+count: 95
+text: 96 634 182 0 f29074d3f34b0ae0de7b30ca02283056
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r96/829
+END
+ENDREP
+id: 0.0.r96/1025
+type: dir
+pred: 0.0.r95/1515
+count: 96
+text: 96 972 40 0 5aa31f349045f788932066a92a970ec1
+cpath: /
+copyroot: 0 /
+
+_3.0.t95-2n add-dir false false /cauldron/systemd/releases/18
+
+
+1025 1156

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2012-07-19T17:04:40.647875Z
+K 7
+svn:log
+V 87
+create and own /usr/lib/systemd/ntp-units.d (like in Fedora, useful for systemd >= 186)
+END

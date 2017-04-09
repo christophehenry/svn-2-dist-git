@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T19:40:02.324441Z
+K 7
+svn:log
+V 70
+mm/oom: fix integer overflow of points in oom_badness (CVE-2011-4097)
+
+END

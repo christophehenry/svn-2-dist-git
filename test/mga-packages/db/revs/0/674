@@ -1,0 +1,126 @@
+id: 3-674.0.r674/0
+type: dir
+count: 0
+cpath: /cauldron/firefox/releases/0:4.0.1
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r543/985
+K 7
+0:4.0.1
+V 18
+dir 3-674.0.r674/0
+END
+ENDREP
+id: 19-64.0.r674/184
+type: dir
+pred: 19-64.0.r543/1212
+count: 18
+text: 674 95 76 76 19dcc8dd52361a55d269ee479c82a251
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r666/2553
+K 8
+pristine
+V 21
+dir 2-64.0-542.r542/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r674/184
+END
+ENDREP
+id: 1-63.0.r674/523
+type: dir
+pred: 1-63.0.r666/2947
+count: 105
+text: 674 350 160 160 c6b3a5edb4a62fad1b0bb5f51333d59d
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r674/523
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 20
+dir 1-5.0.r673/11685
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r668/1268
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r669/1352
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 20
+dir 1-43.0.r634/1008
+END
+ENDREP
+id: 0-1.0.r674/1072
+type: dir
+pred: 0-1.0.r673/12236
+count: 670
+text: 674 682 377 377 ee76aae462cc77477921d094764ccc77
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r674/1072
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r674/1316
+type: dir
+pred: 0.0.r673/12483
+count: 674
+text: 674 1223 80 80 7cbc8f560f425228757535014c4f9fe9
+cpath: /
+copyroot: 0 /
+
+_3.0.t673-ip add-dir false false /cauldron/firefox/releases/0:4.0.1
+
+
+1316 1454

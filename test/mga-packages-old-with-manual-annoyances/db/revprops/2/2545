@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-01T23:21:23.689845Z
+K 7
+svn:log
+V 333
+- update to 3.4.17
+- add patches:
+  * DM10: md/raid1: Fix assembling of arrays containing Replacements
+  * DN01, DN02: new QCA alx ethernet driver
+  * DN10: b43: Fix oops on unload when firmware not found
+  * FE02: ext4: fix unjournaled inode bitmap modification
+          (fixes possible data corruption bug)
+- enable ZRAM support
+
+
+END

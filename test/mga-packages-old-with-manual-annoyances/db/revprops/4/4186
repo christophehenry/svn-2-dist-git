@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T02:22:07.402378Z
+K 7
+svn:log
+V 30
+x86 idle: restore mwait_idle()
+END

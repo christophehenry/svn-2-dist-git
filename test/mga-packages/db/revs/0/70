@@ -1,0 +1,68 @@
+id: 1-70.0.r70/0
+type: dir
+count: 0
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 18
+dir 1-63.0.r65/380
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r62/842
+K 3
+rpm
+V 18
+dir 1-11.0.r69/879
+K 7
+systemd
+V 16
+dir 1-70.0.r70/0
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r70/367
+type: dir
+pred: 0-1.0.r69/1286
+count: 69
+text: 70 76 278 278 6079d1f26a253220ca1d3096dabb760d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r70/367
+END
+ENDREP
+id: 0.0.r70/564
+type: dir
+pred: 0.0.r69/1486
+count: 70
+text: 70 511 40 40 e772508a4d2afeb5cf626af450bae9b2
+cpath: /
+copyroot: 0 /
+
+_1.0.t69-1x add-dir false false /cauldron/systemd
+
+
+564 695

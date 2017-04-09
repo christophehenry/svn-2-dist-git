@@ -1,0 +1,34 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-04T16:51:19.398021Z
+K 7
+svn:log
+V 970
+- update to 3.8.13.4
+- add patches:
+  * AX31: iommu: Fix compile warnings with forward declarations
+  * DM05: md/raid10: fix two bugs affecting RAID10 reshape
+  * DN30: bcma: add support for BCM43142
+  * DN40: net/tg3: Avoid delay during MMIO access
+  * DN51: rtlwifi: rtl8192cu: Fix problem in connecting to WEP or WPA(1) networks
+  * FE01: perf: Disable monitoring on setuid processes for regular users
+  * NI30: netfilter: nf_conntrack_ipv6: Plug sk_buff leak in fragment handling
+  * NI50: ipv6: ip6_sk_dst_check() must not assume ipv6 dst (CVE-2013-2232)
+  * NK01: af_key: initialize satype in key_notify_policy_flush() (CVE-2013-2237)
+  * NK02: af_key: fix info leaks in notify messages (CVE-2013-2234)
+- drop merged patches:
+  * AX10, AX11: kvm fixes
+  * DN30: ath9k_htc fix
+  * DN40: rt2800 fix
+  * DS20: usb-audio fix
+- update defconfigs
+  * enable: X86_X2APIC, X86_REROUTE_FOR_BROKEN_BOOT_IRQS, FHANDLE
+  * disable: COMPAT_VDSO (not needed since glibc-2.3.3)
+
+
+END

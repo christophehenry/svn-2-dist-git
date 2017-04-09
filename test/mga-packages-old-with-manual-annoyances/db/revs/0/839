@@ -1,0 +1,176 @@
+id: 2-3.0-839.r839/0
+type: dir
+pred: 2-3.0.r836/2961
+count: 79
+text: 836 2872 76 0 adab6d1c4764944266f10f1398639440
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/releases/3.1.0/0.rc7.1.mga2
+copyfrom: 836 /cauldron/kernel-linus/current
+
+PLAIN
+K 12
+0.rc6.1.mga2
+V 20
+dir 2-3.0-830.r830/0
+K 12
+0.rc7.1.mga2
+V 20
+dir 2-3.0-839.r839/0
+END
+ENDREP
+id: 3-827.0.r839/379
+type: dir
+pred: 3-827.0.r830/337
+count: 2
+text: 839 274 92 0 95fa0db61a172d455dcbeedda602550b
+cpath: /cauldron/kernel-linus/releases/3.1.0
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+K 8
+2.6.38.4
+V 20
+dir 3-368.0.r371/325
+K 8
+2.6.38.5
+V 20
+dir 3-414.0.r417/325
+K 8
+2.6.38.6
+V 20
+dir 3-438.0.r441/325
+K 8
+2.6.38.7
+V 20
+dir 3-474.0.r477/325
+K 8
+2.6.38.8
+V 20
+dir 3-506.0.r552/362
+K 5
+3.0.0
+V 20
+dir 3-582.0.r667/565
+K 5
+3.0.4
+V 20
+dir 3-754.0.r757/322
+K 5
+3.1.0
+V 20
+dir 3-827.0.r839/379
+END
+ENDREP
+id: n-3.0.r839/1106
+type: dir
+pred: n-3.0.r830/1062
+count: 38
+text: 839 554 539 0 d7ba982758b0ac43414dd99fa1504ef3
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r836/2961
+K 8
+pristine
+V 20
+dir 2-3.0-838.r838/0
+K 8
+releases
+V 19
+dir n-3.0.r839/1106
+END
+ENDREP
+id: 1-2.0.r839/1406
+type: dir
+pred: 1-2.0.r838/386
+count: 166
+text: 839 1275 118 0 b89edb170f42516a995f2014431a9ae6
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r809/1599
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r839/1406
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 20
+dir 1-40.0.r835/1066
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r839/1812
+type: dir
+pred: 0-1.0.r838/788
+count: 779
+text: 839 1567 232 0 a0a7d222e200f4d2d3782932c4e839c3
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r839/1812
+K 7
+updates
+V 21
+dir 0-539.0.r811/1995
+END
+ENDREP
+id: 0.0.r839/2054
+type: dir
+pred: 0.0.r838/1027
+count: 839
+text: 839 1960 81 0 acef0b8a7478345e455c70439db52774
+cpath: /
+copyroot: 0 /
+
+2-3._0.t838-na add-dir false false /cauldron/kernel-linus/releases/3.1.0/0.rc7.1.mga2
+836 /cauldron/kernel-linus/current
+
+2054 2190

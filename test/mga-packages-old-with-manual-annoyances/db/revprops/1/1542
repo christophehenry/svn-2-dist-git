@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-25T23:08:44.640084Z
+K 7
+svn:log
+V 362
+- update to 3.2.7
+- drop merged patches AA01-AA28
+- add patches:
+    * DG01: drm/radeon/kms: fix MSI re-arm on rv370+
+    * DP01: PCI: workaround hard-wired bus number
+    * DS20, DS21: fix nonworking r8172u wireless driver in staging (#4491)
+    * DU01: xhci: Fix oops caused by more USB2 ports than USB3 ports
+    * NM01: mac80211: Fix a rwlock bad magic bug
+
+
+END

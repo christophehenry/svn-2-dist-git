@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-04-15T17:46:44.424873Z
+K 7
+svn:log
+V 61
+SILENT: delete file ./SOURCES/rpm-4.6.0-rc1-headerIconv.patch
+END

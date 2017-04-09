@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T19:24:53.653765Z
+K 7
+svn:log
+V 57
+ACPI / PCI / hotplug: Avoid warning when _ADR not present
+END

@@ -1,0 +1,592 @@
+PLAIN
+K 27
+3rd-3rdparty-1.0-tree.patch
+V 22
+file t-51.0.r51/731654
+K 24
+3rd-3rdparty-merge.patch
+V 21
+file w-51.0.r623/2714
+K 23
+3rd-acerhk-0.5.35.patch
+V 22
+file y-51.0.r51/732135
+K 32
+3rd-acerhk-2.6.36-buildfix.patch
+V 23
+file 10-51.0.r51/732376
+K 29
+3rd-acerhk-extra-cflags.patch
+V 23
+file 12-51.0.r51/732623
+K 47
+3rd-acerhk-fix-build-with-function-tracer.patch
+V 23
+file 14-51.0.r51/732868
+K 28
+3rd-acerhk-fix-include.patch
+V 21
+file 5-227.0.r227/534
+K 23
+3rd-acerhk-kbuild.patch
+V 23
+file 16-51.0.r51/733130
+K 37
+3rd-acerhk-proc_dir_entry-owner.patch
+V 23
+file 18-51.0.r51/733369
+K 24
+3rd-aes2501-kbuild.patch
+V 23
+file 1a-51.0.r51/733622
+K 21
+3rd-aes2501-r19.patch
+V 23
+file 1c-51.0.r51/733862
+K 32
+3rd-aes2501-rmmod-oops-fix.patch
+V 23
+file 1e-51.0.r51/734102
+K 30
+3rd-heci-2.6.36-buildfix.patch
+V 23
+file 1g-51.0.r51/734349
+K 23
+3rd-heci-3.2.0.24.patch
+V 23
+file 1i-51.0.r51/734595
+K 28
+3rd-heci-WARN-redefine.patch
+V 23
+file 1k-51.0.r51/734838
+K 26
+3rd-heci-use-sched.h.patch
+V 23
+file 1m-51.0.r51/735082
+K 26
+3rd-ndiswrapper-1.56.patch
+V 23
+file 1o-51.0.r51/735324
+K 37
+3rd-ndiswrapper-2.6.35-buildfix.patch
+V 23
+file 1q-51.0.r51/735571
+K 37
+3rd-ndiswrapper-2.6.36-buildfix.patch
+V 23
+file 1s-51.0.r51/735825
+K 29
+3rd-ndiswrapper-Kconfig.patch
+V 23
+file 1u-51.0.r51/736078
+K 40
+3rd-ndiswrapper-Makefile-build-fix.patch
+V 23
+file 1w-51.0.r51/736322
+K 47
+3rd-ndiswrapper-dma_addr_t-print-warn-fix.patch
+V 23
+file 1y-51.0.r51/736578
+K 45
+3rd-ndiswrapper-fix-wrapndis.c-includes.patch
+V 21
+file 5-225.0.r225/512
+K 22
+3rd-rfswitch-1.3.patch
+V 23
+file 20-51.0.r51/736841
+K 28
+3rd-rfswitch-build-fix.patch
+V 23
+file 22-51.0.r51/737082
+K 21
+3rd-viahss-0.92.patch
+V 23
+file 24-51.0.r51/737326
+K 32
+3rd-viahss-2.6.35-buildfix.patch
+V 23
+file 26-51.0.r51/737564
+K 23
+3rd-viahss-config.patch
+V 23
+file 28-51.0.r51/737812
+K 31
+3rd-viahss-module-license.patch
+V 23
+file 2a-51.0.r51/738050
+K 15
+3rdparty.series
+V 23
+file 2c-51.0.r51/738296
+K 39
+acpi-CLEVO-M360S-disable_acpi_irq.patch
+V 23
+file 2e-51.0.r51/738526
+K 30
+acpi-add-proc-event-regs.patch
+V 22
+file 2g-51.0.r623/2970
+K 35
+acpi-dsdt-initrd-v0.9c-2.6.28.patch
+V 23
+file 2i-51.0.r51/739027
+K 34
+acpi-dsdt-initrd-v0.9c-fixes.patch
+V 23
+file 2k-51.0.r51/739279
+K 39
+acpi-processor-M720SR-limit-to-C2.patch
+V 23
+file 2m-51.0.r51/739530
+K 51
+acpi-video-add-blacklist-to-use-vendor-driver.patch
+V 21
+file 2o-51.0.r216/234
+K 30
+arm_fix_bad_udelay_usage.patch
+V 22
+file 8-307.0.r623/3236
+K 46
+bluetooth-hci_usb-disable-isoc-transfers.patch
+V 23
+file 2q-51.0.r51/740052
+K 31
+char-agp-intel-new-Q57-id.patch
+V 21
+file 2s-51.0.r217/452
+K 21
+dm-raid-aliases.patch
+V 22
+file 8-301.0.r301/1768
+K 38
+firewire-ieee1394-module-aliases.patch
+V 21
+file 5-379.0.r379/794
+K 38
+fs-unionfs-2.5.9.2_for_3.0.0-rc4.patch
+V 23
+file 5-626.0.r626/85970
+K 27
+gpu-drm-mach64-2.6.31.patch
+V 23
+file 34-51.0.r51/741801
+K 36
+gpu-drm-mach64-2.6.36-buildfix.patch
+V 23
+file 36-51.0.r51/742045
+K 36
+gpu-drm-mach64-2.6.37-buildfix.patch
+V 23
+file 38-51.0.r51/742297
+K 46
+gpu-drm-mach64-fix-for-changed-drm_ioctl.patch
+V 23
+file 3a-51.0.r51/742548
+K 50
+gpu-drm-mach64-fix-for-changed-drm_pci_alloc.patch
+V 23
+file 3c-51.0.r51/742809
+K 26
+gpu-drm-mach64-fixes.patch
+V 23
+file 3e-51.0.r51/743074
+K 20
+gpu-drm-mach64.patch
+V 23
+file 3g-51.0.r51/743317
+K 42
+hid-usbhid-IBM-BladeCenterHS20-quirk.patch
+V 23
+file 3i-51.0.r51/743557
+K 25
+ide-pci-sis5513-965.patch
+V 23
+file 3k-51.0.r51/743815
+K 35
+include-kbuild-export-pci_ids.patch
+V 23
+file 3m-51.0.r51/744055
+K 26
+init-netbook-Kconfig.patch
+V 22
+file 8-269.0.r269/5360
+K 38
+init-netbook-dont-wait-for-mouse.patch
+V 22
+file b-269.0.r269/5598
+K 35
+init-netbook-retry-root-mount.patch
+V 22
+file d-269.0.r269/5850
+K 52
+kbuild-compress-kernel-modules-on-installation.patch
+V 23
+file 3o-51.0.r51/744305
+K 29
+kbuild_firmware_install.patch
+V 23
+file b-307.0.r307/29884
+K 45
+media-video-pwc-lie-in-proc-usb-devices.patch
+V 23
+file 40-51.0.r51/745947
+K 37
+media-video-pwc-no-ads-in-dmesg.patch
+V 23
+file 42-51.0.r51/746207
+K 20
+mpt-vmware-fix.patch
+V 23
+file 44-51.0.r51/746459
+K 42
+net-netfilter-IFWLOG-2.6.35-buildfix.patch
+V 23
+file 46-51.0.r51/746695
+K 42
+net-netfilter-IFWLOG-2.6.37-buildfix.patch
+V 23
+file 48-51.0.r51/746952
+K 30
+net-netfilter-IFWLOG-mdv.patch
+V 23
+file 4a-51.0.r51/747209
+K 26
+net-netfilter-IFWLOG.patch
+V 23
+file 4c-51.0.r51/747456
+K 39
+net-netfilter-psd-2.6.35-buildfix.patch
+V 23
+file 4g-51.0.r51/747948
+K 27
+net-netfilter-psd-mdv.patch
+V 22
+file 4i-51.0.r623/3503
+K 23
+net-netfilter-psd.patch
+V 22
+file 4k-51.0.r623/3768
+K 31
+net-sis190-fix-list-usage.patch
+V 23
+file 4m-51.0.r51/748687
+K 32
+net-wireless-ath9k-testfix.patch
+V 21
+file 5-520.0.r520/697
+K 39
+net-wireless-rt2800usb_disable_ps.patch
+V 22
+file 5-375.0.r375/1111
+K 52
+pci-add-ALI-M5229-ide-compatibility-mode-quirk.patch
+V 23
+file 5e-51.0.r51/752540
+K 28
+pci-pciprobe-CardBusNo.patch
+V 23
+file 5g-51.0.r51/752809
+K 41
+platform-x86-add-shuttle-wmi-driver.patch
+V 22
+file 5m-51.0.r623/4030
+K 27
+pnp-isapnp-async-init.patch
+V 23
+file 5o-51.0.r51/753856
+K 32
+pnp-pnpbios-off-by-default.patch
+V 23
+file 5q-51.0.r51/754099
+K 34
+scsi-megaraid-new-sysfs-name.patch
+V 23
+file 5s-51.0.r51/754346
+K 23
+scsi-ppscsi-2.6.2.patch
+V 23
+file 5u-51.0.r51/754595
+K 28
+scsi-ppscsi-mdvbz45393.patch
+V 23
+file 5w-51.0.r51/754838
+K 34
+scsi-ppscsi-sg-helper-update.patch
+V 23
+file 5y-51.0.r51/755081
+K 45
+scsi-ppscsi-update-for-scsi_data_buffer.patch
+V 23
+file 60-51.0.r51/755331
+K 23
+scsi-ppscsi_fixes.patch
+V 23
+file 62-51.0.r51/755593
+K 6
+series
+V 23
+file 68-51.0.r626/86224
+K 32
+smack-unionfs-deadlock-fix.patch
+V 23
+file 6a-51.0.r51/756543
+K 40
+sound-alsa-hda-ad1884a-hp-dc-model.patch
+V 21
+file 6c-51.0.r327/815
+K 49
+sound-alsa-hda_intel-prealloc-4mb-dmabuffer.patch
+V 23
+file 6e-51.0.r51/757048
+K 33
+sound-bluetooth-SCO-support.patch
+V 23
+file 6g-51.0.r51/757313
+K 53
+usb-storage-unusual_devs-add-id-2.6.37-buildfix.patch
+V 23
+file 6i-51.0.r51/757564
+K 37
+usb-storage-unusual_devs-add-id.patch
+V 23
+file 6k-51.0.r51/757833
+K 23
+video-mageia-logo.patch
+V 22
+file a-177.0.r177/7680
+K 35
+x86-boot-video-80x25-if-break.patch
+V 23
+file 6q-51.0.r51/758622
+K 36
+x86-cpufreq-speedstep-dothan-3.patch
+V 22
+file 6s-51.0.r623/4552
+K 38
+x86-default_poweroff_up_machines.patch
+V 23
+file 6u-51.0.r51/759125
+K 64
+x86-increase-default-minimum-vmalloc-area-by-64MB-to-192MB.patch
+V 21
+file 5-405.0.r405/535
+K 61
+x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+V 22
+file 6w-51.0.r623/4827
+K 46
+x86-pci-toshiba-equium-a60-assign-busses.patch
+V 21
+file 6y-51.0.r214/126
+END
+ENDREP
+id: s-51.0.r628/6501
+type: dir
+pred: s-51.0.r626/93141
+count: 104
+text: 628 0 6488 0 8e7e16a1679bd804dbb07984c14de75a
+cpath: /cauldron/kernel/current/PATCHES/patches
+copyroot: 0 /
+
+id: 7-296.0-628.r628/6682
+type: file
+pred: 7-296.0.r296/7241
+count: 1
+text: 296 755 2563 6759 5180c3bd9a17d3bcd5f9592b0a9fb94b ee13ae96cb88d0da446fe8ffeabae21c3bf0ae42 295-87/_8
+cpath: /cauldron/kernel/current/PATCHES/queue/video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+
+id: 9-296.1-628.r628/7072
+type: file
+pred: 9-296.0.r296/7509
+count: 1
+text: 296 3331 3655 11800 9f4146b2e2c19012c8a1e7bb4ba70bf3 9c24ed8a346f6769493c0f2f556701e0ac4b7211 295-87/_a
+cpath: /cauldron/kernel/current/PATCHES/queue/video-fb-avoid-oops-when-fw-fb-is-removed.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-oops-when-fw-fb-is-removed.patch
+
+PLAIN
+K 27
+fs-unionfs-2.5.3-oops.patch
+V 25
+file 7-463.2-627.r627/972
+K 37
+fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+V 26
+file 9-463.3-627.r627/1307
+K 25
+fs-unionfs-buildfix.patch
+V 26
+file 5-224.4-627.r627/1664
+K 54
+video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+V 26
+file 7-296.0-628.r628/6682
+K 47
+video-fb-avoid-oops-when-fw-fb-is-removed.patch
+V 26
+file 9-296.1-628.r628/7072
+END
+ENDREP
+id: 6-627.0.r628/7846
+type: dir
+pred: 6-627.0.r627/2213
+count: 1
+text: 628 7450 383 0 4ae769ba2fbb163a63c6a62e9db7ed39
+cpath: /cauldron/kernel/current/PATCHES/queue
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 20
+dir 4-210.0.r627/794
+K 7
+configs
+V 20
+dir i-51.0.r480/7269
+K 7
+patches
+V 20
+dir s-51.0.r628/6501
+K 5
+queue
+V 21
+dir 6-627.0.r628/7846
+K 7
+scripts
+V 22
+dir 70-51.0.r315/35171
+END
+ENDREP
+id: 6-51.0.r628/8279
+type: dir
+pred: 6-51.0.r627/2623
+count: 119
+text: 628 8026 240 0 a2cc53bf81990c451ffd24982fbebca1
+cpath: /cauldron/kernel/current/PATCHES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r313/109
+K 7
+PATCHES
+V 20
+dir 6-51.0.r628/8279
+K 7
+SOURCES
+V 18
+dir 4-6.0.r589/649
+K 5
+SPECS
+V 19
+dir 6-6.0.r622/8789
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r628/8666
+type: dir
+pred: 2-6.0.r627/3011
+count: 189
+text: 628 8453 200 0 f6da75f7e1d27a7c6d81ff74b429daf1
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r628/8666
+K 8
+pristine
+V 20
+dir 2-6.0-592.r592/0
+K 8
+releases
+V 20
+dir 2-14.0.r593/1191
+END
+ENDREP
+id: 1-5.0.r628/9016
+type: dir
+pred: 1-5.0.r627/3362
+count: 278
+text: 628 8884 119 0 0f8001356e4b2d01af693bf669fabbd6
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r628/9016
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r621/1475
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 20
+dir 1-40.0.r625/1020
+K 4
+udev
+V 19
+dir 1-27.0.r616/913
+END
+ENDREP
+id: 0-1.0.r628/9418
+type: dir
+pred: 0-1.0.r627/3765
+count: 607
+text: 628 9172 233 0 f7e0ddfd1057dfc5af247d69249436cb
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r628/9418
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r628/9661
+type: dir
+pred: 0.0.r627/4009
+count: 628
+text: 628 9567 81 0 322126137419493ed27d247a05f72bfa
+cpath: /
+copyroot: 0 /
+
+7-296.0.r296/7241 delete-file false false /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+
+9-296.0.r296/7509 delete-file false false /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-oops-when-fw-fb-is-removed.patch
+
+7-296._0.t627-hf add-file false false /cauldron/kernel/current/PATCHES/queue/video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+621 /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+9-296._1.t627-hf add-file false false /cauldron/kernel/current/PATCHES/queue/video-fb-avoid-oops-when-fw-fb-is-removed.patch
+621 /cauldron/kernel/current/PATCHES/patches/video-fb-avoid-oops-when-fw-fb-is-removed.patch
+
+9661 9797

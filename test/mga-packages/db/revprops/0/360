@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-06T22:47:20.337747Z
+K 7
+svn:log
+V 143
+- don't set browser.tabs.insertRelatedAfterCurrent to false by default, to be
+  more compliant with upstream (they do spend time on usability)
+
+END

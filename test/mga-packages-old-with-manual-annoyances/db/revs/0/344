@@ -1,0 +1,136 @@
+id: 2-3.0-344.r344/0
+type: dir
+pred: 2-3.0.r338/2922
+count: 26
+text: 338 2755 76 0 bb260e89712f0e300c7c5e21973553f9
+props: 338 2844 65 0 5fbee59a8603377d8135f03d8b58c263
+cpath: /cauldron/kernel-linus/releases/2.6.38.3/1.mga1
+copyfrom: 338 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-344.r344/0
+END
+ENDREP
+id: 3-341.0.r344/325
+type: dir
+pred: 3-341.0.r341/0
+count: 1
+text: 344 271 41 0 8caf83d39f89776e563e2902644c73f4
+cpath: /cauldron/kernel-linus/releases/2.6.38.3
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+END
+ENDREP
+id: n-3.0.r344/750
+type: dir
+pred: n-3.0.r341/348
+count: 15
+text: 344 501 236 0 fa956e5d26ea4492a4a8c0288087235f
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r338/2922
+K 8
+pristine
+V 20
+dir 2-3.0-343.r343/0
+K 8
+releases
+V 18
+dir n-3.0.r344/750
+END
+ENDREP
+id: 1-2.0.r344/1047
+type: dir
+pred: 1-2.0.r343/385
+count: 60
+text: 344 917 117 0 55e85ecec4f830514339dc0ab2e57a1d
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r335/1064
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r344/1047
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r340/2739
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r273/921
+END
+ENDREP
+id: 0-1.0.r344/1450
+type: dir
+pred: 0-1.0.r343/785
+count: 343
+text: 344 1206 231 0 e03fd1d43c9e858456eb431836a2bd3a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r344/1450
+END
+ENDREP
+id: 0.0.r344/1653
+type: dir
+pred: 0.0.r343/985
+count: 344
+text: 344 1598 42 0 f9a5faabfef1d76cb307d10320351b57
+cpath: /
+copyroot: 0 /
+
+2-3._0.t343-9j add-dir false false /cauldron/kernel-linus/releases/2.6.38.3/1.mga1
+338 /cauldron/kernel-linus/current
+
+1653 1788

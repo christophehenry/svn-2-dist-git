@@ -1,0 +1,29 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-12T21:50:41.028619Z
+K 7
+svn:log
+V 699
+- update to 3.12.7
+- update patches:
+  * FR01: reiser4 support
+- drop patches:
+  * FR02: reiser4 fix, merged in FR01
+- add patches:
+  * DA01: ACPI: Blacklist Win8 OSI for some HP laptop 2013 models
+  * DA02: ACPI: Blacklist Win8 OSI for Asus VivoBook X202E (mga#7857)
+  * DA20: ahci: add PCI ID for Marvell 88SE9170 SATA controller
+  * DA21: sata_sis: add missing PM support
+  * DI01: Input: ALPS - change secondary device's name
+  * DI02: Input: ALPS - add support for DualPoint device on Dell XT2
+  * DI03: Input: ALPS - add support for "Dolphin" devices
+  * DU01: xhci: Avoid infinite loop when sg urb requires too many trbs
+  * DU02: xhci: Set scatter-gather limit to avoid failed block writes
+
+
+END

@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-02T10:05:25.179192Z
+K 7
+svn:log
+V 245
+- crypto: algboss - Hold ref count on larval
+- perf: Disable monitoring on setuid processes for regular users
+- UBIFS: prepare to fix a horrid bug
+- UBIFS: fix a horrid bug
+- netfilter: nf_conntrack_ipv6: Plug sk_buff leak in fragment handling
+
+
+END

@@ -1,0 +1,147 @@
+id: o-150.0-3200.r3786/0
+type: file
+pred: o-150.0-3200.r3785/10131
+count: 71
+text: 3784 510 697 331191 6375589a59bab26f9689de752def3a64 2f754aee2621735c2eecbad79754d342c23da517 3785-2x5/_6
+cpath: /updates/3/kernel-tmb/current/SPECS/kernel-tmb.spec
+copyroot: 3200 /updates/3
+
+PLAIN
+K 15
+kernel-tmb.spec
+V 25
+file o-150.0-3200.r3786/0
+END
+ENDREP
+id: n-150.0-3200.r3786/344
+type: dir
+pred: n-150.0-3200.r3785/10483
+count: 71
+text: 3786 275 56 0 40b186e455521efd30bece34aeeb4679
+cpath: /updates/3/kernel-tmb/current/SPECS
+copyroot: 3200 /updates/3
+
+PLAIN
+K 7
+SOURCES
+V 27
+dir 4-150.0-3200.r3785/9926
+K 5
+SPECS
+V 26
+dir n-150.0-3200.r3786/344
+END
+ENDREP
+id: 2-150.0-3200.r3786/649
+type: dir
+pred: 2-150.0-3200.r3785/10793
+count: 101
+text: 3786 545 91 0 a8fd96eae528dea98779c6b6c64420ec
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /updates/3/kernel-tmb/current
+copyroot: 3200 /updates/3
+
+PLAIN
+K 7
+current
+V 26
+dir 2-150.0-3200.r3786/649
+K 8
+pristine
+V 24
+dir 2-150.0-3186.r3186/0
+K 8
+releases
+V 22
+dir r-150.0.r3187/2203
+END
+ENDREP
+id: 1-149.0-3200.r3786/1044
+type: dir
+pred: 1-149.0-3200.r3785/11193
+count: 309
+text: 3786 899 132 0 25911954e72e9feb2478f4688eac0ba4
+cpath: /updates/3/kernel-tmb
+copyroot: 3200 /updates/3
+
+PLAIN
+K 5
+glibc
+V 25
+dir 1-7.0-3200.r3708/5525
+K 6
+kernel
+V 25
+dir 1-5.0-3200.r3772/1632
+K 12
+kernel-linus
+V 25
+dir 1-2.0-3200.r3783/5360
+K 10
+kernel-tmb
+V 27
+dir 1-149.0-3200.r3786/1044
+K 7
+systemd
+V 27
+dir 1-40.0-3200.r3714/18222
+END
+ENDREP
+id: 0-1.0-3200.r3786/1477
+type: dir
+pred: 0-1.0-3200.r3785/11629
+count: 2964
+text: 3786 1234 230 0 7743fd019b11f40b9789221f292fb756
+cpath: /updates/3
+copyroot: 3200 /updates/3
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1468/2339
+K 1
+2
+V 25
+dir 0-1.0-1912.r3782/2735
+K 1
+3
+V 25
+dir 0-1.0-3200.r3786/1477
+K 7
+infra_1
+V 24
+dir 0-1.0-541.r3268/2371
+END
+ENDREP
+id: 0-539.0.r3786/1823
+type: dir
+pred: 0-539.0.r3785/11977
+count: 399
+text: 3786 1654 156 0 74954de721dd5404604522439b26821d
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3784/4217
+K 7
+updates
+V 22
+dir 0-539.0.r3786/1823
+END
+ENDREP
+id: 0.0.r3786/2075
+type: dir
+pred: 0.0.r3785/12231
+count: 3786
+text: 3786 1979 83 0 8f423f1f832da66c0243d9272d28d7bc
+cpath: /
+copyroot: 0 /
+
+o-150.0-3200.t3785-2x5 modify-file true false /updates/3/kernel-tmb/current/SPECS/kernel-tmb.spec
+
+
+2075 2216

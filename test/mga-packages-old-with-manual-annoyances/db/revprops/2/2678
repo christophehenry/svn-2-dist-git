@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-01-05T00:42:32.959796Z
+K 7
+svn:log
+V 80
+conflict dkms packages that does not support kernel-3.4 to help upgrade ordering
+END

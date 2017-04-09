@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-19T23:18:38.942157Z
+K 7
+svn:log
+V 108
+- xfs: dont serialise direct IO reads on page cache 
+  (fixes performance regression introduced in 2.6.38)
+
+
+END

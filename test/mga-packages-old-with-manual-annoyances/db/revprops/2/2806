@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-08T21:49:56.794100Z
+K 7
+svn:log
+V 56
+- update to 3.8-rc7
+- sync defconfigs with core kernel
+
+
+END

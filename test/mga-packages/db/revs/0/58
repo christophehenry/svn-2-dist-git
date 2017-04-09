@@ -1,0 +1,86 @@
+id: 2-57.0-58.r58/0
+type: dir
+pred: 2-57.0.r57/14087
+count: 1
+text: 57 13919 78 78 8c3c08d3c9359669cd8dda50768ba7cb
+props: 57 14010 64 64 6e5ef6d91e89529eecc02600dd77d1ed
+cpath: /cauldron/nss/pristine@
+copyfrom: 57 /cauldron/nss/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-57.0.r57/14087
+K 9
+pristine@
+V 19
+dir 2-57.0-58.r58/0
+K 8
+releases
+V 20
+dir t-57.0.r57/14280
+END
+ENDREP
+id: 1-56.0.r58/371
+type: dir
+pred: 1-56.0.r57/14459
+count: 2
+text: 58 238 120 120 329a89d3a2c47ab1d790fcc733bb8332
+cpath: /cauldron/nss
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r58/371
+K 3
+rpm
+V 18
+dir 1-11.0.r37/841
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r58/743
+type: dir
+pred: 0-1.0.r57/14831
+count: 57
+text: 58 522 208 208 e42ad3aa2ecf873fc502372643e34545
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r58/743
+END
+ENDREP
+id: 0.0.r58/942
+type: dir
+pred: 0.0.r57/15034
+count: 58
+text: 58 889 40 40 aac4fddaba1b9d30e7091ebddfed46d7
+cpath: /
+copyroot: 0 /
+
+2-57._0.t57-1l add-dir false false /cauldron/nss/pristine@
+57 /cauldron/nss/current
+
+942 1074

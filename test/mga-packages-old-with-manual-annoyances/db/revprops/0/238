@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-20T23:16:11.477044Z
+K 7
+svn:log
+V 595
+- update to 2.6.37.4 (CVE-2011-1013, CVE-2011-1019, CVE-2011-1076)
+- drop merged patch:
+    * NI01
+- add patches:
+    * AX10: x86, quirk: Fix SB600 revision check
+    * DA01: ahci: AHCI mode SATA patch for Intel DH89xxCC DeviceIDs
+    * DA02: ahci: AHCI mode SATA patch for Intel Patsburg SATA RAID controller
+    * DA03: ahci: recognize Marvell 88se9125 PCIe SATA 6.0 Gb/s controller
+    * DG01: drm: Hold the mode mutex whilst probing for sysfs status
+    * DG02: drm/i915: Fix calculation of backlight value in combined mode
+- drop S5, not needed anymore as we ship unprepared kernel-source
+
+
+END

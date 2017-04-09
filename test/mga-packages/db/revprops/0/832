@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-06-20T18:49:09.382736Z
+K 7
+svn:log
+V 55
+SILENT: delete file ./SOURCES/xulrunner_bug634594.patch
+END

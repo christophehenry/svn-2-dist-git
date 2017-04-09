@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/116
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 66 37 37 abe1ed93a4e7e84b8cd81349d81a0a20
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /cauldron
+
+
+116 240

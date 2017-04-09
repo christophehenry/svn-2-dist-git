@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-15T20:10:10.265786Z
+K 7
+svn:log
+V 93
+- net: ax88179_178a: add ASIX AX88179_178A USB 3.0/2.0 to gigabit ethernet
+  adapter driver
+
+
+END

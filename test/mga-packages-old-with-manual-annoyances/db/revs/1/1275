@@ -1,0 +1,91 @@
+id: 2-1275.0.r1275/0
+type: dir
+count: 0
+cpath: /cauldron/glibc/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2-1275.0.r1275/0
+K 7
+current
+V 19
+dir 2-8.0.r1262/996
+K 8
+pristine
+V 22
+dir 2-8.0-1264.r1264/0
+K 8
+releases
+V 20
+dir 35-8.0.r1265/776
+END
+ENDREP
+id: 1-7.0.r1275/260
+type: dir
+pred: 1-7.0.r1265/1074
+count: 67
+text: 1275 87 160 0 6bbc2dcfe30db0168ab0311459a16ab1
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r1275/260
+K 6
+kernel
+V 20
+dir 1-5.0.r1274/1790
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1243/1643
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1246/1328
+K 7
+systemd
+V 21
+dir 1-40.0.r1270/1677
+K 4
+udev
+V 21
+dir 1-27.0.r1195/1047
+END
+ENDREP
+id: 0-1.0.r1275/666
+type: dir
+pred: 0-1.0.r1274/2201
+count: 1166
+text: 1275 414 239 0 2022a249fb909cf3767c2de37f4d07e3
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r1275/666
+K 7
+updates
+V 23
+dir 0-539.0.r1255/29516
+END
+ENDREP
+id: 0.0.r1275/913
+type: dir
+pred: 0.0.r1274/2450
+count: 1275
+text: 1275 817 83 0 ffade2205bccbb609ec4d2767caa44d0
+cpath: /
+copyroot: 0 /
+
+_2.0.t1274-ze add-dir false false /cauldron/glibc/branches
+
+
+913 1051

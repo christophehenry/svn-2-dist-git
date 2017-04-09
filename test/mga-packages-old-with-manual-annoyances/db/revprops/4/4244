@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-02-01T17:33:44.071711Z
+K 7
+svn:log
+V 87
+disable broken pci-pciprobe-CardBusNo change, should be done as DMI matching (mga#6077)
+END

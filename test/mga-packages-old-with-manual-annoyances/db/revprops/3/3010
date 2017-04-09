@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2013-04-10T18:44:28.255737Z
+K 7
+svn:log
+V 62
+- put zsmalloc as built-in on arm to workaround build failure
+
+END

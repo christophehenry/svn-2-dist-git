@@ -1,0 +1,152 @@
+id: 2-41.0-958.r958/0
+type: dir
+pred: 2-41.0.r955/14751
+count: 53
+text: 955 14658 80 0 db9f7ff6d5ad7fd9343cff16e2f9ef27
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/37/3.mga2
+copyfrom: 955 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-907.r907/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-917.r917/0
+K 6
+3.mga2
+V 21
+dir 2-41.0-958.r958/0
+END
+ENDREP
+id: 3-904.0.r958/389
+type: dir
+pred: 3-904.0.r917/347
+count: 3
+text: 958 258 118 0 3e0ce6028c42c1b33487538de110b7d3
+cpath: /cauldron/systemd/releases/37
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 20
+dir 3-904.0.r958/389
+END
+ENDREP
+id: p-41.0.r958/799
+type: dir
+pred: p-41.0.r917/756
+count: 21
+text: 958 557 229 0 43b48856b876f7c7a79400153ebf419f
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-41.0.r955/14751
+K 8
+pristine
+V 21
+dir 2-41.0-957.r957/0
+K 8
+releases
+V 19
+dir p-41.0.r958/799
+END
+ENDREP
+id: 1-40.0.r958/1097
+type: dir
+pred: 1-40.0.r957/382
+count: 103
+text: 958 963 121 0 26ad32585272db5548afa715cd63ba8c
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r954/942
+K 6
+kernel
+V 19
+dir 1-5.0.r934/1537
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r927/1541
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r944/1276
+K 7
+systemd
+V 20
+dir 1-40.0.r958/1097
+K 4
+udev
+V 19
+dir 1-27.0.r900/947
+END
+ENDREP
+id: 0-1.0.r958/1499
+type: dir
+pred: 0-1.0.r957/781
+count: 884
+text: 958 1254 232 0 9e55516c4c04f275ac4c981023d1c90d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r958/1499
+K 7
+updates
+V 21
+dir 0-539.0.r911/2483
+END
+ENDREP
+id: 0.0.r958/1741
+type: dir
+pred: 0.0.r957/1020
+count: 958
+text: 958 1647 81 0 8dbbb20b7d45689ca88dcaae7c1b77b5
+cpath: /
+copyroot: 0 /
+
+2-41._0.t957-ql add-dir false false /cauldron/systemd/releases/37/3.mga2
+955 /cauldron/systemd/current
+
+1741 1877

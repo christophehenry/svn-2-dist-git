@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-06-30T15:13:02.956391Z
+K 7
+svn:log
+V 72
+Rename systemd-udev.service to systemd-udevd.service (upstream approved)
+END

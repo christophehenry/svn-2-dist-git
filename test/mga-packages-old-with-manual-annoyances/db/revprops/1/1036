@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-08T22:30:14.959574Z
+K 7
+svn:log
+V 123
+- Fix potential removal of required local scope from shared objects
+  marked as NODELETE (patch from opensuse, mga #2526)
+
+
+END

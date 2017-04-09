@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T03:36:05.366109Z
+K 7
+svn:log
+V 97
+- revert: usbcore: set lpm_capable field for LPM capable root hubs 
+  (breaks some usb devices)
+
+
+END

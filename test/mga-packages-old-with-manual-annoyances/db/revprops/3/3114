@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-01T18:33:36.371824Z
+K 7
+svn:log
+V 159
+- update to 3.8.11
+- drop merged patches:
+  * AA01-AA03: stable queue fixes
+- add patch:
+  * DT01: tty: fix up atime/mtime mess, take three (Linus, upstream)
+
+
+END

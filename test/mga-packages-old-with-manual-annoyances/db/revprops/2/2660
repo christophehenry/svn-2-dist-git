@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-12-28T21:57:08.526719Z
+K 7
+svn:log
+V 59
+drop P10 (revert pthread_cond_wait change, merged upstream)
+END

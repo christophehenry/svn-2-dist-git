@@ -1,0 +1,172 @@
+id: 2-64.0-386.r386/0
+type: dir
+pred: 2-64.0.r383/602
+count: 36
+text: 383 511 78 78 e0f2c20a1527e886d357c2e480422679
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.rc1.6.mga1
+copyfrom: 383 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 12
+0.b10.3.mga1
+V 21
+dir 2-64.0-148.r148/0
+K 12
+0.b10.4.mga1
+V 21
+dir 2-64.0-220.r220/0
+K 12
+0.b11.4.mga1
+V 21
+dir 2-64.0-260.r260/0
+K 12
+0.b12.4.mga1
+V 21
+dir 2-64.0-303.r303/0
+K 12
+0.b12.5.mga1
+V 21
+dir 2-64.0-321.r321/0
+K 12
+0.b12.6.mga1
+V 21
+dir 2-64.0-363.r363/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+K 12
+0.rc1.6.mga1
+V 21
+dir 2-64.0-386.r386/0
+END
+ENDREP
+id: 3-110.0.r386/731
+type: dir
+pred: 3-110.0.r363/686
+count: 10
+text: 386 265 453 453 d48eaa7b508dd98a4d5dca958e5a18cf
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r386/731
+END
+ENDREP
+id: 19-64.0.r386/958
+type: dir
+pred: 19-64.0.r363/912
+count: 11
+text: 386 905 40 40 38789ac6d2dd229ed13467fdae7cde72
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-64.0.r383/602
+K 8
+pristine
+V 21
+dir 2-64.0-385.r385/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r386/958
+END
+ENDREP
+id: 1-63.0.r386/1296
+type: dir
+pred: 1-63.0.r385/418
+count: 67
+text: 386 1124 159 159 8cba3c99293959214a58732e7c1226c4
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r386/1296
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r376/952
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r370/1037
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r386/1841
+type: dir
+pred: 0-1.0.r385/960
+count: 385
+text: 386 1455 373 373 eaf9dd72b8a73eabb01c0642db186c6e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r386/1841
+END
+ENDREP
+id: 0.0.r386/2046
+type: dir
+pred: 0.0.r385/1162
+count: 386
+text: 386 1991 42 42 064f458b9559db84a534135ac347d96b
+cpath: /
+copyroot: 0 /
+
+2-64._0.t385-ap add-dir false false /cauldron/firefox/releases/0:4.0/0.rc1.6.mga1
+383 /cauldron/firefox/current
+
+2046 2183

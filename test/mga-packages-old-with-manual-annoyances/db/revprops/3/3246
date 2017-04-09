@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-02T18:58:28.679078Z
+K 7
+svn:log
+V 518
+- update to 3.9.4
+- drop merged patches:
+  * DI01, DI10-DI12, DI20-DI22, DI30-DI31, DI40-DI41
+  *  DI50-DI64, DI70-DI75, DM10, DN10-DN14, DS10
+- update patches:
+  * CK01: -ck1 patchset including BFS 0.430
+  * FR01: Reiser4 support for kernel 3.9
++  * KP01: TuxOnIce 3.3 for kernel 3.9
+- rediff patches:
+  * FO01, FO04: overlayfs support
+  * MB02: 3rdparty tree merge
+- add patches:
+  * DN04: fix up alx AR8161 breakage (mga #10079)
+  * MB13: ndiswrapper buildfix for kernel 3.9
+- update filelists
+- update defconfigs
+
+
+END

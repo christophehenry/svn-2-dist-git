@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-09-24T20:55:48.630607Z
+K 7
+svn:log
+V 113
+- ahci: add ids for Intel Panther Point 1E0E and Marvell 91A3
+- pata_marvell: add ids for Marvell 91A0 and 91A4
+
+
+END

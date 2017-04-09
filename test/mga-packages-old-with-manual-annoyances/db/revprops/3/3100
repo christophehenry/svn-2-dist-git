@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-04-28T14:40:46.317035Z
+K 7
+svn:log
+V 159
+- Fix floating point errors with two upstream cherry picks (mga#9850)
+- Re-enable previously disabled patches now that floating point error is fixed (mga#9689)
+END

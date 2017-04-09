@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-25T13:05:15.969241Z
+K 7
+svn:log
+V 62
+Correct the processing of '\x80' characters in crypt_freesec.c
+END

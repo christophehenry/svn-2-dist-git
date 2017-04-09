@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-02-25T22:17:28.275799Z
+K 7
+svn:log
+V 190
+- i586 server kernel and x86_64 kernels needs to be compressed with gzip
+  so they work with xen (got broken during lzma -> xz update, noted by
+  Guillaume Rousse on mdv kernel-discuss ml)
+
+
+END

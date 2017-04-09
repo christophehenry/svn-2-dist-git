@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-01T00:17:12.555579Z
+K 7
+svn:log
+V 456
+- update to 3.6.5
+- move -doc to Documentation group
+- add patches:
+  * AA01-AA16: stable queue fixes
+  * FE01: ext4: fix unjournaled inode bitmap modification
+          (fixes possible data corruption bug)
+  * NI14: ipt_IFWLOG buildfix
+- update patches:
+  * CK01: -ck1 patchset
+  * FO01-FO13: overlayfs
+  * KP01: TyxOnIce
+- disable patches:
+  * DA20: acpi shuttle-wmi video blacklist (broken)
+- enable ZRAM support
+- update filelists
+- update defconfigs
+
+
+END

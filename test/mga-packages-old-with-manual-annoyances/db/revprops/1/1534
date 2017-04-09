@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-25T17:42:38.322687Z
+K 7
+svn:log
+V 56
+fix nonworking r8172u wireless driver in staging (#4491)
+END

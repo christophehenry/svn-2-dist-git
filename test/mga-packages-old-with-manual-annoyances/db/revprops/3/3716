@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-09-22T17:28:45.868297Z
+K 7
+svn:log
+V 59
+Do not package /run as it's not allowed via rpm-lint checks
+END

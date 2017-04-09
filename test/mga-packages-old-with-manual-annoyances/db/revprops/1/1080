@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-27T15:49:20.956104Z
+K 7
+svn:log
+V 370
+- xfs fixes from upstream:
+  * don't serialise direct IO reads on page cache checks
+    (fixes performance regression introduced in 2.6.38)
+  * avoid direct I/O write vs buffered I/O race
+  * return -EIO when xfs_vn_getattr() failed
+  * fix buffer flushing during unmount
+  * fix possible memory corruption in xfs_readlink
+  * use doalloc flag in xfs_qm_dqattach_one()
+
+
+END

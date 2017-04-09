@@ -1,0 +1,168 @@
+id: 2-3.0-719.r719/0
+type: dir
+pred: 2-3.0.r715/1903
+count: 34
+text: 715 1814 76 76 185a2df3c649c23da476714ca5e5b2eb
+props: 714 1031 65 65 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/releases/2.6.38.6/1.mga1
+copyfrom: 715 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-719.r719/0
+END
+ENDREP
+id: 3-716.0.r719/327
+type: dir
+pred: 3-716.0.r716/0
+count: 1
+text: 719 273 41 41 ec15253361143c7596bea01574961dc3
+cpath: /cauldron/kernel-linus/releases/2.6.38.6
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r391/459
+K 8
+2.6.38.1
+V 20
+dir 3-493.0.r496/326
+K 8
+2.6.38.2
+V 20
+dir 3-520.0.r523/326
+K 8
+2.6.38.3
+V 20
+dir 3-610.0.r613/327
+K 8
+2.6.38.4
+V 20
+dir 3-637.0.r640/327
+K 8
+2.6.38.5
+V 20
+dir 3-692.0.r695/327
+K 8
+2.6.38.6
+V 20
+dir 3-716.0.r719/327
+END
+ENDREP
+id: n-3.0.r719/870
+type: dir
+pred: n-3.0.r716/465
+count: 21
+text: 719 504 353 353 d7c2dffb9479a22b226ecbe52f20e541
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r715/1903
+K 8
+pristine
+V 20
+dir 2-3.0-718.r718/0
+K 8
+releases
+V 18
+dir n-3.0.r719/870
+END
+ENDREP
+id: 1-2.0.r719/1169
+type: dir
+pred: 1-2.0.r718/387
+count: 80
+text: 719 1039 117 117 c13d77ed3f0ec605e3457e82622ca4a4
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r713/1145
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r719/1169
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r710/1944
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r634/1008
+END
+ENDREP
+id: 0-1.0.r719/1721
+type: dir
+pred: 0-1.0.r718/935
+count: 715
+text: 719 1331 377 377 80826da8175fb445545bf8c0d3296712
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r719/1721
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r719/1964
+type: dir
+pred: 0.0.r718/1175
+count: 719
+text: 719 1871 80 80 815f5caaa9ae80772bc0c0f7904a119d
+cpath: /
+copyroot: 0 /
+
+2-3._0.t718-jy add-dir false false /cauldron/kernel-linus/releases/2.6.38.6/1.mga1
+715 /cauldron/kernel-linus/current
+
+1964 2101

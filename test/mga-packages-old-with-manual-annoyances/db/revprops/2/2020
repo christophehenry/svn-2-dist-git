@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-20T21:13:24.525088Z
+K 7
+svn:log
+V 163
+- update to 3.4.3
+- add patch:
+  * AA01: 3.4.4-rc1
+- drop patch:
+  * FE01: ext4 uninit_bg fix (merged)
+- update patch:
+  * CK01: ck2 patchset including BFS 0.423
+
+
+END

@@ -1,0 +1,136 @@
+id: 2-150.0-431.r431/0
+type: dir
+pred: 2-150.0.r424/4395
+count: 19
+text: 424 4302 80 0 e31a848e44ea9ad209eb9d745dcc8bc9
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/2.6.38.5/1.mga1
+copyfrom: 424 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-150.0-431.r431/0
+END
+ENDREP
+id: 3-428.0.r431/327
+type: dir
+pred: 3-428.0.r428/0
+count: 1
+text: 431 271 43 0 24e484a254fc48baf2cce03f9e63b12e
+cpath: /cauldron/kernel-tmb/releases/2.6.38.5
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-152.0.r155/329
+K 8
+2.6.37.4
+V 20
+dir 3-239.0.r242/329
+K 8
+2.6.38.2
+V 20
+dir 3-292.0.r324/365
+K 8
+2.6.38.3
+V 20
+dir 3-348.0.r351/327
+K 8
+2.6.38.4
+V 20
+dir 3-388.0.r391/327
+K 8
+2.6.38.5
+V 20
+dir 3-428.0.r431/327
+END
+ENDREP
+id: r-150.0.r431/752
+type: dir
+pred: r-150.0.r428/348
+count: 13
+text: 431 501 238 0 2a4942f5eb3096e40324d5f7d1a491b6
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r424/4395
+K 8
+pristine
+V 22
+dir 2-150.0-430.r430/0
+K 8
+releases
+V 20
+dir r-150.0.r431/752
+END
+ENDREP
+id: 1-149.0.r431/1057
+type: dir
+pred: 1-149.0.r430/391
+count: 47
+text: 431 921 123 0 6ef1f752759d44ced755ab5f17d34754
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r427/1264
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r417/1125
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r431/1057
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 19
+dir 1-27.0.r365/999
+END
+ENDREP
+id: 0-1.0.r431/1464
+type: dir
+pred: 0-1.0.r430/795
+count: 430
+text: 431 1218 233 0 256af7538a2ded9b324ec0b5889b61ac
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r431/1464
+END
+ENDREP
+id: 0.0.r431/1667
+type: dir
+pred: 0.0.r430/995
+count: 431
+text: 431 1612 42 0 4adaa0cdbccecc019cb53deb4558101b
+cpath: /
+copyroot: 0 /
+
+2-150._0.t430-by add-dir false false /cauldron/kernel-tmb/releases/2.6.38.5/1.mga1
+424 /cauldron/kernel-tmb/current
+
+1667 1802

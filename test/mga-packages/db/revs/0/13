@@ -1,0 +1,78 @@
+id: 2-12.0-13.r13/0
+type: dir
+pred: 2-12.0.r12/80718
+count: 1
+text: 12 80551 79 79 ca03306278c1bce50dc443ec0cd60c7b
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/pristine
+copyfrom: 12 /cauldron/rpm/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-12.0.r12/80718
+K 8
+pristine
+V 19
+dir 2-12.0-13.r13/0
+K 8
+releases
+V 21
+dir 37-12.0.r12/80911
+END
+ENDREP
+id: 1-11.0.r13/370
+type: dir
+pred: 1-11.0.r12/81092
+count: 2
+text: 13 237 120 120 1edabbf080aab5a2dd900dd4da1c46bf
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/359
+K 6
+kernel
+V 17
+dir 1-5.0.r10/777
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 18
+dir 1-11.0.r13/370
+END
+ENDREP
+id: 0-1.0.r13/676
+type: dir
+pred: 0-1.0.r12/81398
+count: 12
+text: 13 521 142 142 7c30c7c938c0e122094840c86e3b6e6e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r13/676
+END
+ENDREP
+id: 0.0.r13/875
+type: dir
+pred: 0.0.r12/81601
+count: 13
+text: 13 822 40 40 c9962dd43cb1885027627fc0d0e47aef
+cpath: /
+copyroot: 0 /
+
+2-12._0.t12-c add-dir false false /cauldron/rpm/pristine
+12 /cauldron/rpm/current
+
+875 1007

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-23T13:09:21.999613Z
+K 7
+svn:log
+V 56
+rt2800: fix RT5390 & RT3290 TX power settings regression
+END

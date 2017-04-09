@@ -1,0 +1,110 @@
+id: 3-134.0.r134/0
+type: dir
+count: 0
+cpath: /cauldron/udev/releases/165
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 19
+dir 3-52.0.r108/342
+K 3
+165
+V 18
+dir 3-134.0.r134/0
+END
+ENDREP
+id: 1f-44.0.r134/170
+type: dir
+pred: 1f-44.0.r108/555
+count: 4
+text: 134 88 69 69 94900ef4952ffd4d0056b1975e7071f3
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-44.0.r133/773
+K 8
+pristine
+V 21
+dir 2-44.0-107.r107/0
+K 8
+releases
+V 20
+dir 1f-44.0.r134/170
+END
+ENDREP
+id: 1-43.0.r134/464
+type: dir
+pred: 1-43.0.r133/1122
+count: 22
+text: 134 331 120 120 adca221c4c45c9818d0e63469b400efa
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 19
+dir 1-63.0.r127/934
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r117/4687
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r134/464
+END
+ENDREP
+id: 0-1.0.r134/922
+type: dir
+pred: 0-1.0.r133/1582
+count: 133
+text: 134 619 290 290 64cddb4158f8db7170b5591213290b37
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r134/922
+END
+ENDREP
+id: 0.0.r134/1125
+type: dir
+pred: 0.0.r133/1788
+count: 134
+text: 134 1071 41 41 d1df484a0329cfcc5cc226677bf7faea
+cpath: /
+copyroot: 0 /
+
+_3.0.t133-3p add-dir false false /cauldron/udev/releases/165
+
+
+1125 1262

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-08T19:40:02.478025Z
+K 7
+svn:log
+V 479
+- update to 2.6.37.3 (CVE-2011-1013, CVE-2011-1076)
+  * drop merged patches:
+    mm-prevent-concurrent-unmap_mapping_range-on-the-same-inode.patch
+    net-ipv4-tcp-fix-inet_twsk_deschedule.patch
+    usb-serial-usb_wwan-fix-tty-null-dereference.patch
+    revert-bluetooth-enable-usb-autosuspend-by-default-on-btusb.patch
+    staging-brcm80211-bugfix-for-softmac-crash-on-multi-cpu-configurations.patch
+    staging-brcm80211-remove-assert-to-avoid-panic-since-2.6.37-kernel.patch
+
+
+END

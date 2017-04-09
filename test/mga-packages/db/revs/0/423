@@ -1,0 +1,164 @@
+id: 2-12.0-423.r423/0
+type: dir
+pred: 2-12.0.r420/4205
+count: 58
+text: 420 4113 79 79 75919790742f6722eeb972a127f21f79
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/8.mga1
+copyfrom: 420 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+K 6
+3.mga1
+V 21
+dir 2-12.0-329.r329/0
+K 6
+4.mga1
+V 21
+dir 2-12.0-345.r345/0
+K 6
+5.mga1
+V 21
+dir 2-12.0-350.r350/0
+K 6
+7.mga1
+V 21
+dir 2-12.0-354.r354/0
+K 6
+8.mga1
+V 21
+dir 2-12.0-423.r423/0
+END
+ENDREP
+id: 3-313.0.r423/539
+type: dir
+pred: 3-313.0.r354/501
+count: 7
+text: 423 256 270 270 4678024262b17ffa608fe0a7c10f1bbe
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r423/539
+END
+ENDREP
+id: 37-12.0.r423/801
+type: dir
+pred: 37-12.0.r354/763
+count: 13
+text: 423 710 78 78 cb0c880288efc12f90763ec9a63b466a
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 20
+dir 2-12.0.r420/4205
+K 8
+pristine
+V 21
+dir 2-12.0-422.r422/0
+K 8
+releases
+V 20
+dir 37-12.0.r423/801
+END
+ENDREP
+id: 1-11.0.r423/1137
+type: dir
+pred: 1-11.0.r422/415
+count: 109
+text: 423 963 161 161 1596b593c747b1fda01a755b48305ef2
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r419/1389
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r399/992
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r391/1068
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r410/889
+END
+ENDREP
+id: 0-1.0.r423/1678
+type: dir
+pred: 0-1.0.r422/954
+count: 422
+text: 423 1292 373 373 c9740313ec4de106347391d21d528fda
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r423/1678
+END
+ENDREP
+id: 0.0.r423/1883
+type: dir
+pred: 0.0.r422/1156
+count: 423
+text: 423 1828 42 42 a2cd5921f63023b001406832d364ccb4
+cpath: /
+copyroot: 0 /
+
+2-12._0.t422-bq add-dir false false /cauldron/rpm/releases/1:4.8.1/8.mga1
+420 /cauldron/rpm/current
+
+1883 2020

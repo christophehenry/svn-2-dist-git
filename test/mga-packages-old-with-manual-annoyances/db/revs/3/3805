@@ -1,0 +1,198 @@
+id: 3-3805.0.r3805/0
+type: dir
+count: 0
+cpath: /cauldron/systemd/releases/208
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 3
+185
+V 22
+dir 3-1991.0.r2095/606
+K 3
+186
+V 22
+dir 3-2102.0.r2143/358
+K 3
+187
+V 22
+dir 3-2151.0.r2234/518
+K 3
+188
+V 22
+dir 3-2270.0.r2273/320
+K 3
+189
+V 22
+dir 3-2291.0.r2350/478
+K 3
+192
+V 22
+dir 3-2375.0.r2378/320
+K 3
+193
+V 22
+dir 3-2386.0.r2393/358
+K 3
+194
+V 22
+dir 3-2415.0.r2477/400
+K 3
+195
+V 23
+dir 3-2479.0.r3134/1136
+K 3
+204
+V 22
+dir 3-3221.0.r3288/364
+K 3
+206
+V 22
+dir 3-3463.0.r3694/598
+K 3
+207
+V 22
+dir 3-3710.0.r3720/358
+K 3
+208
+V 20
+dir 3-3805.0.r3805/0
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1270/955
+K 2
+38
+V 22
+dir 3-1305.0.r1364/560
+K 2
+39
+V 22
+dir 3-1392.0.r1433/396
+K 2
+40
+V 22
+dir 3-1460.0.r1499/356
+K 2
+43
+V 22
+dir 3-1530.0.r1647/479
+K 2
+44
+V 22
+dir 3-1667.0.r1911/804
+END
+ENDREP
+id: p-41.0.r3805/978
+type: dir
+pred: p-41.0.r3720/1382
+count: 144
+text: 3805 93 872 0 b25afc506fb67b259b87b6b77c0ca08c
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r3804/936
+K 8
+pristine
+V 23
+dir 2-41.0-3719.r3719/0
+K 8
+releases
+V 20
+dir p-41.0.r3805/978
+END
+ENDREP
+id: 1-40.0.r3805/1282
+type: dir
+pred: 1-40.0.r3804/1293
+count: 618
+text: 3805 1146 123 0 843702d0537c5ea08152da4f1942da16
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3796/1164
+K 6
+kernel
+V 20
+dir 1-5.0.r3781/3912
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3770/3511
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3791/2755
+K 7
+systemd
+V 21
+dir 1-40.0.r3805/1282
+END
+ENDREP
+id: 0-1.0.r3805/1698
+type: dir
+pred: 0-1.0.r3804/1709
+count: 3385
+text: 3805 1444 241 0 36f9963752f63093ea24b4f4d6542771
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3805/1698
+K 7
+updates
+V 23
+dir 0-539.0.r3802/10275
+END
+ENDREP
+id: 0.0.r3805/1948
+type: dir
+pred: 0.0.r3804/1959
+count: 3805
+text: 3805 1851 84 0 30584bf343a78f08bc5fc3a19f38709f
+cpath: /
+copyroot: 0 /
+
+_3.0.t3804-2xo add-dir false false /cauldron/systemd/releases/208
+
+
+1948 2088

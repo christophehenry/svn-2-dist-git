@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-07T16:33:58.632174Z
+K 7
+svn:log
+V 60
+- update to 2.6.38.8 (CVE-2011-1017)
+- drop merged patches
+
+
+END

@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-15T15:32:58.005498Z
+K 7
+svn:log
+V 203
+- update filelists
+- rediff patch disabling mrproper in -devel rpms
+- disable acerhk on x86_64 as it contains unsafe asm code
+- fix mach64, ndiswrapper, ppscsi, rfswitch and viahss builds for linix-3.0
+
+
+END

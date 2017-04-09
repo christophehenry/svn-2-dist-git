@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-09-11T17:23:21.565922Z
+K 7
+svn:log
+V 304
+- add patches:
+  * AA01-AA85: stable queue fixes
+  * FO01-FO13: overlayfs support (from ubuntu)
+  * FE01: ext3: Fix fdatasync() for files with only i_size changes (mga #7343)
+  * FU01: udf: Fix data corruption for files in ICB
+- drop patches:
+  * FU01-FU04: unionfs support (broken)
+- update defconfigs
+
+
+END

@@ -1,0 +1,156 @@
+id: 2-8.0-1705.r1705/0
+type: dir
+pred: 2-8.0.r1702/4111
+count: 41
+text: 1702 4020 78 0 79e55475ffabe6c946e27ef08bcb8847
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.14.1/6.mga2
+copyfrom: 1702 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.2.mga2
+V 20
+dir 2-8.0-939.r939/0
+K 8
+0.4.mga2
+V 20
+dir 2-8.0-950.r950/0
+K 6
+1.mga2
+V 20
+dir 2-8.0-954.r954/0
+K 6
+2.mga2
+V 20
+dir 2-8.0-968.r968/0
+K 6
+3.mga2
+V 22
+dir 2-8.0-1127.r1127/0
+K 6
+4.mga2
+V 22
+dir 2-8.0-1265.r1265/0
+K 6
+5.mga2
+V 22
+dir 2-8.0-1582.r1582/0
+K 6
+6.mga2
+V 22
+dir 2-8.0-1705.r1705/0
+END
+ENDREP
+id: 3-936.0.r1705/586
+type: dir
+pred: 3-936.0.r1582/547
+count: 8
+text: 1705 261 312 0 9943c74bcea6b2ea8019724cdf5e810a
+cpath: /cauldron/glibc/releases/6:2.14.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r1705/586
+END
+ENDREP
+id: 35-8.0.r1705/856
+type: dir
+pred: 35-8.0.r1582/817
+count: 13
+text: 1705 761 82 0 38ad58a65c7425d3f37842ccf16c82da
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 20
+dir 2-8.0.r1702/4111
+K 8
+pristine
+V 22
+dir 2-8.0-1704.r1704/0
+K 8
+releases
+V 20
+dir 35-8.0.r1705/856
+END
+ENDREP
+id: 1-7.0.r1705/1197
+type: dir
+pred: 1-7.0.r1704/422
+count: 88
+text: 1705 1020 164 0 ab15c0f243b794a1fc935e91205a1460
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1705/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r1690/2127
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1653/1997
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1665/1889
+K 7
+systemd
+V 21
+dir 1-40.0.r1699/1333
+K 4
+udev
+V 21
+dir 1-27.0.r1681/1201
+END
+ENDREP
+id: 0-1.0.r1705/1606
+type: dir
+pred: 0-1.0.r1704/828
+count: 1581
+text: 1705 1353 240 0 92f047de126d4a2ffaebdeec1f9862d7
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1705/1606
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1705/1854
+type: dir
+pred: 0.0.r1704/1073
+count: 1705
+text: 1705 1758 83 0 45ccb6e37242bbdc71cfd303e6931a1f
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1704-1bc add-dir false false /cauldron/glibc/releases/6:2.14.1/6.mga2
+1702 /cauldron/glibc/current
+
+1854 1994

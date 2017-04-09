@@ -1,0 +1,136 @@
+id: 2-8.0-2192.r2192/0
+type: dir
+pred: 2-8.0.r2189/4251
+count: 54
+text: 2189 4159 79 0 ac5740ce5bea7dcace87a7181da1ee88
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.16/3.mga3
+copyfrom: 2189 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2135.r2135/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2157.r2157/0
+K 6
+3.mga3
+V 22
+dir 2-8.0-2192.r2192/0
+END
+ENDREP
+id: 3-2132.0.r2192/393
+type: dir
+pred: 3-2132.0.r2157/352
+count: 3
+text: 2192 259 121 0 7acd1a006a8ed58c7925f71cfa5a4be9
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2192/393
+END
+ENDREP
+id: 35-8.0.r2192/702
+type: dir
+pred: 35-8.0.r2157/660
+count: 21
+text: 2192 568 121 0 6818b47c7dc086c56b2fe2cb56eb6019
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2189/4251
+K 8
+pristine
+V 22
+dir 2-8.0-2191.r2191/0
+K 8
+releases
+V 20
+dir 35-8.0.r2192/702
+END
+ENDREP
+id: 1-7.0.r2192/1044
+type: dir
+pred: 1-7.0.r2191/422
+count: 134
+text: 2192 867 164 0 195ef2d27367e19548c6520fa6685d1b
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2192/1044
+K 6
+kernel
+V 20
+dir 1-5.0.r2172/2411
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2163/2320
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2180/2214
+K 7
+systemd
+V 21
+dir 1-40.0.r2188/1407
+END
+ENDREP
+id: 0-1.0.r2192/1417
+type: dir
+pred: 0-1.0.r2191/793
+count: 2041
+text: 2192 1200 204 0 b0d627ca67e745729b0523d6c97f6ca4
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2192/1417
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2192/1665
+type: dir
+pred: 0.0.r2191/1038
+count: 2192
+text: 2192 1569 83 0 23ae6d3dbfe340c34b9963d5a9026268
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2191-1ov add-dir false false /cauldron/glibc/releases/6:2.16/3.mga3
+2189 /cauldron/glibc/current
+
+1665 1805

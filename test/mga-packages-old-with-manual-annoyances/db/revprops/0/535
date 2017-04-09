@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-22T17:01:02.878775Z
+K 7
+svn:log
+V 51
+inet_diag: fix inet_diag_bc_audit() (CVE-2011-2213)
+END

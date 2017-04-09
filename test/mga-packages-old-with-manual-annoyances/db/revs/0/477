@@ -1,0 +1,152 @@
+id: 2-3.0-477.r477/0
+type: dir
+pred: 2-3.0.r473/1862
+count: 36
+text: 473 1773 76 0 0594744266448f3c79266c86488efca6
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/releases/2.6.38.7/1.mga1
+copyfrom: 473 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-477.r477/0
+END
+ENDREP
+id: 3-474.0.r477/325
+type: dir
+pred: 3-474.0.r474/0
+count: 1
+text: 477 271 41 0 8a69018d119bc6bb98f3b3f05a2dab87
+cpath: /cauldron/kernel-linus/releases/2.6.38.7
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+K 8
+2.6.38.4
+V 20
+dir 3-368.0.r371/325
+K 8
+2.6.38.5
+V 20
+dir 3-414.0.r417/325
+K 8
+2.6.38.6
+V 20
+dir 3-438.0.r441/325
+K 8
+2.6.38.7
+V 20
+dir 3-474.0.r477/325
+END
+ENDREP
+id: n-3.0.r477/906
+type: dir
+pred: n-3.0.r474/504
+count: 23
+text: 477 501 392 0 0ae181aa8e6946ebb85d952218f8f53c
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r473/1862
+K 8
+pristine
+V 20
+dir 2-3.0-476.r476/0
+K 8
+releases
+V 18
+dir n-3.0.r477/906
+END
+ENDREP
+id: 1-2.0.r477/1203
+type: dir
+pred: 1-2.0.r476/385
+count: 86
+text: 477 1073 117 0 608604465139fd35e7b835dc3fb231b8
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r471/1298
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r477/1203
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0.r477/1610
+type: dir
+pred: 0-1.0.r476/788
+count: 476
+text: 477 1363 234 0 518307ba66a744d0af78d7e06c8018ed
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r477/1610
+END
+ENDREP
+id: 0.0.r477/1813
+type: dir
+pred: 0.0.r476/988
+count: 477
+text: 477 1758 42 0 bf964ad20605be6af5807082af3acffb
+cpath: /
+copyroot: 0 /
+
+2-3._0.t476-d8 add-dir false false /cauldron/kernel-linus/releases/2.6.38.7/1.mga1
+473 /cauldron/kernel-linus/current
+
+1813 1948

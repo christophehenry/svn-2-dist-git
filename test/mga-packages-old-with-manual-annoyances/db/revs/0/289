@@ -1,0 +1,142 @@
+id: l-150.0.r289/0
+type: file
+pred: l-150.0.r237/99
+count: 3
+text: 288 0 17 124 cffbb2e2351ee51bb0d98b582eff4919 380455a491e656615651512d82e44619b1dd041e 288-80/_5
+cpath: /cauldron/kernel-tmb/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 25
+README.kernel-tmb-sources
+V 23
+file 9-150.0.r150/12867
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 23
+file b-150.0.r150/13103
+K 20
+kernel-tmb.patchlist
+V 23
+file d-150.0.r238/87533
+K 8
+sha1.lst
+V 19
+file l-150.0.r289/0
+END
+ENDREP
+id: 4-150.0.r289/497
+type: dir
+pred: 4-150.0.r238/88829
+count: 4
+text: 289 232 252 0 c9e8dbcf83e9ce9d8b3efb0429ac8ff6
+cpath: /cauldron/kernel-tmb/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-150.0.r289/497
+K 5
+SPECS
+V 22
+dir n-150.0.r238/89327
+END
+ENDREP
+id: 2-150.0.r289/767
+type: dir
+pred: 2-150.0.r238/89600
+count: 4
+text: 289 674 80 0 1b15343b7a16058d4b735984e1240e6d
+props: 150 15736 65 0 1631fdc6041a572cb8648123f960812e
+cpath: /cauldron/kernel-tmb/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-150.0.r289/767
+K 8
+pristine
+V 22
+dir 2-150.0-241.r241/0
+K 8
+releases
+V 20
+dir r-150.0.r242/598
+END
+ENDREP
+id: 1-149.0.r289/1125
+type: dir
+pred: 1-149.0.r242/902
+count: 14
+text: 289 990 122 0 558d86baedc7ccbd79ee1ea63cc2aa96
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r257/1075
+K 6
+kernel
+V 19
+dir 1-5.0.r287/1567
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r288/1316
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r289/1125
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r273/921
+END
+ENDREP
+id: 0-1.0.r289/1530
+type: dir
+pred: 0-1.0.r288/1720
+count: 288
+text: 289 1286 231 0 fe8d9944acae2feff87784227249a8cf
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r289/1530
+END
+ENDREP
+id: 0.0.r289/1734
+type: dir
+pred: 0.0.r288/1924
+count: 289
+text: 289 1679 42 0 773e3a276f63fb9ad73c5d1c0094455a
+cpath: /
+copyroot: 0 /
+
+f-150.0.r150/13603 delete-file false false /cauldron/kernel-tmb/current/SOURCES/linux-2.6.37.2-tmb1.tar.xz.asc
+
+6-238.0.r238/87786 delete-file false false /cauldron/kernel-tmb/current/SOURCES/linux-2.6.37.4-tmb1.tar.xz.asc
+
+h-150.0.r150/13843 delete-file false false /cauldron/kernel-tmb/current/SOURCES/linux-2.6.37.tar.bz2.sign
+
+j-150.0.r150/14077 delete-file false false /cauldron/kernel-tmb/current/SOURCES/patch-2.6.37.2.bz2.sign
+
+8-238.0.r238/88025 delete-file false false /cauldron/kernel-tmb/current/SOURCES/patch-2.6.37.4.bz2.sign
+
+l-150.0.t288-80 modify-file true false /cauldron/kernel-tmb/current/SOURCES/sha1.lst
+
+
+1734 1870

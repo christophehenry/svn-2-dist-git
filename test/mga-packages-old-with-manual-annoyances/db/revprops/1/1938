@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-04T19:47:56.671411Z
+K 7
+svn:log
+V 666
+- update to 3.4.1
+- drop merged patches:
+  * DA60, DA61: ahci/ata ids
+  * DG01-DG04, DG20-DG21, DG40-DG44, DG60: drm backports
+  * DN10-DN11: ath5k stablilty fixes
+  * DS20-DS24: sound fixes
+- update patches:
+  * CK01: ck1 patchset including BFS 0.422
+  * FU01: unionfs 2.5.11
+  * KP01: tuxonice 3.2.1
+  * NI10-NI11: netfilter IFWLOG support
+  * NI16: netfilter psd support
+- add patches:
+  * DM60: radio-rttrack buildfix
+  * FU02: unionfs buildfix for kernel-3.4
+- drop patches:
+  * DA50: prefer ata over ide hack, needs to be fixed properly
+  * DN20: disabling powersave on rt2800usb
+  * LK01: lib/Kconfig.debug text update
+- update defconfigs
+- update filelists
+
+
+END

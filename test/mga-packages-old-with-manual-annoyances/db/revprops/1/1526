@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-02-24T09:54:53.735425Z
+K 7
+svn:log
+V 216
+- New version: 43
+- Rediffed patches
+- Make prefdm conflict with getty@tty1
+- Disable statically configured getty's for tty[2-6] (they are auto-activated)
+- Fix distro tag in configure and drop now redundant options.
+END

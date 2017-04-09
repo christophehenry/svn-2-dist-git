@@ -1,0 +1,156 @@
+PLAIN
+K 11
+listen.conf
+V 23
+file 4-1352.0.r1352/448
+K 8
+sha1.lst
+V 21
+file j-41.0.r1390/635
+K 35
+systemd-18-clean-dirs-on-boot.patch
+V 23
+file f-955.0.r955/11561
+K 48
+systemd-19-apply-timeoutsec-to-oneshot-too.patch
+V 23
+file j-955.0.r955/12045
+K 25
+systemd-33-rc-local.patch
+V 23
+file l-955.0.r955/12301
+K 35
+systemd-37-add-mageia-support.patch
+V 24
+file 4-635.0-993.r997/49
+K 35
+systemd-37-fix-prefdm.service.patch
+V 23
+file 4-1027.0.r1027/671
+K 43
+systemd-38-fix-syslog-socket-deadlock.patch
+V 26
+file 15-1361.0.r1361/20914
+K 39
+systemd-tmpfilesd-utmp-temp-patch.patch
+V 23
+file p-955.0.r955/12763
+END
+ENDREP
+id: 4-41.0.r1391/612
+type: dir
+pred: 4-41.0.r1390/1937
+count: 38
+text: 1391 0 599 0 3d9db8cf2a6c2845668b03b0a0c47189
+cpath: /cauldron/systemd/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-41.0.r1391/612
+K 5
+SPECS
+V 21
+dir l-41.0.r1390/2420
+END
+ENDREP
+id: 2-41.0.r1391/877
+type: dir
+pred: 2-41.0.r1390/2686
+count: 93
+text: 1391 785 79 0 f1c117c8079edc9dfc8edcdec88c43e8
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r1391/877
+K 8
+pristine
+V 23
+dir 2-41.0-1363.r1363/0
+K 8
+releases
+V 21
+dir p-41.0.r1364/1011
+END
+ENDREP
+id: 1-40.0.r1391/1233
+type: dir
+pred: 1-40.0.r1390/3044
+count: 208
+text: 1391 1096 124 0 537e82c6b1fed4200b0e888a8f6c5359
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1294/1386
+K 6
+kernel
+V 20
+dir 1-5.0.r1374/1804
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1317/1671
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1343/1561
+K 7
+systemd
+V 21
+dir 1-40.0.r1391/1233
+K 4
+udev
+V 21
+dir 1-27.0.r1336/1126
+END
+ENDREP
+id: 0-1.0.r1391/1648
+type: dir
+pred: 0-1.0.r1390/3458
+count: 1269
+text: 1391 1395 240 0 77311b249cafdc3a3e43986b385b9ce7
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1391/1648
+K 7
+updates
+V 22
+dir 0-539.0.r1389/3176
+END
+ENDREP
+id: 0.0.r1391/1897
+type: dir
+pred: 0.0.r1390/3707
+count: 1391
+text: 1391 1801 83 0 b75538212c116ee3ce8f026d10b4b681
+cpath: /
+copyroot: 0 /
+
+4-955.0.r955/10242 delete-file false false /cauldron/systemd/current/SOURCES/0100-util-properly-detect-what-the-last-capability-is.patch
+
+7-955.0.r955/10507 delete-file false false /cauldron/systemd/current/SOURCES/0101-manager-fix-a-crash-in-isolating.patch
+
+9-955.0.r955/10759 delete-file false false /cauldron/systemd/current/SOURCES/0102-service-Drop-rcN.d-runlevels-from-SysV-services-that.patch
+
+b-955.0.r955/11030 delete-file false false /cauldron/systemd/current/SOURCES/0103-audit-do-not-complain-if-kernel-lacks-audit.patch
+
+d-955.0.r955/11292 delete-file false false /cauldron/systemd/current/SOURCES/0104-systemctl-completion-always-invoke-with-no-legend.patch
+
+
+1897 2037

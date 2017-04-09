@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-31T09:33:48.926000Z
+K 7
+svn:log
+V 61
+Relax si_code check in rt_sigqueueinfo and rt_tgsigqueueinfo
+
+END

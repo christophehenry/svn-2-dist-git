@@ -1,0 +1,168 @@
+id: 2-41.0-1624.r1624/0
+type: dir
+pred: 2-41.0.r1621/626
+count: 105
+text: 1621 534 79 0 c197f83a800d123f57568532d83796ca
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/43/3.mga2
+copyfrom: 1621 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-41.0-1533.r1533/0
+K 6
+2.mga2
+V 23
+dir 2-41.0-1586.r1586/0
+K 6
+3.mga2
+V 23
+dir 2-41.0-1624.r1624/0
+END
+ENDREP
+id: 3-1530.0.r1624/397
+type: dir
+pred: 3-1530.0.r1586/359
+count: 3
+text: 1624 260 124 0 9b1673e4073158408938045d8f679e9f
+cpath: /cauldron/systemd/releases/43
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1270/955
+K 2
+38
+V 22
+dir 3-1305.0.r1364/560
+K 2
+39
+V 22
+dir 3-1392.0.r1433/396
+K 2
+40
+V 22
+dir 3-1460.0.r1499/356
+K 2
+43
+V 22
+dir 3-1530.0.r1624/397
+END
+ENDREP
+id: p-41.0.r1624/953
+type: dir
+pred: p-41.0.r1586/914
+count: 54
+text: 1624 570 370 0 2389d50ecf74fcb59a7386e24b668ae4
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r1621/626
+K 8
+pristine
+V 23
+dir 2-41.0-1623.r1623/0
+K 8
+releases
+V 20
+dir p-41.0.r1624/953
+END
+ENDREP
+id: 1-40.0.r1624/1256
+type: dir
+pred: 1-40.0.r1623/386
+count: 246
+text: 1624 1120 123 0 3ab9b0d6f37589831521104c4e23de0e
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1582/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r1615/2003
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1599/1912
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1620/1803
+K 7
+systemd
+V 21
+dir 1-40.0.r1624/1256
+K 4
+udev
+V 21
+dir 1-27.0.r1555/1158
+END
+ENDREP
+id: 0-1.0.r1624/1670
+type: dir
+pred: 0-1.0.r1623/796
+count: 1500
+text: 1624 1417 240 0 c7c7e11540c84595b5f1faf78434e89c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1624/1670
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1624/1918
+type: dir
+pred: 0.0.r1623/1041
+count: 1624
+text: 1624 1822 83 0 965e164ac43b00eaff401468534f5179
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1623-193 add-dir false false /cauldron/systemd/releases/43/3.mga2
+1621 /cauldron/systemd/current
+
+1918 2058

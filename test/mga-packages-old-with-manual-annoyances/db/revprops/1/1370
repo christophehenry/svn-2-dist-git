@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-20T22:43:25.165456Z
+K 7
+svn:log
+V 45
+BR module-init-tools >= 3.6-14 for xz support
+END

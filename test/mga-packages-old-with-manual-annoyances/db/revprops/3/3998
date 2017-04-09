@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-04T20:37:30.608831Z
+K 7
+svn:log
+V 58
+ensure new stable btrfs-progs gets in the initrd when used
+END

@@ -1,0 +1,140 @@
+id: 2-28.0-1180.r1180/0
+type: dir
+pred: 2-28.0.r1176/2491
+count: 51
+text: 1176 2397 81 0 e2ce4368c5c6cfcc8b3a1e33cf702be8
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/175/1.mga2
+copyfrom: 1176 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-28.0-1180.r1180/0
+END
+ENDREP
+id: 3-1177.0.r1180/314
+type: dir
+pred: 3-1177.0.r1177/0
+count: 1
+text: 1180 257 44 0 f1204f98d1137d413e588a0e64c3fcaa
+cpath: /cauldron/udev/releases/175
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+K 3
+175
+V 22
+dir 3-1177.0.r1180/314
+END
+ENDREP
+id: 1f-28.0.r1180/702
+type: dir
+pred: 1f-28.0.r1177/308
+count: 21
+text: 1180 482 207 0 9fc95eb48c5790151795174caa99b1e2
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-28.0.r1176/2491
+K 8
+pristine
+V 23
+dir 2-28.0-1179.r1179/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1180/702
+END
+ENDREP
+id: 1-27.0.r1180/1006
+type: dir
+pred: 1-27.0.r1179/384
+count: 103
+text: 1180 868 125 0 4686e5fe7dcfa60efc86b2fe711b1a3e
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1127/1033
+K 6
+kernel
+V 20
+dir 1-5.0.r1175/1699
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1146/1557
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1152/1446
+K 7
+systemd
+V 21
+dir 1-40.0.r1167/1595
+K 4
+udev
+V 21
+dir 1-27.0.r1180/1006
+END
+ENDREP
+id: 0-1.0.r1180/1416
+type: dir
+pred: 0-1.0.r1179/791
+count: 1085
+text: 1180 1163 240 0 09e1374365d14db836bfb141c71fd77c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1180/1416
+K 7
+updates
+V 22
+dir 0-539.0.r1059/7070
+END
+ENDREP
+id: 0.0.r1180/1664
+type: dir
+pred: 0.0.r1179/1036
+count: 1180
+text: 1180 1568 83 0 9e4dcaef32519e9b6375967869110629
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1179-wr add-dir false false /cauldron/udev/releases/175/1.mga2
+1176 /cauldron/udev/current
+
+1664 1804

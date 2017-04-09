@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-31T09:26:04.562463Z
+K 7
+svn:log
+V 96
+Revert "x86: Cleanup highmap after brk is concluded",
+as it causes systems to freeze on resume
+
+
+END

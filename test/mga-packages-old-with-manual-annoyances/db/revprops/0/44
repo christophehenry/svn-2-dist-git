@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-01-17T18:12:41.934930Z
+K 7
+svn:log
+V 25
+rename /etc/release patch
+END

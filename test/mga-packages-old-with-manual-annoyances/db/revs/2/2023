@@ -1,0 +1,90 @@
+id: 2-150.0-2023.r2023/0
+type: dir
+pred: 2-150.0.r2020/3796
+count: 75
+text: 2020 3701 82 0 5824c93c8137c866f5245dd534db79ab
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/pristine
+copyfrom: 2022 /cauldron/kernel-tmb/current
+
+PLAIN
+K 7
+current
+V 22
+dir 2-150.0.r2020/3796
+K 8
+pristine
+V 24
+dir 2-150.0-2023.r2023/0
+K 8
+releases
+V 22
+dir r-150.0.r2021/1368
+END
+ENDREP
+id: 1-149.0.r2023/401
+type: dir
+pred: 1-149.0.r2022/98
+count: 225
+text: 2023 260 128 0 3a9e32c877365edaddb97c3d101880be
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1823/1273
+K 6
+kernel
+V 20
+dir 1-5.0.r2019/2298
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2010/2244
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r2023/401
+K 7
+systemd
+V 21
+dir 1-40.0.r2005/1381
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r2023/816
+type: dir
+pred: 0-1.0.r2022/510
+count: 1892
+text: 2023 564 239 0 aef74c43f87254469a76f9352b13867e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2023/816
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r2023/1060
+type: dir
+pred: 0.0.r2022/755
+count: 2023
+text: 2023 966 81 0 75bc9749dbe73577feb5b2099f634bd0
+cpath: /
+copyroot: 0 /
+
+2-150._0.t2022-1k6 add-dir false false /cauldron/kernel-tmb/pristine
+2022 /cauldron/kernel-tmb/current
+
+1060 1198

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-01T00:51:25.233678Z
+K 7
+svn:log
+V 112
+- b43: Fix oops on unload when firmware not found
+- md/raid1: Fix assembling of arrays containing Replacements
+
+
+END

@@ -1,0 +1,144 @@
+id: 2-44.0-509.r509/0
+type: dir
+pred: 2-44.0.r506/3970
+count: 22
+text: 506 3878 79 79 543bb5a3a811f1610f9d06a0059c580d
+props: 44 21896 64 64 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/166/2.mga1
+copyfrom: 506 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-44.0-410.r410/0
+K 6
+2.mga1
+V 21
+dir 2-44.0-509.r509/0
+END
+ENDREP
+id: 3-407.0.r509/347
+type: dir
+pred: 3-407.0.r410/309
+count: 2
+text: 509 254 80 80 7f96ab26aafb6fdf6975fc15e4cc7449
+cpath: /cauldron/udev/releases/166
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 19
+dir 3-52.0.r108/342
+K 3
+165
+V 20
+dir 3-134.0.r137/307
+K 3
+166
+V 20
+dir 3-407.0.r509/347
+END
+ENDREP
+id: 1f-44.0.r509/631
+type: dir
+pred: 1f-44.0.r410/591
+count: 8
+text: 509 513 105 105 6a01fa818eae3e1275aa4095e9b6659c
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-44.0.r506/3970
+K 8
+pristine
+V 21
+dir 2-44.0-508.r508/0
+K 8
+releases
+V 20
+dir 1f-44.0.r509/631
+END
+ENDREP
+id: 1-43.0.r509/929
+type: dir
+pred: 1-43.0.r508/377
+count: 41
+text: 509 795 121 121 48bec7f45631f1f304794d5a2ffbd7d4
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r504/994
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 20
+dir 1-5.0.r505/15587
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r496/973
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r509/1470
+type: dir
+pred: 0-1.0.r508/917
+count: 508
+text: 509 1083 374 374 275784ce3a84f76d55afc0dd22d7a43d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r509/1470
+END
+ENDREP
+id: 0.0.r509/1675
+type: dir
+pred: 0.0.r508/1119
+count: 509
+text: 509 1620 42 42 2b1cb5dd7b1d1e77005ec8ea856356df
+cpath: /
+copyroot: 0 /
+
+2-44._0.t508-e4 add-dir false false /cauldron/udev/releases/166/2.mga1
+506 /cauldron/udev/current
+
+1675 1812

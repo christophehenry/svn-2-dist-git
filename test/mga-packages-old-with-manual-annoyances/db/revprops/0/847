@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-09-26T20:16:45.235359Z
+K 7
+svn:log
+V 56
+fix keucr in staging to not conflict with scsi namespace
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-29T22:04:36.635987Z
+K 7
+svn:log
+V 45
+- update to 3.0.4
+- drop merged patch: AA01
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-21T21:18:48.203644Z
+K 7
+svn:log
+V 101
+- net_sched: psched_ratecfg_precompute() improvements
+- net_sched: restore "linklayer atm" handling
+
+
+END

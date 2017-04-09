@@ -1,0 +1,148 @@
+id: 2-8.0-3228.r3228/0
+type: dir
+pred: 2-8.0.r3225/609
+count: 82
+text: 3225 518 78 0 36e09504e9d47463d00918a705fbd8b7
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.17/6.mga4
+copyfrom: 3225 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2673.r2673/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2697.r2697/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2945.r2945/0
+K 6
+5.mga3
+V 22
+dir 2-8.0-3002.r3002/0
+K 6
+6.mga4
+V 22
+dir 2-8.0-3228.r3228/0
+END
+ENDREP
+id: 3-2670.0.r3228/469
+type: dir
+pred: 3-2670.0.r3002/432
+count: 5
+text: 3228 257 199 0 c66cc64f2d2fa08d1700fdd1a0df5ea0
+cpath: /cauldron/glibc/releases/6:2.17
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3228/469
+END
+ENDREP
+id: 35-8.0.r3228/817
+type: dir
+pred: 35-8.0.r3002/780
+count: 37
+text: 3228 644 160 0 7744eac85285658c0cb670f2ecdd2ce8
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 19
+dir 2-8.0.r3225/609
+K 8
+pristine
+V 22
+dir 2-8.0-3227.r3227/0
+K 8
+releases
+V 20
+dir 35-8.0.r3228/817
+END
+ENDREP
+id: 1-7.0.r3228/1158
+type: dir
+pred: 1-7.0.r3227/419
+count: 224
+text: 3228 982 163 0 ded315fb9d033d9f61efcee2deebf6ef
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r3228/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r3217/1092
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3216/3196
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3187/2519
+K 7
+systemd
+V 21
+dir 1-40.0.r3224/1574
+END
+ENDREP
+id: 0-1.0.r3228/1531
+type: dir
+pred: 0-1.0.r3227/790
+count: 2916
+text: 3228 1314 204 0 5f128cda65f8c2e63d9289632b3897b4
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3228/1531
+K 7
+updates
+V 21
+dir 0-539.0.r3200/329
+END
+ENDREP
+id: 0.0.r3228/1778
+type: dir
+pred: 0.0.r3227/1034
+count: 3228
+text: 3228 1683 82 0 60a6bd53656d1914eae414667be22028
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3227-2hn add-dir false false /cauldron/glibc/releases/6:2.17/6.mga4
+3225 /cauldron/glibc/current
+
+1778 1918

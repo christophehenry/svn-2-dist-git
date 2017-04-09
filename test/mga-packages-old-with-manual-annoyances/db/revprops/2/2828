@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-16T16:17:56.232437Z
+K 7
+svn:log
+V 94
+- ahci: Add JMicron 362 device IDs
+- ahci: Enable SB600 64bit DMA on MSI K9AGM2 (MS-7327) v2
+
+
+END

@@ -1,0 +1,140 @@
+id: 2-64.0-148.r148/0
+type: dir
+pred: 2-64.0.r145/604
+count: 11
+text: 145 513 78 78 7e60499dbea86f264345dc8c9dfd369c
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.b10.3.mga1
+copyfrom: 145 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 12
+0.b10.3.mga1
+V 21
+dir 2-64.0-148.r148/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+END
+ENDREP
+id: 3-110.0.r148/461
+type: dir
+pred: 3-110.0.r141/415
+count: 4
+text: 148 265 183 183 365a59a6b451d7f17afaa71da8d57a3a
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r148/461
+END
+ENDREP
+id: 19-64.0.r148/687
+type: dir
+pred: 19-64.0.r141/641
+count: 5
+text: 148 634 40 40 641fc215167bfa867370f48fac8b1831
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-64.0.r145/604
+K 8
+pristine
+V 21
+dir 2-64.0-147.r147/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r148/687
+END
+ENDREP
+id: 1-63.0.r148/1024
+type: dir
+pred: 1-63.0.r147/418
+count: 24
+text: 148 852 159 159 880e4f1e470f0823b52808882c807ff2
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 20
+dir 1-63.0.r148/1024
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r117/4687
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r148/1486
+type: dir
+pred: 0-1.0.r147/878
+count: 147
+text: 148 1182 291 291 6370d34063e7fb18bb3967c9a11139e1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r148/1486
+END
+ENDREP
+id: 0.0.r148/1691
+type: dir
+pred: 0.0.r147/1080
+count: 148
+text: 148 1636 42 42 21105bc0b41358f7c7a2def2856828f0
+cpath: /
+copyroot: 0 /
+
+2-64._0.t147-43 add-dir false false /cauldron/firefox/releases/0:4.0/0.b10.3.mga1
+145 /cauldron/firefox/current
+
+1691 1828

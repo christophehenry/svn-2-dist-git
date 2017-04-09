@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-02T14:33:11.301655Z
+K 7
+svn:log
+V 50
+add current stable queue fixes (82 fixes all over)
+END

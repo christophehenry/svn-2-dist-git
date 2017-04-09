@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-18T08:28:26.086150Z
+K 7
+svn:log
+V 28
+update crypt_blowfish to 1.2
+END

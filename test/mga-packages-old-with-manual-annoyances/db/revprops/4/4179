@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T00:27:24.689625Z
+K 7
+svn:log
+V 262
+- md/raid5: Fix possible confusion when multiple write errors occur
+- md/raid10: fix two bugs in handling of known-bad-blocks
+- md/raid10: fix bug when raid10 recovery fails to recover a block
+- md: fix problem when adding device to read-only array with bitmap
+
+
+END

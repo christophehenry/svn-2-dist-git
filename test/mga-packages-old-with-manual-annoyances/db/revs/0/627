@@ -1,0 +1,243 @@
+id: 5-223.0-627.r627/0
+type: file
+pred: 5-223.0-374.r374/10671
+count: 2
+text: 374 0 554 8968 509fba19a0b4675d444c5c64c08fff89 de59d3cb3197beec471f1e09f1c5c605533f0373 373-ad/_6
+cpath: /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38-modular.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/fs-aufs2.1-38-modular.patch
+
+id: 8-223.1-627.r627/336
+type: file
+pred: 8-223.1-374.r463/2444
+count: 4
+text: 463 0 195 804650 2b9a11dee984462e85a125a0d53d7d8c 788803a29ffacda795baa612478a0921ac6ca58e 462-cu/_6
+cpath: /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/fs-aufs2.1-38.patch
+
+PLAIN
+K 27
+fs-aufs2.1-38-modular.patch
+V 23
+file 5-223.0-627.r627/0
+K 19
+fs-aufs2.1-38.patch
+V 25
+file 8-223.1-627.r627/336
+END
+ENDREP
+id: 4-210.0.r627/794
+type: dir
+pred: 4-210.0.r210/955
+count: 1
+text: 627 659 122 0 e881a079b9adb4a1e1c176b3e6e66bcd
+cpath: /cauldron/kernel/current/PATCHES/broken
+copyroot: 0 /
+
+id: 7-463.2-627.r627/972
+type: file
+pred: 7-463.0.r463/2769
+count: 1
+text: 51 444746 449 695 580b83c2e9ba1e9367d2332f347c83b3 ed9fc4adaaedebc32737ca393a0a25c6c98f5b13 462-cu/_8
+cpath: /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.3-oops.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-2.5.3-oops.patch
+
+id: 9-463.3-627.r627/1307
+type: file
+pred: 9-463.0.r463/3010
+count: 1
+text: 213 0 84853 336448 ecfc2e57fddb88348067e302bd976289 6640400f5d193f45fde82c98c443e13602128d12 462-cu/_a
+cpath: /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+
+id: 5-224.4-627.r627/1664
+type: file
+pred: 5-224.0.r224/90
+count: 1
+text: 51 529931 380 680 3057e5a4036f213d6e88102d90b68682 8b4ccb0ebfdb4ea5ab7b8894a07614c1707a7c22 223-67/_7
+cpath: /cauldron/kernel/current/PATCHES/queue/fs-unionfs-buildfix.patch
+copyfrom: 621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-buildfix.patch
+
+PLAIN
+K 27
+fs-unionfs-2.5.3-oops.patch
+V 25
+file 7-463.2-627.r627/972
+K 37
+fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+V 26
+file 9-463.3-627.r627/1307
+K 25
+fs-unionfs-buildfix.patch
+V 26
+file 5-224.4-627.r627/1664
+END
+ENDREP
+id: 6-627.0.r627/2213
+type: dir
+count: 0
+text: 627 1994 206 0 743b004597081b733e0f216a7cee0b94
+cpath: /cauldron/kernel/current/PATCHES/queue
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 20
+dir 4-210.0.r627/794
+K 7
+configs
+V 20
+dir i-51.0.r480/7269
+K 7
+patches
+V 21
+dir s-51.0.r626/93141
+K 5
+queue
+V 21
+dir 6-627.0.r627/2213
+K 7
+scripts
+V 22
+dir 70-51.0.r315/35171
+END
+ENDREP
+id: 6-51.0.r627/2623
+type: dir
+pred: 6-51.0.r626/93544
+count: 118
+text: 627 2369 241 0 d76b9da6c7b3769757deb26d69a98b93
+cpath: /cauldron/kernel/current/PATCHES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r313/109
+K 7
+PATCHES
+V 20
+dir 6-51.0.r627/2623
+K 7
+SOURCES
+V 18
+dir 4-6.0.r589/649
+K 5
+SPECS
+V 19
+dir 6-6.0.r622/8789
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r627/3011
+type: dir
+pred: 2-6.0.r626/93935
+count: 188
+text: 627 2798 200 0 69ad53af82b50514b5f50c111a86a57f
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r627/3011
+K 8
+pristine
+V 20
+dir 2-6.0-592.r592/0
+K 8
+releases
+V 20
+dir 2-14.0.r593/1191
+END
+ENDREP
+id: 1-5.0.r627/3362
+type: dir
+pred: 1-5.0.r626/94289
+count: 277
+text: 627 3230 119 0 cfba4214868dd54f9907b3958f7e74f4
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r627/3362
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r621/1475
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 20
+dir 1-40.0.r625/1020
+K 4
+udev
+V 19
+dir 1-27.0.r616/913
+END
+ENDREP
+id: 0-1.0.r627/3765
+type: dir
+pred: 0-1.0.r626/94695
+count: 606
+text: 627 3519 233 0 b54998fcfb6263c010a13741266ff724
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r627/3765
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r627/4009
+type: dir
+pred: 0.0.r626/94941
+count: 627
+text: 627 3915 81 0 faa7eecbafeffd7a64797706d5bda66f
+cpath: /
+copyroot: 0 /
+
+5-223._0.t626-he add-file false false /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38-modular.patch
+621 /cauldron/kernel/current/PATCHES/patches/fs-aufs2.1-38-modular.patch
+8-223._1.t626-he add-file false false /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38.patch
+621 /cauldron/kernel/current/PATCHES/patches/fs-aufs2.1-38.patch
+64-51.0-210.r210/133 delete-file false false /cauldron/kernel/current/PATCHES/broken/serial-docomo-F2402.patch
+
+66-51.1-210.r210/468 delete-file false false /cauldron/kernel/current/PATCHES/broken/serial-docomo-pinfree1p.patch
+
+_6.0.t626-he add-dir false false /cauldron/kernel/current/PATCHES/queue
+
+7-463._2.t626-he add-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.3-oops.patch
+621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-2.5.3-oops.patch
+9-463._3.t626-he add-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+5-224._4.t626-he add-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-buildfix.patch
+621 /cauldron/kernel/current/PATCHES/patches/fs-unionfs-buildfix.patch
+
+4009 4146

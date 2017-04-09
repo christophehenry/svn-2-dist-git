@@ -1,0 +1,99 @@
+id: 2-169.0.r169/0
+type: dir
+count: 0
+cpath: /cauldron/rpm/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-169.0.r169/0
+K 7
+current
+V 19
+dir 2-12.0.r168/636
+K 8
+pristine
+V 19
+dir 2-12.0-85.r85/0
+K 8
+releases
+V 19
+dir 37-12.0.r86/629
+END
+ENDREP
+id: 1-11.0.r169/250
+type: dir
+pred: 1-11.0.r168/981
+count: 38
+text: 169 83 154 154 53fd6abf488e32caf3bf4bc0bc1445a9
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r158/795
+K 7
+firefox
+V 19
+dir 1-63.0.r167/992
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r169/250
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r169/743
+type: dir
+pred: 0-1.0.r168/1476
+count: 168
+text: 169 402 328 328 daaaddbd65e73e4b2595d7f63443a492
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r169/743
+END
+ENDREP
+id: 0.0.r169/946
+type: dir
+pred: 0.0.r168/1682
+count: 169
+text: 169 892 41 41 94a509488071b9be491379c5b58b0304
+cpath: /
+copyroot: 0 /
+
+_2.0.t168-4o add-dir false false /cauldron/rpm/branches
+
+
+946 1081

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T19:29:27.070323Z
+K 7
+svn:log
+V 79
+crypto/ghash: Avoid null pointer dereference if no key is set (CVE-2011-4081)
+
+
+END

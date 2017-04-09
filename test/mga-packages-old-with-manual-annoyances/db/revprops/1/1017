@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T18:35:16.795761Z
+K 7
+svn:log
+V 301
+- scsi/isci: fix sata response handling
+- scsi/isci: fix 32-bit operation when CONFIG_HIGHMEM64G=n
+- scsi/isci: change sas phy timeouts from 54us to 59us
+- scsi/isci: fix sgpio register definitions
+- scsi/isci: fix support for large smp requests
+- scsi/isci: fix missed unlock in apc_agent_timeout()
+
+
+END

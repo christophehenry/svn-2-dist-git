@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-24T19:43:18.836108Z
+K 7
+svn:log
+V 119
+- fix denial of service (memory consumption) via a long UTF8 string that
+  is used in an fnmatch call (CVE-2011-1071)
+
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-19T15:57:44.487617Z
+K 7
+svn:log
+V 223
+- update to 3.3 final
+- add patches:
+    * DM50: media: fix initialization on Hauppauge WinTV Nova HD-S2
+            and similar hardware
+    * DM51: media/tda10071: correct delivery system to DVB-S/S2
+- update defconfigs
+
+
+END

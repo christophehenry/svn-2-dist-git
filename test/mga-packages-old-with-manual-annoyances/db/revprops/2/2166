@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-20T19:54:03.960066Z
+K 7
+svn:log
+V 555
+- update to 3.4.6
+- drop patch:
+  * DN25: ipw2x00: add support for nl80211 clients (merged)
+- add patches:
+  * AA01-AA13: stable queue fixes
+  * BS01: silence useless scsi ioctl warnings
+- make theese config options builtin in order to be able to
+  test booting without initrd:
+  (see: https://wiki.mageia.org/en/Feature:BootSansRamdisk)
+  CONFIG_SCSI_MOD, CONFIG_SCSI, CONFIG_ATA, CONFIG_SATA_AHCI,
+  CONFIG_EXT3_FS, CONFIG_EXT4_FS, CONFIG_JBD, CONFIG_JBD2,
+  CONFIG_BTRFS_FS, CONFIG_CRYPTO_CRC32C, CONFIG_CRC16,
+  CONFIG_LIBCRC32C, CONFIG_ZLIB_DEFLATE
+
+
+END

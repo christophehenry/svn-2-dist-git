@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-26T23:34:42.931164Z
+K 7
+svn:log
+V 62
+- update to 3.4.4
+- drop patch:
+  * AA01: 3.4.4-rc1 (merged)
+
+
+END

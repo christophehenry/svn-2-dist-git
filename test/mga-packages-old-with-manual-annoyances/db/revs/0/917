@@ -1,0 +1,148 @@
+id: 2-41.0-917.r917/0
+type: dir
+pred: 2-41.0.r914/963
+count: 52
+text: 914 873 77 0 580c6ea578bfbff9dc77e0c0139122e3
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/37/2.mga2
+copyfrom: 914 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-907.r907/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-917.r917/0
+END
+ENDREP
+id: 3-904.0.r917/347
+type: dir
+pred: 3-904.0.r907/311
+count: 2
+text: 917 254 80 0 37c5a01fd810577a20ff3ce68dc05972
+cpath: /cauldron/systemd/releases/37
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 20
+dir 3-904.0.r917/347
+END
+ENDREP
+id: p-41.0.r917/756
+type: dir
+pred: p-41.0.r907/718
+count: 20
+text: 917 514 229 0 754fe8b8bf4756115a830ff9a88a9ed2
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-41.0.r914/963
+K 8
+pristine
+V 21
+dir 2-41.0-916.r916/0
+K 8
+releases
+V 19
+dir p-41.0.r917/756
+END
+ENDREP
+id: 1-40.0.r917/1052
+type: dir
+pred: 1-40.0.r916/376
+count: 99
+text: 917 920 119 0 1187ce4ab26243a8ca52bfc410e9c41d
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r912/2017
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r913/1734
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r870/1240
+K 7
+systemd
+V 20
+dir 1-40.0.r917/1052
+K 4
+udev
+V 19
+dir 1-27.0.r900/947
+END
+ENDREP
+id: 0-1.0.r917/1453
+type: dir
+pred: 0-1.0.r916/774
+count: 843
+text: 917 1208 232 0 e8be18d96a83c4b7bbbaff9ba7f7574b
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r917/1453
+K 7
+updates
+V 21
+dir 0-539.0.r911/2483
+END
+ENDREP
+id: 0.0.r917/1695
+type: dir
+pred: 0.0.r916/1013
+count: 917
+text: 917 1601 81 0 9a312ed7852e98543630fc270e32f4de
+cpath: /
+copyroot: 0 /
+
+2-41._0.t916-pg add-dir false false /cauldron/systemd/releases/37/2.mga2
+914 /cauldron/systemd/current
+
+1695 1831

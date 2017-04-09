@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-27T23:05:48.330033Z
+K 7
+svn:log
+V 1258
+- update to 3.1.3
+- add patches:
+  * DG01: i915: Fix inconsistent backlight level during disabled
+  * DG02: drm: fix integer overflow in drm_mode_dirtyfb_ioctl()
+  * DG03: radeon/kms: fix up gpio i2c mask bits for r4xx for real
+  * DG04: i915: Ivybridge still has fences
+  * DG05: i915: Turn on a required 3D clock gating bit on Sandybridge
+  * DG06: i915: Turn on another required clock gating bit on Sandybridge
+  * DP01: pci: rework ASPM disable code (brings power usage back down
+               to 2.6.37 level)
+  * FX01: don't serialise direct IO reads on page cache checks
+          (fixes performance regression introduced in 2.6.38)
+  * FX02: avoid direct I/O write vs buffered I/O race
+  * FX03: return -EIO when xfs_vn_getattr() failed
+  * FX04: fix buffer flushing during unmount
+  * FX05: fix possible memory corruption in xfs_readlink
+  * FX06: use doalloc flag in xfs_qm_dqattach_one()
+- update patches:
+  * FU01: unionfs 2.5.10 for 3.1.3
+  * MB02: merge 3rdparty support
+  * MB10-MB12: ndiswrapper 1.57-rc1
+- drop patches:
+  * DS15: its replaced by SND_HDA_PREALLOC_SIZE config option
+  * MB13-MB17: ndiswrapper fixes, merged
+- disable patches:
+  * KP01: TuxOnIce support, currently broken
+- dont ship openrisc arch files
+- update defconfigs
+
+
+END

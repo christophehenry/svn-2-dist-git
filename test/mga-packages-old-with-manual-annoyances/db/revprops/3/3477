@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-26T09:17:44.124508Z
+K 7
+svn:log
+V 161
+- md: Remove recent change which allows devices to skip recovery
+- md/raid5: fix interaction of 'replace' and 'recovery'
+- md/raid10: remove use-after-free bug
+
+
+END

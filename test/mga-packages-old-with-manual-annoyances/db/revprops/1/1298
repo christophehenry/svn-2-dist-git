@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-05T21:56:56.439999Z
+K 7
+svn:log
+V 330
+- update to 3.2
+- add patches:
+    * FU02: fix unionfs build with 3.2 series kernels
+    * MB13: fix ndiswrapper build with 3.2 series kernels
+- update patches:
+    * CK01: BFS scheduler 0.416
+- rediff patches:
+    * DP11, MB02, NI11, NI16, Source2
+- drop patches:
+    * FB01: btrfs fix, merged
+- update filelists and defconfigs
+
+
+END

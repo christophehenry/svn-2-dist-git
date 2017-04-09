@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-04T11:25:42.431907Z
+K 7
+svn:log
+V 319
+- update to 3.4.52
+- drop merged patches:
+  * AA01-AA08: (stable queue fixes)
+- add patches:
+  * NI50: ipv6: ip6_sk_dst_check() must not assume ipv6 dst (CVE-2013-2232)
+  * NK01: af_key: initialize satype in key_notify_policy_flush() (CVE-2013-2237)
+  * NK02: af_key: fix info leaks in notify messages (CVE-2013-2234)
+
+
+END

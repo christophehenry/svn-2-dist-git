@@ -1,0 +1,152 @@
+id: f-3.0.r679/0
+type: file
+pred: f-3.0.r661/103
+count: 27
+text: 72 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 678-iu/_5
+cpath: /cauldron/kernel-linus/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 21
+README.kernel-sources
+V 19
+file 6-3.0.r3/72034
+K 13
+arm_defconfig
+V 23
+file 4-677.0.r677/24740
+K 36
+disable-mrproper-in-devel-rpms.patch
+V 19
+file 9-3.0.r575/545
+K 14
+i386_defconfig
+V 20
+file b-3.0.r675/3106
+K 8
+sha1.lst
+V 17
+file f-3.0.r679/0
+K 16
+x86_64_defconfig
+V 20
+file h-3.0.r675/3354
+END
+ENDREP
+id: 4-3.0.r679/542
+type: dir
+pred: 4-3.0.r677/25515
+count: 50
+text: 679 228 301 0 2abb2355778e8f119c51546b195cfab7
+cpath: /cauldron/kernel-linus/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 18
+dir 4-3.0.r679/542
+K 5
+SPECS
+V 20
+dir j-3.0.r677/26011
+END
+ENDREP
+id: 2-3.0.r679/807
+type: dir
+pred: 2-3.0.r677/26277
+count: 57
+text: 679 718 76 0 255d250cc32d13e9d2984c8f1ed4564a
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-3.0.r679/807
+K 8
+pristine
+V 20
+dir 2-3.0-666.r666/0
+K 8
+releases
+V 19
+dir n-3.0.r667/1221
+END
+ENDREP
+id: 1-2.0.r679/1158
+type: dir
+pred: 1-2.0.r677/26632
+count: 134
+text: 679 1028 117 0 a06ec6b4836e5d3fa28632d7940491a5
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r678/2218
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r679/1158
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 19
+dir 1-40.0.r639/954
+K 4
+udev
+V 20
+dir 1-27.0.r674/1030
+END
+ENDREP
+id: 0-1.0.r679/1567
+type: dir
+pred: 0-1.0.r678/2621
+count: 658
+text: 679 1321 233 0 1364efb9126d375537a70f25f0a1d986
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r679/1567
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r679/1810
+type: dir
+pred: 0.0.r678/2865
+count: 679
+text: 679 1716 81 0 490f78b42ed0f161741378aaa2a90f63
+cpath: /
+copyroot: 0 /
+
+4-574.0.r574/925 delete-file false false /cauldron/kernel-linus/current/SOURCES/linux-2.6.39.tar.bz2.sign
+
+4-618.0.r618/330 delete-file false false /cauldron/kernel-linus/current/SOURCES/patch-3.0-rc7-git2.bz2.sign
+
+4-662.0.r662/330 delete-file false false /cauldron/kernel-linus/current/SOURCES/patch-3.0-rc7-git5.bz2.sign
+
+4-605.0.r605/375 delete-file false false /cauldron/kernel-linus/current/SOURCES/patch-3.0-rc7.bz2.sign
+
+f-3.0.t678-iu modify-file true false /cauldron/kernel-linus/current/SOURCES/sha1.lst
+
+
+1810 1946

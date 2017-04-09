@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-09-15T10:39:45.510802Z
+K 7
+svn:log
+V 68
+- update to 3.5.4
+- drop merged patches:
+  * AA01-AA85, FE01, FU01
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-28T11:21:30.710787Z
+K 7
+svn:log
+V 34
+update to 2.6.38.2 (CVE-2011-0726)
+END

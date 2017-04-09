@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-06-09T08:32:13.438043Z
+K 7
+svn:log
+V 102
+- Fix group
+- Add formatting patch
+- Add some buildrequires and switch to pkgconfig BR where possible.
+END

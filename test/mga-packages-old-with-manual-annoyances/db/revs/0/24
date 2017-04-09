@@ -1,0 +1,61 @@
+PLAIN
+K 7
+current
+V 18
+dir 2-8.0.r22/4080
+K 8
+releases
+V 18
+dir 35-8.0.r23/144
+END
+ENDREP
+id: 1-7.0.r24/90
+type: dir
+pred: 1-7.0.r23/426
+count: 8
+text: 24 0 77 0 821a48e7fef15c605c18409cabaa2005
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r24/90
+K 6
+kernel
+V 17
+dir 1-5.0.r18/800
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r24/356
+type: dir
+pred: 0-1.0.r23/698
+count: 23
+text: 24 233 110 0 7f7bdce5751317b9e8aa96cc0c33d9e3
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r24/356
+END
+ENDREP
+id: 0.0.r24/551
+type: dir
+pred: 0.0.r23/894
+count: 24
+text: 24 498 40 0 ce60fd698ac6419c9ad830265005e76a
+cpath: /
+copyroot: 0 /
+
+2-8.0-9.r9/0 delete-dir false false /cauldron/glibc/pristine
+
+
+551 680

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-10T18:53:34.352056Z
+K 7
+svn:log
+V 34
+re-enable MACVLAN and VETH (#4833)
+END

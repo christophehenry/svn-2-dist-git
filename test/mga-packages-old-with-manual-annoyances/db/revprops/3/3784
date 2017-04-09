@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-03T19:56:22.104871Z
+K 7
+svn:log
+V 83
+- update to 3.10.15
+- drop merged patches:
+  * DG01, DG02, NM01, NS01, NS02, NW01
+
+
+END

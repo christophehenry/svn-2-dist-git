@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T22:11:33.628722Z
+K 7
+svn:log
+V 119
+- drm/i915: Fix gen6 (SNB) missed BLT ring interrupts
+- drm/i915: Apply HWSTAM workaround for BSD ring on SandyBridge
+
+
+END

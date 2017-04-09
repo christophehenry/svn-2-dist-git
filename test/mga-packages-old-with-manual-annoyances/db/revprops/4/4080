@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-29T14:12:20.190922Z
+K 7
+svn:log
+V 59
+x86 idle: Repair large-server 50-watt idle-power regression
+END

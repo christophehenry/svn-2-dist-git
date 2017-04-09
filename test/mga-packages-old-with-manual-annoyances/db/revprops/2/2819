@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-09T02:11:05.820657Z
+K 7
+svn:log
+V 66
+add Intel Wellsburg PCH support to ahci, ata_piix, i2c, lpc, sound
+END

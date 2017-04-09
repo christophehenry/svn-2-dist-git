@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-04T20:09:01.415862Z
+K 7
+svn:log
+V 57
+add workaround for broken software such as nVidia drivers
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-26T13:11:30.348482Z
+K 7
+svn:log
+V 44
+require dracut-034-4 for fixed /usr mounting
+END

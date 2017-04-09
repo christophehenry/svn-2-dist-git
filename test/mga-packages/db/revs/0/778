@@ -1,0 +1,148 @@
+id: 2-57.0-778.r778/0
+type: dir
+pred: 2-57.0.r775/831
+count: 6
+text: 775 742 76 76 545aa942047d7f4025f76180dd44f160
+props: 57 14010 64 64 6e5ef6d91e89529eecc02600dd77d1ed
+cpath: /cauldron/nss/releases/2:3.12.9/2.mga1
+copyfrom: 775 /cauldron/nss/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-57.0-124.r124/0
+K 6
+2.mga1
+V 21
+dir 2-57.0-778.r778/0
+END
+ENDREP
+id: 3-121.0.r778/347
+type: dir
+pred: 3-121.0.r124/309
+count: 2
+text: 778 254 80 80 127faa2685e7e4189dd26ea4fa2bd78c
+cpath: /cauldron/nss/releases/2:3.12.9
+copyroot: 0 /
+
+PLAIN
+K 8
+2:3.12.8
+V 18
+dir 3-60.0.r62/302
+K 8
+2:3.12.9
+V 20
+dir 3-121.0.r778/347
+END
+ENDREP
+id: t-57.0.r778/610
+type: dir
+pred: t-57.0.r124/570
+count: 5
+text: 778 517 80 80 9cec4fb068c4499aecd67fbe4086b515
+cpath: /cauldron/nss/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-57.0.r775/831
+K 8
+pristine
+V 21
+dir 2-57.0-777.r777/0
+K 9
+pristine@
+V 19
+dir 2-57.0-58.r58/0
+K 8
+releases
+V 19
+dir t-57.0.r778/610
+END
+ENDREP
+id: 1-56.0.r778/940
+type: dir
+pred: 1-56.0.r777/409
+count: 17
+text: 778 769 158 158 bc6a94e573396c75c0c8a0012c146335
+cpath: /cauldron/nss
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r770/1306
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r759/1208
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r774/1140
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r744/1215
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r778/1483
+type: dir
+pred: 0-1.0.r777/952
+count: 774
+text: 778 1093 377 377 a616b49a1550ddbbd889517f60705117
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r778/1483
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r778/1726
+type: dir
+pred: 0.0.r777/1192
+count: 778
+text: 778 1633 80 80 9aa22983813451446ec8ea2ac5efe914
+cpath: /
+copyroot: 0 /
+
+2-57._0.t777-ll add-dir false false /cauldron/nss/releases/2:3.12.9/2.mga1
+775 /cauldron/nss/current
+
+1726 1863

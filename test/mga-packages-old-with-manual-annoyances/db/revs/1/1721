@@ -1,0 +1,160 @@
+id: 2-8.0-1721.r1721/0
+type: dir
+pred: 2-8.0.r1718/4236
+count: 42
+text: 1718 4144 79 0 85168605d2a601829e6e09633f259db4
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.14.1/7.mga2
+copyfrom: 1718 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.2.mga2
+V 20
+dir 2-8.0-939.r939/0
+K 8
+0.4.mga2
+V 20
+dir 2-8.0-950.r950/0
+K 6
+1.mga2
+V 20
+dir 2-8.0-954.r954/0
+K 6
+2.mga2
+V 20
+dir 2-8.0-968.r968/0
+K 6
+3.mga2
+V 22
+dir 2-8.0-1127.r1127/0
+K 6
+4.mga2
+V 22
+dir 2-8.0-1265.r1265/0
+K 6
+5.mga2
+V 22
+dir 2-8.0-1582.r1582/0
+K 6
+6.mga2
+V 22
+dir 2-8.0-1705.r1705/0
+K 6
+7.mga2
+V 22
+dir 2-8.0-1721.r1721/0
+END
+ENDREP
+id: 3-936.0.r1721/625
+type: dir
+pred: 3-936.0.r1705/586
+count: 9
+text: 1721 261 351 0 a055b8fb4e04a27e0752076c8e5ff280
+cpath: /cauldron/glibc/releases/6:2.14.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r1721/625
+END
+ENDREP
+id: 35-8.0.r1721/895
+type: dir
+pred: 35-8.0.r1705/856
+count: 14
+text: 1721 800 82 0 8746975d3c349468818b738d293ea4d6
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 20
+dir 2-8.0.r1718/4236
+K 8
+pristine
+V 22
+dir 2-8.0-1720.r1720/0
+K 8
+releases
+V 20
+dir 35-8.0.r1721/895
+END
+ENDREP
+id: 1-7.0.r1721/1236
+type: dir
+pred: 1-7.0.r1720/422
+count: 92
+text: 1721 1059 164 0 6204403c5825088747a73e885cc90042
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1721/1236
+K 6
+kernel
+V 20
+dir 1-5.0.r1717/1111
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1712/1940
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1665/1889
+K 7
+systemd
+V 21
+dir 1-40.0.r1699/1333
+K 4
+udev
+V 21
+dir 1-27.0.r1681/1201
+END
+ENDREP
+id: 0-1.0.r1721/1645
+type: dir
+pred: 0-1.0.r1720/828
+count: 1597
+text: 1721 1392 240 0 94025a92dbad28cda45dfb119f239478
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1721/1645
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1721/1893
+type: dir
+pred: 0.0.r1720/1073
+count: 1721
+text: 1721 1797 83 0 9e0579f5bf8430191e2f5e17d95a2e7c
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1720-1bs add-dir false false /cauldron/glibc/releases/6:2.14.1/7.mga2
+1718 /cauldron/glibc/current
+
+1893 2033

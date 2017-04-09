@@ -1,0 +1,56 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-22T17:33:31.344381Z
+K 7
+svn:log
+V 2288
+- update to 2.6.38.8 (CVE-2011-1017, CVE-2011-3619)
+  * drop merged patches
+- inet_diag: fix inet_diag_bc_audit() (CVE-2011-2213)
+- ksm: fix race between ksmd and exiting task (CVE-2011-2183)
+- taskstats: don't allow duplicate entries in listener mode (CVE-2011-2484)
+- ath9k: revert changes that crashes the kernel (mga #144, regression since 2.6.35)
+- ath9k: fix two more bugs in tx power
+- ath9k: Reset chip on baseband hang
+- ath9k: set 40 Mhz rate only if hw is configured in ht40
+- block: export blk_{get,put}_queue()
+- block: blkdev_get() should access ->bd_disk only after success
+- drm/i915: Add a no lvds quirk for the Asus EeeBox PC EB1007
+- drm/radeon/kms: viewport height has to be even
+- drm/radeon/kms: fix for radeon on systems >4GB without hardware iommu
+- fat: Fix corrupt inode flags when remove ATTR_SYS flag
+- hwmon: coretemp: Relax target temperature range check
+- intel-iommu: Flush unmaps at domain_exit
+- intel-iommu: Only unlink device domains from iommu
+- intel-iommu: Check for identity mapping candidate using system dma mask
+- intel-iommu: Speed up processing of the identity_mapping function
+- intel-iommu: Dont cache iova above 32bit
+- intel-iommu: Use coherent DMA mask when requested
+- intel-iommu: Remove Host Bridge devices from identity mapping
+- intel-iommu: Add domain check in domain_remove_one_dev_info
+- nl80211: fix check for valid SSID size in scan operations (CVE-2011-2517)
+- option: add Zoom 4597 modem USB IDs
+- option: add Alcatel X200 to sendsetup blacklist
+- option: add Prolink PH300 modem IDs
+- option: Add blacklist for ZTE K3765-Z
+- Revert "USB: option: add ID for ZTE MF 330" as its a usb hub
+- scsi:  Fix oops caused by queue refcounting failure
+- TOMOYO: Fix oops in tomoyo_mount_acl() (CVE-2011-2518)
+- usb: core: Tolerate protocol stall during hub and port status read
+- usb-storage: redo incorrect reads
+- usbnet/cdc_ncm: add missing .reset_resume hook
+- usb: cdc-acm: Adding second ACM channel support for Nokia E7 and C7
+- usb: serial: add another 4N-GALAXY.DE PID to ftdi_sio driver
+- video: Fix use-after-free by vga16fb on rmmod
+- x86/amd-iommu: Fix 3 possible endless loops
+- x86/amd-iommu: Use only per-device dma_ops
+- x86/amd-iommu: Fix boot crash with hidden PCI devices
+- xen: fix off by one errors in multicalls.c
+
+
+END

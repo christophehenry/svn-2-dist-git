@@ -1,0 +1,713 @@
+id: 68-51.0.r1402/0
+type: file
+pred: 68-51.0.r1323/56912
+count: 129
+text: 1292 471 22 7390 54769b857f6b95dd97dc3881e70d1fa2 ac442dafb2ffbb5f301a6b889b83f2269faeb5f6 1401-12x/_6
+cpath: /cauldron/kernel/current/PATCHES/patches/series
+copyroot: 0 /
+
+PLAIN
+K 27
+3rd-3rdparty-1.0-tree.patch
+V 22
+file t-51.0.r51/731654
+K 24
+3rd-3rdparty-merge.patch
+V 22
+file w-51.0.r1249/3065
+K 23
+3rd-acerhk-0.5.35.patch
+V 22
+file y-51.0.r51/732135
+K 32
+3rd-acerhk-2.6.36-buildfix.patch
+V 23
+file 10-51.0.r51/732376
+K 29
+3rd-acerhk-extra-cflags.patch
+V 23
+file 12-51.0.r51/732623
+K 47
+3rd-acerhk-fix-build-with-function-tracer.patch
+V 23
+file 14-51.0.r51/732868
+K 28
+3rd-acerhk-fix-include.patch
+V 21
+file 5-227.0.r227/534
+K 23
+3rd-acerhk-kbuild.patch
+V 23
+file 16-51.0.r51/733130
+K 37
+3rd-acerhk-proc_dir_entry-owner.patch
+V 23
+file 18-51.0.r51/733369
+K 24
+3rd-aes2501-kbuild.patch
+V 23
+file 1a-51.0.r51/733622
+K 21
+3rd-aes2501-r19.patch
+V 23
+file 1c-51.0.r51/733862
+K 32
+3rd-aes2501-rmmod-oops-fix.patch
+V 23
+file 1e-51.0.r51/734102
+K 30
+3rd-heci-2.6.36-buildfix.patch
+V 23
+file 1g-51.0.r51/734349
+K 23
+3rd-heci-3.2.0.24.patch
+V 23
+file 1i-51.0.r51/734595
+K 28
+3rd-heci-WARN-redefine.patch
+V 23
+file 1k-51.0.r51/734838
+K 26
+3rd-heci-use-sched.h.patch
+V 23
+file 1m-51.0.r51/735082
+K 30
+3rd-ndiswrapper-1.57-rc1.patch
+V 27
+file 1o-51.0-883.r884/14652
+K 34
+3rd-ndiswrapper-3.2-buildfix.patch
+V 23
+file 5-1256.0.r1256/706
+K 29
+3rd-ndiswrapper-Kconfig.patch
+V 23
+file 1u-51.0.r51/736078
+K 40
+3rd-ndiswrapper-Makefile-build-fix.patch
+V 21
+file 1w-51.0.r889/294
+K 22
+3rd-rfswitch-1.3.patch
+V 23
+file 20-51.0.r51/736841
+K 31
+3rd-rfswitch-3.0-buildfix.patch
+V 22
+file a-640.0.r640/4768
+K 28
+3rd-rfswitch-build-fix.patch
+V 23
+file 22-51.0.r51/737082
+K 21
+3rd-viahss-0.92.patch
+V 23
+file 24-51.0.r51/737326
+K 32
+3rd-viahss-2.6.35-buildfix.patch
+V 23
+file 26-51.0.r51/737564
+K 29
+3rd-viahss-3.0-buildfix.patch
+V 22
+file c-640.0.r640/5011
+K 23
+3rd-viahss-config.patch
+V 23
+file 28-51.0.r51/737812
+K 31
+3rd-viahss-module-license.patch
+V 23
+file 2a-51.0.r51/738050
+K 15
+3rdparty.series
+V 23
+file 2c-51.0.r51/738296
+K 39
+acpi-CLEVO-M360S-disable_acpi_irq.patch
+V 23
+file 2e-51.0.r51/738526
+K 30
+acpi-add-proc-event-regs.patch
+V 22
+file 2g-51.0.r623/2970
+K 35
+acpi-dsdt-initrd-v0.9c-2.6.28.patch
+V 23
+file 2i-51.0.r51/739027
+K 34
+acpi-dsdt-initrd-v0.9c-fixes.patch
+V 23
+file 2k-51.0.r51/739279
+K 39
+acpi-processor-M720SR-limit-to-C2.patch
+V 23
+file 2m-51.0.r51/739530
+K 51
+acpi-video-add-blacklist-to-use-vendor-driver.patch
+V 21
+file 2o-51.0.r216/234
+K 30
+arm_fix_bad_udelay_usage.patch
+V 23
+file 8-307.0.r1249/3325
+K 46
+bluetooth-hci_usb-disable-isoc-transfers.patch
+V 23
+file 2q-51.0.r51/740052
+K 31
+char-agp-intel-new-Q57-id.patch
+V 21
+file 2s-51.0.r217/452
+K 21
+dm-raid-aliases.patch
+V 22
+file 8-301.0.r301/1768
+K 38
+firewire-ieee1394-module-aliases.patch
+V 21
+file 5-379.0.r379/794
+K 38
+fs-unionfs-2.5.9.2_for_3.1.1-rc1.patch
+V 28
+file 5-626.0-1046.r1046/9403
+K 31
+fs-unionfs-Release-2.5.10.patch
+V 23
+file 5-882.0.r882/10456
+K 45
+fs-unionfs-convert-i_nlink-to-set_nlink.patch
+V 24
+file 5-1254.0.r1254/1207
+K 60
+fs-unionfs-debug-dont-complain-when-d_deleted-dentries.patch
+V 23
+file 8-882.0.r882/10698
+K 65
+fs-unionfs-define-some-debug-macros-to-noop-if-DEBUG-is-off.patch
+V 23
+file a-882.0.r882/10972
+K 48
+fs-unionfs-fix-oops-bug-in-file_revalidate.patch
+V 23
+file c-882.0.r882/11250
+K 48
+fs-unionfs-fsync-updates-for-new-prototype.patch
+V 23
+file e-882.0.r882/11513
+K 39
+fs-unionfs-open-cleanup-and-fixes.patch
+V 23
+file g-882.0.r882/11777
+K 47
+fs-unionfs-permission-prototype-and-fixes.patch
+V 23
+file i-882.0.r882/12032
+K 51
+fs-unionfs-support-LOOKUP_RCU-in-d_revalidate.patch
+V 23
+file k-882.0.r882/12295
+K 33
+fs-unionfs-use-d_alloc_root.patch
+V 23
+file m-882.0.r882/12561
+K 31
+fs-unionfs-use-d_set_d_op.patch
+V 23
+file o-882.0.r882/12810
+K 54
+fs-unionfs-use-updated-vfs_path_lookup-prototype.patch
+V 23
+file q-882.0.r882/13056
+K 27
+gpu-drm-mach64-2.6.31.patch
+V 23
+file 34-51.0.r51/741801
+K 36
+gpu-drm-mach64-2.6.36-buildfix.patch
+V 23
+file 36-51.0.r51/742045
+K 36
+gpu-drm-mach64-2.6.37-buildfix.patch
+V 23
+file 38-51.0.r51/742297
+K 33
+gpu-drm-mach64-3.0-buildfix.patch
+V 22
+file e-640.0.r640/5253
+K 46
+gpu-drm-mach64-fix-for-changed-drm_ioctl.patch
+V 23
+file 3a-51.0.r51/742548
+K 50
+gpu-drm-mach64-fix-for-changed-drm_pci_alloc.patch
+V 23
+file 3c-51.0.r51/742809
+K 26
+gpu-drm-mach64-fixes.patch
+V 23
+file 3e-51.0.r51/743074
+K 37
+gpu-drm-mach64-include-module.h.patch
+V 23
+file 5-1253.0.r1253/441
+K 20
+gpu-drm-mach64.patch
+V 23
+file 3g-51.0.r1249/3595
+K 42
+hid-usbhid-IBM-BladeCenterHS20-quirk.patch
+V 22
+file 3i-51.0.r877/2281
+K 25
+ide-pci-sis5513-965.patch
+V 23
+file 3k-51.0.r51/743815
+K 35
+include-kbuild-export-pci_ids.patch
+V 23
+file 3m-51.0.r51/744055
+K 26
+init-netbook-Kconfig.patch
+V 22
+file 8-269.0.r269/5360
+K 38
+init-netbook-dont-wait-for-mouse.patch
+V 22
+file b-269.0.r269/5598
+K 35
+init-netbook-retry-root-mount.patch
+V 22
+file d-269.0.r269/5850
+K 52
+kbuild-compress-kernel-modules-on-installation.patch
+V 23
+file 3o-51.0.r51/744305
+K 29
+kbuild_firmware_install.patch
+V 23
+file b-307.0.r307/29884
+K 45
+media-video-pwc-lie-in-proc-usb-devices.patch
+V 22
+file 40-51.0.r877/2561
+K 37
+media-video-pwc-no-ads-in-dmesg.patch
+V 22
+file 42-51.0.r877/2843
+K 20
+mpt-vmware-fix.patch
+V 23
+file 44-51.0.r51/746459
+K 42
+net-netfilter-IFWLOG-2.6.35-buildfix.patch
+V 22
+file 46-51.0.r1122/319
+K 42
+net-netfilter-IFWLOG-2.6.37-buildfix.patch
+V 23
+file 48-51.0.r51/746952
+K 30
+net-netfilter-IFWLOG-mdv.patch
+V 23
+file 4a-51.0.r1249/3858
+K 26
+net-netfilter-IFWLOG.patch
+V 23
+file 4c-51.0.r51/747456
+K 39
+net-netfilter-psd-2.6.35-buildfix.patch
+V 23
+file 4g-51.0.r51/747948
+K 27
+net-netfilter-psd-mdv.patch
+V 23
+file 4i-51.0.r1249/4130
+K 23
+net-netfilter-psd.patch
+V 22
+file 4k-51.0.r623/3768
+K 31
+net-sis190-fix-list-usage.patch
+V 23
+file 4m-51.0.r1249/4398
+K 32
+net-wireless-ath9k-testfix.patch
+V 21
+file 5-520.0.r520/697
+K 39
+net-wireless-rt2800usb_disable_ps.patch
+V 22
+file 5-375.0.r375/1111
+K 52
+pci-add-ALI-M5229-ide-compatibility-mode-quirk.patch
+V 23
+file 5e-51.0.r51/752540
+K 28
+pci-pciprobe-CardBusNo.patch
+V 22
+file 5g-51.0.r877/3118
+K 34
+pci-rework-ASPM-disable-code.patch
+V 24
+file 5-1061.0.r1061/3127
+K 41
+platform-x86-add-shuttle-wmi-driver.patch
+V 22
+file 5m-51.0.r877/3385
+K 69
+platform-x86-samsung_laptop-add-support-for-samsung-nc210-nc110.patch
+V 23
+file c-685.0.r1046/9771
+K 72
+platform-x86-samsung_laptop-readd-support-for-older-N150-N210-N220.patch
+V 22
+file g-685.0.r685/6606
+K 27
+pnp-isapnp-async-init.patch
+V 23
+file 5o-51.0.r51/753856
+K 32
+pnp-pnpbios-off-by-default.patch
+V 23
+file 5q-51.0.r51/754099
+K 34
+scsi-megaraid-new-sysfs-name.patch
+V 23
+file 5s-51.0.r51/754346
+K 23
+scsi-ppscsi-2.6.2.patch
+V 23
+file 5u-51.0.r51/754595
+K 30
+scsi-ppscsi-3.0-buildfix.patch
+V 22
+file g-640.0.r640/5500
+K 28
+scsi-ppscsi-mdvbz45393.patch
+V 23
+file 5w-51.0.r51/754838
+K 34
+scsi-ppscsi-sg-helper-update.patch
+V 23
+file 5y-51.0.r51/755081
+K 45
+scsi-ppscsi-update-for-scsi_data_buffer.patch
+V 23
+file 60-51.0.r51/755331
+K 23
+scsi-ppscsi_fixes.patch
+V 23
+file 62-51.0.r51/755593
+K 6
+series
+V 20
+file 68-51.0.r1402/0
+K 32
+smack-unionfs-deadlock-fix.patch
+V 23
+file 6a-51.0.r51/756543
+K 40
+sound-alsa-hda-ad1884a-hp-dc-model.patch
+V 21
+file 6c-51.0.r327/815
+K 33
+sound-bluetooth-SCO-support.patch
+V 23
+file 6g-51.0.r51/757313
+K 53
+usb-storage-unusual_devs-add-id-2.6.37-buildfix.patch
+V 23
+file 6i-51.0.r51/757564
+K 37
+usb-storage-unusual_devs-add-id.patch
+V 23
+file 6k-51.0.r51/757833
+K 23
+video-mageia-logo.patch
+V 22
+file a-177.0.r177/7680
+K 35
+x86-boot-video-80x25-if-break.patch
+V 23
+file 6q-51.0.r51/758622
+K 36
+x86-cpufreq-speedstep-dothan-3.patch
+V 22
+file 6s-51.0.r623/4552
+K 38
+x86-default_poweroff_up_machines.patch
+V 23
+file 6u-51.0.r51/759125
+K 64
+x86-increase-default-minimum-vmalloc-area-by-64MB-to-192MB.patch
+V 21
+file 5-405.0.r405/535
+K 61
+x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+V 22
+file 6w-51.0.r623/4827
+K 46
+x86-pci-toshiba-equium-a60-assign-busses.patch
+V 22
+file 6y-51.0.r877/3665
+END
+ENDREP
+id: s-51.0.r1402/8020
+type: dir
+pred: s-51.0.r1323/84835
+count: 143
+text: 1402 247 7760 0 781cba09650a56fb59655087231d16ea
+cpath: /cauldron/kernel/current/PATCHES/patches
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 20
+dir 4-210.0.r627/794
+K 7
+configs
+V 20
+dir i-51.0.r1368/634
+K 7
+patches
+V 21
+dir s-51.0.r1402/8020
+K 5
+queue
+V 21
+dir 6-627.0.r628/7846
+K 7
+scripts
+V 22
+dir 70-51.0.r1368/1477
+END
+ENDREP
+id: 6-51.0.r1402/8460
+type: dir
+pred: 6-51.0.r1368/1918
+count: 177
+text: 1402 8206 241 0 6b1d5f94c7136469c765a80c8c737e72
+cpath: /cauldron/kernel/current/PATCHES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r1280/47
+K 7
+PATCHES
+V 21
+dir 6-51.0.r1402/8460
+K 7
+SOURCES
+V 20
+dir 4-6.0.r1401/1151
+K 5
+SPECS
+V 20
+dir 6-6.0.r1401/1625
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r1402/8854
+type: dir
+pred: 2-6.0.r1401/2012
+count: 320
+text: 1402 8637 204 0 71258825385aa0d0f304e383e239ac7f
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r1402/8854
+K 8
+pristine
+V 22
+dir 2-6.0-1373.r1373/0
+K 8
+releases
+V 21
+dir 2-14.0.r1374/1500
+END
+ENDREP
+id: 1-5.0.r1402/9211
+type: dir
+pred: 1-5.0.r1401/2369
+count: 487
+text: 1402 9075 123 0 73777d0be3c6405d5df6f9288536f29c
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1294/1386
+K 6
+kernel
+V 20
+dir 1-5.0.r1402/9211
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1400/2868
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1343/1561
+K 7
+systemd
+V 21
+dir 1-40.0.r1399/1147
+K 4
+udev
+V 21
+dir 1-27.0.r1336/1126
+END
+ENDREP
+id: 0-1.0.r1402/9623
+type: dir
+pred: 0-1.0.r1401/2781
+count: 1280
+text: 1402 9370 240 0 e0c8c72e44b682cdbf894b1e13e9bb62
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1402/9623
+K 7
+updates
+V 22
+dir 0-539.0.r1389/3176
+END
+ENDREP
+id: 0.0.r1402/9872
+type: dir
+pred: 0.0.r1401/3030
+count: 1402
+text: 1402 9776 83 0 82a4d656d43075d5609fc9ff6f1b1895
+cpath: /
+copyroot: 0 /
+
+68-51.0.t1401-12x modify-file true false /cauldron/kernel/current/PATCHES/patches/series
+
+7-1323.0.r1323/57163 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-fix-automute-for-cirrus-logic-421x.patch
+
+9-1323.0.r1323/57439 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-fix-master-control-for-cirrus-logic-421x.patch
+
+b-1323.0.r1323/57721 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-fix-the-detection-of-loopback-mixing-control-for-via-codecs.patch
+
+d-1323.0.r1323/58022 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-fix-the-lost-power-setup-of-seconary-pins-after-pm-resume.patch
+
+f-1323.0.r1323/58322 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-return-the-error-from-get_wcaps_type-for-invalid-nids.patch
+
+h-1323.0.r1323/58617 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-hda-use-auto-parser-for-hp-laptops-with-cx20459-codec.patch
+
+j-1323.0.r1323/58908 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-ice1724-check-for-ac97-to-avoid-kernel-oops.patch
+
+l-1323.0.r1323/59189 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-snd-usb-us122l-delete-calls-to-preempt_disable.patch
+
+n-1323.0.r1323/59473 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-alsa-usb-audio-avoid-flood-of-frame-active-debug-messages.patch
+
+p-1323.0.r1323/59763 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-asix-fix-setting-custom-mac-address-on-asix-88178-devices.patch
+
+r-1323.0.r1323/60053 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-asix-fix-setting-custom-mac-address-on-asix-88772-devices.patch
+
+t-1323.0.r1323/60344 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ath9k-fix-regression-in-channelwidth-switch-at-the-same-channel.patch
+
+v-1323.0.r1323/60642 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-drivers-rtc-interface.c-fix-alarm-rollover-when-day-or-month-is-out-of-range.patch
+
+x-1323.0.r1323/60953 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-drm-radeon-kms-disable-writeback-on-pre-r300-asics.patch
+
+z-1323.0.r1323/61237 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-drm-radeon-kms-workaround-invalid-avi-infoframe-checksum-issue.patch
+
+11-1323.0.r1323/61534 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ext4-add-missing-ext4_resize_end-on-error-paths.patch
+
+13-1323.0.r1323/61818 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ext4-fix-undefined-behavior-in-ext4_fill_flex_info.patch
+
+15-1323.0.r1323/62105 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-hid-bump-maximum-global-item-tag-report-size-to-96-bytes.patch
+
+17-1323.0.r1323/62397 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-hid-wiimote-select-input_ff_memless.patch
+
+19-1323.0.r1323/62667 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ima-fix-invalid-memory-reference.patch
+
+1b-1323.0.r1323/62935 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ima-free-duplicate-measurement-memory.patch
+
+1d-1323.0.r1323/63208 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-include-linux-crash_dump.h-needs-elf.h.patch
+
+1f-1323.0.r1323/63482 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-mac80211-fix-rx-key-null-pointer-dereference-in-promiscuous-mode.patch
+
+1h-1323.0.r1323/63782 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-md-raid1-perform-bad-block-tests-for-writemostly-devices-too.patch
+
+1j-1323.0.r1323/64078 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-memcg-add-mem_cgroup_replace_page_cache-to-fix-lru-issue.patch
+
+1l-1323.0.r1323/64371 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-mtd-mtd_blkdevs-don-t-increase-open-count-on-error-path.patch
+
+1n-1323.0.r1323/64663 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-mtd-mtdoops-skip-reading-initially-bad-blocks.patch
+
+1p-1323.0.r1323/64944 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-mtd-tests-stresstest-bail-out-if-device-has-not-enough-eraseblocks.patch
+
+1r-1323.0.r1323/65246 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-mtdoops-fix-the-oops_page_used-array-size.patch
+
+1t-1323.0.r1323/65523 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-nfs-fix-recent-breakage-to-nfs-error-handling.patch
+
+1v-1323.0.r1323/65805 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-nfs-fix-regression-in-handling-of-context-option-in-nfsv4.patch
+
+1x-1323.0.r1323/66099 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-nfs-retry-mounting-nfsroot.patch
+
+1z-1323.0.r1323/66362 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-nfsv4-include-bitmap-in-nfsv4-get-acl-data.patch
+
+21-1323.0.r1323/66641 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-nfsv4.1-fix-backchannel-slotid-off-by-one-bug.patch
+
+23-1323.0.r1323/66921 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-pci-fix-pci_exp_type_rc_ec-value.patch
+
+25-1323.0.r1323/67189 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-pci-msi-disable-msi-interrupts-when-we-initialize-a-pci-device.patch
+
+27-1323.0.r1323/67487 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-pnfs-obj-must-return-layout-on-io-error.patch
+
+29-1323.0.r1323/67763 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-pnfs-obj-pnfs-errors-are-communicated-on-iodata-pnfs_error.patch
+
+2b-1323.0.r1323/68057 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-pnp-work-around-dell-1536-1546-bios-mmconfig-bug-that-breaks-usb.patch
+
+2d-1323.0.r1323/68358 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-radeon-fix-disabling-pci-bus-mastering-on-big-endian-hosts.patch
+
+2f-1323.0.r1323/68652 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-rtl8192se-fix-bug-caused-by-failure-to-check-skb-allocation.patch
+
+2h-1323.0.r1323/68947 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-scsi-mpt2sas-fix-for-memory-allocation-error-for-large-host-credits.patch
+
+2j-1323.0.r1323/69251 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-scsi-mpt2sas-release-spinlock-for-the-raid-device-list-before-blocking-it.patch
+
+2l-1323.0.r1323/69560 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-slub-fix-a-possible-memleak-in-__slab_alloc.patch
+
+2n-1323.0.r1323/69839 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ubi-fix-missing-scrub-when-there-is-a-bit-flip.patch
+
+2p-1323.0.r1323/70122 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-ubi-fix-use-after-free-on-error-path.patch
+
+2r-1323.0.r1323/70394 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-x86-fix-mmap-random-address-range.patch
+
+2t-1323.0.r1323/70663 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-x86-pci-amd-factor-out-mmconfig-discovery.patch
+
+2v-1323.0.r1323/70941 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-x86-pci-build-amd_bus.o-only-when-config_amd_nb-y.patch
+
+2x-1323.0.r1323/71226 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-x86-pci-ignore-cpu-non-addressable-_crs-reserved-memory-resources.patch
+
+2z-1323.0.r1323/71528 delete-file false false /cauldron/kernel/current/PATCHES/patches/stable-xen-xenbus-reject-replies-with-payload-xenstore_payload_max.patch
+
+
+9872 10012

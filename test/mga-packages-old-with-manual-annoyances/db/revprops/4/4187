@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T02:27:08.635297Z
+K 7
+svn:log
+V 52
+x86, quirks: Add workaround for AMD F16h Erratum 792
+END

@@ -1,0 +1,152 @@
+id: 2-8.0-3255.r3255/0
+type: dir
+pred: 2-8.0.r3252/603
+count: 83
+text: 3252 512 78 0 0ce820aec72b667842b281413c09dfdf
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.17/7.mga4
+copyfrom: 3252 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2673.r2673/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2697.r2697/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2945.r2945/0
+K 6
+5.mga3
+V 22
+dir 2-8.0-3002.r3002/0
+K 6
+6.mga4
+V 22
+dir 2-8.0-3228.r3228/0
+K 6
+7.mga4
+V 22
+dir 2-8.0-3255.r3255/0
+END
+ENDREP
+id: 3-2670.0.r3255/508
+type: dir
+pred: 3-2670.0.r3228/469
+count: 6
+text: 3255 257 238 0 b88e40423d9d64e432341af881e8bc50
+cpath: /cauldron/glibc/releases/6:2.17
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3255/508
+END
+ENDREP
+id: 35-8.0.r3255/856
+type: dir
+pred: 35-8.0.r3228/817
+count: 38
+text: 3255 683 160 0 b46c48bd2c6c4a7f5c8e3c53164f3e21
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 19
+dir 2-8.0.r3252/603
+K 8
+pristine
+V 22
+dir 2-8.0-3254.r3254/0
+K 8
+releases
+V 20
+dir 35-8.0.r3255/856
+END
+ENDREP
+id: 1-7.0.r3255/1197
+type: dir
+pred: 1-7.0.r3254/419
+count: 228
+text: 3255 1021 163 0 176e256250947b6b1ae4f28afaacf4da
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3245/3328
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3216/3196
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3251/2554
+K 7
+systemd
+V 21
+dir 1-40.0.r3224/1574
+END
+ENDREP
+id: 0-1.0.r3255/1571
+type: dir
+pred: 0-1.0.r3254/790
+count: 2940
+text: 3255 1354 204 0 f4543654035c07ece2e7dffff0eb7b48
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3255/1571
+K 7
+updates
+V 23
+dir 0-539.0.r3237/14345
+END
+ENDREP
+id: 0.0.r3255/1820
+type: dir
+pred: 0.0.r3254/1036
+count: 3255
+text: 3255 1723 84 0 6671db7b3142411e568edeb8dc82accf
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3254-2ie add-dir false false /cauldron/glibc/releases/6:2.17/7.mga4
+3252 /cauldron/glibc/current
+
+1820 1960

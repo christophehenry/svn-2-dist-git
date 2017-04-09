@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-12T03:01:32.752513Z
+K 7
+svn:log
+V 67
+ath9k: stop on rates with idx -1 in ath9k rate control's .tx_status
+END

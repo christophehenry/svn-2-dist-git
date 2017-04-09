@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-09-19T18:40:36.505311Z
+K 7
+svn:log
+V 158
+- split out systemd-analyze in systemd-tools since it requires python
+  (saves 30mb in minimal basesystem)
+  also do not pulls pkgconfig in minimal basesystem
+END

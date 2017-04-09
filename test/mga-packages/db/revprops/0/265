@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 4
+misc
+K 8
+svn:date
+V 27
+2011-02-24T00:45:45.327605Z
+K 7
+svn:log
+V 67
+- remove timezone links that are already present in upstream glibc
+
+END

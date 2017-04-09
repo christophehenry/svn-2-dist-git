@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-24T23:14:42.320709Z
+K 7
+svn:log
+V 69
+drm: fix integer overflow in drm_mode_dirtyfb_ioctl() (CVE-2012-0044)
+END

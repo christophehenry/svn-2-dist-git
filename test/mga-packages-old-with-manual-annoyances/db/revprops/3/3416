@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-14T16:59:37.287328Z
+K 7
+svn:log
+V 67
+- make each kernel-*(-devel) suggest the matching -latest package
+
+
+END

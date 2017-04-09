@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-19T21:29:07.025405Z
+K 7
+svn:log
+V 165
+- revert: "Fix potential removal of required local scope from shared
+  objects marked as NODELETE (patch from opensuse, mga #2526)" as it 
+  introduces regressions
+
+
+END

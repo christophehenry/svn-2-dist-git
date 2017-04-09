@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-12-28T22:53:04.591582Z
+K 7
+svn:log
+V 84
+drop P60, P61 (strncasecmp segfault fix, strtod integer buffer overflow fix, merged)
+END

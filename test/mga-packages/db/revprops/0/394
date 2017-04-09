@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-15T12:35:18.531735Z
+K 7
+svn:log
+V 252
+- block: fix mis-synchronisation in blkdev_issue_zeroout()
+- btrfs: deal with short returns from copy_from_user
+- drm/i915: Fix calculation of backlight value in combined mode
+- nfs: nfsroot should default to: proto=udp
+- nfs: fix compilation warning
+
+
+END

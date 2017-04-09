@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-02-13T22:10:40.789097Z
+K 7
+svn:log
+V 95
+Fixed build with the new omni.jar format and enabled again system nss
+Merge mdv commit 631629 
+
+END

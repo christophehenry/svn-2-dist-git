@@ -1,0 +1,242 @@
+PLAIN
+K 31
+fix_stack_protector_check.patch
+V 23
+file 5-196.0.r196/30180
+K 28
+mips_define_isa_macros.patch
+V 23
+file e-196.0.r196/31210
+K 17
+mips_macros.patch
+V 23
+file g-196.0.r196/31446
+K 34
+rpm-4.4.2.2-gendiff-improved.patch
+V 23
+file i-196.0.r196/31671
+K 29
+rpm-4.4.2.2-rpmqv-ghost.patch
+V 23
+file k-196.0.r196/31914
+K 45
+rpm-4.4.2.3-rc1-transmeta-crusoe-is-686.patch
+V 23
+file o-196.0.r196/32394
+K 32
+rpm-4.6.0-no-doc-conflicts.patch
+V 23
+file q-196.0.r196/32647
+K 29
+rpm-4.6.0-rc1-buildlang.patch
+V 23
+file u-196.0.r196/33132
+K 33
+rpm-4.6.0-rc1-copyright-tag.patch
+V 23
+file w-196.0.r196/33369
+K 37
+rpm-4.6.0-rc1-fix-nss-detection.patch
+V 24
+file 10-196.0.r196/33853
+K 30
+rpm-4.6.0-rc1-serial-tag.patch
+V 24
+file 1c-196.0.r196/35372
+K 26
+rpm-4.6.0-rc1-syslog.patch
+V 24
+file 1e-196.0.r196/35613
+K 28
+rpm-4.6.0-rc1-weakdeps.patch
+V 24
+file 1g-196.0.r196/35851
+K 30
+rpm-4.6.0-rc3-xz-support.patch
+V 24
+file 1k-196.0.r196/36339
+K 35
+rpm-4.9.0-beta1-fix-debugedit.patch
+V 21
+file 5-205.0.r205/650
+K 38
+rpm-4.9.0-beta1-no-doc-conflicts.patch
+V 21
+file 5-204.0.r204/805
+K 47
+rpm-4.9.0-beta1-non-pre-scripts-dont-fail.patch
+V 21
+file 7-198.0.r198/914
+K 40
+rpm-4.9.0-beta1-provides-obsoleted.patch
+V 21
+file 5-201.0.r201/471
+K 28
+rpm-4.9.0-beta1-syslog.patch
+V 21
+file 5-200.0.r200/809
+K 40
+rpm-4.9.0-read-macros_d-dot-macros.patch
+V 26
+file 1a-196.0-584.r584/229
+K 39
+rpm-allow-conflicting-ghost-files.patch
+V 24
+file 1q-196.0.r196/37067
+K 51
+rpm-check-file-trim-double-slash-in-buildroot.patch
+V 24
+file 1s-196.0.r196/37317
+K 47
+rpm-forbid-badly-commented-define-in-spec.patch
+V 24
+file 1u-196.0.r196/37580
+K 29
+rpm_arm_mips_isa_macros.patch
+V 24
+file 20-196.0.r196/38355
+END
+ENDREP
+id: 4-194.0.r598/1682
+type: dir
+pred: 4-194.0.r597/1770
+count: 24
+text: 598 0 1669 1669 3ca2a16d71baa932fad361041077d8ec
+cpath: /cauldron/rpm/branches/4.9/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 21
+dir 4-194.0.r598/1682
+K 5
+SPECS
+V 21
+dir 4-193.0.r584/3808
+END
+ENDREP
+id: 3-170.0.r598/1953
+type: dir
+pred: 3-170.0.r597/2041
+count: 28
+text: 598 1860 80 80 e3abcc8001bf97494887a638c9a68e99
+cpath: /cauldron/rpm/branches/4.9
+copyroot: 0 /
+
+PLAIN
+K 3
+4.9
+V 21
+dir 3-170.0.r598/1953
+END
+ENDREP
+id: 2-169.0.r598/2174
+type: dir
+pred: 2-169.0.r597/2262
+count: 29
+text: 598 2122 39 39 03d7c72eec536a7edc6cffd01fffd997
+cpath: /cauldron/rpm/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r598/2174
+K 7
+current
+V 20
+dir 2-12.0.r511/3331
+K 8
+pristine
+V 21
+dir 2-12.0-513.r513/0
+K 8
+releases
+V 20
+dir 37-12.0.r514/839
+END
+ENDREP
+id: 1-11.0.r598/2513
+type: dir
+pred: 1-11.0.r597/2601
+count: 129
+text: 598 2339 161 161 ee5eb52ced356c434a4d3f8c4b026120
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r583/1068
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r529/1320
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r572/984
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r598/2513
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r598/3058
+type: dir
+pred: 0-1.0.r597/3146
+count: 594
+text: 598 2670 375 375 fbc1c00f9a5362d7c56f3e724ba61c71
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r598/3058
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r598/3302
+type: dir
+pred: 0.0.r597/3390
+count: 598
+text: 598 3209 80 80 f124993f1a45670ab6ac842e2890f5fb
+cpath: /
+copyroot: 0 /
+
+16-196.0.r196/34603 delete-file false false /cauldron/rpm/branches/4.9/SOURCES/rpm-4.6.0-rc1-protect-against-non-robust-futex.patch
+
+
+3302 3439

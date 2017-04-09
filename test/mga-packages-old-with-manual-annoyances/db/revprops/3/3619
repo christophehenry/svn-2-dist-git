@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-21T22:04:56.231996Z
+K 7
+svn:log
+V 417
+- update to 3.10.9
+- add patches:
+  * DG01: drm/radeon: fix WREG32_OR macro setting bits in a register
+  * DG02: drm/radeon/r7xx: fix copy paste typo in golden register setup
+  * NM01: mac80211: add a flag to indicate CCK support for HT clients
+  * NS01: net_sched: psched_ratecfg_precompute() improvements
+  * NS02: net_sched: restore "linklayer atm" handling
+  * NW01: ath9k: Enable PLL fix only for AR9340/AR9330
+
+
+END

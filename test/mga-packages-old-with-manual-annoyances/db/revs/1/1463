@@ -1,0 +1,156 @@
+id: 2-41.0-1463.r1463/0
+type: dir
+pred: 2-41.0.r1459/1874
+count: 97
+text: 1459 1781 80 0 d2b55a8de855cc836fd9552a7cc7026c
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/40/2.mga2
+copyfrom: 1459 /cauldron/systemd/current
+
+PLAIN
+K 6
+2.mga2
+V 23
+dir 2-41.0-1463.r1463/0
+END
+ENDREP
+id: 3-1460.0.r1463/318
+type: dir
+pred: 3-1460.0.r1460/0
+count: 1
+text: 1463 261 44 0 e0658c987b95cdcc46b466ece6c80f86
+cpath: /cauldron/systemd/releases/40
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1270/955
+K 2
+38
+V 22
+dir 3-1305.0.r1364/560
+K 2
+39
+V 22
+dir 3-1392.0.r1433/396
+K 2
+40
+V 22
+dir 3-1460.0.r1463/318
+END
+ENDREP
+id: p-41.0.r1463/836
+type: dir
+pred: p-41.0.r1460/438
+count: 49
+text: 1463 488 335 0 876fc6a6d3ed4234e938c406ef84ec1a
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-41.0.r1459/1874
+K 8
+pristine
+V 23
+dir 2-41.0-1462.r1462/0
+K 8
+releases
+V 20
+dir p-41.0.r1463/836
+END
+ENDREP
+id: 1-40.0.r1463/1140
+type: dir
+pred: 1-40.0.r1462/388
+count: 225
+text: 1463 1003 124 0 a0d2a6ad232a58bbf83f70e5723cfae7
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1434/6496
+K 6
+kernel
+V 20
+dir 1-5.0.r1457/1841
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1450/1746
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1458/4083
+K 7
+systemd
+V 21
+dir 1-40.0.r1463/1140
+K 4
+udev
+V 21
+dir 1-27.0.r1443/1042
+END
+ENDREP
+id: 0-1.0.r1463/1554
+type: dir
+pred: 0-1.0.r1462/798
+count: 1340
+text: 1463 1301 240 0 0854b683852c60a472d082e3eb25ab1a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1463/1554
+K 7
+updates
+V 22
+dir 0-539.0.r1453/1939
+END
+ENDREP
+id: 0.0.r1463/1802
+type: dir
+pred: 0.0.r1462/1043
+count: 1463
+text: 1463 1706 83 0 96930e8e19de8efda2a194e599da7ef5
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1462-14m add-dir false false /cauldron/systemd/releases/40/2.mga2
+1459 /cauldron/systemd/current
+
+1802 1942

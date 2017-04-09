@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-23T13:16:44.506492Z
+K 7
+svn:log
+V 74
+ALSA: usb-audio - Fix invalid volume resolution on Logitech HD webcam c270
+END

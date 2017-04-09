@@ -1,0 +1,160 @@
+id: 2-28.0-1681.r1681/0
+type: dir
+pred: 2-28.0.r1678/3811
+count: 69
+text: 1678 3717 81 0 3ec60ebb5fbdc0c24614ffb259e99a6c
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/181/4.mga2
+copyfrom: 1678 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-28.0-1485.r1485/0
+K 6
+2.mga2
+V 23
+dir 2-28.0-1551.r1551/0
+K 6
+3.mga2
+V 23
+dir 2-28.0-1555.r1555/0
+K 6
+4.mga2
+V 23
+dir 2-28.0-1681.r1681/0
+END
+ENDREP
+id: 3-1482.0.r1681/434
+type: dir
+pred: 3-1482.0.r1555/392
+count: 4
+text: 1681 257 164 0 08f4daeb01f1b68910781a47ce4887ce
+cpath: /cauldron/udev/releases/181
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+K 3
+175
+V 22
+dir 3-1177.0.r1336/432
+K 3
+180
+V 22
+dir 3-1440.0.r1443/314
+K 3
+181
+V 22
+dir 3-1482.0.r1681/434
+END
+ENDREP
+id: 1f-28.0.r1681/897
+type: dir
+pred: 1f-28.0.r1555/855
+count: 31
+text: 1681 605 279 0 99b6e4e64f5398cb4643fb751550f515
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-28.0.r1678/3811
+K 8
+pristine
+V 23
+dir 2-28.0-1680.r1680/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1681/897
+END
+ENDREP
+id: 1-27.0.r1681/1201
+type: dir
+pred: 1-27.0.r1680/384
+count: 147
+text: 1681 1063 125 0 4c5525881ef9a547afaef0aea1571df0
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1582/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r1677/9834
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1653/1997
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1665/1889
+K 7
+systemd
+V 21
+dir 1-40.0.r1676/1250
+K 4
+udev
+V 21
+dir 1-27.0.r1681/1201
+END
+ENDREP
+id: 0-1.0.r1681/1612
+type: dir
+pred: 0-1.0.r1680/791
+count: 1557
+text: 1681 1359 240 0 ae3ff519bf9621b31ff9e2e2f95ae456
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1681/1612
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1681/1860
+type: dir
+pred: 0.0.r1680/1036
+count: 1681
+text: 1681 1764 83 0 d672d4bf8e56ea6afa0d3b7887d5fce5
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1680-1ao add-dir false false /cauldron/udev/releases/181/4.mga2
+1678 /cauldron/udev/current
+
+1860 2000

@@ -1,0 +1,106 @@
+id: 2-6.0-553.r553/0
+type: dir
+pred: 2-6.0.r551/1133
+count: 81
+text: 551 918 202 202 74e559c1c48fe88960b14ab404581b0a
+props: 550 1159 65 65 1a9617fe8972d316158a191f99d4a3be
+cpath: /cauldron/kernel/pristine
+copyfrom: 552 /cauldron/kernel/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r551/1133
+K 8
+pristine
+V 20
+dir 2-6.0-553.r553/0
+K 8
+releases
+V 19
+dir 2-18.0.r527/811
+END
+ENDREP
+id: 1-5.0.r553/377
+type: dir
+pred: 1-5.0.r552/92
+count: 120
+text: 553 246 118 118 645a8511bb44d44866c7b1c67d9a8708
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 18
+dir 1-5.0.r553/377
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r529/1320
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r536/942
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r553/918
+type: dir
+pred: 0-1.0.r552/629
+count: 549
+text: 553 531 374 374 94fc0de15264b57404bf520de7d2a8c2
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r553/918
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r553/1158
+type: dir
+pred: 0.0.r552/870
+count: 553
+text: 553 1066 79 79 4e1cffbd239165f0889ed75e6763dfcf
+cpath: /
+copyroot: 0 /
+
+2-6._0.t552-fc add-dir false false /cauldron/kernel/pristine
+552 /cauldron/kernel/current
+
+1158 1294

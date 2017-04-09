@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-19T18:38:10.442514Z
+K 7
+svn:log
+V 67
+watchdog: iTCO_wdt: TCO Watchdog patch for Intel Panther Point PCH
+
+END

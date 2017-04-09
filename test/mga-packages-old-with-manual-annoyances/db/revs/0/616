@@ -1,0 +1,132 @@
+id: 2-28.0-616.r616/0
+type: dir
+pred: 2-28.0.r612/613
+count: 29
+text: 612 522 78 0 da3a104e676e18d5ab5cf7ef578bf9a4
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/172/1.mga2
+copyfrom: 612 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-28.0-616.r616/0
+END
+ENDREP
+id: 3-613.0.r616/305
+type: dir
+pred: 3-613.0.r613/0
+count: 1
+text: 616 250 42 0 4086e1bbc2e6a6a8bebfbd5e25afb9f2
+cpath: /cauldron/udev/releases/172
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r616/305
+END
+ENDREP
+id: 1f-28.0.r616/617
+type: dir
+pred: 1f-28.0.r613/235
+count: 13
+text: 616 468 136 0 dffb00b1f78d27d3ff4c41c2fa198641
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-28.0.r612/613
+K 8
+pristine
+V 21
+dir 2-28.0-615.r615/0
+K 8
+releases
+V 20
+dir 1f-28.0.r616/617
+END
+ENDREP
+id: 1-27.0.r616/913
+type: dir
+pred: 1-27.0.r615/372
+count: 61
+text: 616 780 120 0 73da00bcb1a51248dc7a4b1b5d27c0ca
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r593/1487
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r608/1427
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 19
+dir 1-40.0.r529/940
+K 4
+udev
+V 19
+dir 1-27.0.r616/913
+END
+ENDREP
+id: 0-1.0.r616/1310
+type: dir
+pred: 0-1.0.r615/768
+count: 595
+text: 616 1065 232 0 2b3c023a260033958839274347ab574d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r616/1310
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r616/1552
+type: dir
+pred: 0.0.r615/1007
+count: 616
+text: 616 1458 81 0 56d79ec5c3514097417463896721b02a
+cpath: /
+copyroot: 0 /
+
+2-28._0.t615-h3 add-dir false false /cauldron/udev/releases/172/1.mga2
+612 /cauldron/udev/current
+
+1552 1688

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-28T00:10:26.890469Z
+K 7
+svn:log
+V 30
+fix perf build with glibc-2.16
+END

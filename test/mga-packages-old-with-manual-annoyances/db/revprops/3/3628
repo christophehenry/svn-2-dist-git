@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-24T17:41:47.507107Z
+K 7
+svn:log
+V 38
+fix segfault with __strstr_sse42 (P60)
+END

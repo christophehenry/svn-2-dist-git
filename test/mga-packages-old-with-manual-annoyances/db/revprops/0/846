@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-09-26T20:11:19.869514Z
+K 7
+svn:log
+V 178
+- revert "ide: Convert to bdops->check_events()" merged in upstream
+  2.6.38.8 as it introduced regression for some users regarding
+  udev getting stuck at 100% cpu (mga #1954)
+
+
+END

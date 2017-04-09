@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-16T18:23:57.867418Z
+K 7
+svn:log
+V 439
+- update to 3.4.69
+- add stable queue fixes:
+  * AA01: cxgb3: Fix length calculation in write_ofld_wr() on 32-bit architectures
+  * AA02: xen-netback: use jiffies_64 value to calculate credit timeout
+  * AA03: net: flow_dissector: fail on evil iph->ihl
+  * AA04: pci: fix truncation of resource size to 32 bits
+  * AA05: usb: add new zte 3g-dongle's pid to option.c
+  * AA06: Alsa: hda - Move one-time init codes from generic_hdmi_init()
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2014-01-13T20:55:04.761222Z
+K 7
+svn:log
+V 82
+Require chkconfig version with the appropriate patch for smooth upgrades mga#12278
+END

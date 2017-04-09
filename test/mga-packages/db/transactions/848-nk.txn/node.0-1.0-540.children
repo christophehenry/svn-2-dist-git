@@ -1,0 +1,45 @@
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r481/422
+K 5
+glibc
+V 18
+dir 1-7.0.r479/903
+K 6
+kernel
+V 19
+dir 1-5.0.r462/1023
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r428/1207
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r410/889
+END
+K 6
+kernel
+V 21
+dir 1-5.0-540.t848-nk

@@ -1,0 +1,202 @@
+id: 3-1419.0.r1419/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases/3.2.2
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+K 8
+2.6.38.7
+V 20
+dir 3-485.0.r488/315
+K 8
+2.6.38.8
+V 21
+dir 3-501.0.r1141/165
+K 5
+3.0.0
+V 20
+dir 3-648.0.r670/375
+K 5
+3.0.4
+V 20
+dir 3-760.0.r763/312
+K 5
+3.0.6
+V 20
+dir 3-863.0.r866/311
+K 5
+3.1.0
+V 21
+dir 3-891.0.r1016/445
+K 5
+3.1.1
+V 22
+dir 3-1048.0.r1051/332
+K 5
+3.1.2
+V 22
+dir 3-1064.0.r1067/332
+K 5
+3.1.3
+V 22
+dir 3-1082.0.r1085/318
+K 5
+3.1.4
+V 22
+dir 3-1106.0.r1130/358
+K 5
+3.1.6
+V 22
+dir 3-1172.0.r1235/402
+K 5
+3.2.0
+V 22
+dir 3-1258.0.r1297/413
+K 5
+3.2.1
+V 22
+dir 3-1344.0.r1374/357
+K 5
+3.2.2
+V 20
+dir 3-1419.0.r1419/0
+END
+ENDREP
+id: 2-14.0.r1419/1099
+type: dir
+pred: 2-14.0.r1374/1500
+count: 73
+text: 1419 94 992 0 c7948b2643b03d689b74c50c92bb4a38
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r1417/740
+K 8
+pristine
+V 22
+dir 2-6.0-1373.r1373/0
+K 8
+releases
+V 21
+dir 2-14.0.r1419/1099
+END
+ENDREP
+id: 1-5.0.r1419/1401
+type: dir
+pred: 1-5.0.r1417/1094
+count: 491
+text: 1419 1266 122 0 e03a0892643c31d696fd2780314ad61f
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1294/1386
+K 6
+kernel
+V 20
+dir 1-5.0.r1419/1401
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r1416/988
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1418/1067
+K 7
+systemd
+V 21
+dir 1-40.0.r1399/1147
+K 4
+udev
+V 21
+dir 1-27.0.r1336/1126
+END
+ENDREP
+id: 0-1.0.r1419/1812
+type: dir
+pred: 0-1.0.r1418/1485
+count: 1297
+text: 1419 1560 239 0 8e485d45691f2c92ea36b398a8dcd0f6
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1419/1812
+K 7
+updates
+V 22
+dir 0-539.0.r1389/3176
+END
+ENDREP
+id: 0.0.r1419/2061
+type: dir
+pred: 0.0.r1418/1734
+count: 1419
+text: 1419 1965 83 0 c3517400b139182e0247052d0581df8e
+cpath: /
+copyroot: 0 /
+
+_3.0.t1418-13e add-dir false false /cauldron/kernel/releases/3.2.2
+
+
+2061 2201

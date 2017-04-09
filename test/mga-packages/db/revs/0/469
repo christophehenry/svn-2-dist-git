@@ -1,0 +1,136 @@
+id: 2-305.0-469.r469/0
+type: dir
+pred: 2-305.0.r465/89603
+count: 4
+text: 465 89508 82 82 ed7ecb2d3df72ef5cdcb66def8cf0cdb
+props: 305 15739 65 65 1631fdc6041a572cb8648123f960812e
+cpath: /cauldron/kernel-tmb/releases/2.6.37.4/1.mga1
+copyfrom: 465 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-469.r469/0
+END
+ENDREP
+id: 3-466.0.r469/331
+type: dir
+pred: 3-466.0.r466/0
+count: 1
+text: 469 275 43 43 ace7d3d23f83194d5d187b7867eb6b4f
+cpath: /cauldron/kernel-tmb/releases/2.6.37.4
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+K 8
+2.6.37.4
+V 20
+dir 3-466.0.r469/331
+END
+ENDREP
+id: r-305.0.r469/601
+type: dir
+pred: r-305.0.r466/192
+count: 4
+text: 469 506 82 82 ad3f89378dc592e681e2d679ba88f63c
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-305.0.r465/89603
+K 8
+pristine
+V 22
+dir 2-305.0-468.r468/0
+K 8
+releases
+V 20
+dir r-305.0.r469/601
+END
+ENDREP
+id: 1-304.0.r469/906
+type: dir
+pred: 1-304.0.r468/396
+count: 13
+text: 469 769 124 124 7b9b53a7debd47974ec995f559202523
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r449/1483
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 19
+dir 1-5.0.r462/1023
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r428/1207
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r410/889
+END
+ENDREP
+id: 0-1.0.r469/1455
+type: dir
+pred: 0-1.0.r468/944
+count: 468
+text: 469 1068 374 374 765143a6fc477168ebc7fdca9e9890e7
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r469/1455
+END
+ENDREP
+id: 0.0.r469/1660
+type: dir
+pred: 0.0.r468/1146
+count: 469
+text: 469 1605 42 42 a4eed129fdba6040531e8a9247760431
+cpath: /
+copyroot: 0 /
+
+2-305._0.t468-d0 add-dir false false /cauldron/kernel-tmb/releases/2.6.37.4/1.mga1
+465 /cauldron/kernel-tmb/current
+
+1660 1797

@@ -1,0 +1,156 @@
+id: 2-8.0-2253.r2253/0
+type: dir
+pred: 2-8.0.r2250/4639
+count: 60
+text: 2250 4547 79 0 e8b3950ab684777ef07c2ab8cc4e591e
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.16/8.mga3
+copyfrom: 2250 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2135.r2135/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2157.r2157/0
+K 6
+3.mga3
+V 22
+dir 2-8.0-2192.r2192/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2222.r2222/0
+K 6
+5.mga3
+V 22
+dir 2-8.0-2226.r2226/0
+K 6
+6.mga3
+V 22
+dir 2-8.0-2245.r2245/0
+K 6
+7.mga3
+V 22
+dir 2-8.0-2249.r2249/0
+K 6
+8.mga3
+V 22
+dir 2-8.0-2253.r2253/0
+END
+ENDREP
+id: 3-2132.0.r2253/588
+type: dir
+pred: 3-2132.0.r2249/547
+count: 8
+text: 2253 259 316 0 16b0139b4229433c9d4001f577be3272
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2253/588
+END
+ENDREP
+id: 35-8.0.r2253/897
+type: dir
+pred: 35-8.0.r2249/856
+count: 26
+text: 2253 763 121 0 8125d59cc2d892d85061f1bd91a399d1
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2250/4639
+K 8
+pristine
+V 22
+dir 2-8.0-2252.r2252/0
+K 8
+releases
+V 20
+dir 35-8.0.r2253/897
+END
+ENDREP
+id: 1-7.0.r2253/1239
+type: dir
+pred: 1-7.0.r2252/422
+count: 155
+text: 2253 1062 164 0 357664c32ee8b590a22ac4f03637b300
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2253/1239
+K 6
+kernel
+V 20
+dir 1-5.0.r2218/2449
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2204/2356
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2180/2214
+K 7
+systemd
+V 21
+dir 1-40.0.r2234/1524
+END
+ENDREP
+id: 0-1.0.r2253/1613
+type: dir
+pred: 0-1.0.r2252/793
+count: 2095
+text: 2253 1396 204 0 8c937de7b65d861499a4dfab6311a78a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2253/1613
+K 7
+updates
+V 22
+dir 0-539.0.r2241/2922
+END
+ENDREP
+id: 0.0.r2253/1861
+type: dir
+pred: 0.0.r2252/1038
+count: 2253
+text: 2253 1765 83 0 a780948dcf311a3183a070c363f890e8
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2252-1qk add-dir false false /cauldron/glibc/releases/6:2.16/8.mga3
+2250 /cauldron/glibc/current
+
+1861 2001

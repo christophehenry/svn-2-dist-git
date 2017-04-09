@@ -1,0 +1,73 @@
+PLAIN
+K 7
+current
+V 20
+dir 2-28.0.r202/2476
+K 8
+releases
+V 20
+dir 1f-28.0.r203/201
+END
+ENDREP
+id: 1-27.0.r204/94
+type: dir
+pred: 1-27.0.r203/493
+count: 34
+text: 204 0 81 0 c7ab48bef6ff2997c18bccac794c8a01
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r126/860
+K 6
+kernel
+V 18
+dir 1-5.0.r195/985
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r187/1062
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r155/863
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 18
+dir 1-27.0.r204/94
+END
+ENDREP
+id: 0-1.0.r204/482
+type: dir
+pred: 0-1.0.r203/887
+count: 203
+text: 204 242 227 0 e32caa253acd549189a87d666dd194bd
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r204/482
+END
+ENDREP
+id: 0.0.r204/682
+type: dir
+pred: 0.0.r203/1088
+count: 204
+text: 204 628 41 0 15dc1c59987acc9a9a7022fb59aae5ba
+cpath: /
+copyroot: 0 /
+
+2-28.0-79.r79/0 delete-dir false false /cauldron/udev/pristine
+
+
+682 816

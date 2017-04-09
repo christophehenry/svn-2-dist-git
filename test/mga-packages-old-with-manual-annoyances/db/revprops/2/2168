@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-20T21:16:25.295446Z
+K 7
+svn:log
+V 140
+- update patch:
+  * CK01: -ck3 patchset including BFS v0.424
+- add patches:
+  * CK02: fix BFS build with sched-nohz-rewrite added in 3.4.6
+
+
+END

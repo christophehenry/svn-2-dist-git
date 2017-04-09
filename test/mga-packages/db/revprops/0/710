@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-05T16:50:36.753640Z
+K 7
+svn:log
+V 123
+- drop hardcoded vendor references from summarys and descriptions (#1161)
+- drop warnings about being experimental kernel
+
+
+END

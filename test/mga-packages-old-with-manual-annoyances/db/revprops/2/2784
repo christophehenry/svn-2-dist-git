@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-05T18:47:36.012734Z
+K 7
+svn:log
+V 55
+write_net_rules needs to be executable to actually work
+END

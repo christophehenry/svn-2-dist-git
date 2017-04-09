@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-28T17:40:09.392447Z
+K 7
+svn:log
+V 123
+- net: sctp: fix NULL pointer dereference in socket destruction
+- net: sctp: fully initialize sctp_outq in sctp_outq_init
+
+
+END

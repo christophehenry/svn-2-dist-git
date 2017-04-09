@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-01-25T13:10:37.663794Z
+K 7
+svn:log
+V 70
+Squashfs: Fix use of uninitialised variable in zlib & xz decompressors
+END

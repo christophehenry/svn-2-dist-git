@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-16T21:22:05.565428Z
+K 7
+svn:log
+V 959
+- update to 3.10.19
+- add -stable queue fixes:
+  * AA01: ALSA: hda - hdmi: Fix reported channel map on common default layouts
+  * AA02: batman-adv: set up network coding packet handlers during module init
+  * AA03: cxgb3: Fix length calculation in write_ofld_wr() on 32-bit architectures
+  * AA04: hyperv-fb: add pci stub
+  * AA05: ip_gre: Fix WCCPv2 header parsing.
+  * AA06: ipv6: ip6_dst_check needs to check for expired dst_entries
+  * AA07: ipv6: reset dst.expires value when clearing expire flag
+  * AA08: net: flow_dissector: fail on evil iph->ihl
+  * AA09: net/mlx4_core: Fix call to __mlx4_unregister_mac
+  * AA10: USB: add new zte 3g-dongle's pid to option.c
+  * AA11: virtio-net: correctly handle cpu hotplug notifier during resuming
+  * AA12: xen-netback: Handle backend state transitions in a more robust way
+  * AA13: xen-netback: transition to CLOSED when removing a VIF
+  * AA14: xen-netback: use jiffies_64 value to calculate credit timeout
+
+
+END

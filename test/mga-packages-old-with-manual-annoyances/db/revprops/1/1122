@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-12-03T16:22:49.071642Z
+K 7
+svn:log
+V 86
+IFWLOG: fix return value of checkentry (not properly modified in 2.6.35+ patch, #3594)
+END

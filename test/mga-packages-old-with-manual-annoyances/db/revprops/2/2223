@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2012-07-28T20:27:36.874221Z
+K 7
+svn:log
+V 71
+revert upstream pthread_cond_wait change that cause hangs in pulseaudio
+END

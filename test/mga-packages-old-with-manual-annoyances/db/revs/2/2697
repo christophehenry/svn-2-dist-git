@@ -1,0 +1,136 @@
+id: 2-8.0-2697.r2697/0
+type: dir
+pred: 2-8.0.r2694/4246
+count: 76
+text: 2694 4154 79 0 e471a84226114275a9dc380f8a17f4d2
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.17/2.mga3
+copyfrom: 2694 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2673.r2673/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2697.r2697/0
+END
+ENDREP
+id: 3-2670.0.r2697/354
+type: dir
+pred: 3-2670.0.r2673/313
+count: 2
+text: 2697 259 82 0 5882e2dcc3e16bb3950820abe1052b5f
+cpath: /cauldron/glibc/releases/6:2.17
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r2697/354
+END
+ENDREP
+id: 35-8.0.r2697/701
+type: dir
+pred: 35-8.0.r2673/658
+count: 34
+text: 2697 528 160 0 c74cb9589434929d793d4f516087ac7f
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 20
+dir 2-8.0.r2694/4246
+K 8
+pristine
+V 22
+dir 2-8.0-2696.r2696/0
+K 8
+releases
+V 20
+dir 35-8.0.r2697/701
+END
+ENDREP
+id: 1-7.0.r2697/1043
+type: dir
+pred: 1-7.0.r2696/422
+count: 209
+text: 2697 866 164 0 22dc6389e8f5a35efcaf53c9354b0122
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2697/1043
+K 6
+kernel
+V 22
+dir 1-5.0.r2688/331452
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2687/2825
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2544/2408
+K 7
+systemd
+V 21
+dir 1-40.0.r2630/1744
+END
+ENDREP
+id: 0-1.0.r2697/1418
+type: dir
+pred: 0-1.0.r2696/795
+count: 2468
+text: 2697 1199 206 0 8d71a2ef76659b149688e039b581f82c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2697/1418
+K 7
+updates
+V 22
+dir 0-539.0.r2681/4770
+END
+ENDREP
+id: 0.0.r2697/1666
+type: dir
+pred: 0.0.r2696/1040
+count: 2697
+text: 2697 1570 83 0 2a5cba4f1d0671fb680c73e67caa7227
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2696-22w add-dir false false /cauldron/glibc/releases/6:2.17/2.mga3
+2694 /cauldron/glibc/current
+
+1666 1806

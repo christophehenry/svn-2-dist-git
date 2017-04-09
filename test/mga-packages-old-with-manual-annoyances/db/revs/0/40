@@ -1,0 +1,56 @@
+id: 1-40.0.r40/0
+type: dir
+count: 0
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r26/804
+K 6
+kernel
+V 17
+dir 1-5.0.r35/917
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+K 7
+systemd
+V 16
+dir 1-40.0.r40/0
+K 4
+udev
+V 18
+dir 1-27.0.r39/794
+END
+ENDREP
+id: 0-1.0.r40/267
+type: dir
+pred: 0-1.0.r39/1100
+count: 39
+text: 40 76 178 0 786078d0c359f28656173f3ea83c603b
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r40/267
+END
+ENDREP
+id: 0.0.r40/462
+type: dir
+pred: 0.0.r39/1297
+count: 40
+text: 40 409 40 0 7a98d4fdcafe7b8b52a29d2ec4747beb
+cpath: /
+copyroot: 0 /
+
+_1.0.t39-13 add-dir false false /cauldron/systemd
+
+
+462 592

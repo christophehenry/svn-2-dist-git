@@ -1,0 +1,198 @@
+DELTA 64 21512 84
+SVNENDREP
+id: 13-64.0.r113/29
+type: file
+pred: 13-64.0.r64/30635
+count: 1
+text: 113 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 112-34/_5
+cpath: /cauldron/firefox/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 41
+firefox-3.0b3-check-default-browser.patch
+V 21
+file 6-64.0.r64/26860
+K 40
+firefox-3.5.3-default-mail-handler.patch
+V 21
+file 9-64.0.r64/27101
+K 27
+firefox-3.6.3-appname.patch
+V 21
+file b-64.0.r64/27344
+K 32
+firefox-4.0b8.source.tar.bz2.asc
+V 21
+file d-64.0.r64/27574
+K 17
+firefox-kde.patch
+V 21
+file f-64.0.r64/27809
+K 46
+firefox-rebuild-databases.pl.in.generatechrome
+V 21
+file h-64.0.r64/28033
+K 32
+firefox-searchengines-askcom.xml
+V 21
+file j-64.0.r64/28284
+K 33
+firefox-searchengines-exalead.xml
+V 21
+file l-64.0.r64/28522
+K 33
+firefox-searchengines-jamendo.xml
+V 21
+file n-64.0.r64/28761
+K 15
+firefox.desktop
+V 21
+file p-64.0.r64/29000
+K 6
+kde.js
+V 21
+file r-64.0.r64/29221
+K 41
+mozilla-firefox-1.5-software-update.patch
+V 21
+file t-64.0.r64/29429
+K 41
+mozilla-firefox-1.5.0.6-systemproxy.patch
+V 21
+file v-64.0.r64/29675
+K 32
+mozilla-firefox-3.0.5-lang.patch
+V 21
+file x-64.0.r64/29920
+K 34
+mozilla-firefox-3.0.5-vendor.patch
+V 21
+file z-64.0.r64/30156
+K 33
+mozilla-firefox-run-mozilla.patch
+V 22
+file 11-64.0.r64/30396
+K 8
+sha1.lst
+V 20
+file 13-64.0.r113/29
+END
+ENDREP
+id: 4-64.0.r113/1345
+type: dir
+pred: 4-64.0.r64/31936
+count: 1
+text: 113 258 1074 1074 e301175188fa4283c47ed0d773cb1217
+cpath: /cauldron/firefox/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-64.0.r113/1345
+K 5
+SPECS
+V 20
+dir 15-64.0.r109/764
+END
+ENDREP
+id: 2-64.0.r113/1612
+type: dir
+pred: 2-64.0.r109/1026
+count: 2
+text: 113 1521 78 78 2714b349891d39625e23c7384c2726e5
+props: 64 32613 64 64 f59ded5631f008103a2f664be58b022e
+cpath: /cauldron/firefox/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r113/1612
+K 8
+pristine
+V 21
+dir 2-64.0-111.r111/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r112/548
+END
+ENDREP
+id: 1-63.0.r113/2005
+type: dir
+pred: 1-63.0.r112/886
+count: 7
+text: 113 1832 160 160 30b2acce2ce945ca21acd88796a26e0e
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 20
+dir 1-63.0.r113/2005
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r62/842
+K 3
+rpm
+V 19
+dir 1-11.0.r88/1105
+K 7
+systemd
+V 18
+dir 1-70.0.r99/945
+K 4
+udev
+V 19
+dir 1-43.0.r108/849
+END
+ENDREP
+id: 0-1.0.r113/2463
+type: dir
+pred: 0-1.0.r112/1341
+count: 112
+text: 113 2163 287 287 3f4d95d2673516f2646b003e075a68a2
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r113/2463
+END
+ENDREP
+id: 0.0.r113/2669
+type: dir
+pred: 0.0.r112/1546
+count: 113
+text: 113 2614 42 42 1479dc4db0d056a87f74cc011376e501
+cpath: /
+copyroot: 0 /
+
+13-64.0.t112-34 modify-file true false /cauldron/firefox/current/SOURCES/sha1.lst
+
+
+2669 2806

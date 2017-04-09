@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-08-16T17:23:00.670490Z
+K 7
+svn:log
+V 391
+- update to 3.5.2
+- update patches:
+  * CK01: ck1 patchset for 3.5 series kernels including BFS 0.424
+  * KP01: TuxOnIce 3.3 for 3.5 series kernels
+- drop merged patches:
+  * AA01-AA13: (stable queue fixes)
+  * BS01: silencing useless scsi ioctl warnings
+  * CK02: BFS buildfix
+- add patches:
+  * FU03, FU04: unionfs buildfixes for 3.5 series kernels
+- update filelists
+- update defconfigs
+
+
+END

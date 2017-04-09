@@ -1,0 +1,86 @@
+id: 2-150.0-2175.r2175/0
+type: dir
+pred: 2-150.0.r2168/2975
+count: 79
+text: 2168 2880 82 0 a3520c8583ee649dc3c0038e74a15aec
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/pristine
+copyfrom: 2174 /cauldron/kernel-tmb/current
+
+PLAIN
+K 7
+current
+V 22
+dir 2-150.0.r2168/2975
+K 8
+pristine
+V 24
+dir 2-150.0-2175.r2175/0
+K 8
+releases
+V 22
+dir r-150.0.r2173/1444
+END
+ENDREP
+id: 1-149.0.r2175/401
+type: dir
+pred: 1-149.0.r2174/98
+count: 237
+text: 2175 260 128 0 3ac479205df5856e14bd66e9223f8c33
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2157/1001
+K 6
+kernel
+V 20
+dir 1-5.0.r2172/2411
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2163/2320
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r2175/401
+K 7
+systemd
+V 21
+dir 1-40.0.r2154/1323
+END
+ENDREP
+id: 0-1.0.r2175/780
+type: dir
+pred: 0-1.0.r2174/474
+count: 2024
+text: 2175 564 203 0 e294c40f31a7526719d5cf0505e02fba
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2175/780
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2175/1025
+type: dir
+pred: 0.0.r2174/720
+count: 2175
+text: 2175 930 82 0 6c9b1d9ae68bd821a28e7eedb9260ea2
+cpath: /
+copyroot: 0 /
+
+2-150._0.t2174-1oe add-dir false false /cauldron/kernel-tmb/pristine
+2174 /cauldron/kernel-tmb/current
+
+1025 1163

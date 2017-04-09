@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-05T21:58:12.811872Z
+K 7
+svn:log
+V 144
+- disable FW_LOADER_USER_HELPER as udev is not doing any fw loading anymore
+- re-enable HOTPLUG_PCI support mistakenly disabled in -rc4 update
+
+
+END

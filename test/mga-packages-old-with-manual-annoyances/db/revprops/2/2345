@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2012-09-12T17:40:13.601808Z
+K 7
+svn:log
+V 48
+set default policy as 'ondemand' (like cpufreq)
+
+END

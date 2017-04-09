@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-14T21:45:06.769366Z
+K 7
+svn:log
+V 138
+- update unionfs to 2.5.9.2
+- disable aufs2 for now (broken)
+- disable framebuffer oops fixes for now to verify if they are still needed
+
+
+END

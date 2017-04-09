@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-01-01T14:21:37.772938Z
+K 7
+svn:log
+V 609
+- update to 2.17
+- drop upstream release screwup fix
+- ports is now merged back with upstream glibc
+- adapt P1 (path fixes) according to Mga and UsrMove setup
+- rediff P2 (nss upgrade)
+- drop P5 (assign global scope to RFC1918 adresses, fixed properly upstream)
+- drop P10 (revert pthread_cond_wait change, merged upstream)
+- rediff P26: nice priority fix
+- rediff P30 (filter out multiarch headers)
+- rediff P38 (disable parellel testusite on powerpc)
+- rediff P42 (avx owl crypt)
+- rediff P39 (freesec crypt support)
+- drop P60, P61 (strncasecmp segfault fix, strtod integer buffer overflow
+  fix, merged)
+
+
+END

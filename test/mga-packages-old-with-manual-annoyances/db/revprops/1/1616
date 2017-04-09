@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-07T11:00:45.449857Z
+K 7
+svn:log
+V 345
+- update to 3.3-rc6
+- update patches:
+    * FU01: unionfs 2.5.11
+    * MB10, MB13, MB14: ndiswrapper 1.57
+- rediff patches:
+    * NI15, NI16: netfilter psd support
+    * patch disabling mrproper in -devel rpms
+- disable patch:
+    * CK01: -ck1 patchset including BFS sceduler (needs update to 3.3 series)
+- update defconfigs
+- update filelists
+
+
+END

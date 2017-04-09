@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+mikala
+K 8
+svn:date
+V 27
+2011-05-03T10:31:56.715210Z
+K 7
+svn:log
+V 49
+Add patch14 so systemd can build with vala 0.12 
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-24T20:28:08.173092Z
+K 7
+svn:log
+V 70
+add fixes for radeon and vmwgfx from upstream git headed for 3.2 final
+END

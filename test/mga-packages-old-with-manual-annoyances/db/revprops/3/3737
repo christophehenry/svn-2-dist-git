@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-25T19:35:53.326938Z
+K 7
+svn:log
+V 50
+inet: avoid redefinition of some structs in kernel
+END

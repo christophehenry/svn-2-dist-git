@@ -1,0 +1,136 @@
+id: 2-3.0-187.r187/0
+type: dir
+pred: 2-3.0.r184/2704
+count: 17
+text: 184 2615 76 0 bfdcfbbeab47fc929c7d1ae4fb5142a5
+props: 183 1212 65 0 314008806f3f8b47360f82bd1bf000f0
+cpath: /cauldron/kernel-linus/releases/2.6.38/1.mga1
+copyfrom: 184 /cauldron/kernel-linus/current
+
+PLAIN
+K 12
+0.rc7.1.mga1
+V 20
+dir 2-3.0-164.r164/0
+K 14
+0.rc7.2.1.mga1
+V 20
+dir 2-3.0-169.r169/0
+K 12
+0.rc8.1.mga1
+V 20
+dir 2-3.0-176.r176/0
+K 6
+1.mga1
+V 20
+dir 2-3.0-187.r187/0
+END
+ENDREP
+id: 3-161.0.r187/457
+type: dir
+pred: 3-161.0.r176/426
+count: 4
+text: 187 269 175 0 a78d28973fcfb16e2091fac7d22a9dc7
+cpath: /cauldron/kernel-linus/releases/2.6.38
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+END
+ENDREP
+id: n-3.0.r187/766
+type: dir
+pred: n-3.0.r176/735
+count: 9
+text: 187 634 119 0 5c31906507c4c253db736273cf81ac2c
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r184/2704
+K 8
+pristine
+V 20
+dir 2-3.0-186.r186/0
+K 8
+releases
+V 18
+dir n-3.0.r187/766
+END
+ENDREP
+id: 1-2.0.r187/1062
+type: dir
+pred: 1-2.0.r186/385
+count: 39
+text: 187 932 117 0 dbe0c7b0e67768449c432a42c3f3b01f
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r126/860
+K 6
+kernel
+V 18
+dir 1-5.0.r182/945
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r187/1062
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r155/863
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 18
+dir 1-27.0.r80/824
+END
+ENDREP
+id: 0-1.0.r187/1461
+type: dir
+pred: 0-1.0.r186/781
+count: 186
+text: 187 1221 227 0 1bfd91c23147db9ddeb64f07b536c021
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r187/1461
+END
+ENDREP
+id: 0.0.r187/1664
+type: dir
+pred: 0.0.r186/981
+count: 187
+text: 187 1609 42 0 d20ba1b180bfb644c1ac34b33ed90ff7
+cpath: /
+copyroot: 0 /
+
+2-3._0.t186-56 add-dir false false /cauldron/kernel-linus/releases/2.6.38/1.mga1
+184 /cauldron/kernel-linus/current
+
+1664 1799

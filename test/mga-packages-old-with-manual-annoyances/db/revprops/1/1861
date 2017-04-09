@@ -1,0 +1,48 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-10T16:01:46.523900Z
+K 7
+svn:log
+V 1958
+- add current stable queue fixes:
+  ARM: 7410/1: Add extra clobber registers for assembly in kernel_execve
+  ARM: 7411/1: audit: fix treatment of saved ip register during syscall tracing
+  ARM: 7412/1: audit: use only AUDIT_ARCH_ARM regardless of endianness
+  ARM: 7414/1: SMP: prevent use of the console when using idmap_pgd
+  ARM: OMAP: Revert "ARM: OMAP: ctrl: Fix CONTROL_DSIPHY register fields"
+  ARM: orion5x: Fix GPIO enable bits for MPP9
+  asix: Fix tx transfer padding for full-speed USB
+  asm-generic: Use __BITS_PER_LONG in statfs.h
+  ASoC: core: check of_property_count_strings failure
+  ASoC: tlv312aic23: unbreak resume
+  drm/i915: disable sdvo hotplug on i945g/gm
+  drm/i915: Do no set Stencil Cache eviction LRA w/a on gen7+
+  drm/i915: enable dip before writing data on gen4
+  e1000: fix vlan processing regression
+  Fix __read_seqcount_begin() to use ACCESS_ONCE for sequence value read
+  fs/cifs: fix parsing of dfs referrals
+  netem: fix possible skb leak
+  net: Add memory barriers to prevent possible race in byte queue limits
+  net: Fix issue with netdev_tx_reset_queue not resetting queue from XOFF state
+  net: In unregister_netdevice_notifier unregister the netdevices
+  net: l2tp: unlock socket lock before returning from l2tp_ip_sendmsg
+  percpu, x86: don't use PMD_SIZE as embedded atom_size on 32bit
+  regulator: Fix the logic to ensure new voltage setting in valid range
+  sky2: fix receive length error in mixed non-VLAN/VLAN traffic
+  sky2: propogate rx hash when packet is copied
+  smsc95xx: mark link down on startup and let PHY interrupt deal with carrier changes
+  sungem: Fix WakeOnLan
+  tcp: change tcp_adv_win_scale and tcp_rmem[2]
+  tcp: fix infinite cwnd in tcp_complete_cwr()
+  tg3: Avoid panic from reserved statblk field access
+  x86, relocs: Remove an unused variable
+  xen/pci: don't use PCI BIOS service for configuration space accesses
+  xen/pte: Fix crashes when trying to see non-existent PGD/PMD/PUD/PTEs
+
+
+END

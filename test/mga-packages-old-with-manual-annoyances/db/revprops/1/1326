@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2012-01-15T02:32:16.759595Z
+K 7
+svn:log
+V 49
+require rpm-helper for post and preun scriptlets
+
+END

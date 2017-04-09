@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-02-02T09:32:31.058844Z
+K 7
+svn:log
+V 591
+- update to 3.12.9
+- drop perged patches:
+  * DA10, DH01, DM10-DM13, FS10-FS12, KF01
+- add patches:
+  * AA01: e1000e: fix compiler warnings
+  * AA02: e752x_edac: Fix pci_dev usage count
+  * AA03: drm/nouveau/bios: fix offset calculation for BMPv1 bioses
+  * AA04: kvm: x86: fix apic_base enable check
+  * AA05: md/raid5: fix long-standing problem with bitmap handling on write failure
+  * AA06: mm: hugetlbfs: fix hugetlbfs optimization
+  * AA07: mm/mempolicy.c: fix mempolicy printing in numa_maps
+  * AX10: x86, x32: Correct invalid use of user timespec in the kernel
+    (CVE-2014-0038)
+
+
+END

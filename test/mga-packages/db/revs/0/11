@@ -1,0 +1,52 @@
+id: 1-11.0.r11/0
+type: dir
+count: 0
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/359
+K 6
+kernel
+V 17
+dir 1-5.0.r10/777
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 16
+dir 1-11.0.r11/0
+END
+ENDREP
+id: 0-1.0.r11/225
+type: dir
+pred: 0-1.0.r10/1047
+count: 10
+text: 11 72 140 140 e9ae074ec473880ed4f59ff5decedadf
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r11/225
+END
+ENDREP
+id: 0.0.r11/422
+type: dir
+pred: 0.0.r10/1244
+count: 11
+text: 11 369 40 40 3f418825f3a6fd3b6a68d42072e505c7
+cpath: /
+copyroot: 0 /
+
+_1.0.t10-a add-dir false false /cauldron/rpm
+
+
+422 553

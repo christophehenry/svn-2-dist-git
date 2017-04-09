@@ -1,0 +1,144 @@
+id: 2-150.0-492.r492/0
+type: dir
+pred: 2-150.0.r484/5329
+count: 26
+text: 484 5236 80 0 f51bc55d9474f6057beec4cd8717fd46
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/2.6.38.7/1.mga1
+copyfrom: 484 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-150.0-492.r492/0
+END
+ENDREP
+id: 3-489.0.r492/327
+type: dir
+pred: 3-489.0.r489/0
+count: 1
+text: 492 271 43 0 a49cc6394d0d7f8742e89635ed91abac
+cpath: /cauldron/kernel-tmb/releases/2.6.38.7
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-152.0.r155/329
+K 8
+2.6.37.4
+V 20
+dir 3-239.0.r242/329
+K 8
+2.6.38.2
+V 20
+dir 3-292.0.r324/365
+K 8
+2.6.38.3
+V 20
+dir 3-348.0.r351/327
+K 8
+2.6.38.4
+V 20
+dir 3-388.0.r391/327
+K 8
+2.6.38.5
+V 20
+dir 3-428.0.r431/327
+K 8
+2.6.38.6
+V 20
+dir 3-455.0.r458/327
+K 8
+2.6.38.7
+V 20
+dir 3-489.0.r492/327
+END
+ENDREP
+id: r-150.0.r492/830
+type: dir
+pred: r-150.0.r489/426
+count: 17
+text: 492 501 316 0 6d3442f68f5cf6584de6fcb14aff0e6d
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r484/5329
+K 8
+pristine
+V 22
+dir 2-150.0-491.r491/0
+K 8
+releases
+V 20
+dir r-150.0.r492/830
+END
+ENDREP
+id: 1-149.0.r492/1135
+type: dir
+pred: 1-149.0.r491/391
+count: 62
+text: 492 999 123 0 20bc13a14de9a4e689e316b979e621aa
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r488/1299
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r477/1203
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r492/1135
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0.r492/1543
+type: dir
+pred: 0-1.0.r491/796
+count: 491
+text: 492 1296 234 0 ed9119ba372c321b7519d9af4197f988
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r492/1543
+END
+ENDREP
+id: 0.0.r492/1746
+type: dir
+pred: 0.0.r491/996
+count: 492
+text: 492 1691 42 0 3dbd28063fec693e2a9ad35e7467ddaa
+cpath: /
+copyroot: 0 /
+
+2-150._0.t491-dn add-dir false false /cauldron/kernel-tmb/releases/2.6.38.7/1.mga1
+484 /cauldron/kernel-tmb/current
+
+1746 1881

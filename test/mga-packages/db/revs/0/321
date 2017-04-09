@@ -1,0 +1,164 @@
+id: 2-64.0-321.r321/0
+type: dir
+pred: 2-64.0.r318/1301
+count: 28
+text: 318 1209 79 79 4ef4d187fcb6f843841b37e02870b742
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.b12.5.mga1
+copyfrom: 318 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 12
+0.b10.3.mga1
+V 21
+dir 2-64.0-148.r148/0
+K 12
+0.b10.4.mga1
+V 21
+dir 2-64.0-220.r220/0
+K 12
+0.b11.4.mga1
+V 21
+dir 2-64.0-260.r260/0
+K 12
+0.b12.4.mga1
+V 21
+dir 2-64.0-303.r303/0
+K 12
+0.b12.5.mga1
+V 21
+dir 2-64.0-321.r321/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+END
+ENDREP
+id: 3-110.0.r321/643
+type: dir
+pred: 3-110.0.r303/598
+count: 8
+text: 321 267 363 363 50307cfada372724d2d731e1179ad608
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r321/643
+END
+ENDREP
+id: 19-64.0.r321/869
+type: dir
+pred: 19-64.0.r303/824
+count: 9
+text: 321 816 40 40 06be0d473ccaf169007513a3eca931bd
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r318/1301
+K 8
+pristine
+V 21
+dir 2-64.0-320.r320/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r321/869
+END
+ENDREP
+id: 1-63.0.r321/1207
+type: dir
+pred: 1-63.0.r320/421
+count: 53
+text: 321 1034 160 160 4f2227b0b91743f5f061b1e74ae3eaed
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r316/901
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r321/1750
+type: dir
+pred: 0-1.0.r320/961
+count: 320
+text: 321 1366 371 371 dd482807ba5c692c1e832dac4dbed26e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r321/1750
+END
+ENDREP
+id: 0.0.r321/1955
+type: dir
+pred: 0.0.r320/1163
+count: 321
+text: 321 1900 42 42 055264deb8b7043f63baa047fb95f8f5
+cpath: /
+copyroot: 0 /
+
+2-64._0.t320-8w add-dir false false /cauldron/firefox/releases/0:4.0/0.b12.5.mga1
+318 /cauldron/firefox/current
+
+1955 2092

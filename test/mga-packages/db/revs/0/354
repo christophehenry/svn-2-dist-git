@@ -1,0 +1,160 @@
+id: 2-12.0-354.r354/0
+type: dir
+pred: 2-12.0.r351/5357
+count: 57
+text: 351 5265 79 79 8d96afee1a845838dcc450a0a109a4d9
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/7.mga1
+copyfrom: 351 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+K 6
+3.mga1
+V 21
+dir 2-12.0-329.r329/0
+K 6
+4.mga1
+V 21
+dir 2-12.0-345.r345/0
+K 6
+5.mga1
+V 21
+dir 2-12.0-350.r350/0
+K 6
+7.mga1
+V 21
+dir 2-12.0-354.r354/0
+END
+ENDREP
+id: 3-313.0.r354/501
+type: dir
+pred: 3-313.0.r350/461
+count: 6
+text: 354 256 232 232 847a8e38e7cadf064f18741324543ae8
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r354/501
+END
+ENDREP
+id: 37-12.0.r354/763
+type: dir
+pred: 37-12.0.r350/723
+count: 12
+text: 354 672 78 78 e729f9cb65d8b92bd02ee0459c736ebb
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 20
+dir 2-12.0.r351/5357
+K 8
+pristine
+V 21
+dir 2-12.0-353.r353/0
+K 8
+releases
+V 20
+dir 37-12.0.r354/763
+END
+ENDREP
+id: 1-11.0.r354/1099
+type: dir
+pred: 1-11.0.r353/415
+count: 105
+text: 354 925 161 161 63e40834ea1763d1fb15b7190e656fbd
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r342/940
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r354/1639
+type: dir
+pred: 0-1.0.r353/953
+count: 353
+text: 354 1254 372 372 f56b1c1993d1c0bf199912a5532db2b5
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r354/1639
+END
+ENDREP
+id: 0.0.r354/1844
+type: dir
+pred: 0.0.r353/1155
+count: 354
+text: 354 1789 42 42 e94c8ba1498ad3211b3a4fb0a28c5de7
+cpath: /
+copyroot: 0 /
+
+2-12._0.t353-9t add-dir false false /cauldron/rpm/releases/1:4.8.1/7.mga1
+351 /cauldron/rpm/current
+
+1844 1981

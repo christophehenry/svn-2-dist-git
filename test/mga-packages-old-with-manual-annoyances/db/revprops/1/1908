@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-05-20T11:57:55.997696Z
+K 7
+svn:log
+V 84
+Ensure that common NFS services are started before any shares are mounted (mga#5890)
+END

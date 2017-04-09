@@ -1,0 +1,41 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-08T19:41:01.109070Z
+K 7
+svn:log
+V 1101
+- update to 3.4.13
+- update patches:
+  * CK01: -ck3 patchset including BFS v0.424
+  * FU01: unionfs 2.5.11
+  * KP01: TuxOnIce 3.2.1
+  * NI10-NI11: netfilter IFWLOG support
+  * NI16: netfilter psd support
+- add patches:
+  * BS01: silence useless scsi ioctl warnings
+  * CK02: fix BFS build with sched-nohz-rewrite added in 3.4.6
+  * CK03: fix BFS build for >= 3.4.12 kernels
+  * DI01-DI05: add Wacom Intuos 5 support (mga #7659)
+  * DM60: radio-rttrack buildfix
+  * FU02: unionfs buildfix for kernel-3.4
+  * FU03: unionfs buildfix for >= 3.4.8 kernels
+- disable CONFIG_LOGO for less screen flickering during boot
+- make theese config options builtin in order to be able to
+  boot without initrd:
+  (see: https://wiki.mageia.org/en/Feature:BootSansRamdisk)
+  CONFIG_ATA_PIIX, CONFIG_BLK_DEV_SD, CONFIG_CRC_T10DIF
+  CONFIG_SCSI_MOD, CONFIG_SCSI, CONFIG_ATA, CONFIG_SATA_AHCI,
+  CONFIG_EXT3_FS, CONFIG_EXT4_FS, CONFIG_JBD, CONFIG_JBD2,
+  CONFIG_BTRFS_FS, CONFIG_CRYPTO_CRC32C, CONFIG_CRC16,
+  CONFIG_LIBCRC32C, CONFIG_ZLIB_DEFLATE
+- enable EFI_STUB support (#6598)
+- update defconfigs
+- update filelists
+
+
+END

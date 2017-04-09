@@ -1,0 +1,140 @@
+id: 2-8.0-2222.r2222/0
+type: dir
+pred: 2-8.0.r2219/4788
+count: 56
+text: 2219 4696 79 0 4c7c3912f83dc78af762cd6e8dca86fc
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.16/4.mga3
+copyfrom: 2219 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2135.r2135/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2157.r2157/0
+K 6
+3.mga3
+V 22
+dir 2-8.0-2192.r2192/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2222.r2222/0
+END
+ENDREP
+id: 3-2132.0.r2222/432
+type: dir
+pred: 3-2132.0.r2192/393
+count: 4
+text: 2222 259 160 0 d2b059be6e8ecbf5e2984e55c1883277
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2222/432
+END
+ENDREP
+id: 35-8.0.r2222/741
+type: dir
+pred: 35-8.0.r2192/702
+count: 22
+text: 2222 607 121 0 bf10a947bf974c102c96d1d84c211ff8
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2219/4788
+K 8
+pristine
+V 22
+dir 2-8.0-2221.r2221/0
+K 8
+releases
+V 20
+dir 35-8.0.r2222/741
+END
+ENDREP
+id: 1-7.0.r2222/1083
+type: dir
+pred: 1-7.0.r2221/422
+count: 139
+text: 2222 906 164 0 59952aa1abbb5047865a9e241bafd788
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2222/1083
+K 6
+kernel
+V 20
+dir 1-5.0.r2218/2449
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2204/2356
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2180/2214
+K 7
+systemd
+V 21
+dir 1-40.0.r2196/1444
+END
+ENDREP
+id: 0-1.0.r2222/1456
+type: dir
+pred: 0-1.0.r2221/793
+count: 2071
+text: 2222 1239 204 0 5d70a4faad3d922281953ac48ba709d2
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2222/1456
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2222/1704
+type: dir
+pred: 0.0.r2221/1038
+count: 2222
+text: 2222 1608 83 0 1e6b70d1b49dbc4c478bd285957a0453
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2221-1pp add-dir false false /cauldron/glibc/releases/6:2.16/4.mga3
+2219 /cauldron/glibc/current
+
+1704 1844

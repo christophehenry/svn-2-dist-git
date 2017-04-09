@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T16:44:10.949404Z
+K 7
+svn:log
+V 57
+libata: fix unexpectedly frozen port after ata_eh_reset()
+END

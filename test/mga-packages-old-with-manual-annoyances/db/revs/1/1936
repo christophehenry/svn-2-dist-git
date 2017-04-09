@@ -1,0 +1,109 @@
+id: 2-41.0-1936.r1936/0
+type: dir
+pred: 2-41.0.r1908/5788
+count: 131
+text: 1908 5695 80 0 2bd5b6afa0a69e6469cd739dbcb774cc
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/branches/current
+copyfrom: 1935 /cauldron/systemd/current
+
+PLAIN
+K 7
+current
+V 23
+dir 2-41.0-1936.r1936/0
+END
+ENDREP
+id: 2-1935.0.r1936/318
+type: dir
+pred: 2-1935.0.r1935/0
+count: 1
+text: 1936 260 45 0 eb39b0644879c8910b6c737f66ac5455
+cpath: /cauldron/systemd/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 2-1935.0.r1936/318
+K 7
+current
+V 21
+dir 2-41.0.r1908/5788
+K 8
+pristine
+V 23
+dir 2-41.0-1910.r1910/0
+K 8
+releases
+V 21
+dir p-41.0.r1911/1396
+END
+ENDREP
+id: 1-40.0.r1936/664
+type: dir
+pred: 1-40.0.r1935/266
+count: 320
+text: 1936 485 166 0 e07e9d13e5eeb195124413e7c45efc15
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1823/1273
+K 6
+kernel
+V 20
+dir 1-5.0.r1934/2232
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1925/2130
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1901/2024
+K 7
+systemd
+V 20
+dir 1-40.0.r1936/664
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r1936/1075
+type: dir
+pred: 0-1.0.r1935/677
+count: 1805
+text: 1936 823 239 0 e63d2578c2f66b502ad85b2c1dbc0af4
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1936/1075
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r1936/1321
+type: dir
+pred: 0.0.r1935/922
+count: 1936
+text: 1936 1226 82 0 6d041b83f8530e7960347958fb5ffa5e
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1935-1hr add-dir false false /cauldron/systemd/branches/current
+1935 /cauldron/systemd/current
+
+1321 1460

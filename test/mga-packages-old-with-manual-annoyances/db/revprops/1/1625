@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-03-08T22:32:37.401680Z
+K 7
+svn:log
+V 126
+- Upstream patch to fix journal segvs (mga#4588)
+- Add unit to run a special info script on display manager failure (mga#4769)
+END

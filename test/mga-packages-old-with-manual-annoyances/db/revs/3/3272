@@ -1,0 +1,160 @@
+id: b-11.0.r3272/0
+type: file
+pred: b-11.0.r3241/724
+count: 214
+text: 3206 1221 129 116 e2428846b46d25857447ebe7b4cb050f cec90773d84e991d4009af731dbdea608c54b787 3271-2iv/_5
+cpath: /cauldron/kernel/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 21
+README.kernel-sources
+V 21
+file 4-11.0.r11/10761
+K 15
+cpupower.config
+V 22
+file 4-1322.0.r2345/51
+K 16
+cpupower.service
+V 23
+file 7-1322.0.r1322/725
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 21
+file 7-11.0.r3241/434
+K 18
+linux-3.9.tar.sign
+V 23
+file 4-3211.0.r3211/113
+K 16
+patch-3.9.4.sign
+V 23
+file 7-3211.0.r3211/337
+K 8
+sha1.lst
+V 19
+file b-11.0.r3272/0
+END
+ENDREP
+id: 4-6.0.r3272/644
+type: dir
+pred: 4-6.0.r3241/1370
+count: 249
+text: 3272 238 393 0 a3e5bc81e95337eb7b38c8b719e30de0
+cpath: /cauldron/kernel/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r1280/47
+K 7
+PATCHES
+V 22
+dir 6-51.0.r3240/18202
+K 7
+SOURCES
+V 19
+dir 4-6.0.r3272/644
+K 5
+SPECS
+V 20
+dir 6-6.0.r3238/1220
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r3272/1034
+type: dir
+pred: 2-6.0.r3241/1762
+count: 719
+text: 3272 817 204 0 0e5cfb8743ba0e69e7cae2a5d44479d7
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r3272/1034
+K 8
+pristine
+V 22
+dir 2-6.0-3244.r3244/0
+K 8
+releases
+V 21
+dir 2-14.0.r3245/3022
+END
+ENDREP
+id: 1-5.0.r3272/1390
+type: dir
+pred: 1-5.0.r3245/3328
+count: 1131
+text: 3272 1254 123 0 83913701f4d9d6c79864710876943d57
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3272/1390
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3216/3196
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3251/2554
+K 7
+systemd
+V 21
+dir 1-40.0.r3224/1574
+END
+ENDREP
+id: 0-1.0.r3272/1804
+type: dir
+pred: 0-1.0.r3271/1258
+count: 2954
+text: 3272 1550 241 0 42afb0ad4caa7fa500cb9a14425a5ec8
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3272/1804
+K 7
+updates
+V 22
+dir 0-539.0.r3268/2726
+END
+ENDREP
+id: 0.0.r3272/2053
+type: dir
+pred: 0.0.r3271/1506
+count: 3272
+text: 3272 1957 83 0 cbb5508db9651435636982f42fe8957b
+cpath: /
+copyroot: 0 /
+
+b-11.0.t3271-2iv modify-file true false /cauldron/kernel/current/SOURCES/sha1.lst
+
+
+2053 2193

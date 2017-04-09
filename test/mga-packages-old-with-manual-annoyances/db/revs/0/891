@@ -1,0 +1,170 @@
+id: 3-891.0.r891/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases/3.1.0
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+K 8
+2.6.38.7
+V 20
+dir 3-485.0.r488/315
+K 8
+2.6.38.8
+V 20
+dir 3-501.0.r809/500
+K 5
+3.0.0
+V 20
+dir 3-648.0.r670/375
+K 5
+3.0.4
+V 20
+dir 3-760.0.r763/312
+K 5
+3.0.6
+V 20
+dir 3-863.0.r866/311
+K 5
+3.1.0
+V 18
+dir 3-891.0.r891/0
+END
+ENDREP
+id: 2-14.0.r891/791
+type: dir
+pred: 2-14.0.r866/1143
+count: 47
+text: 891 92 686 0 8c192daae3547f5dadfe274d56f4eee3
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r890/1034
+K 8
+pristine
+V 20
+dir 2-6.0-865.r865/0
+K 8
+releases
+V 19
+dir 2-14.0.r891/791
+END
+ENDREP
+id: 1-5.0.r891/1085
+type: dir
+pred: 1-5.0.r890/1383
+count: 359
+text: 891 954 118 0 f2a2b909b00cfe12e252c810d5643cfe
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r891/1085
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r874/1495
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r870/1240
+K 7
+systemd
+V 20
+dir 1-40.0.r852/1101
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r891/1485
+type: dir
+pred: 0-1.0.r890/1784
+count: 821
+text: 891 1240 232 0 7db5398a464c64a824c9ebe2387ce1ba
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r891/1485
+K 7
+updates
+V 21
+dir 0-539.0.r858/1714
+END
+ENDREP
+id: 0.0.r891/1728
+type: dir
+pred: 0.0.r890/2028
+count: 891
+text: 891 1634 81 0 266ac41fc8e35546dd7028ca9ceb1350
+cpath: /
+copyroot: 0 /
+
+_3.0.t890-oq add-dir false false /cauldron/kernel/releases/3.1.0
+
+
+1728 1864

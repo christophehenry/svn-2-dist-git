@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-20T08:44:34.441488Z
+K 7
+svn:log
+V 130
+- drop obsolete glibc-redhat tarball
+- add BR on hardlink as that was the only thing we used from
+  the old glibc-redhat tarball
+
+
+END

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-03T22:24:58.090940Z
+K 7
+svn:log
+V 644
+- update to 2.6.38.5
+- add patches:
+    * AX01: x86, AMD: K8 Rev.A-E processors are subject to erratum 400
+    * AX05: x86, 32bit: raise default vmalloc area to 192MB (Anssi, #904)
+    * DN15: r8169: add support for RTL8105E
+    * DN16: r8169: be verbose when unable to load firmware
+    * DN20: disable powersaving on rt2800 as it is broken (noted by rtp)
+    * DP06-DP08: samsung-laptop: add support for N230, R410P
+    * DP20-DP26: hp-wmi: add support for rfkill on HP Mini 5102 (Anssi)
+- update patches:
+    * FU01: unionfs 2.5.9
+- drop patches:
+    * FU03: unionfs oops fix (obsolete)
+- enable DEBUG_RODATA and DEBUG_SET_MODULE_RONX (tv)
+
+
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-10-29T22:46:39.203949Z
+K 7
+svn:log
+V 111
+fix broken conflicts and provides, use version-rel, not rel-rel...
+this should make sysvinit installable again
+
+END

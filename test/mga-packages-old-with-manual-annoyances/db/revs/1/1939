@@ -1,0 +1,147 @@
+id: 4-1939.0.r1939/0
+type: file
+count: 0
+text: 1919 4125 507 490 733b9092cac00e279d53d8bff750a189 9693a8f43b18532bb8145edf74aeec35703148cc 1938-1hu/_6
+cpath: /cauldron/kernel-tmb/current/SOURCES/linux-3.4.tar.sign
+copyroot: 0 /
+
+PLAIN
+K 25
+README.kernel-tmb-sources
+V 22
+file 9-150.0.r730/5004
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 23
+file b-150.0.r1616/2659
+K 20
+kernel-tmb.patchlist
+V 23
+file d-150.0.r1938/2775
+K 27
+linux-3.4.1-tmb1.tar.xz.asc
+V 24
+file 6-1938.0.r1938/3032
+K 18
+linux-3.4.tar.sign
+V 21
+file 4-1939.0.r1939/0
+K 16
+patch-3.4.1.sign
+V 24
+file 8-1938.0.r1938/3272
+K 8
+sha1.lst
+V 23
+file l-150.0.r1938/3501
+END
+ENDREP
+id: 4-150.0.r1939/663
+type: dir
+pred: 4-150.0.r1938/4130
+count: 64
+text: 1939 229 421 0 2ea1afc07cd5e036d08043f7cfd77979
+cpath: /cauldron/kernel-tmb/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 21
+dir 4-150.0.r1939/663
+K 5
+SPECS
+V 22
+dir n-150.0.r1938/4634
+END
+ENDREP
+id: 2-150.0.r1939/937
+type: dir
+pred: 2-150.0.r1938/4908
+count: 70
+text: 1939 843 81 0 f389225d6bae5f15a2d59791482a7aae
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r1939/937
+K 8
+pristine
+V 24
+dir 2-150.0-1900.r1900/0
+K 8
+releases
+V 22
+dir r-150.0.r1901/1708
+END
+ENDREP
+id: 1-149.0.r1939/1302
+type: dir
+pred: 1-149.0.r1938/5276
+count: 210
+text: 1939 1162 127 0 4d4001b6949695b546232f532fd05194
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1823/1273
+K 6
+kernel
+V 20
+dir 1-5.0.r1934/2232
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1937/3884
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1939/1302
+K 7
+systemd
+V 20
+dir 1-40.0.r1936/664
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r1939/1721
+type: dir
+pred: 0-1.0.r1938/5695
+count: 1808
+text: 1939 1469 239 0 aa6adb238d97465fe74e87d2dd1bb47c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1939/1721
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r1939/1969
+type: dir
+pred: 0.0.r1938/5943
+count: 1939
+text: 1939 1874 82 0 5e4ddb950d793bfec54156d5d4447ae0
+cpath: /
+copyroot: 0 /
+
+_4.0.t1938-1hu add-file true false /cauldron/kernel-tmb/current/SOURCES/linux-3.4.tar.sign
+
+
+1969 2109

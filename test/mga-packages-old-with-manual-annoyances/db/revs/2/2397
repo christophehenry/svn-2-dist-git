@@ -1,0 +1,168 @@
+id: 2-8.0-2397.r2397/0
+type: dir
+pred: 2-8.0.r2394/619
+count: 64
+text: 2394 528 78 0 01a37d99832280d3380016700bdeef14
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.16/11.mga3
+copyfrom: 2394 /cauldron/glibc/current
+
+PLAIN
+K 6
+1.mga3
+V 22
+dir 2-8.0-2135.r2135/0
+K 7
+10.mga3
+V 22
+dir 2-8.0-2373.r2373/0
+K 7
+11.mga3
+V 22
+dir 2-8.0-2397.r2397/0
+K 6
+2.mga3
+V 22
+dir 2-8.0-2157.r2157/0
+K 6
+3.mga3
+V 22
+dir 2-8.0-2192.r2192/0
+K 6
+4.mga3
+V 22
+dir 2-8.0-2222.r2222/0
+K 6
+5.mga3
+V 22
+dir 2-8.0-2226.r2226/0
+K 6
+6.mga3
+V 22
+dir 2-8.0-2245.r2245/0
+K 6
+7.mga3
+V 22
+dir 2-8.0-2249.r2249/0
+K 6
+8.mga3
+V 22
+dir 2-8.0-2253.r2253/0
+K 6
+9.mga3
+V 22
+dir 2-8.0-2318.r2318/0
+END
+ENDREP
+id: 3-2132.0.r2397/706
+type: dir
+pred: 3-2132.0.r2373/668
+count: 11
+text: 2397 258 435 0 802a1176c3bc3635bd82b73398d5a53f
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2397/706
+END
+ENDREP
+id: 35-8.0.r2397/1016
+type: dir
+pred: 35-8.0.r2373/978
+count: 29
+text: 2397 882 121 0 cb65ec2a5a2e3ce6ca50a829ec36a8ec
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 19
+dir 2-8.0.r2394/619
+K 8
+pristine
+V 22
+dir 2-8.0-2396.r2396/0
+K 8
+releases
+V 21
+dir 35-8.0.r2397/1016
+END
+ENDREP
+id: 1-7.0.r2397/1359
+type: dir
+pred: 1-7.0.r2396/419
+count: 168
+text: 2397 1182 164 0 13c72f88a631c2f5021dee8ee519995a
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2397/1359
+K 6
+kernel
+V 20
+dir 1-5.0.r2383/2653
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2356/2511
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2364/2285
+K 7
+systemd
+V 21
+dir 1-40.0.r2393/1508
+END
+ENDREP
+id: 0-1.0.r2397/1733
+type: dir
+pred: 0-1.0.r2396/790
+count: 2239
+text: 2397 1516 204 0 58017faa9c386a161795051f869b831e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2397/1733
+K 7
+updates
+V 22
+dir 0-539.0.r2241/2922
+END
+ENDREP
+id: 0.0.r2397/1981
+type: dir
+pred: 0.0.r2396/1035
+count: 2397
+text: 2397 1885 83 0 5ca11791aeb9aa0cb7331aa11e095d41
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2396-1uk add-dir false false /cauldron/glibc/releases/6:2.16/11.mga3
+2394 /cauldron/glibc/current
+
+1981 2121

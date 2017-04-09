@@ -1,0 +1,152 @@
+id: 2-8.0-1582.r1582/0
+type: dir
+pred: 2-8.0.r1577/5098
+count: 38
+text: 1577 5006 79 0 48bba4816b69e7af7cfd17a15dec7efe
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.14.1/5.mga2
+copyfrom: 1577 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.2.mga2
+V 20
+dir 2-8.0-939.r939/0
+K 8
+0.4.mga2
+V 20
+dir 2-8.0-950.r950/0
+K 6
+1.mga2
+V 20
+dir 2-8.0-954.r954/0
+K 6
+2.mga2
+V 20
+dir 2-8.0-968.r968/0
+K 6
+3.mga2
+V 22
+dir 2-8.0-1127.r1127/0
+K 6
+4.mga2
+V 22
+dir 2-8.0-1265.r1265/0
+K 6
+5.mga2
+V 22
+dir 2-8.0-1582.r1582/0
+END
+ENDREP
+id: 3-936.0.r1582/547
+type: dir
+pred: 3-936.0.r1265/506
+count: 7
+text: 1582 261 273 0 16c5869b5a31fecfd0dbc5510cd358ed
+cpath: /cauldron/glibc/releases/6:2.14.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r1582/547
+END
+ENDREP
+id: 35-8.0.r1582/817
+type: dir
+pred: 35-8.0.r1265/776
+count: 12
+text: 1582 722 82 0 7ea079103b19a52b340451159f09bbe9
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 20
+dir 2-8.0.r1577/5098
+K 8
+pristine
+V 22
+dir 2-8.0-1581.r1581/0
+K 8
+releases
+V 20
+dir 35-8.0.r1582/817
+END
+ENDREP
+id: 1-7.0.r1582/1158
+type: dir
+pred: 1-7.0.r1581/422
+count: 82
+text: 1582 981 164 0 408b6eb0e3383dbba5cb9e1f6294ee83
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1582/1158
+K 6
+kernel
+V 20
+dir 1-5.0.r1579/2332
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1560/1864
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1576/1752
+K 7
+systemd
+V 21
+dir 1-40.0.r1547/2826
+K 4
+udev
+V 21
+dir 1-27.0.r1555/1158
+END
+ENDREP
+id: 0-1.0.r1582/1566
+type: dir
+pred: 0-1.0.r1581/828
+count: 1458
+text: 1582 1313 240 0 c1c6448ff29e75c0b5a2a55b944ab883
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1582/1566
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1582/1814
+type: dir
+pred: 0.0.r1581/1073
+count: 1582
+text: 1582 1718 83 0 4fba7428d01588b494adc41b65ced97a
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1581-17x add-dir false false /cauldron/glibc/releases/6:2.14.1/5.mga2
+1577 /cauldron/glibc/current
+
+1814 1954

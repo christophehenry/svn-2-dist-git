@@ -1,0 +1,168 @@
+id: 2-64.0-363.r363/0
+type: dir
+pred: 2-64.0.r360/612
+count: 29
+text: 360 521 78 78 a0cec4f7ed42a70819b7d75fe9c1b886
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.b12.6.mga1
+copyfrom: 360 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 12
+0.b10.3.mga1
+V 21
+dir 2-64.0-148.r148/0
+K 12
+0.b10.4.mga1
+V 21
+dir 2-64.0-220.r220/0
+K 12
+0.b11.4.mga1
+V 21
+dir 2-64.0-260.r260/0
+K 12
+0.b12.4.mga1
+V 21
+dir 2-64.0-303.r303/0
+K 12
+0.b12.5.mga1
+V 21
+dir 2-64.0-321.r321/0
+K 12
+0.b12.6.mga1
+V 21
+dir 2-64.0-363.r363/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+END
+ENDREP
+id: 3-110.0.r363/686
+type: dir
+pred: 3-110.0.r321/643
+count: 9
+text: 363 265 408 408 9d946f2a8cba603f0a54e103076cf9c8
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r363/686
+END
+ENDREP
+id: 19-64.0.r363/912
+type: dir
+pred: 19-64.0.r321/869
+count: 10
+text: 363 859 40 40 46886eb354d68aa6096632434da6b20b
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-64.0.r360/612
+K 8
+pristine
+V 21
+dir 2-64.0-362.r362/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r363/912
+END
+ENDREP
+id: 1-63.0.r363/1250
+type: dir
+pred: 1-63.0.r362/418
+count: 57
+text: 363 1078 159 159 a44eff4bdb240beb435ce8aecc95648d
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r363/1250
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r359/993
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r363/1794
+type: dir
+pred: 0-1.0.r362/959
+count: 362
+text: 363 1409 372 372 cbc0ff11b144876093b7e44c3c7fc4ed
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r363/1794
+END
+ENDREP
+id: 0.0.r363/1999
+type: dir
+pred: 0.0.r362/1161
+count: 363
+text: 363 1944 42 42 6892a7bf0bbb7c0b66211704088cbe0a
+cpath: /
+copyroot: 0 /
+
+2-64._0.t362-a2 add-dir false false /cauldron/firefox/releases/0:4.0/0.b12.6.mga1
+360 /cauldron/firefox/current
+
+1999 2136

@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-03T02:42:55.371351Z
+K 7
+svn:log
+V 608
+- update to 3.3.1
+- drop merged patches:
+  * DM51, SR01-SR03
+- update patch:
+  * CK01: -ck1 patchset including BFS v0.420
+- add patches:
+  * DA50: ata: prefer ata drivers over ide drivers when both are built (Anssi)
+  * DA60-DA61: ata: add ide/ahci/raid mode support for Intel Lynx Point chipset
+  * DG01-DG04: drm: add upstream drm changes to support gpu driver backports
+  * DG20, DG21: drm/radeon: backport support for Southern Islands (HD7xxx)
+		GPUs and Trinity APUs
+  * DG40-DG44: drm/nouveau: backport Kepler (GTX6xx) support
+  * DG60: drm/i915: add Ivy Bridge GT2 Server entries
+- update defconfigs
+
+
+END

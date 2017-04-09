@@ -1,0 +1,42 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-07T19:46:34.398161Z
+K 7
+svn:log
+V 1037
+- update to 3.8.6
+- update patches:
+  * CK01: -ck patchset inclunding BFS 0.428
+  * DN01-DN02: alx ethernet driver
+  * F01-F13: overlayfs
+  * KP01: TuxOnIce 3.3
+  * MB10: ndiswrapper 1.58
+- drop merged/obsolete patches:
+  * AA01-AA16: stable queue fixes for 3.6 series
+  * CK02: BFS boot fix
+  * DM50: DVB-S builfix
+  * DM60: rttrack buildfix
+  * MB13, MB14: ndiswrapper buildfixes
+- add patches:
+  * AA01-AA20: 3.8 -stable queue fixes
+  * DI01: Intel Wellsburg PCH i2c support
+  * DM10: Intel Wellsburg PCH lpc support
+  * DN03-DN04: alx buildfixes
+  * DN10: net: asix: init ASIX AX88772B MAC from EEPROM
+  * DN11: net: asix: handle packets crossing URB boundaries
+  * DN12: usb/net/asix_devices: Add USBNET HG20F9 ethernet dongle (coling)
+  * DN13: asix cleanup
+  * DN14: net: ax88179_178a: add ASIX AX88179_178A USB 3.0/2.0 to gigabit
+          ethernet adapter support
+  * DP01: PCI: Remove not needed check in disable aspm link (fixes ath5k)
+  * DS10: Intel Wellsburg PCH alsa support
+  * FR01: Reiser4 support
+- update defconfigs
+
+
+END

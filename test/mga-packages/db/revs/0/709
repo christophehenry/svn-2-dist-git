@@ -1,0 +1,156 @@
+id: 2-305.0-709.r709/0
+type: dir
+pred: 2-305.0.r702/4398
+count: 19
+text: 702 4305 80 80 fbe1999927c8d39819194f87e1c3e3e5
+props: 656 1419 65 65 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/2.6.38.5/1.mga1
+copyfrom: 702 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-709.r709/0
+END
+ENDREP
+id: 3-706.0.r709/329
+type: dir
+pred: 3-706.0.r706/0
+count: 1
+text: 709 273 43 43 74336508753735866d612203df5f3c36
+cpath: /cauldron/kernel-tmb/releases/2.6.38.5
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+K 8
+2.6.37.4
+V 20
+dir 3-466.0.r469/331
+K 8
+2.6.38.2
+V 20
+dir 3-533.0.r572/367
+K 8
+2.6.38.3
+V 20
+dir 3-617.0.r620/329
+K 8
+2.6.38.4
+V 20
+dir 3-657.0.r660/329
+K 8
+2.6.38.5
+V 20
+dir 3-706.0.r709/329
+END
+ENDREP
+id: r-305.0.r709/755
+type: dir
+pred: r-305.0.r706/348
+count: 13
+text: 709 504 238 238 90a155b4af93753d1e79b18dec3f1906
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-305.0.r702/4398
+K 8
+pristine
+V 22
+dir 2-305.0-708.r708/0
+K 8
+releases
+V 20
+dir r-305.0.r709/755
+END
+ENDREP
+id: 1-304.0.r709/1062
+type: dir
+pred: 1-304.0.r708/393
+count: 47
+text: 709 926 123 123 78d1948ccd1cc20387718e055f71f4f4
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r705/1271
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r695/1130
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r709/1062
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r634/1008
+END
+ENDREP
+id: 0-1.0.r709/1615
+type: dir
+pred: 0-1.0.r708/943
+count: 705
+text: 709 1225 377 377 9f9faaa4d43d002d65e498bae35989d0
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r709/1615
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r709/1858
+type: dir
+pred: 0.0.r708/1183
+count: 709
+text: 709 1765 80 80 2f56862227f01cff7709cadd3659dfb0
+cpath: /
+copyroot: 0 /
+
+2-305._0.t708-jo add-dir false false /cauldron/kernel-tmb/releases/2.6.38.5/1.mga1
+702 /cauldron/kernel-tmb/current
+
+1858 1995

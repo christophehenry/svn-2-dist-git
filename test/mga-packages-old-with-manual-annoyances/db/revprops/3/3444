@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-21T19:10:22.202194Z
+K 7
+svn:log
+V 113
+- iwlwifi: pcie: don't read INTA register in ICT IRQ handler
+- iwlwifi: make TX seqno validation more efficient
+
+
+END

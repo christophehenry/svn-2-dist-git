@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-01T23:02:49.740766Z
+K 7
+svn:log
+V 130
+- fix stack (frame) overflow in getaddrinfo() when processing entry mapping
+  to long list of address structures (CVE-2013-1914)
+
+
+END

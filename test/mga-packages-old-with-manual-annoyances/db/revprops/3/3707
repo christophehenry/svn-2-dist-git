@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-19T19:54:54.671100Z
+K 7
+svn:log
+V 132
+- fix Buffer overwrite when using readdir_r on file systems returning
+  file names longer than NAME_MAX characters (CVE-2013-4237)
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-02-25T22:15:32.096688Z
+K 7
+svn:log
+V 87
+- update to 2.6.37.2
+  * drop merged patch
+    fs-xfs-fix-dquot-shaker-deadlock.patch
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-26T22:27:52.744683Z
+K 7
+svn:log
+V 162
+- aio: fix possible invalid memory access when DEBUG is enabled
+- TTY: do not update atime/mtime on read/write (CVE-2013-0160)
+- TTY: fix atime/mtime regression
+
+
+END

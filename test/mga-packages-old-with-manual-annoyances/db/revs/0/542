@@ -1,0 +1,177 @@
+id: b-11.0-540.r542/0
+type: file
+pred: b-11.0.r481/106
+count: 36
+text: 207 0 14 63 885b979753f9868cc093a0871b304fd6 06cf7857c6c74cf4e195ee6ad26ba1a2a66eefa8 541-f1/_6
+cpath: /updates/1/kernel/current/SOURCES/sha1.lst
+copyroot: 540 /updates/1
+
+PLAIN
+K 21
+README.kernel-sources
+V 21
+file 4-11.0.r11/10761
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 20
+file 7-11.0.r228/274
+K 25
+linux-2.6.38.tar.bz2.sign
+V 19
+file 4-208.0.r208/0
+K 8
+sha1.lst
+V 22
+file b-11.0-540.r542/0
+END
+ENDREP
+id: 4-6.0-540.r542/503
+type: dir
+pred: 4-6.0.r481/880
+count: 52
+text: 542 243 247 0 ab7a4a0b842f79a2d6a076ea213e5e7f
+cpath: /updates/1/kernel/current/SOURCES
+copyroot: 540 /updates/1
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r313/109
+K 7
+PATCHES
+V 21
+dir 6-51.0.r480/18864
+K 7
+SOURCES
+V 22
+dir 4-6.0-540.r542/503
+K 5
+SPECS
+V 20
+dir 6-6.0.r479/13822
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0-540.r542/906
+type: dir
+pred: 2-6.0.r481/1265
+count: 147
+text: 542 687 206 0 e7e597e4b25b34b9a2cc2f2e0c86db27
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /updates/1/kernel/current
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 22
+dir 2-6.0-540.r542/906
+K 8
+pristine
+V 20
+dir 2-6.0-470.r470/0
+K 8
+releases
+V 20
+dir 2-14.0.r471/1002
+END
+ENDREP
+id: 1-5.0-540.r542/1273
+type: dir
+pred: 1-5.0.r481/1616
+count: 216
+text: 542 1138 122 0 5fb1920832c622c9c719b617a0cb8acb
+cpath: /updates/1/kernel
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 23
+dir 1-5.0-540.r542/1273
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r477/1203
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0-540.r542/1696
+type: dir
+pred: 0-1.0-540.r540/0
+count: 482
+text: 542 1445 238 0 221101af1c4fdc270b25de82a78a06e4
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 23
+dir 0-1.0-540.r542/1696
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r542/1952
+type: dir
+pred: 0-539.0.r541/254
+count: 3
+text: 542 1862 77 0 8d7885dc55d2c337bd2a0cdcc3b68b0f
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r538/1783
+K 7
+updates
+V 21
+dir 0-539.0.r542/1952
+END
+ENDREP
+id: 0.0.r542/2194
+type: dir
+pred: 0.0.r541/493
+count: 542
+text: 542 2100 81 0 0fb9a531e5691317f06a9617f295121d
+cpath: /
+copyroot: 0 /
+
+b-373.0.r373/14566 delete-file false false /updates/1/kernel/current/SOURCES/patch-2.6.38.4.bz2.sign
+
+9-396.0.r396/2657 delete-file false false /updates/1/kernel/current/SOURCES/patch-2.6.38.5-rc1.bz2.sign
+
+4-419.0.r419/51 delete-file false false /updates/1/kernel/current/SOURCES/patch-2.6.38.5.bz2.sign
+
+4-443.0.r443/50 delete-file false false /updates/1/kernel/current/SOURCES/patch-2.6.38.6.bz2.sign
+
+7-479.0.r479/12580 delete-file false false /updates/1/kernel/current/SOURCES/patch-2.6.38.7.bz2.sign
+
+b-11.0-540.t541-f1 modify-file true false /updates/1/kernel/current/SOURCES/sha1.lst
+
+
+2194 2329

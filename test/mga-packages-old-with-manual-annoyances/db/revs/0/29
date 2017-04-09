@@ -1,0 +1,78 @@
+id: 2-28.0-29.r29/0
+type: dir
+pred: 2-28.0.r28/21947
+count: 1
+text: 28 21778 79 0 45469077e507c036cdc619cf31da1a49
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/pristine
+copyfrom: 28 /cauldron/udev/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-28.0.r28/21947
+K 8
+pristine
+V 19
+dir 2-28.0-29.r29/0
+K 8
+releases
+V 21
+dir 1f-28.0.r28/22139
+END
+ENDREP
+id: 1-27.0.r29/370
+type: dir
+pred: 1-27.0.r28/22321
+count: 2
+text: 29 237 120 0 2350146779af30c07f847cf97995a100
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r26/804
+K 6
+kernel
+V 17
+dir 1-5.0.r18/800
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+K 4
+udev
+V 18
+dir 1-27.0.r29/370
+END
+ENDREP
+id: 0-1.0.r29/677
+type: dir
+pred: 0-1.0.r28/22629
+count: 28
+text: 29 520 144 0 5d652fa1f5aafc86954817b3c4ab8221
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r29/677
+END
+ENDREP
+id: 0.0.r29/874
+type: dir
+pred: 0.0.r28/22830
+count: 29
+text: 29 821 40 0 e3481a641628513937d3529cacb9aa9d
+cpath: /
+copyroot: 0 /
+
+2-28._0.t28-s add-dir false false /cauldron/udev/pristine
+28 /cauldron/udev/current
+
+874 1005

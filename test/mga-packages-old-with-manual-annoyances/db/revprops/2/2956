@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-30T10:11:06.522634Z
+K 7
+svn:log
+V 79
+SUNRPC: Add barriers to ensure read ordering in rpc_wake_up_task_queue_locked
+
+
+END

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T18:51:34.732256Z
+K 7
+svn:log
+V 148
+- x86/amd-iommu: Fix 3 possible endless loops
+- x86/amd-iommu: Use only per-device dma_ops
+- x86/amd-iommu: Fix boot crash with hidden PCI devices
+
+
+END

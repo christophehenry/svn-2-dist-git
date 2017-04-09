@@ -1,0 +1,140 @@
+id: 2-305.0-536.r536/0
+type: dir
+pred: 2-305.0.r532/1137
+count: 7
+text: 532 967 79 79 a63482d8c759d9ee199465af06f3bd38
+props: 532 1059 65 65 741df8b5da81df5dc918be07c532d1da
+cpath: /cauldron/kernel-tmb/releases/2.6.38.2/1.mga1
+copyfrom: 532 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-536.r536/0
+END
+ENDREP
+id: 3-533.0.r536/327
+type: dir
+pred: 3-533.0.r533/0
+count: 1
+text: 536 271 43 43 942331f926f491c79559d19bfbeb9487
+cpath: /cauldron/kernel-tmb/releases/2.6.38.2
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+K 8
+2.6.37.4
+V 20
+dir 3-466.0.r469/331
+K 8
+2.6.38.2
+V 20
+dir 3-533.0.r536/327
+END
+ENDREP
+id: r-305.0.r536/636
+type: dir
+pred: r-305.0.r533/231
+count: 6
+text: 536 502 121 121 0747d142dc9228c90b2f9731de819401
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-305.0.r532/1137
+K 8
+pristine
+V 22
+dir 2-305.0-535.r535/0
+K 8
+releases
+V 20
+dir r-305.0.r536/636
+END
+ENDREP
+id: 1-304.0.r536/942
+type: dir
+pred: 1-304.0.r535/391
+count: 20
+text: 536 806 123 123 553452f750877d0b41272cc4e9b7d9fd
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r504/994
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 19
+dir 1-5.0.r528/1573
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r529/1320
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r536/942
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r536/1491
+type: dir
+pred: 0-1.0.r535/939
+count: 535
+text: 536 1104 374 374 e98743d06a786fc4e773313031aba339
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r536/1491
+END
+ENDREP
+id: 0.0.r536/1696
+type: dir
+pred: 0.0.r535/1141
+count: 536
+text: 536 1641 42 42 30ea015877a8c1183601f455b0837463
+cpath: /
+copyroot: 0 /
+
+2-305._0.t535-ev add-dir false false /cauldron/kernel-tmb/releases/2.6.38.2/1.mga1
+532 /cauldron/kernel-tmb/current
+
+1696 1833

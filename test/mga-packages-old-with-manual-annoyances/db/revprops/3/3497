@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-29T10:14:31.649638Z
+K 7
+svn:log
+V 130
+- revert: 'SCSI: sd: Update WRITE SAME heuristics' introduced upstream in
+  3.10.3 as it breaks several usb3 connected disks.
+
+  
+
+END

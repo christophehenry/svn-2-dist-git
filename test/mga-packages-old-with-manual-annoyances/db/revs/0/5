@@ -1,0 +1,44 @@
+id: 1-5.0.r5/0
+type: dir
+count: 0
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 6
+kernel
+V 14
+dir 1-5.0.r5/0
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r5/161
+type: dir
+pred: 0-1.0.r4/580
+count: 4
+text: 5 73 75 0 2d971e6180f3cbadfbe1193f865e06b2
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 16
+dir 0-1.0.r5/161
+END
+ENDREP
+id: 0.0.r5/349
+type: dir
+pred: 0.0.r4/771
+count: 5
+text: 5 297 39 0 d5305b14461228e9295a289ffc127b17
+cpath: /
+copyroot: 0 /
+
+_1.0.t4-4 add-dir false false /cauldron/kernel
+
+
+349 474

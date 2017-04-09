@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-03T09:58:38.751767Z
+K 7
+svn:log
+V 135
+- drm/i915: i915.disable_pch_pwm overrides PCH_PWM_ENABLE quirk,
+            Allow disabling of eDP BPP overrides (coling, bko#59841)
+
+
+END

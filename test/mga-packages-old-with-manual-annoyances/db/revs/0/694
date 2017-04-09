@@ -1,0 +1,128 @@
+id: j-41.0.r694/0
+type: file
+pred: j-41.0.r624/1118
+count: 7
+text: 72 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 693-j9/_5
+cpath: /cauldron/systemd/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 8
+sha1.lst
+V 18
+file j-41.0.r694/0
+K 35
+systemd-30-add-mageia-support.patch
+V 21
+file 4-635.0.r636/412
+END
+ENDREP
+id: 4-41.0.r694/347
+type: dir
+pred: 4-41.0.r636/800
+count: 14
+text: 694 225 109 0 947e4e67f6d44a3280f3c2c9de8f92ae
+cpath: /cauldron/systemd/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 19
+dir 4-41.0.r694/347
+K 5
+SPECS
+V 20
+dir l-41.0.r635/4715
+END
+ENDREP
+id: 2-41.0.r694/608
+type: dir
+pred: 2-41.0.r636/1062
+count: 29
+text: 694 518 77 0 e0eeeacbf5b6166ccecb13bdb1c71387
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-41.0.r694/608
+K 8
+pristine
+V 21
+dir 2-41.0-638.r638/0
+K 8
+releases
+V 19
+dir p-41.0.r639/658
+END
+ENDREP
+id: 1-40.0.r694/956
+type: dir
+pred: 1-40.0.r639/954
+count: 50
+text: 694 824 119 0 de845cd8cf5912db052087fe975e4092
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r693/1078
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r690/971
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 19
+dir 1-40.0.r694/956
+K 4
+udev
+V 20
+dir 1-27.0.r674/1030
+END
+ENDREP
+id: 0-1.0.r694/1356
+type: dir
+pred: 0-1.0.r693/1478
+count: 673
+text: 694 1111 232 0 29760e9cf268137d1b33194bacc594bc
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r694/1356
+K 7
+updates
+V 21
+dir 0-539.0.r571/2047
+END
+ENDREP
+id: 0.0.r694/1599
+type: dir
+pred: 0.0.r693/1721
+count: 694
+text: 694 1505 81 0 b52d72a0f8a89f7373c3809bd267d4f3
+cpath: /
+copyroot: 0 /
+
+j-41.0.t693-j9 modify-file true false /cauldron/systemd/current/SOURCES/sha1.lst
+
+
+1599 1735

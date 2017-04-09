@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-23T13:01:48.571159Z
+K 7
+svn:log
+V 74
+ALSA: usb-audio: Fix invalid volume resolution for Logitech HD Webcam c310
+END

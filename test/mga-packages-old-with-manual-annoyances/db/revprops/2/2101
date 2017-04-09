@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-07-04T20:20:51.233696Z
+K 7
+svn:log
+V 62
+- Simplify -devel packaging (one systemd, one udev, one gudev)
+END

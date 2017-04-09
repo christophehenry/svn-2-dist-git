@@ -1,0 +1,140 @@
+id: 2-41.0-820.r820/0
+type: dir
+pred: 2-41.0.r817/1471
+count: 41
+text: 817 1381 77 0 02ac987b7e9b41de855df55c91826bcb
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/35/2.mga2
+copyfrom: 817 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-816.r816/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-820.r820/0
+END
+ENDREP
+id: 3-813.0.r820/349
+type: dir
+pred: 3-813.0.r816/311
+count: 2
+text: 820 256 80 0 85ff63e928a36f72ac623cc6f22f36d1
+cpath: /cauldron/systemd/releases/35
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r820/349
+END
+ENDREP
+id: p-41.0.r820/692
+type: dir
+pred: p-41.0.r816/652
+count: 12
+text: 820 516 163 0 23a1d5c6c51e95c6980fdb93348139ee
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r817/1471
+K 8
+pristine
+V 21
+dir 2-41.0-819.r819/0
+K 8
+releases
+V 19
+dir p-41.0.r820/692
+END
+ENDREP
+id: 1-40.0.r820/989
+type: dir
+pred: 1-40.0.r819/379
+count: 68
+text: 820 856 120 0 54b012fdde9eb787a118021f535e9ebc
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r809/1599
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r757/1310
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 19
+dir 1-40.0.r820/989
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r820/1388
+type: dir
+pred: 0-1.0.r819/777
+count: 760
+text: 820 1144 231 0 1f7821ad4b52bb81c0adb81afa624e45
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r820/1388
+K 7
+updates
+V 21
+dir 0-539.0.r811/1995
+END
+ENDREP
+id: 0.0.r820/1630
+type: dir
+pred: 0.0.r819/1016
+count: 820
+text: 820 1536 81 0 b87f48e2b51e44a0e8628c3c69ae8d0a
+cpath: /
+copyroot: 0 /
+
+2-41._0.t819-mr add-dir false false /cauldron/systemd/releases/35/2.mga2
+817 /cauldron/systemd/current
+
+1630 1766

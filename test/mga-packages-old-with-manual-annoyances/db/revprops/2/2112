@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T16:54:18.695190Z
+K 7
+svn:log
+V 481
+- upstream wireless fixes:
+  * iwlwifi:
+    disable the buggy chain extension feature in HW
+    do not use shadow registers by default
+    don't mess up the SCD when removing a key
+    unregister LEDs if mac80211 registration fails
+    update BT traffic load states correctly
+    use correct supported firmware for 6035 and 6000g2
+  * r8712u:
+    Add new USB IDs
+  * rt2800usb:
+    add more devices ids
+  * rtl8192cu: 
+    New USB IDs
+  * wl1251: 
+    fix oops on early interrupt
+
+
+END

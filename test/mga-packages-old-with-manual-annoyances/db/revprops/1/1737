@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-03T20:15:25.186794Z
+K 7
+svn:log
+V 266
+- drm/nouveau: create m2mf for nvd9 too
+- drm/nouveau: inform userspace of relaxed kernel subchannel requirements
+- drm/nouveau: select POWER_SUPPLY
+- drm/nouveau: Fix crash when pci_ram_rom() returns a size of 0
+- drm/nouveau/bios: Fix tracking of BIOS image data
+
+
+END

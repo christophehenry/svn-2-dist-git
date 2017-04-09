@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-17T00:32:49.963790Z
+K 7
+svn:log
+V 62
+sound/hda: add Intel Lynx Point-LP, Haswell, Wellsburg support
+END

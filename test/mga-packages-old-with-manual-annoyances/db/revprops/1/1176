@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-12-18T13:15:38.144633Z
+K 7
+svn:log
+V 68
+New version 175
+SILENT: Remove merged patches
+SILENT: Fix file list
+
+END

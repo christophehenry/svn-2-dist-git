@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-12T11:46:46.702710Z
+K 7
+svn:log
+V 762
+- update to 2.6.38.6
+- drop merged patches:
+    * AX01
+- add patches:
+    * DG20: drm/radeon/kms: add pci id to acer travelmate quirk for 5730
+    * DG21: drm/radeon/kms: fix gart setup on fusion parts (v2) backport
+    * DG22: drm/i915/dp: Be paranoid in case we disable a DP before it is attached
+    * DG23: drm/i915/lvds: Only act on lid notify when the device is on
+    * DG24: drm/i915: Release object along create user fb error path
+    * DP30: revert: "dell-laptop: Toggle the unsupported hardware killswitch"
+            as it causes regressions on existing hw (reported by Colin Guthrie)
+    * SM02: add support for compressing modules with xz
+- clean /lib/modules tree on uninstall
+- disable ACPI_PROCFS_POWER as its obsoleted by the sysfs interface
+
+
+END

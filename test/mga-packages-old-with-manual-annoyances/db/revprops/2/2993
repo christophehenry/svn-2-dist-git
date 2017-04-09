@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-04-08T20:28:16.575210Z
+K 7
+svn:log
+V 138
+- Add numerous upstream patches (after reviewing SuSE package patches)
+- Add SuSE patch to restore cdrw, dvd and dvdrw symlinks (mga#8524)
+END

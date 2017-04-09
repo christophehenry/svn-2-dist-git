@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-06T20:40:30.204037Z
+K 7
+svn:log
+V 58
+update to 3.2.5 (including: PCI: Rework ASPM disable code)
+END

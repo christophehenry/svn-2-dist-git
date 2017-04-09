@@ -1,0 +1,52 @@
+id: 1-27.0.r27/0
+type: dir
+count: 0
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r26/804
+K 6
+kernel
+V 17
+dir 1-5.0.r18/800
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+K 4
+udev
+V 16
+dir 1-27.0.r27/0
+END
+ENDREP
+id: 0-1.0.r27/228
+type: dir
+pred: 0-1.0.r26/1076
+count: 26
+text: 27 73 142 0 846f56708ede6dada2e66a4d49e6051f
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r27/228
+END
+ENDREP
+id: 0.0.r27/423
+type: dir
+pred: 0.0.r26/1273
+count: 27
+text: 27 370 40 0 c6afe9527ffa4b67111831176a82a269
+cpath: /
+copyroot: 0 /
+
+_1.0.t26-q add-dir false false /cauldron/udev
+
+
+423 553

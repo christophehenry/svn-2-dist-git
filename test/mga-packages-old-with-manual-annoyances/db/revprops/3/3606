@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-17T21:05:45.243018Z
+K 7
+svn:log
+V 95
+- drop minimal required kernel to 2.6.32 so it works in chroots on top
+  of enterprise kernels
+
+END

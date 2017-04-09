@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-26T07:41:15.424178Z
+K 7
+svn:log
+V 31
+update to 3.2.2 (CVE-2012-0056)
+END

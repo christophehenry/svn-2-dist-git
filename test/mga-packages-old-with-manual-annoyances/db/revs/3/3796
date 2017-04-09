@@ -1,0 +1,152 @@
+id: 2-8.0-3796.r3796/0
+type: dir
+pred: 2-8.0.r3792/9925
+count: 109
+text: 3792 9833 79 0 3c7bc2db607a27d52bb8d73fb647c598
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.18/3.mga4
+copyfrom: 3792 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.5.mga4
+V 22
+dir 2-8.0-3642.r3642/0
+K 6
+1.mga4
+V 22
+dir 2-8.0-3704.r3704/0
+K 6
+2.mga4
+V 22
+dir 2-8.0-3740.r3740/0
+K 6
+3.mga4
+V 22
+dir 2-8.0-3796.r3796/0
+END
+ENDREP
+id: 3-3639.0.r3796/435
+type: dir
+pred: 3-3639.0.r3740/396
+count: 4
+text: 3796 260 162 0 a076ae1904456fb4100872c449bbe0d4
+cpath: /cauldron/glibc/releases/6:2.18
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3571/627
+K 6
+6:2.18
+V 22
+dir 3-3639.0.r3796/435
+END
+ENDREP
+id: 35-8.0.r3796/822
+type: dir
+pred: 35-8.0.r3740/783
+count: 46
+text: 3796 610 199 0 6407f867b90798356602e90ffd2b3cbe
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 20
+dir 2-8.0.r3792/9925
+K 8
+pristine
+V 22
+dir 2-8.0-3795.r3795/0
+K 8
+releases
+V 20
+dir 35-8.0.r3796/822
+END
+ENDREP
+id: 1-7.0.r3796/1164
+type: dir
+pred: 1-7.0.r3795/423
+count: 276
+text: 3796 987 164 0 bd39b8ecc4f049f85890e79a03436e32
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3796/1164
+K 6
+kernel
+V 20
+dir 1-5.0.r3781/3912
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3770/3511
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3791/2755
+K 7
+systemd
+V 21
+dir 1-40.0.r3720/1689
+END
+ENDREP
+id: 0-1.0.r3796/1574
+type: dir
+pred: 0-1.0.r3795/831
+count: 3382
+text: 3796 1320 241 0 3e45b08888b8b8ba92d75d76067c8f0b
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3796/1574
+K 7
+updates
+V 23
+dir 0-539.0.r3793/10409
+END
+ENDREP
+id: 0.0.r3796/1823
+type: dir
+pred: 0.0.r3795/1077
+count: 3796
+text: 3796 1726 84 0 afed6f52bfa2e4f2c27e71b618a1fccf
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3795-2xf add-dir false false /cauldron/glibc/releases/6:2.18/3.mga4
+3792 /cauldron/glibc/current
+
+1823 1963

@@ -1,0 +1,99 @@
+id: f-3.0-10.r10/0
+type: file
+pred: f-3.0.r3/72949
+count: 1
+text: 3 35040 75 63 a01e6eb03f5c707d25d654ca866ca3a2 5291b5dcc40dd18a2b236eb77028ae629b988a73 2-2/_g
+cpath: /cauldron/kernel/current/SOURCES/sha1.lst
+copyfrom: 9 /cauldron/kernel-linus/current/SOURCES/sha1.lst
+
+PLAIN
+K 8
+sha1.lst
+V 19
+file f-3.0-10.r10/0
+END
+ENDREP
+id: 4-6.0.r10/326
+type: dir
+pred: 4-6.0.r6/0
+count: 1
+text: 10 271 42 0 17169610a14a203b46afcbc3f573b865
+cpath: /cauldron/kernel/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 17
+dir 4-6.0.r10/326
+K 5
+SPECS
+V 15
+dir 6-6.0.r6/89
+END
+ENDREP
+id: 2-6.0.r10/569
+type: dir
+pred: 2-6.0.r6/257
+count: 1
+text: 10 486 70 0 4f4429117f1477cf38618fa87da10bfe
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 17
+dir 2-6.0.r10/569
+END
+ENDREP
+id: 1-5.0.r10/775
+type: dir
+pred: 1-5.0.r6/441
+count: 2
+text: 10 723 39 0 017aa99958da30ea17f106d802a33681
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/357
+K 6
+kernel
+V 17
+dir 1-5.0.r10/775
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r10/1044
+type: dir
+pred: 0-1.0.r9/625
+count: 9
+text: 10 921 110 0 b29baf514cca55cac7b1842312af521c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r10/1044
+END
+ENDREP
+id: 0.0.r10/1239
+type: dir
+pred: 0.0.r9/817
+count: 10
+text: 10 1185 41 0 de2baa2633f3e22acaa3e6c9a68af47f
+cpath: /
+copyroot: 0 /
+
+f-3._0.t9-9 add-file false false /cauldron/kernel/current/SOURCES/sha1.lst
+9 /cauldron/kernel-linus/current/SOURCES/sha1.lst
+
+1239 1369

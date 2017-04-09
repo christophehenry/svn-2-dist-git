@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-01-19T21:35:16.998827Z
+K 7
+svn:log
+V 99
+hardcode mageia as distro name for now in order to force dropping requirements on rpm-manbo-setup-*
+END

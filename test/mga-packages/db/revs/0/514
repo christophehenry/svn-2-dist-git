@@ -1,0 +1,168 @@
+id: 2-12.0-514.r514/0
+type: dir
+pred: 2-12.0.r511/3331
+count: 60
+text: 511 3239 79 79 3d2572d0d6a0e68f2298a80db9974bb7
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/9.mga1
+copyfrom: 511 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+K 6
+3.mga1
+V 21
+dir 2-12.0-329.r329/0
+K 6
+4.mga1
+V 21
+dir 2-12.0-345.r345/0
+K 6
+5.mga1
+V 21
+dir 2-12.0-350.r350/0
+K 6
+7.mga1
+V 21
+dir 2-12.0-354.r354/0
+K 6
+8.mga1
+V 21
+dir 2-12.0-423.r423/0
+K 6
+9.mga1
+V 21
+dir 2-12.0-514.r514/0
+END
+ENDREP
+id: 3-313.0.r514/577
+type: dir
+pred: 3-313.0.r423/539
+count: 8
+text: 514 256 308 308 dc9a23d2069c7e0ba73bd8d3381c35d1
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r514/577
+END
+ENDREP
+id: 37-12.0.r514/839
+type: dir
+pred: 37-12.0.r423/801
+count: 14
+text: 514 748 78 78 845f40487680d509c78ea81e6176a425
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 20
+dir 2-12.0.r511/3331
+K 8
+pristine
+V 21
+dir 2-12.0-513.r513/0
+K 8
+releases
+V 20
+dir 37-12.0.r514/839
+END
+ENDREP
+id: 1-11.0.r514/1175
+type: dir
+pred: 1-11.0.r513/415
+count: 114
+text: 514 1001 161 161 7684c9faadece5be1506e89b23373472
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r504/994
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 20
+dir 1-5.0.r505/15587
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r496/973
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r514/1718
+type: dir
+pred: 0-1.0.r513/955
+count: 513
+text: 514 1331 374 374 e675b2ef297a6fda21ad1bc5bf0841b9
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r514/1718
+END
+ENDREP
+id: 0.0.r514/1923
+type: dir
+pred: 0.0.r513/1157
+count: 514
+text: 514 1868 42 42 f066d99ce5872faa4d7102b8465d7023
+cpath: /
+copyroot: 0 /
+
+2-12._0.t513-e9 add-dir false false /cauldron/rpm/releases/1:4.8.1/9.mga1
+511 /cauldron/rpm/current
+
+1923 2060

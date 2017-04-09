@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-03T20:06:08.892391Z
+K 7
+svn:log
+V 203
+- ipv4: Kill spurious opt->srr check in ip_options_rcv_srr() 
+  * closes CVE-2011-4087: Multiple remote denial of service in Linux 
+    bridge networking (already partly fixed in 2.6.38.4 and 2.6.38.8)
+
+
+END

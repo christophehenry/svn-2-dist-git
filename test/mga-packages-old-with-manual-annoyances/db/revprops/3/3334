@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-24T04:27:46.597455Z
+K 7
+svn:log
+V 69
+iommu/vt-d: add quirk for broken interrupt remapping on 55XX chipsets
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-04-08T12:15:43.097952Z
+K 7
+svn:log
+V 143
+- Drop upstream patch as it seems to break OnFailure handiling.
+- Tweak the display-manager-failure message to show up quicker (and use agetty)
+END

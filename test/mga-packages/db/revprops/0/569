@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-11T22:32:59.684382Z
+K 7
+svn:log
+V 207
+- add -stable queue patches (31 fixes)
+- update patches:
+    * CK01: Con Kolivas -ck3 patchset including bfs 0.400
+    * FR01: reiser4 for 2.6.38 final
+- drop patches:
+    * FR02: reiser4 buildfix (merged)
+
+
+END

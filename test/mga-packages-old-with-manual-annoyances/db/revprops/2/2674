@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-01-04T22:46:02.780927Z
+K 7
+svn:log
+V 74
+fix kernel stack disclosure in binfmt_script load_script() (CVE-2012-4530)
+END

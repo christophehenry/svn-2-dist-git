@@ -1,0 +1,147 @@
+id: 4-2527.0.r2527/0
+type: file
+count: 0
+text: 2421 0 507 490 fe6dc5d89cbd6cb6c279a684e79c3c94 fa4523e7b5b2c5f2bc3ae08cc2eac7f64e5e7e34 2526-1y6/_6
+cpath: /cauldron/kernel-tmb/current/SOURCES/linux-3.6.tar.sign
+copyroot: 0 /
+
+PLAIN
+K 25
+README.kernel-tmb-sources
+V 22
+file 9-150.0.r730/5004
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 23
+file b-150.0.r2285/2803
+K 20
+kernel-tmb.patchlist
+V 23
+file d-150.0.r2526/3077
+K 18
+linux-3.5.tar.sign
+V 24
+file 9-2285.0.r2285/3596
+K 27
+linux-3.6.5-tmb1.tar.xz.asc
+V 24
+file 6-2526.0.r2526/3335
+K 18
+linux-3.6.tar.sign
+V 21
+file 4-2527.0.r2527/0
+K 16
+patch-3.6.5.sign
+V 24
+file 8-2526.0.r2526/3576
+K 8
+sha1.lst
+V 23
+file l-150.0.r2526/3803
+END
+ENDREP
+id: 4-150.0.r2527/714
+type: dir
+pred: 4-150.0.r2526/4487
+count: 78
+text: 2527 226 475 0 66c30c417b0c95cf372d3bcdd4a54c26
+cpath: /cauldron/kernel-tmb/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 21
+dir 4-150.0.r2527/714
+K 5
+SPECS
+V 22
+dir n-150.0.r2526/4992
+END
+ENDREP
+id: 2-150.0.r2527/988
+type: dir
+pred: 2-150.0.r2526/5266
+count: 85
+text: 2527 894 81 0 9dcf1e7a71f16e91eb22a26aa05da5df
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r2527/988
+K 8
+pristine
+V 24
+dir 2-150.0-2363.r2363/0
+K 8
+releases
+V 22
+dir r-150.0.r2364/1969
+END
+ENDREP
+id: 1-149.0.r2527/1353
+type: dir
+pred: 1-149.0.r2526/5634
+count: 263
+text: 2527 1213 127 0 dd3dc35f9ac56a63bf270422a510913a
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2437/1443
+K 6
+kernel
+V 20
+dir 1-5.0.r2524/2791
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2516/2663
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2527/1353
+K 7
+systemd
+V 21
+dir 1-40.0.r2501/1580
+END
+ENDREP
+id: 0-1.0.r2527/1737
+type: dir
+pred: 0-1.0.r2526/6018
+count: 2338
+text: 2527 1520 204 0 3b46f16b3974076980cea73c22c8578d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2527/1737
+K 7
+updates
+V 22
+dir 0-539.0.r2525/3824
+END
+ENDREP
+id: 0.0.r2527/1986
+type: dir
+pred: 0.0.r2526/6267
+count: 2527
+text: 2527 1890 83 0 f6bebb37387babecc7422e2187317ea3
+cpath: /
+copyroot: 0 /
+
+_4.0.t2526-1y6 add-file true false /cauldron/kernel-tmb/current/SOURCES/linux-3.6.tar.sign
+
+
+1986 2126

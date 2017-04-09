@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-30T11:01:06.502237Z
+K 7
+svn:log
+V 171
+- Input: elantech - fix packet check for v3 and v4 hardware
+- Input: wacom - add support for 0x300 and 0x301
+- Input: xpad - add signature for Razer Onza Classic Edition
+
+
+END

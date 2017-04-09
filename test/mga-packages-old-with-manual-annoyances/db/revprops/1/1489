@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-14T17:30:02.917434Z
+K 7
+svn:log
+V 69
+add post and preun service calls for cpupower in kernel-tools package
+END

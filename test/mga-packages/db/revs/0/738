@@ -1,0 +1,93 @@
+PLAIN
+K 7
+current
+V 19
+dir 2-44.0.r737/596
+K 8
+releases
+V 20
+dir 1f-44.0.r634/709
+END
+ENDREP
+id: 1-43.0.r738/93
+type: dir
+pred: 1-43.0.r737/945
+count: 51
+text: 738 0 80 80 2019a80b8f5538c4efc6b330f5f063ee
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r729/1265
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r719/1169
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r736/1101
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 18
+dir 1-43.0.r738/93
+END
+ENDREP
+id: 0-1.0.r738/630
+type: dir
+pred: 0-1.0.r737/1489
+count: 734
+text: 738 242 375 375 58eb94053bb1227061c8efac640f556f
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r738/630
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r738/871
+type: dir
+pred: 0.0.r737/1733
+count: 738
+text: 738 779 79 79 067e24c07ed1cb0fb2b6314e77b5e8fb
+cpath: /
+copyroot: 0 /
+
+2-44.0-633.r633/0 delete-dir false false /cauldron/udev/pristine
+
+
+871 1006

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-20T10:13:17.299898Z
+K 7
+svn:log
+V 48
+drop P47 (already merged in glibc-ports-2.14.1)
+
+END

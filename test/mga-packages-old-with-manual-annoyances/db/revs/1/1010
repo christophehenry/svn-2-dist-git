@@ -1,0 +1,172 @@
+id: 2-41.0-1010.r1010/0
+type: dir
+pred: 2-41.0.r1007/640
+count: 66
+text: 1007 549 78 0 fab0836a596916345460ca0f0aa3f01a
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/37/8.mga2
+copyfrom: 1007 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-907.r907/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-917.r917/0
+K 6
+3.mga2
+V 21
+dir 2-41.0-958.r958/0
+K 6
+4.mga2
+V 21
+dir 2-41.0-986.r986/0
+K 6
+5.mga2
+V 21
+dir 2-41.0-996.r996/0
+K 6
+6.mga2
+V 23
+dir 2-41.0-1001.r1001/0
+K 6
+7.mga2
+V 23
+dir 2-41.0-1006.r1006/0
+K 6
+8.mga2
+V 23
+dir 2-41.0-1010.r1010/0
+END
+ENDREP
+id: 3-904.0.r1010/586
+type: dir
+pred: 3-904.0.r1006/546
+count: 8
+text: 1010 259 314 0 7b31253a8916a54ec1761ad4081b75c9
+cpath: /cauldron/systemd/releases/37
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1010/586
+END
+ENDREP
+id: p-41.0.r1010/1000
+type: dir
+pred: p-41.0.r1006/960
+count: 26
+text: 1010 757 230 0 c0e689b58ebf49fd8d4767145eb8d6e6
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r1007/640
+K 8
+pristine
+V 23
+dir 2-41.0-1009.r1009/0
+K 8
+releases
+V 21
+dir p-41.0.r1010/1000
+END
+ENDREP
+id: 1-40.0.r1010/1305
+type: dir
+pred: 1-40.0.r1009/385
+count: 131
+text: 1010 1168 124 0 78ca0994ebafb80f5f892e6c9aea0cb8
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r968/982
+K 6
+kernel
+V 19
+dir 1-5.0.r976/1572
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r972/1571
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r981/1314
+K 7
+systemd
+V 21
+dir 1-40.0.r1010/1305
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r1010/1712
+type: dir
+pred: 0-1.0.r1009/788
+count: 931
+text: 1010 1466 233 0 ba62be737210d3e13fcfd42ad6dc6cf7
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1010/1712
+K 7
+updates
+V 21
+dir 0-539.0.r990/2724
+END
+ENDREP
+id: 0.0.r1010/1958
+type: dir
+pred: 0.0.r1009/1031
+count: 1010
+text: 1010 1863 82 0 15a346ee543ca36c0dac30439c28d96f
+cpath: /
+copyroot: 0 /
+
+2-41._0.t1009-s1 add-dir false false /cauldron/systemd/releases/37/8.mga2
+1007 /cauldron/systemd/current
+
+1958 2098

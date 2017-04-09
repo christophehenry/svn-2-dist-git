@@ -1,0 +1,168 @@
+id: 2-150.0-981.r981/0
+type: dir
+pred: 2-150.0.r977/4086
+count: 35
+text: 977 3993 80 0 8fd2773b5349e36bcbffb6ad121593b6
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/3.0.8/1.mga2
+copyfrom: 977 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga2
+V 22
+dir 2-150.0-981.r981/0
+END
+ENDREP
+id: 3-978.0.r981/324
+type: dir
+pred: 3-978.0.r978/0
+count: 1
+text: 981 268 43 0 e21d32dfa0533eb2e029aa449b462ff6
+cpath: /cauldron/kernel-tmb/releases/3.0.8
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-152.0.r155/329
+K 8
+2.6.37.4
+V 20
+dir 3-239.0.r242/329
+K 8
+2.6.38.2
+V 20
+dir 3-292.0.r324/365
+K 8
+2.6.38.3
+V 20
+dir 3-348.0.r351/327
+K 8
+2.6.38.4
+V 20
+dir 3-388.0.r391/327
+K 8
+2.6.38.5
+V 20
+dir 3-428.0.r431/327
+K 8
+2.6.38.6
+V 20
+dir 3-455.0.r458/327
+K 8
+2.6.38.7
+V 20
+dir 3-489.0.r492/327
+K 8
+2.6.38.8
+V 20
+dir 3-530.0.r533/327
+K 5
+3.0.4
+V 20
+dir 3-765.0.r768/324
+K 5
+3.0.6
+V 20
+dir 3-867.0.r870/324
+K 5
+3.0.7
+V 20
+dir 3-941.0.r944/324
+K 5
+3.0.8
+V 20
+dir 3-978.0.r981/324
+END
+ENDREP
+id: r-150.0.r981/1007
+type: dir
+pred: r-150.0.r978/606
+count: 27
+text: 981 495 499 0 b99ee30abd85bbd88d28049ddfa69ed0
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r977/4086
+K 8
+pristine
+V 22
+dir 2-150.0-980.r980/0
+K 8
+releases
+V 21
+dir r-150.0.r981/1007
+END
+ENDREP
+id: 1-149.0.r981/1314
+type: dir
+pred: 1-149.0.r980/391
+count: 91
+text: 981 1177 124 0 7ae84001ef244d021692e65cacee3d0f
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r968/982
+K 6
+kernel
+V 19
+dir 1-5.0.r976/1572
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r972/1571
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r981/1314
+K 7
+systemd
+V 19
+dir 1-40.0.r964/975
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r981/1720
+type: dir
+pred: 0-1.0.r980/793
+count: 907
+text: 981 1476 231 0 e948801ac7913f449a4f33a26d14b298
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r981/1720
+K 7
+updates
+V 21
+dir 0-539.0.r911/2483
+END
+ENDREP
+id: 0.0.r981/1962
+type: dir
+pred: 0.0.r980/1032
+count: 981
+text: 981 1868 81 0 bfdc3eb6250def7d69dde3bd41e59a03
+cpath: /
+copyroot: 0 /
+
+2-150._0.t980-r8 add-dir false false /cauldron/kernel-tmb/releases/3.0.8/1.mga2
+977 /cauldron/kernel-tmb/current
+
+1962 2098

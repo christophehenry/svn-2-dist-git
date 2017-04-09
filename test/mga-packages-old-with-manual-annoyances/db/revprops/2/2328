@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-09-07T15:15:25.251470Z
+K 7
+svn:log
+V 64
+Move reboot, halt and poweroff to bindir (removed from usermode)
+END

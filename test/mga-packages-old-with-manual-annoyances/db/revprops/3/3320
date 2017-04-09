@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-23T13:00:37.993089Z
+K 7
+svn:log
+V 78
+ACPI / resources: call acpi_get_override_irq() only for legacy IRQ resources
+
+
+END

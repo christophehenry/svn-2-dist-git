@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-04-23T08:48:16.947923Z
+K 7
+svn:log
+V 247
+- update to 3.3.3
+- add patches:
+  * BF01: floppy: disable pnp autoloading
+  * DN10: ath5k: do not stop queues for full calibration
+  * DN11: ath5k: do not re-run AGC calibration periodically
+  * DN15: iwlwifi: use correct released ucode version
+
+
+END

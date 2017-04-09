@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-16T22:46:30.248470Z
+K 7
+svn:log
+V 75
+add Watchdog Timer Device IDs for the Intel Lynx Point-LP and Wellsburg PCH
+END

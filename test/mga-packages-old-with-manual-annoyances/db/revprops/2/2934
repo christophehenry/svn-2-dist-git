@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-18T19:47:54.621463Z
+K 7
+svn:log
+V 81
+- PCI: Remove not needed check in disable aspm link (should fix ath5k problems)
+
+
+END

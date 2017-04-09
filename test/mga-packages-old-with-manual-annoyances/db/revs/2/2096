@@ -1,0 +1,54 @@
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2083/4801
+K 6
+kernel
+V 20
+dir 1-5.0.r2090/2021
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2073/1751
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2052/2136
+K 7
+systemd
+V 21
+dir 1-40.0.r2095/1540
+END
+ENDREP
+id: 0-1.0.r2096/217
+type: dir
+pred: 0-1.0.r2095/1954
+count: 1958
+text: 2096 0 204 0 046696ae0eb6d51cc7e50198e4c08f67
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2096/217
+K 7
+updates
+V 23
+dir 0-539.0.r2079/12314
+END
+ENDREP
+id: 0.0.r2096/462
+type: dir
+pred: 0.0.r2095/2203
+count: 2096
+text: 2096 366 83 0 140c35029118cd8fec18beb009f7db69
+cpath: /
+copyroot: 0 /
+
+1-27.0.r1826/1361 delete-dir false false /cauldron/udev
+
+
+462 600

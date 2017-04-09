@@ -1,0 +1,156 @@
+id: 2-44.0-634.r634/0
+type: dir
+pred: 2-44.0.r631/2505
+count: 24
+text: 631 2413 79 79 84b70bd06e3cfd9f78f43677c1f62d57
+props: 44 21896 64 64 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/166/4.mga1
+copyfrom: 631 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-44.0-410.r410/0
+K 6
+2.mga1
+V 21
+dir 2-44.0-509.r509/0
+K 6
+3.mga1
+V 21
+dir 2-44.0-630.r630/0
+K 6
+4.mga1
+V 21
+dir 2-44.0-634.r634/0
+END
+ENDREP
+id: 3-407.0.r634/423
+type: dir
+pred: 3-407.0.r630/385
+count: 4
+text: 634 254 156 156 8a7e4987da9f59c9357205db0f86697e
+cpath: /cauldron/udev/releases/166
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 19
+dir 3-52.0.r108/342
+K 3
+165
+V 20
+dir 3-134.0.r137/307
+K 3
+166
+V 20
+dir 3-407.0.r634/423
+END
+ENDREP
+id: 1f-44.0.r634/709
+type: dir
+pred: 1f-44.0.r630/671
+count: 10
+text: 634 591 105 105 3f330943b4eed83d2a01f50fc7c519f0
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-44.0.r631/2505
+K 8
+pristine
+V 21
+dir 2-44.0-633.r633/0
+K 8
+releases
+V 20
+dir 1f-44.0.r634/709
+END
+ENDREP
+id: 1-43.0.r634/1008
+type: dir
+pred: 1-43.0.r633/377
+count: 49
+text: 634 874 121 121 b29db106a595aee598ed971388847d15
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r626/1193
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r613/1052
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r620/983
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 20
+dir 1-43.0.r634/1008
+END
+ENDREP
+id: 0-1.0.r634/1552
+type: dir
+pred: 0-1.0.r633/918
+count: 630
+text: 634 1163 376 376 b01220616fa89f597db6427ad34b6b97
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r634/1552
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r634/1795
+type: dir
+pred: 0.0.r633/1158
+count: 634
+text: 634 1702 80 80 0605b0ad8a49f2bb81f81a5bde65ccea
+cpath: /
+copyroot: 0 /
+
+2-44._0.t633-hl add-dir false false /cauldron/udev/releases/166/4.mga1
+631 /cauldron/udev/current
+
+1795 1932

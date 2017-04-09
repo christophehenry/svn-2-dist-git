@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-18T16:33:29.968981Z
+K 7
+svn:log
+V 90
+- update filelists
+- rediff P40, P41
+- disable P22 (old tcsetattr kernel bug workaround)
+
+
+END

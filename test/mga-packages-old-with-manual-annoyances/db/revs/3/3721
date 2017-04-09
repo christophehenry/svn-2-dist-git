@@ -1,0 +1,1391 @@
+id: 5-307.0-3200.r3721/0
+type: file
+pred: 5-307.0-3200.r3378/714
+count: 89
+text: 3682 0 40 114515 b1e4864dcb999f54fe31ea641817ed7b a6602506b1f690cf7c78646c4b6257a781cbe5a5 3720-2vc/_7
+cpath: /updates/3/kernel/current/PATCHES/configs/arm.config
+copyroot: 3200 /updates/3
+
+id: j-51.0-3200.r3721/271
+type: file
+pred: j-51.0-3200.r3378/989
+count: 115
+text: 3686 0 332 151255 fbb60e4e1e9b39cacef76de97d9642e1 f4225c89b158348fd77080ee0a5d96f3c07d001a 3720-2vc/_8
+cpath: /updates/3/kernel/current/PATCHES/configs/i386.config
+copyroot: 3200 /updates/3
+
+id: q-51.0-3200.r3721/545
+type: file
+pred: q-51.0-3200.r3378/1265
+count: 114
+text: 3686 357 210 144488 f87ef146ce2e611d8a6bddd65735c464 491bad2c6e3b161472c5e4062d0cb6b366cba6f9 3720-2vc/_9
+cpath: /updates/3/kernel/current/PATCHES/configs/x86_64.config
+copyroot: 3200 /updates/3
+
+PLAIN
+K 10
+arm.config
+V 25
+file 5-307.0-3200.r3721/0
+K 11
+i386.config
+V 26
+file j-51.0-3200.r3721/271
+K 13
+x86_64.config
+V 26
+file q-51.0-3200.r3721/545
+END
+ENDREP
+id: i-51.0-3200.r3721/988
+type: dir
+pred: i-51.0-3200.r3378/1712
+count: 121
+text: 3721 824 151 0 631d6241ce5257d7669dd6b135351b57
+cpath: /updates/3/kernel/current/PATCHES/configs
+copyroot: 3200 /updates/3
+
+id: w-51.0-3200.r3721/1194
+type: file
+pred: w-51.0.r2602/2953
+count: 6
+text: 3408 0 110 6077 af31f955a8eb8ebde7c15257be9c98e4 a421dc097eec49cbcb9ec954a60be9bf3e2ce2eb 3720-2vc/_b
+cpath: /updates/3/kernel/current/PATCHES/patches/3rd-3rdparty-merge.patch
+copyroot: 3200 /updates/3
+
+id: c-3721.0-3200.r3721/1474
+type: file
+count: 0
+text: 3537 250 4801 22082 bc58fbebba24e624e259116b5eab3f55 f9fb5c61125be5a408a1bfee799a3f88adccbf7e 3720-2vc/_d
+cpath: /updates/3/kernel/current/PATCHES/patches/3rd-ndiswrapper-kernel-3.10-buildfix.patch
+copyroot: 3200 /updates/3
+
+id: e-3721.0-3200.r3721/1754
+type: file
+count: 0
+text: 3537 5064 125 1241 ee874b3244317bba1e31fa3245663194 bed691328b5a2d6806c0d7cb7808de66d7e4a65d 3720-2vc/_f
+cpath: /updates/3/kernel/current/PATCHES/patches/3rd-ndiswrapper-kernel-3.9-buildfix.patch
+copyroot: 3200 /updates/3
+
+id: g-3721.0-3200.r3721/2032
+type: file
+count: 0
+text: 3664 0 1131 4983 1e833451a06759c452a1744a3d070ef9 116f77b7272abb7fc822d4c3da55fbb20e697b0d 3720-2vc/_h
+cpath: /updates/3/kernel/current/PATCHES/patches/drm-nouveau-mc-fix-race-condition-between-constructor-and-request_irq.patch
+copyroot: 3200 /updates/3
+
+id: 5-379.0-3200.r3721/2342
+type: file
+pred: 5-379.0.r379/794
+count: 1
+text: 3408 134 138 1367 85de8da5e1229eeb74e2cbf731d9d8f4 8d82dfd4ad33987da91ff6b91463235ce715f062 3720-2vc/_i
+cpath: /updates/3/kernel/current/PATCHES/patches/firewire-ieee1394-module-aliases.patch
+copyroot: 3200 /updates/3
+
+id: j-3721.0-3200.r3721/2638
+type: file
+count: 0
+text: 3410 7565 2847 10461 79f65f76a0cb318e54b4f11469847d4d c13d33339448ef72f77b5da8edd9c3d1728515fa 3720-2vc/_k
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.10-modular.patch
+copyroot: 3200 /updates/3
+
+id: l-3721.0-3200.r3721/2903
+type: file
+count: 0
+text: 3410 10425 192388 821984 8a173ebaee7b4462d35205d434d841ee 01aae73d8feba5a90a546c7e84f3c37315e010dd 3720-2vc/_m
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.10.patch
+copyroot: 3200 /updates/3
+
+id: 5-2445.0-3200.r3721/3164
+type: file
+pred: 5-2445.0.r2701/1245
+count: 3
+text: 3408 295 1920 4799 5a9d6c0f89398399e4a201078075be78 5d95948b17f1c6f3dc12eb440d4b2b591afcbd25 3720-2vc/_n
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl01-vfs-add-i_op-dentry_open.patch
+copyroot: 3200 /updates/3
+
+id: 8-2445.0-3200.r3721/3466
+type: file
+pred: 8-2445.0.r2445/33203
+count: 1
+text: 3408 2228 758 1696 6918deef8d1674a06afb0680c0d5e746 cd79de6f258ade0e39b0b255d92ded22b08e06dd 3720-2vc/_o
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl02-vfs-export-do_splice_direct-to-modules.patch
+copyroot: 3200 /updates/3
+
+id: p-3721.0-3200.r3721/3783
+type: file
+count: 0
+text: 3408 2999 747 1540 3769bb6f4b70a2652b3feb25f550e307 155a9679d6ee90c0c59258ef665ab78b33b5c2aa 3720-2vc/_q
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl03-vfs-export-inode_permission-to-modules.patch
+copyroot: 3200 /updates/3
+
+id: r-3721.0-3200.r3721/4073
+type: file
+count: 0
+text: 3408 3759 950 1946 d128bab09cd6d9d1cbaa5a0e5ada0861 34158e2e3bafb75fe55e33f7c82b72a1bb780fed 3720-2vc/_s
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl04-vfs-introduce-clone_private_mount.patch
+copyroot: 3200 /updates/3
+
+id: t-3721.0-3200.r3721/4358
+type: file
+count: 0
+text: 3408 4722 15867 66175 037a8122ec37648ec1f9bf20c292a308 08f385100a5441d380b248c3c3497c3adc5bb547 3720-2vc/_u
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl05-overlay-filesystem.patch
+copyroot: 3200 /updates/3
+
+id: v-3721.0-3200.r3721/4631
+type: file
+count: 0
+text: 3408 20602 1417 3243 16a85f419f7e556fb7d31900abd80f33 af6fdb28364e2224c166984a096700850e385746 3720-2vc/_w
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl06-overlayfs-add-statfs-support.patch
+copyroot: 3200 /updates/3
+
+id: x-3721.0-3200.r3721/4913
+type: file
+count: 0
+text: 3408 22032 1549 3874 d140b109b71c70e6128a0ce14419de05 c9906d4d66f60fe2fadb431c8ce0ca7991af9a40 3720-2vc/_y
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl07-overlayfs-implement-show_options.patch
+copyroot: 3200 /updates/3
+
+id: z-3721.0-3200.r3721/5199
+type: file
+count: 0
+text: 3408 23594 3807 9540 0d4ff95cddf560f76cd5730fe7dd1cc0 18f670196f2eee9eb414567f7cad3eb0f42c7969 3720-2vc/_10
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl08-overlay-overlay-filesystem-documentation.patch
+copyroot: 3200 /updates/3
+
+id: 11-3721.0-3200.r3721/5494
+type: file
+count: 0
+text: 3408 27414 1265 2581 59154539155624237846eac21af6489a abe29243de46dde99e763b6153641cead313083b 3720-2vc/_12
+cpath: /updates/3/kernel/current/PATCHES/patches/fs-ovl09-fs-limit-filesystem-stacking-depth.patch
+copyroot: 3200 /updates/3
+
+id: 13-3721.0-3200.r3721/5784
+type: file
+count: 0
+text: 3679 0 1582 4188 0cb0faf154bd2fdca7743bdb60e5febf 1f0831b2e0ae4b6ed41feb0b4fdf6584f21584aa 3720-2vc/_14
+cpath: /updates/3/kernel/current/PATCHES/patches/gpu-drm-i915-Allow-disabling-of-eDP-BPP-overrides.patch
+copyroot: 3200 /updates/3
+
+id: 15-3721.0-3200.r3721/6076
+type: file
+count: 0
+text: 3679 1595 1351 3493 fbc3a43cf6a65420e552581ee3d5b917 9cd3e5e0083546a2f2d50e63ac32e599d9b4ce6b 3720-2vc/_16
+cpath: /updates/3/kernel/current/PATCHES/patches/gpu-drm-i915-i915.disable_pch_pwm-overrides-PCH_PWM_ENAB.patch
+copyroot: 3200 /updates/3
+
+id: 17-3721.0-3200.r3721/6378
+type: file
+count: 0
+text: 3680 0 2487 6744 f3a66c55246c5f322e5093d91c1373e5 21c3634776232ef2626f468730a978d78dd3d610 3720-2vc/_18
+cpath: /updates/3/kernel/current/PATCHES/patches/hid-Revert-Revert-HID-Fix-logitech-dj-missing-Unifying-device-issue.patch
+copyroot: 3200 /updates/3
+
+id: 19-3721.0-3200.r3721/6688
+type: file
+count: 0
+text: 3443 0 958 2164 dcd768813695461a471b69ed4a5c42b3 a72864a94ca7bb7cca9dc5f7b3b9fa1aea028569 3720-2vc/_1a
+cpath: /updates/3/kernel/current/PATCHES/patches/input-elantech-fix-for-newer-hardware-versions-v7.patch
+copyroot: 3200 /updates/3
+
+id: 1b-3721.0-3200.r3721/6979
+type: file
+count: 0
+text: 3665 0 1476 3955 c628ebc6272dd6efc140a322769c488f fc44079cae1ccb448a76d7a9a55070db08f78484 3720-2vc/_1c
+cpath: /updates/3/kernel/current/PATCHES/patches/input-elantech-fix-packet-check-for-v3-and-v4-hardwa.patch
+copyroot: 3200 /updates/3
+
+id: 1d-3721.0-3200.r3721/7274
+type: file
+count: 0
+text: 3665 1489 804 2276 516049ad2b9fddaf0dbcdd81c5be8944 14bdab0d03c76c0e01786f6939d02b20c333a053 3720-2vc/_1e
+cpath: /updates/3/kernel/current/PATCHES/patches/input-wacom-add-support-for-0x300-and-0x301.patch
+copyroot: 3200 /updates/3
+
+id: 1f-3721.0-3200.r3721/7562
+type: file
+count: 0
+text: 3665 2306 629 1244 9436b8c7d665165253f7bb628fbeab25 7a1d3dac0ecb61e1e858350a15273dcd1467ec2c 3720-2vc/_1g
+cpath: /updates/3/kernel/current/PATCHES/patches/input-xpad-add-signature-for-Razer-Onza-Classic-Edit.patch
+copyroot: 3200 /updates/3
+
+id: 1h-3721.0-3200.r3721/7859
+type: file
+count: 0
+text: 3664 1144 1437 3374 ebc741c69642d5b3e7c977a069402576 76d3ee5d40b2316efa96c55008fc33936a07ab24 3720-2vc/_1i
+cpath: /updates/3/kernel/current/PATCHES/patches/jfs-fix-readdir-cookie-incompatibility-with-nfsv4.patch
+copyroot: 3200 /updates/3
+
+id: 1j-3721.0-3200.r3721/8154
+type: file
+count: 0
+text: 3664 2594 1045 2155 65ac7f507b8dc37994b8bd3e2b6af467 94cb8105f7d7ac494217ff8bdefb26f3b6be16b5 3720-2vc/_1k
+cpath: /updates/3/kernel/current/PATCHES/patches/kernel-workqueue-cond_resched-after-processing-each-work-item.patch
+copyroot: 3200 /updates/3
+
+id: 1l-3721.0-3200.r3721/8461
+type: file
+count: 0
+text: 3617 0 1482 4087 93210d839beb29dac55a88da3287d1e6 2280b370457f27a1d13cc64a1e7b3b87a8355ad1 3720-2vc/_1m
+cpath: /updates/3/kernel/current/PATCHES/patches/net-mac80211-add-a-flag-to-indicate-CCK-support-for-HT-clients.patch
+copyroot: 3200 /updates/3
+
+id: 4i-51.0-3200.r3721/8766
+type: file
+pred: 4i-51.0.r2602/4696
+count: 7
+text: 3408 28692 97 7450 91272d50bd182159a467afc04a33b443 634e24eb5e2feae54cfa3425e06486ed1e293bcb 3720-2vc/_1n
+cpath: /updates/3/kernel/current/PATCHES/patches/net-netfilter-psd-mdv.patch
+copyroot: 3200 /updates/3
+
+id: 1o-3721.0-3200.r3721/9055
+type: file
+count: 0
+text: 3615 0 1518 3400 7fdd9bb26d7055829831370a8a1d6e85 07978819b9665f94b2860c5d6920d689b79409bf 3720-2vc/_1p
+cpath: /updates/3/kernel/current/PATCHES/patches/net-sched-psched_ratecfg_precompute-improvements.patch
+copyroot: 3200 /updates/3
+
+id: 1q-3721.0-3200.r3721/9346
+type: file
+count: 0
+text: 3615 1531 2868 7493 469ad313ceea42aaed6b9e342024cfd0 dc11f99b70a4af7c19a7fdc37a594d880f4035a0 3720-2vc/_1r
+cpath: /updates/3/kernel/current/PATCHES/patches/net-sched-restore-linklayer-atm-handling.patch
+copyroot: 3200 /updates/3
+
+id: 1s-3721.0-3200.r3721/9632
+type: file
+count: 0
+text: 3664 3652 931 1876 f4561fc93805a8ce1648be59cf6aaefa f43eb49d248c63de83a1c1a592ec84b48a924d8c 3720-2vc/_1t
+cpath: /updates/3/kernel/current/PATCHES/patches/net-sunrpc-Fix-memory-corruption-issue-on-32-bit-highmem-systems.patch
+copyroot: 3200 /updates/3
+
+id: 1u-3721.0-3200.r3721/9941
+type: file
+count: 0
+text: 3616 0 743 1413 43afeb52c2e92cef663a2d089dfbbb23 552b05a323e81e479696eced2fa0d73ddea0c01c 3720-2vc/_1v
+cpath: /updates/3/kernel/current/PATCHES/patches/net-wireless-ath-ath9k-Enable-PLL-fix-only-for-AR9340-AR9330.patch
+copyroot: 3200 /updates/3
+
+id: 1w-3721.0-3200.r3721/10243
+type: file
+count: 0
+text: 3444 0 1336 2865 13b046705930a7c4cef872d8f7111096 4b15d8c81456acf86833605c3e534f70fa7a0c61 3720-2vc/_1x
+cpath: /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-make-TX-seqno-validation-more-efficient.patch
+copyroot: 3200 /updates/3
+
+id: 1y-3721.0-3200.r3721/10547
+type: file
+count: 0
+text: 3445 1399 997 2327 1f2e3dc11e2be07198da94b4f0a4db45 f6dcd4ef082696f5c4a48cf96de07e58d65c0a3a 3720-2vc/_1z
+cpath: /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-mvm-support-BSS-only.patch
+copyroot: 3200 /updates/3
+
+id: 20-3721.0-3200.r3721/10834
+type: file
+count: 0
+text: 3444 1349 979 2117 2018c86ba3107062aeef301be52a46d0 8c9fdf3e4f6d829f6e040b6acfdefc7353383a28 3720-2vc/_21
+cpath: /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-pcie-dont-read-INTA-register-in-ICT-IRQ-handler.patch
+copyroot: 3200 /updates/3
+
+id: 5m-51.0-3200.r3721/11148
+type: file
+pred: 5m-51.0.r1920/17921
+count: 5
+text: 3408 28816 176 40719 03aec3e80c87cf5704ad01b4a16959f3 eec1c869d4751e0c7a5ff08fd10fe4bd91162f36 3720-2vc/_22
+cpath: /updates/3/kernel/current/PATCHES/patches/platform-x86-add-shuttle-wmi-driver.patch
+copyroot: 3200 /updates/3
+
+id: 23-3721.0-3200.r3721/11455
+type: file
+count: 0
+text: 3681 0 1027 3283 03fb1a6b4f5afd8a1f99341defb10978 d0192efa6b59dcdd88f853fa974b8ca74a1a68a1 3720-2vc/_24
+cpath: /updates/3/kernel/current/PATCHES/patches/scsi-pm80xx-fix-Adaptec-71605H-hang.patch
+copyroot: 3200 /updates/3
+
+id: 68-51.0-3200.r3721/11734
+type: file
+pred: 68-51.0-3200.r3387/2942
+count: 340
+text: 3681 1040 75 8439 327e30194ff8d41a7828b93b207419e5 c4aac01ed982163a6f90fdcef53420e33a3c6420 3720-2vc/_25
+cpath: /updates/3/kernel/current/PATCHES/patches/series
+copyroot: 3200 /updates/3
+
+PLAIN
+K 27
+3rd-3rdparty-1.0-tree.patch
+V 22
+file t-51.0.r51/731654
+K 24
+3rd-3rdparty-merge.patch
+V 27
+file w-51.0-3200.r3721/1194
+K 23
+3rd-acerhk-0.5.35.patch
+V 22
+file y-51.0.r51/732135
+K 32
+3rd-acerhk-2.6.36-buildfix.patch
+V 23
+file 10-51.0.r51/732376
+K 29
+3rd-acerhk-extra-cflags.patch
+V 23
+file 12-51.0.r51/732623
+K 47
+3rd-acerhk-fix-build-with-function-tracer.patch
+V 23
+file 14-51.0.r51/732868
+K 28
+3rd-acerhk-fix-include.patch
+V 21
+file 5-227.0.r227/534
+K 23
+3rd-acerhk-kbuild.patch
+V 23
+file 16-51.0.r51/733130
+K 37
+3rd-acerhk-proc_dir_entry-owner.patch
+V 23
+file 18-51.0.r51/733369
+K 24
+3rd-aes2501-kbuild.patch
+V 23
+file 1a-51.0.r51/733622
+K 21
+3rd-aes2501-r19.patch
+V 23
+file 1c-51.0.r51/733862
+K 32
+3rd-aes2501-rmmod-oops-fix.patch
+V 23
+file 1e-51.0.r51/734102
+K 30
+3rd-heci-2.6.36-buildfix.patch
+V 23
+file 1g-51.0.r51/734349
+K 23
+3rd-heci-3.2.0.24.patch
+V 23
+file 1i-51.0.r51/734595
+K 28
+3rd-heci-WARN-redefine.patch
+V 23
+file 1k-51.0.r51/734838
+K 32
+3rd-heci-drop-devinit-exit.patch
+V 24
+file 5-2725.0.r2725/2899
+K 26
+3rd-heci-use-sched.h.patch
+V 23
+file 1m-51.0.r51/735082
+K 26
+3rd-ndiswrapper-1.58.patch
+V 28
+file 1o-51.0-2883.r2883/5123
+K 29
+3rd-ndiswrapper-Kconfig.patch
+V 23
+file 1u-51.0.r51/736078
+K 40
+3rd-ndiswrapper-Makefile-build-fix.patch
+V 22
+file 1w-51.0.r2889/355
+K 42
+3rd-ndiswrapper-kernel-3.10-buildfix.patch
+V 29
+file c-3721.0-3200.r3721/1474
+K 41
+3rd-ndiswrapper-kernel-3.9-buildfix.patch
+V 29
+file e-3721.0-3200.r3721/1754
+K 22
+3rd-rfswitch-1.3.patch
+V 23
+file 20-51.0.r51/736841
+K 31
+3rd-rfswitch-3.0-buildfix.patch
+V 22
+file a-640.0.r640/4768
+K 28
+3rd-rfswitch-build-fix.patch
+V 23
+file 22-51.0.r51/737082
+K 21
+3rd-viahss-0.92.patch
+V 23
+file 24-51.0.r51/737326
+K 32
+3rd-viahss-2.6.35-buildfix.patch
+V 23
+file 26-51.0.r51/737564
+K 29
+3rd-viahss-3.0-buildfix.patch
+V 22
+file c-640.0.r640/5011
+K 23
+3rd-viahss-config.patch
+V 23
+file 28-51.0.r51/737812
+K 31
+3rd-viahss-module-license.patch
+V 23
+file 2a-51.0.r51/738050
+K 15
+3rdparty.series
+V 23
+file 2c-51.0.r51/738296
+K 39
+acpi-CLEVO-M360S-disable_acpi_irq.patch
+V 23
+file 2e-51.0.r51/738526
+K 39
+acpi-processor-M720SR-limit-to-C2.patch
+V 23
+file 2m-51.0.r51/739530
+K 65
+ata-prefer-ata-drivers-over-ide-drivers-when-both-are-built.patch
+V 28
+file 5-1677.0-2603.r2603/193
+K 39
+block-floppy-disable-pnp-modalias.patch
+V 24
+file 5-1781.0.r1783/1769
+K 46
+bluetooth-hci_usb-disable-isoc-transfers.patch
+V 23
+file 2q-51.0.r51/740052
+K 31
+char-agp-intel-new-Q57-id.patch
+V 22
+file 2s-51.0.r2701/976
+K 21
+dm-raid-aliases.patch
+V 22
+file 8-301.0.r301/1768
+K 75
+drm-nouveau-mc-fix-race-condition-between-constructor-and-request_irq.patch
+V 29
+file g-3721.0-3200.r3721/2032
+K 38
+firewire-ieee1394-module-aliases.patch
+V 28
+file 5-379.0-3200.r3721/2342
+K 26
+fs-aufs-3.10-modular.patch
+V 29
+file j-3721.0-3200.r3721/2638
+K 18
+fs-aufs-3.10.patch
+V 29
+file l-3721.0-3200.r3721/2903
+K 39
+fs-ovl01-vfs-add-i_op-dentry_open.patch
+V 29
+file 5-2445.0-3200.r3721/3164
+K 53
+fs-ovl02-vfs-export-do_splice_direct-to-modules.patch
+V 29
+file 8-2445.0-3200.r3721/3466
+K 53
+fs-ovl03-vfs-export-inode_permission-to-modules.patch
+V 29
+file p-3721.0-3200.r3721/3783
+K 48
+fs-ovl04-vfs-introduce-clone_private_mount.patch
+V 29
+file r-3721.0-3200.r3721/4073
+K 33
+fs-ovl05-overlay-filesystem.patch
+V 29
+file t-3721.0-3200.r3721/4358
+K 43
+fs-ovl06-overlayfs-add-statfs-support.patch
+V 29
+file v-3721.0-3200.r3721/4631
+K 47
+fs-ovl07-overlayfs-implement-show_options.patch
+V 29
+file x-3721.0-3200.r3721/4913
+K 55
+fs-ovl08-overlay-overlay-filesystem-documentation.patch
+V 29
+file z-3721.0-3200.r3721/5199
+K 49
+fs-ovl09-fs-limit-filesystem-stacking-depth.patch
+V 30
+file 11-3721.0-3200.r3721/5494
+K 54
+gpu-drm-cirrus-correct-register-values-for-16bpp.patch
+V 23
+file 5-3146.0.r3146/750
+K 55
+gpu-drm-i915-Allow-disabling-of-eDP-BPP-overrides.patch
+V 30
+file 13-3721.0-3200.r3721/5784
+K 62
+gpu-drm-i915-i915.disable_pch_pwm-overrides-PCH_PWM_ENAB.patch
+V 30
+file 15-3721.0-3200.r3721/6076
+K 27
+gpu-drm-mach64-2.6.31.patch
+V 23
+file 34-51.0.r51/741801
+K 36
+gpu-drm-mach64-2.6.36-buildfix.patch
+V 23
+file 36-51.0.r51/742045
+K 36
+gpu-drm-mach64-2.6.37-buildfix.patch
+V 23
+file 38-51.0.r51/742297
+K 33
+gpu-drm-mach64-3.0-buildfix.patch
+V 22
+file e-640.0.r640/5253
+K 33
+gpu-drm-mach64-3.3-buildfix.patch
+V 23
+file 5-1607.0.r1607/687
+K 33
+gpu-drm-mach64-3.6-buildfix.patch
+V 24
+file 5-2448.0.r2448/1050
+K 33
+gpu-drm-mach64-3.7-buildfix.patch
+V 24
+file 8-2609.0.r2609/2354
+K 46
+gpu-drm-mach64-fix-for-changed-drm_ioctl.patch
+V 23
+file 3a-51.0.r51/742548
+K 50
+gpu-drm-mach64-fix-for-changed-drm_pci_alloc.patch
+V 23
+file 3c-51.0.r51/742809
+K 26
+gpu-drm-mach64-fixes.patch
+V 23
+file 3e-51.0.r51/743074
+K 37
+gpu-drm-mach64-include-module.h.patch
+V 23
+file 5-1253.0.r1253/441
+K 20
+gpu-drm-mach64.patch
+V 23
+file 3g-51.0.r1249/3595
+K 73
+hid-Revert-Revert-HID-Fix-logitech-dj-missing-Unifying-device-issue.patch
+V 30
+file 17-3721.0-3200.r3721/6378
+K 42
+hid-usbhid-IBM-BladeCenterHS20-quirk.patch
+V 22
+file 3i-51.0.r877/2281
+K 25
+ide-pci-sis5513-965.patch
+V 23
+file 3k-51.0.r51/743815
+K 35
+include-kbuild-export-pci_ids.patch
+V 23
+file 3m-51.0.r2602/3499
+K 55
+input-elantech-fix-for-newer-hardware-versions-v7.patch
+V 30
+file 19-3721.0-3200.r3721/6688
+K 58
+input-elantech-fix-packet-check-for-v3-and-v4-hardwa.patch
+V 30
+file 1b-3721.0-3200.r3721/6979
+K 49
+input-wacom-add-support-for-0x300-and-0x301.patch
+V 30
+file 1d-3721.0-3200.r3721/7274
+K 58
+input-xpad-add-signature-for-Razer-Onza-Classic-Edit.patch
+V 30
+file 1f-3721.0-3200.r3721/7562
+K 55
+jfs-fix-readdir-cookie-incompatibility-with-nfsv4.patch
+V 30
+file 1h-3721.0-3200.r3721/7859
+K 67
+kernel-workqueue-cond_resched-after-processing-each-work-item.patch
+V 30
+file 1j-3721.0-3200.r3721/8154
+K 43
+media-usb-pwc-lie-in-proc-usb-devices.patch
+V 28
+file 40-51.0-2602.r2602/3776
+K 20
+mpt-vmware-fix.patch
+V 23
+file 44-51.0.r51/746459
+K 48
+net-ipv4-netfilter-ipt_IFWLOG-3.6-buildfix.patch
+V 24
+file 8-2448.0.r2448/1298
+K 68
+net-mac80211-add-a-flag-to-indicate-CCK-support-for-HT-clients.patch
+V 30
+file 1l-3721.0-3200.r3721/8461
+K 42
+net-netfilter-IFWLOG-2.6.35-buildfix.patch
+V 22
+file 46-51.0.r1122/319
+K 42
+net-netfilter-IFWLOG-2.6.37-buildfix.patch
+V 23
+file 48-51.0.r51/746952
+K 39
+net-netfilter-IFWLOG-3.7-buildfix.patch
+V 24
+file c-2609.0.r2609/2865
+K 30
+net-netfilter-IFWLOG-mdv.patch
+V 23
+file 4a-51.0.r2602/4152
+K 26
+net-netfilter-IFWLOG.patch
+V 23
+file 4c-51.0.r2602/4426
+K 39
+net-netfilter-psd-2.6.35-buildfix.patch
+V 23
+file 4g-51.0.r51/747948
+K 27
+net-netfilter-psd-mdv.patch
+V 28
+file 4i-51.0-3200.r3721/8766
+K 23
+net-netfilter-psd.patch
+V 23
+file 4k-51.0.r1600/5240
+K 54
+net-sched-psched_ratecfg_precompute-improvements.patch
+V 30
+file 1o-3721.0-3200.r3721/9055
+K 46
+net-sched-restore-linklayer-atm-handling.patch
+V 30
+file 1q-3721.0-3200.r3721/9346
+K 31
+net-sis190-fix-list-usage.patch
+V 23
+file 4m-51.0.r1249/4398
+K 70
+net-sunrpc-Fix-memory-corruption-issue-on-32-bit-highmem-systems.patch
+V 30
+file 1s-3721.0-3200.r3721/9632
+K 66
+net-wireless-ath-ath9k-Enable-PLL-fix-only-for-AR9340-AR9330.patch
+V 30
+file 1u-3721.0-3200.r3721/9941
+K 48
+net-wireless-bcma-add-support-for-BCM43142.patch
+V 29
+file 6-3342.0-3200.r3342/3597
+K 66
+net-wireless-iwlwifi-make-TX-seqno-validation-more-efficient.patch
+V 31
+file 1w-3721.0-3200.r3721/10243
+K 47
+net-wireless-iwlwifi-mvm-support-BSS-only.patch
+V 31
+file 1y-3721.0-3200.r3721/10547
+K 74
+net-wireless-iwlwifi-pcie-dont-read-INTA-register-in-ICT-IRQ-handler.patch
+V 31
+file 20-3721.0-3200.r3721/10834
+K 52
+pci-add-ALI-M5229-ide-compatibility-mode-quirk.patch
+V 23
+file 5e-51.0.r51/752540
+K 28
+pci-pciprobe-CardBusNo.patch
+V 23
+file 5g-51.0.r2442/1110
+K 34
+pci-quirks-drop-devinit-exit.patch
+V 24
+file c-2725.0.r2725/3663
+K 41
+platform-x86-add-shuttle-wmi-driver.patch
+V 29
+file 5m-51.0-3200.r3721/11148
+K 48
+platform-x86-shuttle-wmi-drop-devinit-exit.patch
+V 24
+file e-2725.0.r2725/3915
+K 27
+pnp-isapnp-async-init.patch
+V 23
+file 5o-51.0.r51/753856
+K 32
+pnp-pnpbios-off-by-default.patch
+V 23
+file 5q-51.0.r51/754099
+K 34
+scsi-megaraid-new-sysfs-name.patch
+V 23
+file 5s-51.0.r2701/1528
+K 41
+scsi-pm80xx-fix-Adaptec-71605H-hang.patch
+V 31
+file 23-3721.0-3200.r3721/11455
+K 23
+scsi-ppscsi-2.6.2.patch
+V 23
+file 5u-51.0.r51/754595
+K 30
+scsi-ppscsi-3.0-buildfix.patch
+V 22
+file g-640.0.r640/5500
+K 28
+scsi-ppscsi-mdvbz45393.patch
+V 23
+file 5w-51.0.r51/754838
+K 34
+scsi-ppscsi-sg-helper-update.patch
+V 23
+file 5y-51.0.r51/755081
+K 45
+scsi-ppscsi-update-for-scsi_data_buffer.patch
+V 23
+file 60-51.0.r51/755331
+K 23
+scsi-ppscsi_fixes.patch
+V 23
+file 62-51.0.r51/755593
+K 6
+series
+V 29
+file 68-51.0-3200.r3721/11734
+K 32
+smack-unionfs-deadlock-fix.patch
+V 23
+file 6a-51.0.r51/756543
+K 40
+sound-alsa-hda-ad1884a-hp-dc-model.patch
+V 21
+file 6c-51.0.r327/815
+K 33
+sound-bluetooth-SCO-support.patch
+V 23
+file 6g-51.0.r51/757313
+K 53
+usb-storage-unusual_devs-add-id-2.6.37-buildfix.patch
+V 23
+file 6i-51.0.r2602/5215
+K 37
+usb-storage-unusual_devs-add-id.patch
+V 23
+file 6k-51.0.r2602/5511
+K 23
+video-mageia-logo.patch
+V 22
+file a-177.0.r177/7680
+K 35
+x86-boot-video-80x25-if-break.patch
+V 23
+file 6q-51.0.r51/758622
+K 36
+x86-cpufreq-speedstep-dothan-3.patch
+V 22
+file 6s-51.0.r623/4552
+K 38
+x86-default_poweroff_up_machines.patch
+V 23
+file 6u-51.0.r1600/5753
+K 64
+x86-increase-default-minimum-vmalloc-area-by-64MB-to-192MB.patch
+V 21
+file 5-405.0.r405/535
+K 61
+x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+V 22
+file 6w-51.0.r623/4827
+K 46
+x86-pci-toshiba-equium-a60-assign-busses.patch
+V 22
+file 6y-51.0.r877/3665
+END
+ENDREP
+id: s-51.0-3200.r3721/21473
+type: dir
+pred: s-51.0-3200.r3387/17158
+count: 365
+text: 3721 12009 9451 0 72f052cc05f6e61243bbf4e3958d051b
+cpath: /updates/3/kernel/current/PATCHES/patches
+copyroot: 3200 /updates/3
+
+id: 74-51.0-3200.r3721/21685
+type: file
+pred: 74-51.0.r2937/18247
+count: 28
+text: 3666 21924 76 14858 f7eb5ddc022c223382215ecddc957f80 885f93fd919592ad1f9762a6bd382caedaa2afad 3720-2vc/_27
+props: 28 17158 30 0 4160c74de5f4e580dc15660c798ff9fc
+cpath: /updates/3/kernel/current/PATCHES/scripts/create_configs
+copyroot: 3200 /updates/3
+
+PLAIN
+K 13
+apply_patches
+V 23
+file 71-51.0.r51/768217
+K 14
+create_configs
+V 29
+file 74-51.0-3200.r3721/21685
+K 17
+create_quilt_tree
+V 23
+file 76-51.0.r51/768787
+K 14
+kcooker-rebase
+V 23
+file 78-51.0.r51/769074
+K 5
+kdiff
+V 23
+file 7a-51.0.r51/769357
+K 14
+svn-tag-kernel
+V 23
+file 7c-51.0.r51/769633
+K 14
+update_configs
+V 23
+file 7e-51.0.r51/769916
+END
+ENDREP
+id: 70-51.0-3200.r3721/22377
+type: dir
+pred: 70-51.0.r2937/18912
+count: 28
+text: 3721 22019 345 0 cdcf6f355556e812065ba2048a4a2230
+cpath: /updates/3/kernel/current/PATCHES/scripts
+copyroot: 3200 /updates/3
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 29
+dir 4-210.0-3200.r3375/199102
+K 7
+configs
+V 25
+dir i-51.0-3200.r3721/988
+K 7
+patches
+V 27
+dir s-51.0-3200.r3721/21473
+K 5
+queue
+V 26
+dir 6-627.0-3200.r3379/878
+K 7
+scripts
+V 28
+dir 70-51.0-3200.r3721/22377
+END
+ENDREP
+id: 6-51.0-3200.r3721/22869
+type: dir
+pred: 6-51.0-3200.r3387/17651
+count: 438
+text: 3721 22584 272 0 b77dd7bc6d4a5c3e4c849b321390399d
+cpath: /updates/3/kernel/current/PATCHES
+copyroot: 3200 /updates/3
+
+id: 7-11.0-3200.r3721/23072
+type: file
+pred: 7-11.0.r2705/10301
+count: 8
+text: 3408 29398 283 4461 a87537c634dce9645f18d0b98e469159 3d73e3369385c59d8c2d6308fe60c0e4cfe71465 3720-2vc/_29
+cpath: /updates/3/kernel/current/SOURCES/disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+copyroot: 3200 /updates/3
+
+id: 2a-3721.0-3200.r3721/23387
+type: file
+count: 0
+text: 3392 0 507 490 6604a112eb2f97777ab01b55b9c05c5a 3d28ba603aca8015c1f5a3eca799fc849a576ac8 3720-2vc/_2b
+cpath: /updates/3/kernel/current/SOURCES/linux-3.10.tar.sign
+copyroot: 3200 /updates/3
+
+id: 2c-3721.0-3200.r3721/23634
+type: file
+count: 0
+text: 3657 0 686 836 9611d7ccbd8187fed3413dcca04c0020 07abd5f3e0f09585eccf5a6630deb707f6a4e36e 3720-2vc/_2d
+cpath: /updates/3/kernel/current/SOURCES/patch-3.10.10.sign
+copyroot: 3200 /updates/3
+
+id: b-11.0-3200.r3721/23880
+type: file
+pred: b-11.0-3200.r3388/427
+count: 218
+text: 3682 335 77 187 4ba1bfd84ae224c6f2565f02258560e6 cd267c852bb4350f6c5e37b7b40db2a906069dc4 3720-2vc/_2e
+cpath: /updates/3/kernel/current/SOURCES/sha1.lst
+copyroot: 3200 /updates/3
+
+PLAIN
+K 21
+README.kernel-sources
+V 21
+file 4-11.0.r11/10761
+K 15
+cpupower.config
+V 22
+file 4-1322.0.r2345/51
+K 16
+cpupower.service
+V 23
+file 7-1322.0.r1322/725
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 28
+file 7-11.0-3200.r3721/23072
+K 19
+linux-3.10.tar.sign
+V 31
+file 2a-3721.0-3200.r3721/23387
+K 18
+patch-3.10.10.sign
+V 31
+file 2c-3721.0-3200.r3721/23634
+K 8
+sha1.lst
+V 28
+file b-11.0-3200.r3721/23880
+END
+ENDREP
+id: 4-6.0-3200.r3721/24585
+type: dir
+pred: 4-6.0-3200.r3388/1166
+count: 255
+text: 3721 24144 428 0 53218e75e37f2a747d52e1bd3994d9c6
+cpath: /updates/3/kernel/current/SOURCES
+copyroot: 3200 /updates/3
+
+id: d-11.0-3200.r3721/24785
+type: file
+pred: d-11.0-3200.r3375/215128
+count: 230
+text: 3682 435 27 41916 1c45794ea9f2d19cf2406c7342841cd2 40add1af31fefe837ace2eedbc5456608fdb3ef7 3720-2vc/_2g
+cpath: /updates/3/kernel/current/SPECS/kernel.spec
+copyroot: 3200 /updates/3
+
+PLAIN
+K 11
+kernel.spec
+V 28
+file d-11.0-3200.r3721/24785
+END
+ENDREP
+id: 6-6.0-3200.r3721/25123
+type: dir
+pred: 6-6.0-3200.r3375/215470
+count: 231
+text: 3721 25055 55 0 32c8390bab4853a41afc1cd23a6cc303
+cpath: /updates/3/kernel/current/SPECS
+copyroot: 3200 /updates/3
+
+PLAIN
+K 8
+Makefile
+V 26
+file 3-51.0-3200.r3319/735
+K 7
+PATCHES
+V 27
+dir 6-51.0-3200.r3721/22869
+K 7
+SOURCES
+V 26
+dir 4-6.0-3200.r3721/24585
+K 5
+SPECS
+V 26
+dir 6-6.0-3200.r3721/25123
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0-3200.r3721/25563
+type: dir
+pred: 2-6.0-3200.r3388/1606
+count: 751
+text: 3721 25322 228 0 aa70af6a4ad7276ac5c3237e9520fc12
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /updates/3/kernel/current
+copyroot: 3200 /updates/3
+
+PLAIN
+K 7
+current
+V 26
+dir 2-6.0-3200.r3721/25563
+K 8
+pristine
+V 22
+dir 2-6.0-3198.r3198/0
+K 8
+releases
+V 21
+dir 2-14.0.r3199/2985
+END
+ENDREP
+id: 1-5.0-3200.r3721/25951
+type: dir
+pred: 1-5.0-3200.r3388/1992
+count: 1159
+text: 3721 25809 129 0 e8e553bf9a9d90429923d703ba999873
+cpath: /updates/3/kernel
+copyroot: 3200 /updates/3
+
+PLAIN
+K 5
+glibc
+V 25
+dir 1-7.0-3200.r3708/5525
+K 6
+kernel
+V 26
+dir 1-5.0-3200.r3721/25951
+K 12
+kernel-linus
+V 25
+dir 1-2.0-3200.r3389/3630
+K 10
+kernel-tmb
+V 27
+dir 1-149.0-3200.r3390/6168
+K 7
+systemd
+V 27
+dir 1-40.0-3200.r3714/18222
+END
+ENDREP
+id: 0-1.0-3200.r3721/26380
+type: dir
+pred: 0-1.0-3200.r3714/18647
+count: 2953
+text: 3721 26136 231 0 b31ce5889236c7c533edf962ad8cd176
+cpath: /updates/3
+copyroot: 3200 /updates/3
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1468/2339
+K 1
+2
+V 25
+dir 0-1.0-1912.r3716/1634
+K 1
+3
+V 26
+dir 0-1.0-3200.r3721/26380
+K 7
+infra_1
+V 24
+dir 0-1.0-541.r3268/2371
+END
+ENDREP
+id: 0-539.0.r3721/26729
+type: dir
+pred: 0-539.0.r3716/1980
+count: 385
+text: 3721 26559 157 0 37d2170f174d706f3db1c8bd25662c9b
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3720/2104
+K 7
+updates
+V 23
+dir 0-539.0.r3721/26729
+END
+ENDREP
+id: 0.0.r3721/26983
+type: dir
+pred: 0.0.r3720/2352
+count: 3721
+text: 3721 26886 84 0 aadd27791ddcd38c45f0e7bee6bd93ee
+cpath: /
+copyroot: 0 /
+
+5-307.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/configs/arm.config
+
+j-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/configs/i386.config
+
+q-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/configs/x86_64.config
+
+w-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/3rd-3rdparty-merge.patch
+
+_c.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/3rd-ndiswrapper-kernel-3.10-buildfix.patch
+
+_e.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/3rd-ndiswrapper-kernel-3.9-buildfix.patch
+
+6-3320.0-3200.r3320/1914 delete-file false false /updates/3/kernel/current/PATCHES/patches/acpi-resources-call-acpi_get_override_irq-only-for-legacy-irq-resources.patch
+
+5-3011.0-3026.r3026/170 delete-file false false /updates/3/kernel/current/PATCHES/patches/atm-he-fix-bad-udelay-usage.patch
+
+6-3380.0-3200.r3380/8176 delete-file false false /updates/3/kernel/current/PATCHES/patches/crypto-algboss-hold-ref-count-on-larval.patch
+
+_g.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/drm-nouveau-mc-fix-race-condition-between-constructor-and-request_irq.patch
+
+5-379.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/firewire-ieee1394-module-aliases.patch
+
+_j.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.10-modular.patch
+
+_l.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.10.patch
+
+b-3375.0-3200.r3375/200546 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.8-modular.patch
+
+e-3375.0-3200.r3375/200812 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-aufs-3.8.patch
+
+5-2884.0.r2884/2068 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-btrfs-git-stable-fixes.patch
+
+9-3380.0-3200.r3380/8456 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-exec-perf-disable-monitoring-on-setuid-processes-for-regular-users.patch
+
+5-2445.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl01-vfs-add-i_op-dentry_open.patch
+
+8-2445.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl02-vfs-export-do_splice_direct-to-modules.patch
+
+_p.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl03-vfs-export-inode_permission-to-modules.patch
+
+a-2445.0.r2445/33475 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl03-vfs-introduce-clone_private_mount.patch
+
+c-2445.0.r2759/1751 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl04-overlay-filesystem.patch
+
+_r.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl04-vfs-introduce-clone_private_mount.patch
+
+_t.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl05-overlay-filesystem.patch
+
+e-2445.0.r2445/33999 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl05-overlayfs-add-statfs-support.patch
+
+_v.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl06-overlayfs-add-statfs-support.patch
+
+g-2445.0.r2445/34264 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl06-overlayfs-implement-show_options.patch
+
+i-2445.0.r2445/34533 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl07-overlay-overlay-filesystem-documentation.patch
+
+_x.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl07-overlayfs-implement-show_options.patch
+
+k-2445.0.r2445/34811 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl08-fs-limit-filesystem-stacking-depth.patch
+
+_z.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl08-overlay-overlay-filesystem-documentation.patch
+
+_11.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/fs-ovl09-fs-limit-filesystem-stacking-depth.patch
+
+m-2445.0.r2445/35082 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl09-overlayfs-fix-possible-leak-in-ovl_new_inode.patch
+
+o-2445.0.r2445/35361 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl10-overlayfs-create-new-inode-in-ovl_link.patch
+
+q-2445.0.r2445/35636 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl11-vfs-export-__inode_permission-to-modules.patch
+
+s-2445.0.r2445/35912 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl12-ovl-switch-to-__inode_permission.patch
+
+u-2445.0.r2445/36180 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ovl13-overlayfs-copy-up-i_uid-i_gid-from-the-underlying-in.patch
+
+b-3380.0-3200.r3380/8768 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ubifs-fix-a-horrid-bug.patch
+
+d-3380.0-3200.r3380/9037 delete-file false false /updates/3/kernel/current/PATCHES/patches/fs-ubifs-prepare-to-fix-a-horrid-bug.patch
+
+_13.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/gpu-drm-i915-Allow-disabling-of-eDP-BPP-overrides.patch
+
+_15.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/gpu-drm-i915-i915.disable_pch_pwm-overrides-PCH_PWM_ENAB.patch
+
+_17.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/hid-Revert-Revert-HID-Fix-logitech-dj-missing-Unifying-device-issue.patch
+
+a-2819.0.r2819/4421 delete-file false false /updates/3/kernel/current/PATCHES/patches/i2c-busses-i2c-i801-Add-Device-IDs-for-Intel-Wellsburg-PCH.patch
+
+5-3054.0.r3054/3466 delete-file false false /updates/3/kernel/current/PATCHES/patches/idle-intel_idle-additional-Haswell-CPU-id.patch
+
+8-3054.0.r3054/3728 delete-file false false /updates/3/kernel/current/PATCHES/patches/idle-intel_idle-stop-using-driver_data-for-static-flags.patch
+
+a-3054.0.r3054/4008 delete-file false false /updates/3/kernel/current/PATCHES/patches/idle-intel_idle-support-Haswell.patch
+
+5-3170.0.r3170/28062 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-add-Dolphin-V1-touchpad-support.patch
+
+8-3170.0.r3170/28328 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-add-support-for-Rushmore-touchpads.patch
+
+a-3170.0.r3170/28600 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-copy-model-info-into-alps_data-struct.patch
+
+c-3170.0.r3170/28876 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-document-the-alps.h-data-structures.patch
+
+e-3170.0.r3170/29149 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-enable-trackstick-on-Rushmore-touchpads.patch
+
+g-3170.0.r3170/29426 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-fix-command-mode-check.patch
+
+i-3170.0.r3170/29686 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-introduce-helper-function-for-repeated-co.patch
+
+k-3170.0.r3170/29966 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-make-the-V3-packet-field-decoder-pluggabl.patch
+
+m-3170.0.r3170/30246 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-move-addr-nibble-_command-settings-into-a.patch
+
+o-3170.0.r3170/30525 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-move-alps_get_model-down-below-hw_init-co.patch
+
+q-3170.0.r3170/30805 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-move-pixel-and-bitmap-info-into-alps_data.patch
+
+s-3170.0.r3170/31085 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-remove-unused-argument-to-alps_enter_comm.patch
+
+u-3170.0.r3170/31365 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-rework-detection-of-Pinnacle-AGx-touchpad.patch
+
+w-3170.0.r3170/31645 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-rework-detection-sequence.patch
+
+y-3170.0.r3170/31909 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-ALPS-use-function-pointers-for-different-proto.patch
+
+9-3166.0.r3166/8748 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-add-driver-for-Cypress-APA-I2C-Trackpad.patch
+
+9-2797.0-3165.r3165/101 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-add-support-for-Cypress-PS2-Trackpads.patch
+
+5-3167.0.r3167/3378 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-cyapa-add-support-for-smbus-protocol.patch
+
+5-3168.0.r3168/1142 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-cypress_ps2-fix-trackpad-found-in-Dell-XPS12.patch
+
+_19.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/input-elantech-fix-for-newer-hardware-versions-v7.patch
+
+_1b.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/input-elantech-fix-packet-check-for-v3-and-v4-hardwa.patch
+
+c-2797.1-3165.r3165/493 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-increase-struct-ps2dev-cmdbuf-to-8-bytes.patch
+
+5-3169.0.r3169/2552 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-synaptics-fix-1-3-contact-transition-reporting.patch
+
+8-3169.0.r3169/2827 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-synaptics-initialize-pointer-emulation-usage.patch
+
+5-3171.0.r3171/4898 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-DTH2242-Grip-Pen-id-was-off-by-one-bit.patch
+
+8-3171.0.r3171/5169 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-add-support-for-0x10d.patch
+
+_1d.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/input-wacom-add-support-for-0x300-and-0x301.patch
+
+a-3171.0.r3171/5426 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-add-support-for-DTH-2242.patch
+
+c-3171.0.r3171/5688 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-correct-reported-resolution-for-Intuos4-.patch
+
+e-3171.0.r3171/5965 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-fix-can-not-retrieve-extra-class-desc-24HDT.patch
+
+g-3171.0.r3171/6245 delete-file false false /updates/3/kernel/current/PATCHES/patches/input-wacom-fix-can-not-retrieve-extra-class-desc-DTH2242.patch
+
+_1f.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/input-xpad-add-signature-for-Razer-Onza-Classic-Edit.patch
+
+_1h.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/jfs-fix-readdir-cookie-incompatibility-with-nfsv4.patch
+
+_1j.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/kernel-workqueue-cond_resched-after-processing-each-work-item.patch
+
+6-3387.0-3200.r3387/1775 delete-file false false /updates/3/kernel/current/PATCHES/patches/md-raid10-fix-two-bugs-affecting-RAID10-reshape.patch
+
+c-2819.0.r2819/4705 delete-file false false /updates/3/kernel/current/PATCHES/patches/mfd-lpc_ich-Add-Device-IDs-for-Intel-Wellsburg-PCH.patch
+
+5-3135.0.r3135/66375 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ethernet-atheros-alx-BigFoot-e2200.patch
+
+8-3135.0.r3135/66636 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ethernet-atheros-alx-Kconfig.patch
+
+6-3235.0-3200.r3235/607 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ethernet-atheros-alx-PCI_DEV_FLAGS_MSI_INTX_DISABLE_BUG.patch
+
+a-3135.0.r3135/66893 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ethernet-atheros-alx.patch
+
+9-3387.0-3200.r3387/2062 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ipv6-ip6_sk_dst_check-must-not-assume-ipv6-dst.patch
+
+f-3380.0-3200.r3380/9317 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-ipv6-netfilter-nf_conntrack_ipv6-plug-sk_buff-leak-in-fragment-handling.patch
+
+b-3387.0-3200.r3387/2352 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-key-af_key-fix-info-leaks-in-notify-messages.patch
+
+d-3387.0-3200.r3387/2642 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-key-af_key-initialize-satype-in-key_notify_policy_flush.patch
+
+_1l.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-mac80211-add-a-flag-to-indicate-CCK-support-for-HT-clients.patch
+
+4i-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/net-netfilter-psd-mdv.patch
+
+_1o.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-sched-psched_ratecfg_precompute-improvements.patch
+
+_1q.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-sched-restore-linklayer-atm-handling.patch
+
+_1s.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-sunrpc-Fix-memory-corruption-issue-on-32-bit-highmem-systems.patch
+
+h-3369.0-3200.r3369/4936 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-tg3-avoid-delay-during-mmio-access.patch
+
+5-2926.0.r2926/5727 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-usb-asix-ax88772_unbind-can-be-static.patch
+
+8-2926.0.r2926/5989 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-usb-asix-handle-packets-crossing-URB-boundaries.patch
+
+a-2926.0.r2926/6265 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-usb-asix-init-ASIX-AX88772B-MAC-from-EEPROM.patch
+
+c-2926.0.r2926/6538 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-usb-asix_devices-Add-USBNET-HG20F9-ethernet-dongle.patch
+
+9-2927.0.r2927/24587 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-usb-ax88179_178a-ASIX-AX88179_178A-USB-3.0_2.0-to-gigabit-ethernet-adapter-driver.patch
+
+_1u.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-wireless-ath-ath9k-Enable-PLL-fix-only-for-AR9340-AR9330.patch
+
+5-3145.0.r3145/4781 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-wireless-ath-carl9170-fix-frame-drop-and-WARN-due-to-minstrel_ht-change.patch
+
+8-3145.0.r3145/5079 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-wireless-ath-carl9170-remove-fast-channel-change-feature.patch
+
+5-2799.0.r2799/581 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-wireless-ath9k_rx_dma_stop_check.patch
+
+_1w.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-make-TX-seqno-validation-more-efficient.patch
+
+_1y.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-mvm-support-BSS-only.patch
+
+_20.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/net-wireless-iwlwifi-pcie-dont-read-INTA-register-in-ICT-IRQ-handler.patch
+
+6-3327.0-3368.r3368/1140 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-wireless-rtlwifi-rtl8192cu-fix-problem-in-connecting-to-wep-or-wpa-1-networks.patch
+
+6-3333.0-3200.r3333/862 delete-file false false /updates/3/kernel/current/PATCHES/patches/net-wireless-rtlwifi-rtl8723ae-fix-typo-in-firmware-names.patch
+
+5m-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/platform-x86-add-shuttle-wmi-driver.patch
+
+5-3193.0.r3193/1855 delete-file false false /updates/3/kernel/current/PATCHES/patches/revert-drm-i915-set-cpt-fdi-rx-polarity-bits-based-on-vbt.patch
+
+_23.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/PATCHES/patches/scsi-pm80xx-fix-Adaptec-71605H-hang.patch
+
+68-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/patches/series
+
+7-3029.0.r3029/1847 delete-file false false /updates/3/kernel/current/PATCHES/patches/sound-ALSA-usb-Work-around-CM6631-sample-rate-change-bug.patch
+
+f-2819.0.r2819/5231 delete-file false false /updates/3/kernel/current/PATCHES/patches/sound-pci-hda-hda_intel-Add-Device-IDs-for-Intel-Wellsburg-PCH.patch
+
+7-2775.0.r2775/2399 delete-file false false /updates/3/kernel/current/PATCHES/patches/tools-perf-python-Fix-breakage-introduced-by-the-test_attr-infrastructure.patch
+
+8-3367.0-3200.r3367/969 delete-file false false /updates/3/kernel/current/PATCHES/patches/x86-iommu-fix-compile-warnings-with-forward-declarations.patch
+
+8-3334.0-3366.r3366/1467 delete-file false false /updates/3/kernel/current/PATCHES/patches/x86-iommu-vt-d-add-quirk-for-broken-interrupt-remapping-on-55xx-chipsets.patch
+
+8-3324.0-3200.r3324/3087 delete-file false false /updates/3/kernel/current/PATCHES/patches/x86-mtrr-fix-original-mtrr-range-get-for-mtrr_cleanup.patch
+
+74-51.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/PATCHES/scripts/create_configs
+
+7-11.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/SOURCES/disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+
+_2a.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/SOURCES/linux-3.10.tar.sign
+
+b-2874.0.r2874/11228 delete-file false false /updates/3/kernel/current/SOURCES/linux-3.8.tar.sign
+
+_2c.0-3200.t3720-2vc add-file true false /updates/3/kernel/current/SOURCES/patch-3.10.10.sign
+
+8-3310.0-3374.r3388/101 delete-file false false /updates/3/kernel/current/SOURCES/patch-3.8.13.4.patch
+
+7-3192.0.r3192/12902 delete-file false false /updates/3/kernel/current/SOURCES/patch-3.8.13.sign
+
+b-11.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/SOURCES/sha1.lst
+
+d-11.0-3200.t3720-2vc modify-file true false /updates/3/kernel/current/SPECS/kernel.spec
+
+
+26983 27125

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-03T20:39:11.872420Z
+K 7
+svn:log
+V 70
+- update to 3.4.65
+- drop merged patches:
+  * CK03, NI50, NK01, NK02
+
+
+END

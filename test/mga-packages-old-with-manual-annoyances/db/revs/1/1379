@@ -1,0 +1,151 @@
+id: 2-8.0-1379.r1379/0
+type: dir
+pred: 2-8.0-540.r1036/6283
+count: 22
+text: 1036 6183 87 0 49960137d8c19b338e7554a82d7f8e52
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /updates/1/glibc/releases/6:2.12.1/11.1.mga1
+copyfrom: 1036 /updates/1/glibc/current
+
+PLAIN
+K 7
+10.mga1
+V 20
+dir 2-8.0-126.r126/0
+K 9
+11.1.mga1
+V 22
+dir 2-8.0-1379.r1379/0
+K 7
+11.mga1
+V 20
+dir 2-8.0-248.r248/0
+K 6
+9.mga1
+V 18
+dir 2-8.0-26.r26/0
+END
+ENDREP
+id: 3-23.0-540.r1379/440
+type: dir
+pred: 3-23.0.r248/383
+count: 4
+text: 1379 270 157 0 2c1450c335962b5fe70e1300dd5d6fc5
+cpath: /updates/1/glibc/releases/6:2.12.1
+copyroot: 540 /updates/1
+
+PLAIN
+K 8
+6:2.12.1
+V 24
+dir 3-23.0-540.r1379/440
+END
+ENDREP
+id: 35-8.0-540.r1379/688
+type: dir
+pred: 35-8.0.r248/608
+count: 5
+text: 1379 628 47 0 b46c6c4a7f62045e75420868dfd5fab8
+cpath: /updates/1/glibc/releases
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 24
+dir 2-8.0-540.r1378/6285
+K 8
+pristine
+V 20
+dir 2-8.0-247.r247/0
+K 8
+releases
+V 24
+dir 35-8.0-540.r1379/688
+END
+ENDREP
+id: 1-7.0-540.r1379/1007
+type: dir
+pred: 1-7.0-540.r1378/6658
+count: 38
+text: 1379 866 128 0 962bd3d395d99fa2c90e95b72befd1ad
+cpath: /updates/1/glibc
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 24
+dir 1-7.0-540.r1379/1007
+K 6
+kernel
+V 25
+dir 1-5.0-540.r1255/28803
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r911/1784
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 24
+dir 1-27.0-540.r858/1022
+END
+ENDREP
+id: 0-1.0-540.r1379/1449
+type: dir
+pred: 0-1.0-540.r1378/7101
+count: 589
+text: 1379 1183 253 0 817fd043c02ba1ddf660c19bc5180ec3
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1379/1449
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r1379/1712
+type: dir
+pred: 0-539.0.r1378/7365
+count: 110
+text: 1379 1621 78 0 62a4e9755271a696a68d5597c28d2eed
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1376/1379
+K 7
+updates
+V 22
+dir 0-539.0.r1379/1712
+END
+ENDREP
+id: 0.0.r1379/1962
+type: dir
+pred: 0.0.r1378/7616
+count: 1379
+text: 1379 1866 83 0 f2d0dbb6b9b0f992079f900d180b2ef9
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1378-12a add-dir false false /updates/1/glibc/releases/6:2.12.1/11.1.mga1
+1036 /updates/1/glibc/current
+
+1962 2102

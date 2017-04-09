@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-07T11:50:48.652961Z
+K 7
+svn:log
+V 78
+cpufreq: Fix timer/workqueue corruption by protecting reading governor_enabled
+END

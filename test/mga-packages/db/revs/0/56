@@ -1,0 +1,60 @@
+id: 1-56.0.r56/0
+type: dir
+count: 0
+cpath: /cauldron/nss
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 16
+dir 1-56.0.r56/0
+K 3
+rpm
+V 18
+dir 1-11.0.r37/841
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r56/291
+type: dir
+pred: 0-1.0.r55/1138
+count: 55
+text: 56 72 206 206 589885d11d368eafbaf073f0bb9ef4f9
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r56/291
+END
+ENDREP
+id: 0.0.r56/488
+type: dir
+pred: 0.0.r55/1337
+count: 56
+text: 56 435 40 40 ad1847c0088c099d89fc90faf0db0c41
+cpath: /
+copyroot: 0 /
+
+_1.0.t55-1j add-dir false false /cauldron/nss
+
+
+488 619

@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-21T20:36:17.387426Z
+K 7
+svn:log
+V 180
+- make CONFIG_ATA_PIIX, CONFIG_BLK_DEV_SD and CONFIG_CRC_T10DIF
+  builtin too, so it actually can boot without initrd
+- disable CONFIG_LOGO for less screen flickering during boot
+
+
+END

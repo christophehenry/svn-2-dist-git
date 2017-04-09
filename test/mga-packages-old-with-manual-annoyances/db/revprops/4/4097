@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T19:33:38.362185Z
+K 7
+svn:log
+V 50
+drm/radeon: fix asic gfx values for scrapper asics
+END

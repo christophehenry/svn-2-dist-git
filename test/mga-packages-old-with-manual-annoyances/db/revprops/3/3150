@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-08T20:04:39.585620Z
+K 7
+svn:log
+V 685
+- update to 3.8.12
+- update patches:
+  * DN01-DN03: alx ethernet support including BigFoot e2200
+- add patches:
+  * DG11: drm/cirrus: Correct register values for 16bpp
+  * DG12: drm/cirrus: deal with bo reserve fail in dirty update path
+  * DG21: Fix detection of base of stolen memory
+  * DG22: Use MLC (l3$) for context objects
+  * DG23: Add no-lvds quirk for Fujitsu Esprimo Q900
+  * DG24: Fixup Oops in the pipe config computation
+  * DG25: set CPT FDI RX polarity bits based on VBT
+  * DN21: carl9170: fix frame drop and WARN due to minstrel_ht change
+  * DN22: carl9170: remove fast channel change feature (unreliable)
+- drop merged patches:
+  * AA01: TTY fix
+  * DN04: alx fix
+
+
+END

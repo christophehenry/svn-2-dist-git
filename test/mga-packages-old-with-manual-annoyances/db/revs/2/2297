@@ -1,0 +1,157 @@
+id: 4-2297.0.r2297/0
+type: file
+count: 0
+text: 2295 0 684 836 c193569514a2b63f8a66eeb6bbb17dd5 c1091e24a5a781dd5150188eeceb9ff27a64d837 2296-1rs/_6
+cpath: /cauldron/kernel/current/SOURCES/patch-3.5.3.sign
+copyroot: 0 /
+
+PLAIN
+K 21
+README.kernel-sources
+V 21
+file 4-11.0.r11/10761
+K 15
+cpupower.config
+V 23
+file 4-1322.0.r1322/504
+K 16
+cpupower.service
+V 23
+file 7-1322.0.r1322/725
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 21
+file 7-11.0.r2209/324
+K 18
+linux-3.5.tar.sign
+V 23
+file 4-2205.0.r2205/114
+K 16
+patch-3.5.3.sign
+V 21
+file 4-2297.0.r2297/0
+K 8
+sha1.lst
+V 21
+file b-11.0.r2296/275
+END
+ENDREP
+id: 4-6.0.r2297/627
+type: dir
+pred: 4-6.0.r2296/921
+count: 179
+text: 2297 220 394 0 a8c18d2b5ea0ae091afdd9a8375873ee
+cpath: /cauldron/kernel/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r1280/47
+K 7
+PATCHES
+V 21
+dir 6-51.0.r2263/8632
+K 7
+SOURCES
+V 19
+dir 4-6.0.r2297/627
+K 5
+SPECS
+V 20
+dir 6-6.0.r2296/1398
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r2297/1015
+type: dir
+pred: 2-6.0.r2296/1786
+count: 499
+text: 2297 799 203 0 007ab2d0b6c76b79aeae285d29562f6c
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r2297/1015
+K 8
+pristine
+V 22
+dir 2-6.0-2283.r2283/0
+K 8
+releases
+V 21
+dir 2-14.0.r2284/2219
+END
+ENDREP
+id: 1-5.0.r2297/1371
+type: dir
+pred: 1-5.0.r2296/2143
+count: 776
+text: 2297 1235 123 0 5c233ea1f83723f49f5968565feee731
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2253/1239
+K 6
+kernel
+V 20
+dir 1-5.0.r2297/1371
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2295/2920
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2289/2209
+K 7
+systemd
+V 21
+dir 1-40.0.r2294/1395
+END
+ENDREP
+id: 0-1.0.r2297/1747
+type: dir
+pred: 0-1.0.r2296/2519
+count: 2139
+text: 2297 1530 204 0 2d561e3407259553d2319cb7eefcccfb
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2297/1747
+K 7
+updates
+V 22
+dir 0-539.0.r2241/2922
+END
+ENDREP
+id: 0.0.r2297/1996
+type: dir
+pred: 0.0.r2296/2768
+count: 2297
+text: 2297 1900 83 0 2d90ef3fd9c4364d8e7863a6bda03527
+cpath: /
+copyroot: 0 /
+
+4-2275.0.r2275/150 delete-file false false /cauldron/kernel/current/SOURCES/patch-3.5.2.sign
+
+_4.0.t2296-1rs add-file true false /cauldron/kernel/current/SOURCES/patch-3.5.3.sign
+
+
+1996 2136

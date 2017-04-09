@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-11T15:43:14.089602Z
+K 7
+svn:log
+V 145
+- backport rtlwifi from upstream 3.1 to add support for: 
+  * RTL8192SE/RTL8191SE PCIe
+  * RTL8192DE/RTL8188DE PCIe
+  * RTL8192CU/RTL8188CU USB
+
+
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-22T10:50:41.837577Z
+K 7
+svn:log
+V 122
+- update to 2.6.38.7 final (CVE-2011-1770, CVE-2011-1776, CVE-2011-1927, CVE-2011-2496)
+- drop merged stable-queue fixes
+
+
+END

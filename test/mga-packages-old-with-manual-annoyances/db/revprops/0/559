@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-06T23:48:32.332382Z
+K 7
+svn:log
+V 77
+Bluetooth: l2cap and rfcomm: fix 1 byte infoleak to userspace (CVE-2011-2492)
+END

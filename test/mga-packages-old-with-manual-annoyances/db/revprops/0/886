@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-05T22:52:15.754809Z
+K 7
+svn:log
+V 131
+SCSI: libsas: fix panic when single phy is disabled on a wide port
+SCSI: qla2xxx: Fix crash in qla2x00_abort_all_cmds() on unload
+
+
+END

@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-05T14:39:56.980581Z
+K 7
+svn:log
+V 194
+- update to 3.10.22
+- drop merged patches:
+  * AA01-AA14: stable queue fixes
+- update patch:
+  * MB10: ndiswrapper 1.59
+- drop merged / oboslete patches:
+  * MB13, MB14: ndiswrapper buildfixes
+
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-02-01T17:42:19.126490Z
+K 7
+svn:log
+V 285
+- e1000e: fix compiler warnings
+- e752x_edac: Fix pci_dev usage count
+- kvm: x86: fix apic_base enable check
+- md/raid5: fix long-standing problem with bitmap handling on write failure.
+- mm: hugetlbfs: fix hugetlbfs optimization
+- mm/mempolicy.c: fix mempolicy printing in numa_maps
+
+
+END

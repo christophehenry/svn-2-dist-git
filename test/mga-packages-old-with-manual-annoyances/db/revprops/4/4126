@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-09T19:15:30.098152Z
+K 7
+svn:log
+V 60
+xhci: Avoid infinite loop when sg urb requires too many trbs
+END

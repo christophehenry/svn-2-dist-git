@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-07T19:36:49.923147Z
+K 7
+svn:log
+V 214
+- block: export blk_{get,put}_queue()
+- block: blkdev_get() should access ->bd_disk only after success
+- scsi:  Fix oops caused by queue refcounting failure
+- hwmon: coretemp: Relax target temperature range check
+
+
+END

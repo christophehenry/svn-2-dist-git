@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-22T11:41:17.173268Z
+K 7
+svn:log
+V 39
+update aufs to aufs2.1-38 stable branch
+END

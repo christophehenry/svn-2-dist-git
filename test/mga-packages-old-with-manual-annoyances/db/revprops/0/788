@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T14:55:34.690910Z
+K 7
+svn:log
+V 227
+- usb: xhci: Add defines for hardcoded slot state
+- usb: xhci: Do not issue device reset when device is not setup
+- usb: xhci: Disable MSI for some Fresco Logic hosts
+- usb: xhci: fix interval calculation for FS isoc endpoints
+
+END

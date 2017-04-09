@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-25T16:38:03.291939Z
+K 7
+svn:log
+V 69
+Tools: hv: verify origin of netlink connector message (CVE-2012-2669)
+END

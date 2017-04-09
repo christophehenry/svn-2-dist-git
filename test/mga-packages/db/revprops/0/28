@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-01-09T18:04:39.840155Z
+K 7
+svn:log
+V 134
+put the lowercase distro name in a macro (mandriva for now, as long as
+rpm-mageia-setup is not available, which needs an updated rpm)
+
+END

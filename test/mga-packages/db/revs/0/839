@@ -1,0 +1,97 @@
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r837/3208
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r838/218
+END
+ENDREP
+id: 1-63.0.r839/133
+type: dir
+pred: 1-63.0.r838/558
+count: 117
+text: 839 0 120 120 727d9ed3c8fa206b90ad6e559b48fba6
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r818/1150
+K 7
+firefox
+V 19
+dir 1-63.0.r839/133
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r811/1382
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r795/1247
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r830/1179
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r826/1252
+K 7
+systemd
+V 19
+dir 1-70.0.r822/947
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r839/679
+type: dir
+pred: 0-1.0.r838/1107
+count: 835
+text: 839 289 377 377 80b3e6dd78d42eb3d8f2011c9cdadc3b
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r839/679
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r839/920
+type: dir
+pred: 0.0.r838/1350
+count: 839
+text: 839 828 79 79 f5fb86dd8fe6d4c8b522588373d9628e
+cpath: /
+copyroot: 0 /
+
+2-64.0-676.r676/0 delete-dir false false /cauldron/firefox/pristine
+
+
+920 1055

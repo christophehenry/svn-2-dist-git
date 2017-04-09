@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-15T19:24:01.301525Z
+K 7
+svn:log
+V 68
+fix and re-enable P43: sha256-crypt and sha512-crypt support (#7793)
+END

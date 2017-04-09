@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-16T10:01:03.766837Z
+K 7
+svn:log
+V 67
+adjust sysvinit provides so it has higher rel than current sysvinit
+END

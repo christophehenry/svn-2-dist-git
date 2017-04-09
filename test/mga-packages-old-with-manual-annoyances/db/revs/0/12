@@ -1,0 +1,70 @@
+id: 2-6.0-12.r12/0
+type: dir
+pred: 2-6.0.r11/12708
+count: 3
+text: 11 12543 76 0 1a284835f3af95bf72c1e06d5fe9efc2
+props: 11 12632 63 0 14dedd1a021398a5cd9b434e8ea892ee
+cpath: /cauldron/kernel/pristine
+copyfrom: 11 /cauldron/kernel/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r11/12708
+K 8
+pristine
+V 18
+dir 2-6.0-12.r12/0
+END
+ENDREP
+id: 1-5.0.r12/330
+type: dir
+pred: 1-5.0.r11/12975
+count: 4
+text: 12 239 78 0 568c899b2997428332b490631027bc7a
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 16
+dir 1-7.0.r9/357
+K 6
+kernel
+V 17
+dir 1-5.0.r12/330
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r12/602
+type: dir
+pred: 0-1.0.r11/13251
+count: 11
+text: 12 479 110 0 0c0d523bc1769b9efd2a77afe27738b1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r12/602
+END
+ENDREP
+id: 0.0.r12/799
+type: dir
+pred: 0.0.r11/13453
+count: 12
+text: 12 746 40 0 ac68ede041f7258d73c6ab67b117adcd
+cpath: /
+copyroot: 0 /
+
+2-6._0.t11-b add-dir false false /cauldron/kernel/pristine
+11 /cauldron/kernel/current
+
+799 930

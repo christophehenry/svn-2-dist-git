@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-04-01T18:26:47.807844Z
+K 7
+svn:log
+V 445
+- Numerous upstream cherry picks
+- Drop usless Mandriva patch (we didn't use what it added)
+- Ensure network filesystems will hold up DM only when 'nofail' is omitted in fstab
+- Do not make DM wait for rc.local (we don't do thus under sysvinit)
+- Make the DM failure script start later if it runs
+- Fix small cosmetic issue in systemd-analyse when run too quickly after boot
+- Note: journalctl and loginctl have now dropped their systemd- prefix
+END

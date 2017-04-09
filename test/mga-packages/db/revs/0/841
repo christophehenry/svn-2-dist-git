@@ -1,0 +1,148 @@
+id: 2-64.0-841.r841/0
+type: dir
+pred: 2-64.0.r837/3208
+count: 62
+text: 837 3116 79 79 711bf6295c4829e370677d0c7121c4f2
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:5.0/1.mga2
+copyfrom: 837 /cauldron/firefox/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-64.0-841.r841/0
+END
+ENDREP
+id: 3-838.0.r841/316
+type: dir
+pred: 3-838.0.r838/0
+count: 1
+text: 841 261 42 42 92fbfa45fc8ce5251f9cabcdfda2556f
+cpath: /cauldron/firefox/releases/0:5.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r543/985
+K 7
+0:4.0.1
+V 20
+dir 3-674.0.r677/318
+K 5
+0:5.0
+V 20
+dir 3-838.0.r841/316
+END
+ENDREP
+id: 19-64.0.r841/612
+type: dir
+pred: 19-64.0.r838/218
+count: 21
+text: 841 485 114 114 dde3473362e849de29aba9890fa900d7
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r837/3208
+K 8
+pristine
+V 21
+dir 2-64.0-840.r840/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r841/612
+END
+ENDREP
+id: 1-63.0.r841/953
+type: dir
+pred: 1-63.0.r840/421
+count: 119
+text: 841 780 160 160 44066a97bf2d7bdd769b215688040b91
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r818/1150
+K 7
+firefox
+V 19
+dir 1-63.0.r841/953
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r811/1382
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r795/1247
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r830/1179
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r826/1252
+K 7
+systemd
+V 19
+dir 1-70.0.r822/947
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r841/1501
+type: dir
+pred: 0-1.0.r840/969
+count: 837
+text: 841 1111 377 377 e23763f4cbf98baf3751cecd3fd854ea
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r841/1501
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r841/1744
+type: dir
+pred: 0.0.r840/1209
+count: 841
+text: 841 1651 80 80 ded44ffca9f44a55d06042ca3a334251
+cpath: /
+copyroot: 0 /
+
+2-64._0.t840-nc add-dir false false /cauldron/firefox/releases/0:5.0/1.mga2
+837 /cauldron/firefox/current
+
+1744 1881

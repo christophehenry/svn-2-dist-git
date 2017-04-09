@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-01-09T10:16:41.657578Z
+K 7
+svn:log
+V 61
+Ensure tmpfiles is run to create /run/nscd dir on pkg install
+END

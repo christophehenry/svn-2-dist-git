@@ -1,0 +1,140 @@
+id: 2-8.0-3642.r3642/0
+type: dir
+pred: 2-8.0.r3637/636
+count: 102
+text: 3637 545 78 0 6bd5999d98647fde7922b7de7124fb58
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.18/0.5.mga4
+copyfrom: 3637 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.5.mga4
+V 22
+dir 2-8.0-3642.r3642/0
+END
+ENDREP
+id: 3-3639.0.r3642/318
+type: dir
+pred: 3-3639.0.r3639/0
+count: 1
+text: 3642 260 45 0 1a2890fa330f640072e569c14bd3ad15
+cpath: /cauldron/glibc/releases/6:2.18
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3571/627
+K 6
+6:2.18
+V 22
+dir 3-3639.0.r3642/318
+END
+ENDREP
+id: 35-8.0.r3642/702
+type: dir
+pred: 35-8.0.r3639/304
+count: 43
+text: 3642 490 199 0 8d7f1a7366b0dcce960c919fedc33c3d
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 19
+dir 2-8.0.r3638/631
+K 8
+pristine
+V 22
+dir 2-8.0-3641.r3641/0
+K 8
+releases
+V 20
+dir 35-8.0.r3642/702
+END
+ENDREP
+id: 1-7.0.r3642/1043
+type: dir
+pred: 1-7.0.r3641/420
+count: 261
+text: 3642 867 163 0 fcffd635ea2b8cbe762ca35545a3b745
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3642/1043
+K 6
+kernel
+V 20
+dir 1-5.0.r3627/3756
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3614/3921
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3623/2713
+K 7
+systemd
+V 21
+dir 1-40.0.r3561/1774
+END
+ENDREP
+id: 0-1.0.r3642/1453
+type: dir
+pred: 0-1.0.r3641/828
+count: 3258
+text: 3642 1199 241 0 28e36b1ca188a9e22e2d192b8b859312
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3642/1453
+K 7
+updates
+V 22
+dir 0-539.0.r3390/6935
+END
+ENDREP
+id: 0.0.r3642/1701
+type: dir
+pred: 0.0.r3641/1073
+count: 3642
+text: 3642 1605 83 0 d16f1250a97242740e3a4c106bd44a8d
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3641-2t5 add-dir false false /cauldron/glibc/releases/6:2.18/0.5.mga4
+3637 /cauldron/glibc/current
+
+1701 1841

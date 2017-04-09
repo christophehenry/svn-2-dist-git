@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-07-20T12:49:32.422079Z
+K 7
+svn:log
+V 349
+- Re-enable packaging the files in the -doc package
+- Drop redundant BR gtk-doc:
+  o No --enable-gtk-doc was passed to configure since the very beginning and there's
+    already the bundled html gtk-doc's
+  o gtk-doc requires dblates -> texlive -> texlive-texmf, so less unncesssary
+    HDD grinding on the BS
+SILENT: drop the buildroot declaration
+
+END

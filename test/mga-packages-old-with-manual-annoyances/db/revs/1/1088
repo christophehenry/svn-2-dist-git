@@ -1,0 +1,140 @@
+PLAIN
+K 25
+README.kernel-tmb-sources
+V 22
+file 9-150.0.r730/5004
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 22
+file b-150.0.r730/5260
+K 20
+kernel-tmb.patchlist
+V 24
+file d-150.0.r1086/93007
+K 27
+linux-3.1.3-tmb1.tar.xz.asc
+V 25
+file 6-1086.0.r1086/93263
+K 18
+linux-3.1.tar.sign
+V 29
+file 7-969.0-1086.r1086/93503
+K 16
+patch-3.1.3.sign
+V 30
+file 7-1073.2-1086.r1086/94136
+K 8
+sha1.lst
+V 22
+file l-150.0.r1087/101
+END
+ENDREP
+id: 4-150.0.r1088/448
+type: dir
+pred: 4-150.0.r1087/849
+count: 36
+text: 1088 0 435 0 9aa1f83f5acc5617a0d4db0260c0f46a
+cpath: /cauldron/kernel-tmb/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 21
+dir 4-150.0.r1088/448
+K 5
+SPECS
+V 23
+dir n-150.0.r1086/95713
+END
+ENDREP
+id: 2-150.0.r1088/720
+type: dir
+pred: 2-150.0.r1087/1125
+count: 37
+text: 1088 625 82 0 e325824cb8b849b7625d834f8da64211
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r1088/720
+K 8
+pristine
+V 22
+dir 2-150.0-980.r980/0
+K 8
+releases
+V 21
+dir r-150.0.r981/1007
+END
+ENDREP
+id: 1-149.0.r1088/1082
+type: dir
+pred: 1-149.0.r1087/1491
+count: 94
+text: 1088 945 124 0 133c51847207d5d3c1e435b0e81e2eae
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r968/982
+K 6
+kernel
+V 20
+dir 1-5.0.r1085/1609
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1079/1479
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1088/1082
+K 7
+systemd
+V 21
+dir 1-40.0.r1045/1430
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r1088/1496
+type: dir
+pred: 0-1.0.r1087/1907
+count: 993
+text: 1088 1247 236 0 9a183edb98be769e7a6f24e163385a49
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1088/1496
+K 7
+updates
+V 22
+dir 0-539.0.r1059/7070
+END
+ENDREP
+id: 0.0.r1088/1744
+type: dir
+pred: 0.0.r1087/2156
+count: 1088
+text: 1088 1648 83 0 31b80015b9bb081e23bcde53cef66a80
+cpath: /
+copyroot: 0 /
+
+7-1052.1-1086.r1086/93819 delete-file false false /cauldron/kernel-tmb/current/SOURCES/patch-3.1.1.sign
+
+
+1744 1884

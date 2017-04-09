@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-24T23:52:42.963097Z
+K 7
+svn:log
+V 84
+ dvb_frontend: fix race condition in stopping/starting frontend (reported by coling)
+END

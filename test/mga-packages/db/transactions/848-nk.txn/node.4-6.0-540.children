@@ -1,0 +1,21 @@
+K 21
+README.kernel-sources
+V 21
+file 4-15.0.r15/10761
+K 60
+disable-mrproper-prepare-scripts-configs-in-devel-rpms.patch
+V 20
+file 7-15.0.r455/274
+K 25
+linux-2.6.38.tar.bz2.sign
+V 20
+file 4-429.0.r429/96
+K 8
+sha1.lst
+V 20
+file b-15.0.r457/106
+END
+K 8
+sha1.lst
+V 23
+file b-15.0-540.t848-nk

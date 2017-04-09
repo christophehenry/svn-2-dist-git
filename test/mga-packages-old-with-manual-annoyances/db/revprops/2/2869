@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-18T20:46:58.857585Z
+K 7
+svn:log
+V 63
+net: fix infinite loop in __skb_recv_datagram() (CVE-2013-0290)
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-04T16:56:20.632478Z
+K 7
+svn:log
+V 50
+drop debug-latest rpms as they are not really used
+END

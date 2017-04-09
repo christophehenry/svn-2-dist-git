@@ -1,0 +1,148 @@
+id: 2-12.0-329.r329/0
+type: dir
+pred: 2-12.0.r326/601
+count: 50
+text: 326 510 78 78 8fa614fc645ed637a80881e69c5c5e9a
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/3.mga1
+copyfrom: 326 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+K 6
+3.mga1
+V 21
+dir 2-12.0-329.r329/0
+END
+ENDREP
+id: 3-313.0.r329/385
+type: dir
+pred: 3-313.0.r325/349
+count: 3
+text: 329 254 118 118 f4c179c00da18842e60f8ab86c330427
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r329/385
+END
+ENDREP
+id: 37-12.0.r329/647
+type: dir
+pred: 37-12.0.r325/609
+count: 9
+text: 329 556 78 78 7c56cf2f26c1717a80b96f9f7b1191c5
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 19
+dir 2-12.0.r326/601
+K 8
+pristine
+V 21
+dir 2-12.0-328.r328/0
+K 8
+releases
+V 20
+dir 37-12.0.r329/647
+END
+ENDREP
+id: 1-11.0.r329/981
+type: dir
+pred: 1-11.0.r328/412
+count: 89
+text: 329 808 160 160 b19eca1619ff44017f3cedb3271ed5a2
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r329/981
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r329/1518
+type: dir
+pred: 0-1.0.r328/949
+count: 328
+text: 329 1134 371 371 99d47fd7f35c1e35bc08b7cb59eae682
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r329/1518
+END
+ENDREP
+id: 0.0.r329/1723
+type: dir
+pred: 0.0.r328/1151
+count: 329
+text: 329 1668 42 42 089c4c533ff41e613f63ee1803e8d763
+cpath: /
+copyroot: 0 /
+
+2-12._0.t328-94 add-dir false false /cauldron/rpm/releases/1:4.8.1/3.mga1
+326 /cauldron/rpm/current
+
+1723 1860

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-19T23:26:19.206395Z
+K 7
+svn:log
+V 74
+jbd/jbd2: validate sb->s_first in journal_get_superblock() (CVE-2011-4132)
+END

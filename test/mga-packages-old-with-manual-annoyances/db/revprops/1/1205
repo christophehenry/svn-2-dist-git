@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-19T21:19:46.245151Z
+K 7
+svn:log
+V 607
+- ASPM: bring kernel power usage back down to 2.6.37 level
+  * PCI: PCIe links may not get configured for ASPM under POWERSAVE mode
+  * PCI: Changing ASPM policy, via /sys, to POWERSAVE could cause NMIs
+  * PCI: Enable ASPM state clearing regardless of policy
+  * PCI/e1000e: Add and use pci_disable_link_state_locked()
+  * PCIe ASPM: forcedly -> forcibly
+  * PCI: Disable ASPM when _OSC control is not granted for PCIe services
+  * PCI/ACPI: Report _OSC control mask returned on failure to get control
+  * PCI: Rework ASPM disable code
+  * aacraid: controller hangs if kernel uses non-default ASPM policy
+
+
+END

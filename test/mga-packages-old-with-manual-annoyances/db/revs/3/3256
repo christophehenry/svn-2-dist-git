@@ -1,0 +1,64 @@
+id: 1-3256.0.r3256/0
+type: dir
+count: 0
+cpath: /cauldron/cgit
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 20
+dir 1-3256.0.r3256/0
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3245/3328
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3216/3196
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3251/2554
+K 7
+systemd
+V 21
+dir 1-40.0.r3224/1574
+END
+ENDREP
+id: 0-1.0.r3256/329
+type: dir
+pred: 0-1.0.r3255/1571
+count: 2941
+text: 3256 77 239 0 2b5bfea471e2871cf3c52d109922a5d8
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r3256/329
+K 7
+updates
+V 23
+dir 0-539.0.r3237/14345
+END
+ENDREP
+id: 0.0.r3256/575
+type: dir
+pred: 0.0.r3255/1820
+count: 3256
+text: 3256 479 83 0 b77527642b7244e70de4a1cd17b5bcd8
+cpath: /
+copyroot: 0 /
+
+_1.0.t3255-2if add-dir false false /cauldron/cgit
+
+
+575 713

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-30T23:26:06.763928Z
+K 7
+svn:log
+V 62
+NLM: Don't hang forever on NLM unlock requests (CVE-2011-2491)
+END

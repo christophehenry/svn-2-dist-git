@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-01-27T12:56:13.653022Z
+K 7
+svn:log
+V 93
+The quota services are now pulled in by mount points, hence no need to enable them explicitly
+END

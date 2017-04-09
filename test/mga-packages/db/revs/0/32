@@ -1,0 +1,108 @@
+id: 2-12.0-32.r32/0
+type: dir
+pred: 2-12.0.r28/948
+count: 5
+text: 28 859 76 76 3d9e247f6b96f536ca392085feacbc25
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.6.1/6.mga1
+copyfrom: 28 /cauldron/rpm/current
+
+PLAIN
+K 6
+6.mga1
+V 19
+dir 2-12.0-32.r32/0
+END
+ENDREP
+id: 3-29.0.r32/301
+type: dir
+pred: 3-29.0.r29/0
+count: 1
+text: 32 248 40 40 6fd9085623800691d903a79760c70a3c
+cpath: /cauldron/rpm/releases/1:4.6.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r32/301
+END
+ENDREP
+id: 37-12.0.r32/516
+type: dir
+pred: 37-12.0.r29/140
+count: 2
+text: 32 463 40 40 7ff59b1072f9d731101953aa170fcfba
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-12.0.r28/948
+K 8
+pristine
+V 19
+dir 2-12.0-31.r31/0
+K 8
+releases
+V 19
+dir 37-12.0.r32/516
+END
+ENDREP
+id: 1-11.0.r32/803
+type: dir
+pred: 1-11.0.r31/362
+count: 10
+text: 32 674 116 116 ff210e5a06a6b5612731db850da565f7
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r25/917
+K 6
+kernel
+V 17
+dir 1-5.0.r22/804
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 18
+dir 1-11.0.r32/803
+END
+ENDREP
+id: 0-1.0.r32/1109
+type: dir
+pred: 0-1.0.r31/666
+count: 31
+text: 32 953 143 143 3aa6005811695b151e620089f61fea48
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r32/1109
+END
+ENDREP
+id: 0.0.r32/1308
+type: dir
+pred: 0.0.r31/863
+count: 32
+text: 32 1254 41 41 90adf805712a60a9767f8814dbc7e240
+cpath: /
+copyroot: 0 /
+
+2-12._0.t31-v add-dir false false /cauldron/rpm/releases/1:4.6.1/6.mga1
+28 /cauldron/rpm/current
+
+1308 1440

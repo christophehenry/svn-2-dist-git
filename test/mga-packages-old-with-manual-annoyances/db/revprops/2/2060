@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-06-29T11:33:41.478625Z
+K 7
+svn:log
+V 391
+- New version: 185
+- Merge udev package into systemd (upstream merge)
+- Merge systemd-sysvinit into systemd package (sysvinit is no longer supported)
+- Drop patches applied upstream.
+- Cherry pick selected upstream commits
+- Rebase Mageia customisation patches.
+- Reimplement noauto patch for fstab entries (to prevent network mounts holding up login)
+- Fix -devel library names (drop major)
+END

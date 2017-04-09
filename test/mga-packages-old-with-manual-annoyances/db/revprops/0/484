@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-22T14:28:01.047731Z
+K 7
+svn:log
+V 418
+- update to 2.6.38.7 (CVE-2011-1770, CVE-2011-1776, CVE-2011-1927)
+- drop merged patches:
+    * DG20-DG24
+- update patches:
+    * FU01, FU03: rollback unionfs to a working 2.5.8
+- add patches:
+    * AA01: block: rescan partitions on invalidated devices on -ENOMEDIA too
+    * DN17: r8169: add a new chip for RTL8105
+    * DN18: r8169: add a new chip for RTL8168DP
+    * DN19: r8169: add support for RTL8168E/RTL8111E
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-09-22T17:38:42.958511Z
+K 7
+svn:log
+V 73
+Ensure the 'systemd-journal' group is created at install time (mga#11264)
+END

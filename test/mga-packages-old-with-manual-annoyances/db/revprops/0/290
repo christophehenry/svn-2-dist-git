@@ -1,0 +1,43 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-29T10:06:54.838614Z
+K 7
+svn:log
+V 1061
+- update to 2.6.38.2
+- drop merged patches:
+    * AX01, AX10, FS01-FS03, LD01-LD02 (xz support)
+    * CK02 (-ck1 patchset buildfix)
+    * DA01-DA03 (ahci ids)
+    * DG01-DG02 (gpu fixes)
+    * DM10-DM14 (dm-raid45, replaced by new dm-raid target)
+    * DM20 (dm-crypt multicore support)
+    * DP06 (samsung-laptop buildfix)
+    * KB01 (headers_install_all export fix)
+    * SE01 (staging fix)
+- rediff patches:
+    * AI01 (Toshiba Equium A60 fix)
+    * DV01-DV02 (framebuffer oops and deadlock fixes)
+    * MB02 (3rdparty merge)
+- update patches:
+    * CK01: Con Kolivas -ck1 patchset including BFS v363
+    * DP05: update samsung-laptop to the one being merged in
+            2.6.39 (replaces old samsung-backlight)
+    * FR01-FR02: reiser4 support
+    * FU01-FU03: unionfs 2.5.8
+    * KP01: TuxOnIce
+    * S2: disable mrproper on -devel rpms
+- add patches:
+    * DA20: acpi video blacklist (needed for shuttle-wmi)
+    * DG10: drm/i915: Fix pipelined fencing
+    * DP10: shuttle-wmi support
+    * MB16: ndiswrapper buildfix
+- update defconfigs and filelists
+
+
+END

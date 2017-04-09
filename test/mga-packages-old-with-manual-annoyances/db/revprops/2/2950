@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-30T09:52:09.082315Z
+K 7
+svn:log
+V 95
+- disable efivars as a storage backend for pstore by default
+  as it can brick some computers
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-10-06T15:18:41.531662Z
+K 7
+svn:log
+V 63
+require filesystem to get it in same transaction during install
+END

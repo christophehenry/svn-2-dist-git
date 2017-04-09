@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-30T11:55:15.984237Z
+K 7
+svn:log
+V 66
+samsung-laptop: set backlight type and add support for N230, R410P
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-01T14:09:24.277942Z
+K 7
+svn:log
+V 46
+obsolete dkms-r8192se as it is merged upstream
+END

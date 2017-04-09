@@ -1,0 +1,140 @@
+id: 2-3.0-342.r342/0
+type: dir
+pred: 2-3.0.r338/634
+count: 11
+text: 338 546 75 75 c58df1b1a3388216da88055c5fe0cea0
+props: 334 1032 65 65 886337824e2b12fb37d55bad43228460
+cpath: /cauldron/kernel-linus/releases/2.6.38/0.rc7.1.mga1
+copyfrom: 338 /cauldron/kernel-linus/current
+
+PLAIN
+K 12
+0.rc7.1.mga1
+V 20
+dir 2-3.0-342.r342/0
+END
+ENDREP
+id: 3-339.0.r342/336
+type: dir
+pred: 3-339.0.r339/0
+count: 1
+text: 342 275 48 48 b33d663fd34a9853632d92629911d370
+cpath: /cauldron/kernel-linus/releases/2.6.38
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r342/336
+END
+ENDREP
+id: n-3.0.r342/643
+type: dir
+pred: n-3.0.r339/229
+count: 6
+text: 342 511 119 119 45543fcfe4302059f9dec1b9f9c0b59a
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-3.0.r338/634
+K 8
+pristine
+V 20
+dir 2-3.0-341.r341/0
+K 8
+releases
+V 18
+dir n-3.0.r342/643
+END
+ENDREP
+id: 1-2.0.r342/940
+type: dir
+pred: 1-2.0.r341/384
+count: 24
+text: 342 811 116 116 283d945afe42eae8a8ab15572ccfa8d0
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r342/940
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r333/1024
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r342/1485
+type: dir
+pred: 0-1.0.r341/928
+count: 341
+text: 342 1100 372 372 844052163144b6ec740ca6e6b4e1ba54
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r342/1485
+END
+ENDREP
+id: 0.0.r342/1690
+type: dir
+pred: 0.0.r341/1130
+count: 342
+text: 342 1635 42 42 def5a8f177ccd742ffbea3281229cb19
+cpath: /
+copyroot: 0 /
+
+2-3._0.t341-9h add-dir false false /cauldron/kernel-linus/releases/2.6.38/0.rc7.1.mga1
+338 /cauldron/kernel-linus/current
+
+1690 1827

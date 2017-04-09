@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-21T18:54:15.830294Z
+K 7
+svn:log
+V 56
+cpufreq/intel_pstate: Change to scale off of max P-state
+END

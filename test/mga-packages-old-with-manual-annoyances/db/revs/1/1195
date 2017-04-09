@@ -1,0 +1,144 @@
+id: 2-28.0-1195.r1195/0
+type: dir
+pred: 2-28.0.r1192/1037
+count: 59
+text: 1192 944 80 0 43b2091367bae3ad1015b1e8ba79b6a1
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/175/2.mga2
+copyfrom: 1192 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-28.0-1180.r1180/0
+K 6
+2.mga2
+V 23
+dir 2-28.0-1195.r1195/0
+END
+ENDREP
+id: 3-1177.0.r1195/353
+type: dir
+pred: 3-1177.0.r1180/314
+count: 2
+text: 1195 256 84 0 14aece80df69a4e81ecc2ae910418efe
+cpath: /cauldron/udev/releases/175
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+K 3
+175
+V 22
+dir 3-1177.0.r1195/353
+END
+ENDREP
+id: 1f-28.0.r1195/743
+type: dir
+pred: 1f-28.0.r1180/702
+count: 22
+text: 1195 523 207 0 8e23b3bd4ca6a8280681b8b1185efa51
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-28.0.r1192/1037
+K 8
+pristine
+V 23
+dir 2-28.0-1194.r1194/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1195/743
+END
+ENDREP
+id: 1-27.0.r1195/1047
+type: dir
+pred: 1-27.0.r1194/383
+count: 114
+text: 1195 909 125 0 91b5c136bc95e6d5065690b909b5283e
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1127/1033
+K 6
+kernel
+V 20
+dir 1-5.0.r1190/1369
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1146/1557
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1152/1446
+K 7
+systemd
+V 21
+dir 1-40.0.r1167/1595
+K 4
+udev
+V 21
+dir 1-27.0.r1195/1047
+END
+ENDREP
+id: 0-1.0.r1195/1457
+type: dir
+pred: 0-1.0.r1194/790
+count: 1099
+text: 1195 1204 240 0 f0f1eca71eac8ae0a759568e3f3c84ed
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1195/1457
+K 7
+updates
+V 22
+dir 0-539.0.r1191/2213
+END
+ENDREP
+id: 0.0.r1195/1705
+type: dir
+pred: 0.0.r1194/1035
+count: 1195
+text: 1195 1609 83 0 d46b504accf8bf36d793907c1878b07f
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1194-x6 add-dir false false /cauldron/udev/releases/175/2.mga2
+1192 /cauldron/udev/current
+
+1705 1845

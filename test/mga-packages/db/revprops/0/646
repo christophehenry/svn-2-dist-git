@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-22T12:34:46.636395Z
+K 7
+svn:log
+V 43
+update ipset to 6.4 (includes ipv6 support)
+END

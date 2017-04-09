@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-05T08:44:05.698055Z
+K 7
+svn:log
+V 44
+re-enable pwersaving by default on rt2800usb
+END

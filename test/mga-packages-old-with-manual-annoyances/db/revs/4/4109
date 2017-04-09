@@ -1,0 +1,176 @@
+id: 2-8.0-4109.r4109/0
+type: dir
+pred: 2-8.0.r4106/6968
+count: 120
+text: 4106 6876 79 0 3adeeb4ca72b84a96bbfbd7b9a3d4f0c
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.18/9.mga4
+copyfrom: 4106 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.5.mga4
+V 22
+dir 2-8.0-3642.r3642/0
+K 6
+1.mga4
+V 22
+dir 2-8.0-3704.r3704/0
+K 6
+2.mga4
+V 22
+dir 2-8.0-3740.r3740/0
+K 6
+3.mga4
+V 22
+dir 2-8.0-3796.r3796/0
+K 6
+4.mga4
+V 22
+dir 2-8.0-3818.r3818/0
+K 6
+5.mga4
+V 22
+dir 2-8.0-3822.r3822/0
+K 6
+6.mga4
+V 22
+dir 2-8.0-3849.r3849/0
+K 6
+7.mga4
+V 22
+dir 2-8.0-3879.r3879/0
+K 6
+8.mga4
+V 22
+dir 2-8.0-3994.r3994/0
+K 6
+9.mga4
+V 22
+dir 2-8.0-4109.r4109/0
+END
+ENDREP
+id: 3-3639.0.r4109/669
+type: dir
+pred: 3-3639.0.r3994/630
+count: 10
+text: 4109 260 396 0 9b9f50dbf46429f86141d034c29b14d7
+cpath: /cauldron/glibc/releases/6:2.18
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3571/627
+K 6
+6:2.18
+V 22
+dir 3-3639.0.r4109/669
+END
+ENDREP
+id: 35-8.0.r4109/1057
+type: dir
+pred: 35-8.0.r3994/1017
+count: 52
+text: 4109 845 199 0 596ff04f8e9928bec24bcfc7b8e4c7a6
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 20
+dir 2-8.0.r4106/6968
+K 8
+pristine
+V 22
+dir 2-8.0-4108.r4108/0
+K 8
+releases
+V 21
+dir 35-8.0.r4109/1057
+END
+ENDREP
+id: 1-7.0.r4109/1402
+type: dir
+pred: 1-7.0.r4108/424
+count: 305
+text: 4109 1224 165 0 2a535d7f2fc3f3a2857d3aa4cc2b1d4d
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3858/885
+K 5
+glibc
+V 20
+dir 1-7.0.r4109/1402
+K 6
+kernel
+V 20
+dir 1-5.0.r4105/4228
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r4058/3748
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r4068/2909
+K 7
+systemd
+V 21
+dir 1-40.0.r4024/1852
+END
+ENDREP
+id: 0-1.0.r4109/1813
+type: dir
+pred: 0-1.0.r4108/832
+count: 3638
+text: 4109 1559 241 0 5c4f583ccedef16574ac8918219a7e68
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r4109/1813
+K 7
+updates
+V 23
+dir 0-539.0.r4076/10966
+END
+ENDREP
+id: 0.0.r4109/2062
+type: dir
+pred: 0.0.r4108/1078
+count: 4109
+text: 4109 1965 84 0 7723b00e6b1fa1444cca652a458c92df
+cpath: /
+copyroot: 0 /
+
+2-8._0.t4108-364 add-dir false false /cauldron/glibc/releases/6:2.18/9.mga4
+4106 /cauldron/glibc/current
+
+2062 2202

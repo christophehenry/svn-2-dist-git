@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 13
+guillomovitch
+K 8
+svn:date
+V 27
+2012-10-02T21:37:41.043101Z
+K 7
+svn:log
+V 99
+- add rpm filetriggers to run systemd-tmpfiles immediatly after package
+  installation (fix #7569)
+
+END

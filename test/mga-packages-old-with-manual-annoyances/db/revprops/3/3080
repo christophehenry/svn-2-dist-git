@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-26T22:39:29.771223Z
+K 7
+svn:log
+V 117
+- block: fix max discard sectors limit
+- drm/radeon: add some new SI PCI ids
+- drm/radeon: add new richland pci ids
+
+
+END

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-15T00:00:52.965744Z
+K 7
+svn:log
+V 361
+- xfs: underflow bug in xfs_attrlist_by_handle() (CVE-2013-6382)
+- xfs: add capability check to free eofblocks ioctl (CVE pending)
+- kvm: rtc_status.dest_map out-of-bounds access (CVE-2013-4587)
+- kvm: division by zero in apic_get_tmcct() (CVE-2013-6367)
+- kvm: cross page vapic_addr access (CVE-2013-6368)
+- kvm: BUG_ON() in apic_cluster_id() (CVE-2013-6376)
+
+
+END

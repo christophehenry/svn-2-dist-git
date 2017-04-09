@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-16T20:49:32.886107Z
+K 7
+svn:log
+V 800
+- ALSA: hda - hdmi: Fix reported channel map on common default layouts
+- batman-adv: set up network coding packet handlers during module init
+- cxgb3: Fix length calculation in write_ofld_wr() on 32-bit architectures
+- hyperv-fb: add pci stub
+- ip_gre: Fix WCCPv2 header parsing.
+- ipv6: ip6_dst_check needs to check for expired dst_entries
+- ipv6: reset dst.expires value when clearing expire flag
+- net: flow_dissector: fail on evil iph->ihl
+- net/mlx4_core: Fix call to __mlx4_unregister_mac
+- USB: add new zte 3g-dongle's pid to option.c
+- virtio-net: correctly handle cpu hotplug notifier during resuming
+- xen-netback: Handle backend state transitions in a more robust way
+- xen-netback: transition to CLOSED when removing a VIF
+- xen-netback: use jiffies_64 value to calculate credit timeout
+
+
+END

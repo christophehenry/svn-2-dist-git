@@ -1,0 +1,86 @@
+id: 3-23.0.r23/0
+type: dir
+count: 0
+cpath: /cauldron/glibc/releases/6:2.12.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 16
+dir 3-23.0.r23/0
+END
+ENDREP
+id: 35-8.0.r23/144
+type: dir
+pred: 35-8.0.r8/73435
+count: 1
+text: 23 92 39 0 ff3442c80fc574e46ac95c281d004e20
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-8.0.r22/4080
+K 8
+pristine
+V 16
+dir 2-8.0-9.r9/0
+K 8
+releases
+V 18
+dir 35-8.0.r23/144
+END
+ENDREP
+id: 1-7.0.r23/426
+type: dir
+pred: 1-7.0.r22/4415
+count: 7
+text: 23 301 112 0 3e32719967aace41966fdfcfa5bc2339
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r23/426
+K 6
+kernel
+V 17
+dir 1-5.0.r18/800
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+END
+ENDREP
+id: 0-1.0.r23/698
+type: dir
+pred: 0-1.0.r22/4689
+count: 22
+text: 23 574 111 0 a388b6f409fd9ca43c8ec1a8671d2f88
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r23/698
+END
+ENDREP
+id: 0.0.r23/894
+type: dir
+pred: 0.0.r22/4888
+count: 23
+text: 23 841 40 0 215e7f59cb7bb314c92e6d8b384b94d5
+cpath: /
+copyroot: 0 /
+
+_3.0.t22-m add-dir false false /cauldron/glibc/releases/6:2.12.1
+
+
+894 1024

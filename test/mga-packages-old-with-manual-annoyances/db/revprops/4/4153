@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+schedbot
+K 8
+svn:date
+V 27
+2014-01-12T23:04:31.278728Z
+K 7
+svn:log
+V 115
+%repsys markrelease
+version: 3.12.7
+release: 1.mga4
+revision: 566385
+
+Copying 3.12.7-1.mga4 to releases/ directory.
+END

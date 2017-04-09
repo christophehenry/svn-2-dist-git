@@ -1,0 +1,140 @@
+id: 16-64.0.r308/0
+type: file
+pred: 16-64.0.r307/46
+count: 14
+text: 299 0 24 12313 fb4418bdc5409b3d6008769fd58d0cef 90cb0f29b4582c377344af130b7b52ba0e45b001 307-8j/_5
+cpath: /cauldron/firefox/current/SPECS/firefox.spec
+copyroot: 0 /
+
+PLAIN
+K 12
+firefox.spec
+V 19
+file 16-64.0.r308/0
+END
+ENDREP
+id: 15-64.0.r308/294
+type: dir
+pred: 15-64.0.r307/342
+count: 14
+text: 308 234 47 47 9c159b8fb574c8cd4d95bc715e484210
+cpath: /cauldron/firefox/current/SPECS
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-64.0.r300/1393
+K 5
+SPECS
+V 20
+dir 15-64.0.r308/294
+END
+ENDREP
+id: 2-64.0.r308/556
+type: dir
+pred: 2-64.0.r307/604
+count: 25
+text: 308 465 78 78 f0e8872aa522ae33df8fcc9b4c1caf03
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-64.0.r308/556
+K 8
+pristine
+V 21
+dir 2-64.0-302.r302/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r303/824
+END
+ENDREP
+id: 1-63.0.r308/945
+type: dir
+pred: 1-63.0.r307/994
+count: 48
+text: 308 773 159 159 f17370c70b603b00572a63c8eaf75ae4
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r308/945
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r306/398
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r272/991
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r308/1485
+type: dir
+pred: 0-1.0.r307/1535
+count: 307
+text: 308 1102 370 370 fdba8951fc1e638861a860e516eef185
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r308/1485
+END
+ENDREP
+id: 0.0.r308/1691
+type: dir
+pred: 0.0.r307/1740
+count: 308
+text: 308 1636 42 42 26da34bea7c1a8105e14ab5728b1bd70
+cpath: /
+copyroot: 0 /
+
+16-64.0.t307-8j modify-file true false /cauldron/firefox/current/SPECS/firefox.spec
+
+
+1691 1828

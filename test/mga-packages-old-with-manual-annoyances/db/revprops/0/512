@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T17:00:39.973531Z
+K 7
+svn:log
+V 230
+- option: add Zoom 4597 modem USB IDs
+- option: add Alcatel X200 to sendsetup blacklist
+- option: add Prolink PH300 modem IDs
+- option: Add blacklist for ZTE K3765-Z
+- Revert "USB: option: add ID for ZTE MF 330" as its a usb hub
+
+
+END

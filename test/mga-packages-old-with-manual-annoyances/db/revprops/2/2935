@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-18T20:15:38.456505Z
+K 7
+svn:log
+V 78
+revert 2 drm/i915 patches introduced in 3.8.3 as they break more than they fix
+END

@@ -1,0 +1,144 @@
+id: 2-8.0-3704.r3704/0
+type: dir
+pred: 2-8.0.r3701/7591
+count: 107
+text: 3701 7499 79 0 6189c7e6270bb31b86ceba4befb8543f
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.18/1.mga4
+copyfrom: 3701 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.5.mga4
+V 22
+dir 2-8.0-3642.r3642/0
+K 6
+1.mga4
+V 22
+dir 2-8.0-3704.r3704/0
+END
+ENDREP
+id: 3-3639.0.r3704/357
+type: dir
+pred: 3-3639.0.r3642/318
+count: 2
+text: 3704 260 84 0 cc1024ae7e7b363faa440295c396e403
+cpath: /cauldron/glibc/releases/6:2.18
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3571/627
+K 6
+6:2.18
+V 22
+dir 3-3639.0.r3704/357
+END
+ENDREP
+id: 35-8.0.r3704/743
+type: dir
+pred: 35-8.0.r3642/702
+count: 44
+text: 3704 531 199 0 61b8ccaa73439eee5b16d599a5e393a4
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 20
+dir 2-8.0.r3701/7591
+K 8
+pristine
+V 22
+dir 2-8.0-3703.r3703/0
+K 8
+releases
+V 20
+dir 35-8.0.r3704/743
+END
+ENDREP
+id: 1-7.0.r3704/1085
+type: dir
+pred: 1-7.0.r3703/423
+count: 268
+text: 3704 908 164 0 4abbd491648882421b8d865fe7c5e912
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3704/1085
+K 6
+kernel
+V 20
+dir 1-5.0.r3686/2445
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3700/3433
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3623/2713
+K 7
+systemd
+V 21
+dir 1-40.0.r3694/1894
+END
+ENDREP
+id: 0-1.0.r3704/1495
+type: dir
+pred: 0-1.0.r3703/831
+count: 3314
+text: 3704 1241 241 0 f8e7d270604ed6d14f90ab1b980a796f
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3704/1495
+K 7
+updates
+V 22
+dir 0-539.0.r3650/4771
+END
+ENDREP
+id: 0.0.r3704/1743
+type: dir
+pred: 0.0.r3703/1076
+count: 3704
+text: 3704 1647 83 0 10e08a01988c6361403209760db37d68
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3703-2uv add-dir false false /cauldron/glibc/releases/6:2.18/1.mga4
+3701 /cauldron/glibc/current
+
+1743 1883

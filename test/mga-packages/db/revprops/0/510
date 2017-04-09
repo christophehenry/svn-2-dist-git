@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-03-27T21:21:22.144618Z
+K 7
+svn:log
+V 120
+Backport mdv commit 535522
+	- fix file trigger hang when several filetrigger scripts are run in parallel (mdvbz #57878)
+
+END

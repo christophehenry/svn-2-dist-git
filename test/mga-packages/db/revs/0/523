@@ -1,0 +1,148 @@
+id: 2-3.0-523.r523/0
+type: dir
+pred: 2-3.0.r516/1747
+count: 23
+text: 516 1659 75 75 02cdeb1801777fbd9c5ab77fa6826b0f
+props: 515 970 65 65 6f7550f7e52991e5913961216df1ef5d
+cpath: /cauldron/kernel-linus/releases/2.6.38.2/1.mga1
+copyfrom: 516 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-523.r523/0
+END
+ENDREP
+id: 3-520.0.r523/326
+type: dir
+pred: 3-520.0.r520/0
+count: 1
+text: 523 272 41 41 9e3c248029fd6221a5382d2ea96e1c05
+cpath: /cauldron/kernel-linus/releases/2.6.38.2
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-244.0.r247/323
+K 8
+2.6.37.2
+V 20
+dir 3-275.0.r278/325
+K 6
+2.6.38
+V 20
+dir 3-339.0.r391/459
+K 8
+2.6.38.1
+V 20
+dir 3-493.0.r496/326
+K 8
+2.6.38.2
+V 20
+dir 3-520.0.r523/326
+END
+ENDREP
+id: n-3.0.r523/713
+type: dir
+pred: n-3.0.r520/309
+count: 13
+text: 523 503 197 197 65a0099532a0f4e38d0deadd54d0d00f
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r516/1747
+K 8
+pristine
+V 20
+dir 2-3.0-522.r522/0
+K 8
+releases
+V 18
+dir n-3.0.r523/713
+END
+ENDREP
+id: 1-2.0.r523/1012
+type: dir
+pred: 1-2.0.r522/386
+count: 53
+text: 523 882 117 117 03086a1c042f8fd8904d37a664e5c3bc
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r504/994
+K 5
+glibc
+V 19
+dir 1-7.0.r491/1078
+K 6
+kernel
+V 19
+dir 1-5.0.r519/1512
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r523/1012
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r523/1560
+type: dir
+pred: 0-1.0.r522/931
+count: 522
+text: 523 1173 374 374 b634a5871358db8f58f65cd8cbdda07d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r523/1560
+END
+ENDREP
+id: 0.0.r523/1765
+type: dir
+pred: 0.0.r522/1133
+count: 523
+text: 523 1710 42 42 7712ed7364f881e3b1370bbb5d2a447a
+cpath: /
+copyroot: 0 /
+
+2-3._0.t522-ei add-dir false false /cauldron/kernel-linus/releases/2.6.38.2/1.mga1
+516 /cauldron/kernel-linus/current
+
+1765 1902

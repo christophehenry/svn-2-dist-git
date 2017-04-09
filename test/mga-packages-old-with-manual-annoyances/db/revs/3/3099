@@ -1,0 +1,672 @@
+id: 3n-2993.0.r3099/0
+type: file
+pred: 3n-2993.0.r3098/1827
+count: 2
+text: 2993 63395 3866 16400 5400f680530f27873cf79ed09e5eddf6 3f82343eaed8c02a60665a794450558a85d5b43d 3098-2e2/_5
+cpath: /cauldron/systemd/current/SOURCES/0196-udev-use-usec_t-and-now.patch
+copyroot: 0 /
+
+PLAIN
+K 52
+0100-rules-Remove-HP-iLO-from-USB-HID-PM-rules.patch
+V 25
+file 4-2746.0.r2746/47698
+K 63
+0101-job-avoid-recursion-into-transaction-code-from-job-c.patch
+V 25
+file 7-2746.0.r2746/47960
+K 49
+0102-sysctl-parse-all-keys-in-a-config-file.patch
+V 25
+file 9-2746.0.r2746/48236
+K 61
+0103-journal-fix-parsing-of-monotonic-kernel-timestamps.patch
+V 25
+file b-2746.0.r2746/48497
+K 63
+0104-hwclock-do-not-seal-the-kernel-s-time-warp-call-from.patch
+V 25
+file d-2746.0.r2746/48771
+K 38
+0105-units-agetty-overrides-TERM.patch
+V 25
+file f-2746.0.r2746/49048
+K 63
+0106-shared-libsystemd-daemon-check-for-empty-strings-in-.patch
+V 25
+file h-2746.0.r2746/49299
+K 63
+0107-shared-core-do-not-always-accept-numbers-in-string-l.patch
+V 30
+file 4-2590.0-2746.r2746/49576
+K 63
+0108-shared-max-in-the-string-number-conversion-is-meant-.patch
+V 25
+file k-2746.0.r2746/49983
+K 40
+0109-strv-cleanup-error-path-loops.patch
+V 25
+file m-2746.0.r2746/50259
+K 60
+0110-build-sys-store-journald-code-in-a-noinst-library.patch
+V 25
+file o-2746.0.r2746/50513
+K 63
+0111-dbus-manager-fix-a-fatal-dbus-abort-in-bus_manager_m.patch
+V 25
+file q-2746.0.r2746/50790
+K 58
+0112-shutdown-readd-explicit-sync-when-shutting-down.patch
+V 25
+file s-2746.0.r2746/51067
+K 57
+0113-switch-root-try-pivot_root-before-overmounting.patch
+V 25
+file u-2746.0.r2746/51339
+K 63
+0114-umount-always-remount-read-only-before-unmounting-in.patch
+V 25
+file w-2746.0.r2746/51611
+K 63
+0115-shared-utils-systemd-cgls-shows-n-a-when-piping-outp.patch
+V 25
+file y-2746.0.r2746/51889
+K 61
+0116-core-load-fragment-fix-potential-bad-memory-access.patch
+V 26
+file 10-2746.0.r2746/52166
+K 41
+0117-journald-fix-bad-memory-access.patch
+V 26
+file 12-2746.0.r2746/52443
+K 63
+0118-journal-send-always-send-SYSLOG_IDENTIFIER-if-we-hav.patch
+V 26
+file 14-2746.0.r2746/52700
+K 62
+0119-localectl-fix-dbus-call-arguments-in-set_x11_keymap.patch
+V 26
+file 16-2746.0.r2746/52980
+K 51
+0120-add-Belarussian-mapping-simple-by-and-by.patch
+V 26
+file 18-2746.0.r2746/53257
+K 63
+0121-French-Canadian-xlayout-is-just-ca-not-ca-fr-any-mor.patch
+V 26
+file 1a-2746.0.r2746/53523
+K 41
+0122-add-Hebrew-Israel-simple-il-il.patch
+V 26
+file 1c-2746.0.r2746/53802
+K 48
+0123-add-Kazakh-keyboard-mapping-kazakh-kz.patch
+V 26
+file 1e-2746.0.r2746/54058
+K 48
+0124-add-Lithuanian-keyboard-mapping-lt-lt.patch
+V 26
+file 1g-2746.0.r2746/54321
+K 63
+0125-correct-Macedonian-keyboard-mapping-X-layout-is-mk-n.patch
+V 26
+file 1i-2746.0.r2746/54584
+K 48
+0126-configure.ac-fix-FTBFS-with-new-glibc.patch
+V 30
+file 4-2720.1-2746.r2746/54863
+K 44
+0127-tmpfiles-allow-Age-to-be-set-to-0.patch
+V 24
+file 4-2774.0.r2774/6831
+K 53
+0128-tmpfiles-Fix-file-descriptor-leak-on-error.patch
+V 24
+file 7-2774.0.r2774/7084
+K 36
+0129-tmpfiles-introduce-type-X.patch
+V 24
+file 9-2774.0.r2774/7348
+K 60
+0130-tmpfiles-exclude-tmp-systemd-private-from-cleanup.patch
+V 24
+file b-2774.0.r2774/7598
+K 55
+0131-tmpfiles-exclude-var-tmp-systemd-private-too.patch
+V 24
+file d-2774.0.r2774/7869
+K 56
+0132-man-mention-that-PrivateTmp-means-var-tmp-too.patch
+V 24
+file f-2774.0.r2774/8135
+K 63
+0133-service-properly-signal-permanent-failure-of-a-servi.patch
+V 25
+file 4-2993.0.r2993/83715
+K 63
+0134-pam-properly-handle-SSH-logins-lacking-the-PAM-tty-f.patch
+V 25
+file 7-2993.0.r2993/83988
+K 55
+0135-pam_systemd-new-option-for-the-session-class.patch
+V 25
+file 9-2993.0.r2993/84264
+K 63
+0136-logind-it-s-OK-if-a-process-on-an-pty-requests-a-ses.patch
+V 25
+file b-2993.0.r2993/84533
+K 52
+0137-systemd-mount-the-EFI-variable-filesystem.patch
+V 25
+file d-2993.0.r2993/84809
+K 62
+0138-shutdown-don-t-consider-umounting-of-and-usr-failed.patch
+V 25
+file f-2993.0.r2993/85075
+K 49
+0139-readahead-properly-detect-btrfs-on-SSD.patch
+V 25
+file h-2993.0.r2993/85350
+K 63
+0140-timedated-do-not-incorrectly-close-non-opened-dbus-c.patch
+V 25
+file j-2993.0.r2993/85613
+K 50
+0141-journalctl-remove-left-over-log-message.patch
+V 25
+file l-2993.0.r2993/85889
+K 53
+0142-journal-properly-determine-cutoff-max-date.patch
+V 25
+file n-2993.0.r2993/86151
+K 41
+0143-units-reword-rescue-mode-hints.patch
+V 25
+file p-2993.0.r2993/86417
+K 46
+0144-util-fix-possible-integer-overflows.patch
+V 25
+file r-2993.0.r2993/86671
+K 48
+0145-swap-fix-swap-behaviour-with-symlinks.patch
+V 25
+file t-2993.0.r2993/86931
+K 63
+0146-hostnamectl-do-not-choke-on-set-hostname-with-no-arg.patch
+V 25
+file v-2993.0.r2993/87193
+K 55
+0147-cryptsetup-hash-plain-means-don-t-use-a-hash.patch
+V 25
+file x-2993.0.r2993/87470
+K 55
+0148-fstab-generator-more-specific-error-messages.patch
+V 25
+file z-2993.0.r2993/87739
+K 31
+0149-delta.c-fix-option-t.patch
+V 26
+file 11-2993.0.r2993/88009
+K 53
+0150-systemd-highlight-ordering-cycle-deletions.patch
+V 26
+file 13-2993.0.r2993/88255
+K 55
+0151-core-interpret-token-in-ExecStart-as-escaped.patch
+V 26
+file 15-2993.0.r2993/88524
+K 53
+0152-hostnamectl-fix-parsing-of-no-ask-password.patch
+V 26
+file 17-2993.0.r2993/88795
+K 63
+0153-core-load-fragment-be-more-precise-in-error-messages.patch
+V 26
+file 19-2993.0.r2993/89063
+K 63
+0154-socket-improve-error-message-when-we-cannot-spawn-th.patch
+V 26
+file 1b-2993.0.r2993/89343
+K 40
+0155-cryptsetup-fix-nofail-support.patch
+V 26
+file 1d-2993.0.r2993/89622
+K 63
+0156-cryptsetup-generator-state-file-name-in-error-messag.patch
+V 26
+file 1f-2993.0.r2993/89878
+K 63
+0157-fstab-generator-make-error-more-helpful-in-case-of-d.patch
+V 26
+file 1h-2993.0.r2993/90157
+K 55
+0158-systemctl-verbose-message-on-missing-Install.patch
+V 26
+file 1j-2993.0.r2993/90436
+K 39
+0159-shutdown-downgrade-a-warning.patch
+V 26
+file 1l-2993.0.r2993/90707
+K 59
+0160-path-util-set-pointer-to-null-after-calling-free.patch
+V 26
+file 1n-2993.0.r2993/90962
+K 46
+0161-coredumpctl-check-return-of-strndup.patch
+V 26
+file 1p-2993.0.r2993/91236
+K 47
+0162-socket-Too-many-incoming-connections.patch
+V 26
+file 1r-2993.0.r2993/91497
+K 54
+0163-fstab-generator-properly-detect-bind-mounts.patch
+V 26
+file 1t-2993.0.r2993/91760
+K 59
+0164-localectl-support-systems-without-locale-archive.patch
+V 26
+file 1v-2993.0.r2993/92030
+K 63
+0165-logind-Capability-of-making-seats-without-framebuffe.patch
+V 26
+file 1x-2993.0.r2993/92306
+K 63
+0166-service-for-Type-forking-services-ignore-exit-status.patch
+V 26
+file 1z-2993.0.r2993/92585
+K 63
+0167-logind-ignore-non-tty-non-x11-session-when-checking-.patch
+V 26
+file 21-2993.0.r2993/92864
+K 39
+0168-journalctl-quit-on-I-O-error.patch
+V 26
+file 23-2993.0.r2993/93143
+K 51
+0169-core-do-not-make-sockets-dependent-on-lo.patch
+V 26
+file 25-2993.0.r2993/93398
+K 42
+0170-umount-fix-check-for-DM-changed.patch
+V 26
+file 27-2993.0.r2993/93664
+K 47
+0171-shutdown-umount-logging-improvements.patch
+V 26
+file 29-2993.0.r2993/93921
+K 49
+0172-shutdown-umount-use-verbs-consistently.patch
+V 26
+file 2b-2993.0.r2993/94185
+K 63
+0173-shutdown-in-the-final-umount-loop-don-t-use-MNT_FORC.patch
+V 26
+file 2d-2993.0.r2993/94451
+K 62
+0174-shutdown-ignore-loop-devices-without-a-backing-file.patch
+V 26
+file 2f-2993.0.r2993/94730
+K 37
+0175-util-fix-bad-memory-access.patch
+V 26
+file 2h-2993.0.r2993/95008
+K 54
+0176-util-continuation-support-for-load_env_file.patch
+V 26
+file 2j-2993.0.r2993/95260
+K 36
+0177-tmpfiles-introduce-type-X.patch
+V 26
+file 2l-2993.0.r2993/95531
+K 51
+0178-job-fix-merging-with-ignore-dependencies.patch
+V 26
+file 2n-2993.0.r2993/95783
+K 51
+0179-journalctl-require-argument-for-priority.patch
+V 26
+file 2p-2993.0.r2993/96049
+K 63
+0180-cryptsetup-accept-both-read-only-and-readonly-spelli.patch
+V 26
+file 2r-2993.0.r2993/96316
+K 63
+0181-shutdown-issue-a-sync-as-soon-as-shutdown.target-is-.patch
+V 26
+file 2t-2993.0.r2993/96595
+K 58
+0182-systemctl-print-wall-message-only-if-successful.patch
+V 26
+file 2v-2993.0.r2993/96875
+K 52
+0183-journal-introduce-entry-array-chain-cache.patch
+V 26
+file 2x-2993.0.r2993/97148
+K 55
+0184-completion-fix-typo-in-accessing-array-index.patch
+V 26
+file 2z-2993.0.r2993/97418
+K 54
+0185-bash-completion-add-minimal-udevadm-support.patch
+V 26
+file 31-2993.0.r2993/97689
+K 63
+0186-bash-completion-avoid-usage-of-ls-for-listing-device.patch
+V 26
+file 33-2993.0.r2993/97960
+K 63
+0187-logind-support-for-hybrid-sleep-i.e.-suspend-hiberna.patch
+V 26
+file 35-2993.0.r2993/98238
+K 49
+0188-fstab-mount-detect-rbind-as-bind-mount.patch
+V 26
+file 37-2993.0.r2993/98519
+K 46
+0189-udev-path_id-handle-Hyper-V-devices.patch
+V 26
+file 39-2993.0.r2993/98784
+K 60
+0190-keymap-Update-the-list-of-Samsung-Series-9-models.patch
+V 26
+file 3b-2993.0.r2993/99046
+K 34
+0191-keymap-Add-Samsung-700T.patch
+V 26
+file 3d-2993.0.r2993/99323
+K 52
+0192-libudev-avoid-leak-during-realloc-failure.patch
+V 26
+file 3f-2993.0.r2993/99573
+K 54
+0193-libudev-do-not-resolve-attr-device-symlinks.patch
+V 26
+file 3h-2993.0.r2993/99841
+K 63
+0194-libudev-validate-udev-argument-to-udev_enumerate_new.patch
+V 27
+file 3j-2993.0.r2993/100111
+K 30
+0195-udev-fix-whitespace.patch
+V 27
+file 3l-2993.0.r2993/100390
+K 34
+0196-udev-use-usec_t-and-now.patch
+V 22
+file 3n-2993.0.r3099/0
+K 63
+0197-udev-properly-handle-symlink-removal-by-change-event.patch
+V 27
+file 3p-2993.0.r2993/100890
+K 40
+0198-keymap-Add-HP-EliteBook-8440p.patch
+V 27
+file 3r-2993.0.r2993/101171
+K 35
+0199-keymap-Add-HP-HDX-9494NR.patch
+V 27
+file 3t-2993.0.r2993/101428
+K 53
+0200-keymap-Add-HP-HDX-9494NR-Fix-touchpad-keys.patch
+V 27
+file 3v-2993.0.r2993/101681
+K 56
+0201-udev-Fix-device-matching-in-the-accelerometer.patch
+V 27
+file 3x-2993.0.r2993/101950
+K 54
+0202-udev-usb_id-ignore-non-ASCII-serial-numbers.patch
+V 27
+file 3z-2993.0.r2993/102223
+K 63
+0203-udev-usb_id-parse-only-size-bytes-of-the-descriptors.patch
+V 27
+file 41-2993.0.r2993/102495
+K 63
+0204-cdrom_id-add-data-track-count-for-bad-virtual-drive-.patch
+V 27
+file 43-2993.0.r2993/102774
+K 59
+0205-udev-expose-new-ISO9660-properties-from-libblkid.patch
+V 27
+file 45-2993.0.r2993/103054
+K 32
+0206-shared-add-is_efiboot.patch
+V 27
+file 47-2993.0.r2993/103330
+K 61
+0207-kmod-setup-add-conditional-module-loading-callback.patch
+V 27
+file 49-2993.0.r2993/103579
+K 63
+0208-kmod-setup-mounting-efivarfs-after-we-tried-to-mount.patch
+V 27
+file 4b-2993.0.r2993/103858
+K 63
+0209-mount-setup-try-mounting-efivarfs-only-if-the-system.patch
+V 27
+file 4d-2993.0.r2993/104138
+K 45
+0210-udevd-add-missing-to-getopt_long-e.patch
+V 24
+file 4-3014.0.r3014/4540
+K 63
+0211-udev-builtin-do-not-fail-builtin-initialization-if-o.patch
+V 24
+file 7-3014.0.r3014/4793
+K 63
+0212-udev-use-unique-names-for-temporary-files-created-in.patch
+V 24
+file 9-3014.0.r3014/5067
+K 63
+0213-cryptsetup-fix-inverted-comparison-in-pass_volume_ke.patch
+V 24
+file b-3014.0.r3014/5343
+K 63
+0214-journal-special-case-the-trivial-cache-chain-cache-e.patch
+V 24
+file d-3014.0.r3014/5618
+K 40
+0215-util-avoid-divide-by-zero-FPE.patch
+V 24
+file 6-3098.0.r3098/2101
+K 39
+0216-util-improve-overflow-checks.patch
+V 24
+file 8-3098.0.r3098/2352
+K 63
+0500-Clean-directories-that-were-cleaned-up-by-rc.sysinit.patch
+V 28
+file f-955.0-1526.r2100/3486
+K 35
+0501-Some-more-tmpfiles-fixes.patch
+V 28
+file p-955.3-2060.r2100/3890
+K 63
+0502-main-Add-failsafe-to-the-sysvinit-compat-cmdline-key.patch
+V 29
+file 4-1547.0-2100.r2269/2041
+K 61
+0503-mageia-Fallback-message-when-display-manager-fails.patch
+V 29
+file 7-1625.1-2100.r2269/2448
+K 63
+0504-Disable-modprobe-pci-devices-on-coldplug-for-storage.patch
+V 28
+file 4-2088.0-2751.r2751/317
+K 51
+0505-Allow-booting-from-live-cd-in-virtualbox.patch
+V 28
+file 7-2088.1-2751.r2751/724
+K 37
+0506-reinstate-TIMEOUT-handling.patch
+V 28
+file 9-2088.2-2751.r3013/229
+K 63
+0507-udev-Allow-the-udevadm-settle-timeout-to-be-set-via-.patch
+V 29
+file b-2088.3-2751.r2751/1466
+K 63
+0508-Mageia-Relax-perms-on-sys-kernel-debug-for-lspcidrak.patch
+V 29
+file 4-2627.4-2751.r2751/1876
+K 63
+0509-udev-rules-Apply-SuSE-patch-to-restore-cdrom-cdrw-dv.patch
+V 27
+file 4g-2993.0.r2993/104781
+K 20
+50-udev-mageia.rules
+V 26
+file 6-28.0-2091.r2091/380
+K 29
+61-mobile-zte-drakx-net.rules
+V 26
+file 9-28.1-2091.r2091/685
+K 19
+69-printeracl.rules
+V 27
+file b-28.2-2091.r2091/1006
+K 33
+75-persistent-net-generator.rules
+V 24
+file 4-2745.0.r2745/5155
+K 12
+76-net.rules
+V 27
+file d-28.3-2091.r2091/1307
+K 24
+rule_generator.functions
+V 23
+file 7-2745.0.r2968/131
+K 8
+sha1.lst
+V 21
+file j-41.0.r2478/586
+K 49
+systemd-188-udev-network-interface-renaming.patch
+V 24
+file 4-2474.0.r2474/1914
+K 18
+udev_net.sysconfig
+V 28
+file 15-28.4-2091.r2091/1590
+K 15
+udev_net_action
+V 28
+file 17-28.5-2091.r2185/5049
+K 21
+udev_net_create_ifcfg
+V 28
+file 19-28.6-2091.r2091/2194
+K 15
+write_net_rules
+V 23
+file 9-2745.0.r2964/198
+END
+ENDREP
+id: 4-41.0.r3099/12656
+type: dir
+pred: 4-41.0.r3098/14988
+count: 90
+text: 3099 274 12369 0 7816870ff089c6a5b6da2030740bc672
+cpath: /cauldron/systemd/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 22
+dir 4-41.0.r3099/12656
+K 5
+SPECS
+V 22
+dir l-41.0.r3014/18623
+END
+ENDREP
+id: 2-41.0.r3099/12931
+type: dir
+pred: 2-41.0.r3098/15264
+count: 189
+text: 3099 12836 82 0 182d2ecea866ddf1d7589ea32e1f457f
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-41.0.r3099/12931
+K 8
+pristine
+V 23
+dir 2-41.0-3016.r3016/0
+K 8
+releases
+V 21
+dir p-41.0.r3017/1974
+END
+ENDREP
+id: 1-40.0.r3099/13295
+type: dir
+pred: 1-40.0.r3098/15628
+count: 545
+text: 3099 13156 126 0 beb63646b7aa18304a1b66dcbcbee189
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r3002/1122
+K 6
+kernel
+V 20
+dir 1-5.0.r3089/2309
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3092/3084
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3097/2405
+K 7
+systemd
+V 22
+dir 1-40.0.r3099/13295
+END
+ENDREP
+id: 0-1.0.r3099/13678
+type: dir
+pred: 0-1.0.r3098/16010
+count: 2811
+text: 3099 13460 205 0 0d177c85d777fa70d79ec8c5aafdfe9a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 21
+dir 0-1.0.r3099/13678
+K 7
+updates
+V 22
+dir 0-539.0.r2910/5172
+END
+ENDREP
+id: 0.0.r3099/13931
+type: dir
+pred: 0.0.r3098/16262
+count: 3099
+text: 3099 13834 84 0 97c7eeea04eb0ac3c6100d28dbf74444
+cpath: /
+copyroot: 0 /
+
+3n-2993.0.t3098-2e2 modify-file true false /cauldron/systemd/current/SOURCES/0196-udev-use-usec_t-and-now.patch
+
+
+13931 14074

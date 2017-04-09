@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-05T11:27:21.682940Z
+K 7
+svn:log
+V 40
+SILENT: fix typo in ndiswrapper buildfix
+END

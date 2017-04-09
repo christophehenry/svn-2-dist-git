@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2012-06-04T23:16:26.673741Z
+K 7
+svn:log
+V 104
+New version 184
+SILENT: Start to fix file list
+SILENT: Move files in /usr
+SILENT: Need to be discussed 
+
+END

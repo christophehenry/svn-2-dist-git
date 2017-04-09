@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2012-07-22T18:17:51.073535Z
+K 7
+svn:log
+V 110
+remove /run/.mageia-network check for network initscript, unneded now that /var/lock is a symlink to /run/lock
+END

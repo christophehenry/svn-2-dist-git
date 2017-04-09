@@ -1,0 +1,234 @@
+PLAIN
+K 51
+acpi-video-add-blacklist-to-use-vendor-driver.patch
+V 28
+file 2o-51.0-2446.r2446/5597
+K 58
+gpu-drm-nouveau-bios-Fix-tracking-of-BIOS-image-data.patch
+V 27
+file a-1737.0-1741.r1741/60
+END
+ENDREP
+id: 4-210.0.r3411/205
+type: dir
+pred: 4-210.0.r2446/6614
+count: 5
+text: 3411 0 192 0 799877999d5cb5e4c63d3f11b469adea
+cpath: /cauldron/kernel/current/PATCHES/broken
+copyroot: 0 /
+
+PLAIN
+K 26
+init-netbook-Kconfig.patch
+V 29
+file 8-269.0-2600.r2600/14840
+K 38
+init-netbook-dont-wait-for-mouse.patch
+V 29
+file b-269.1-2600.r2600/15176
+K 35
+init-netbook-retry-root-mount.patch
+V 29
+file d-269.2-2600.r2600/15538
+K 52
+kbuild-compress-kernel-modules-on-installation.patch
+V 28
+file 3o-51.0-2601.r2601/9869
+K 71
+media-dvb-Fix-DVB-S-regression-caused-by-a-missing-initialization.patch
+V 30
+file 5-1654.1-2602.r2602/13213
+K 64
+net-mac80211-improve-latency-and-throughput-while-software.patch
+V 30
+file 5-2801.0-2887.r2887/14163
+K 32
+net-wireless-ath9k-testfix.patch
+V 28
+file 5-520.0-1686.r1686/8632
+K 39
+net-wireless-rt2800usb_disable_ps.patch
+V 28
+file 5-375.0-1953.r1953/7179
+K 54
+video-fb-avoid-deadlock-caused-by-fb_set_suspend.patch
+V 26
+file 7-296.0-628.r628/6682
+K 47
+video-fb-avoid-oops-when-fw-fb-is-removed.patch
+V 26
+file 9-296.1-628.r628/7072
+END
+ENDREP
+id: 6-627.0.r3411/1263
+type: dir
+pred: 6-627.0.r2887/15661
+count: 10
+text: 3411 385 865 0 724ce545f0eaeaa6c2401144a41e7866
+cpath: /cauldron/kernel/current/PATCHES/queue
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 21
+dir 4-210.0.r3411/205
+K 7
+configs
+V 23
+dir i-51.0.r3410/203951
+K 7
+patches
+V 23
+dir s-51.0.r3410/212255
+K 5
+queue
+V 22
+dir 6-627.0.r3411/1263
+K 7
+scripts
+V 23
+dir 70-51.0.r2937/18912
+END
+ENDREP
+id: 6-51.0.r3411/1709
+type: dir
+pred: 6-51.0.r3410/212710
+count: 420
+text: 3411 1447 249 0 b7e35707f95d3d01898f467586e0cc07
+cpath: /cauldron/kernel/current/PATCHES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r1280/47
+K 7
+PATCHES
+V 21
+dir 6-51.0.r3411/1709
+K 7
+SOURCES
+V 21
+dir 4-6.0.r3408/42050
+K 5
+SPECS
+V 22
+dir 6-6.0.r3410/213203
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r3411/2108
+type: dir
+pred: 2-6.0.r3410/213601
+count: 741
+text: 3411 1888 207 0 293e135860393da5ab4e3778a0b1609d
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r3411/2108
+K 8
+pristine
+V 22
+dir 2-6.0-3359.r3359/0
+K 8
+releases
+V 21
+dir 2-14.0.r3360/3135
+END
+ENDREP
+id: 1-5.0.r3411/2467
+type: dir
+pred: 1-5.0.r3410/213964
+count: 1165
+text: 3411 2331 123 0 664aa13b249840e67a217b0f8c568fa0
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3411/2467
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3407/3355
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3365/2633
+K 7
+systemd
+V 21
+dir 1-40.0.r3288/1626
+END
+ENDREP
+id: 0-1.0.r3411/2883
+type: dir
+pred: 0-1.0.r3410/214385
+count: 3027
+text: 3411 2629 241 0 1ff8899185cbdc8b2ee9097a7eb49de0
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3411/2883
+K 7
+updates
+V 22
+dir 0-539.0.r3390/6935
+END
+ENDREP
+id: 0.0.r3411/3134
+type: dir
+pred: 0.0.r3410/214641
+count: 3411
+text: 3411 3038 83 0 9b0563bc013bfa69120680a1b7ff9577
+cpath: /
+copyroot: 0 /
+
+5-223.0-627.r627/0 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38-modular.patch
+
+8-223.1-627.r627/336 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-aufs2.1-38.patch
+
+b-1920.0-2333.r2333/328 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-unionfs-2.5.11_for_3.4.0-buildfix.patch
+
+5-2210.1-2333.r2333/705 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-unionfs-2.5.11_for_3.5.0-buildfix.patch
+
+5-1604.2-2333.r2333/1076 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-unionfs-2.5.11_for_3.5.0.patch
+
+5-2263.3-2333.r2333/1439 delete-file false false /cauldron/kernel/current/PATCHES/broken/fs-unionfs-3.5.1-buildfix.patch
+
+7-463.2-627.r627/972 delete-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.3-oops.patch
+
+9-463.3-627.r627/1307 delete-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-2.5.8_for_2.6.38-rc7.patch
+
+5-224.4-627.r627/1664 delete-file false false /cauldron/kernel/current/PATCHES/queue/fs-unionfs-buildfix.patch
+
+
+3134 3276

@@ -1,0 +1,97 @@
+id: 2-150.0-234.r234/0
+type: dir
+pred: 2-150.0.r232/636
+count: 7
+text: 232 545 78 78 2d3b971a662ea6ab4ce244746595ec96
+cpath: /cauldron/bugzilla/pristine
+copyfrom: 233 /cauldron/bugzilla/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-150.0.r232/636
+K 8
+pristine
+V 22
+dir 2-150.0-234.r234/0
+K 8
+releases
+V 20
+dir j-150.0.r158/494
+END
+ENDREP
+id: 1-149.0.r234/330
+type: dir
+pred: 1-149.0.r233/94
+count: 14
+text: 234 195 122 122 5acc2848aff6a804ab1244f23bfc89c6
+cpath: /cauldron/bugzilla
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r234/330
+K 7
+firefox
+V 20
+dir 1-63.0.r220/1069
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r221/977
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r234/830
+type: dir
+pred: 0-1.0.r233/589
+count: 233
+text: 234 489 328 328 e5b77e163eb01bbb40ee3268f1ba7f0a
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r234/830
+END
+ENDREP
+id: 0.0.r234/1032
+type: dir
+pred: 0.0.r233/792
+count: 234
+text: 234 978 41 41 b7f7485fcbc366dc9a80230b3e4abbd5
+cpath: /
+copyroot: 0 /
+
+2-150._0.t233-6h add-dir false false /cauldron/bugzilla/pristine
+233 /cauldron/bugzilla/current
+
+1032 1167

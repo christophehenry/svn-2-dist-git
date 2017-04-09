@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-05T19:02:33.228045Z
+K 7
+svn:log
+V 73
+disable FW_LOADER_USER_HELPER as udev is not doing any fw loading anymore
+END

@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-13T23:13:47.422396Z
+K 7
+svn:log
+V 497
+- update to 3.12-rc5
+- drop patches:
+  * DN40: bcma BCM43142 support (merged)
+- update patches:
+  * FO01-FO09: overlayfs support
+- rediff patches:
+  * NI10: netfilter IFWLOG support
+- add patches:
+  * MB15: ndiswrapper buildfix for kernel 3.12
+- disable patches:
+  * CK01: BFS scheduler (needs update to support 3.12)
+  * FR01: reiser4 support (needs update to support 3.12)
+  * KP01: TuxOnIce support (needs update to support 3.12)
+- update filelists
+- update defconfigs
+- update dkms conflicts
+
+
+END

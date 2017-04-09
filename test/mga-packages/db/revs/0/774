@@ -1,0 +1,164 @@
+id: 2-305.0-774.r774/0
+type: dir
+pred: 2-305.0.r766/5332
+count: 26
+text: 766 5239 80 80 097b36cfeefabc7c2c3763c4d699f154
+props: 656 1419 65 65 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/2.6.38.7/1.mga1
+copyfrom: 766 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-774.r774/0
+END
+ENDREP
+id: 3-771.0.r774/329
+type: dir
+pred: 3-771.0.r771/0
+count: 1
+text: 774 273 43 43 95e70aa20ac8afc96ca9c78672eeb79d
+cpath: /cauldron/kernel-tmb/releases/2.6.38.7
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+K 8
+2.6.37.4
+V 20
+dir 3-466.0.r469/331
+K 8
+2.6.38.2
+V 20
+dir 3-533.0.r572/367
+K 8
+2.6.38.3
+V 20
+dir 3-617.0.r620/329
+K 8
+2.6.38.4
+V 20
+dir 3-657.0.r660/329
+K 8
+2.6.38.5
+V 20
+dir 3-706.0.r709/329
+K 8
+2.6.38.6
+V 20
+dir 3-733.0.r736/329
+K 8
+2.6.38.7
+V 20
+dir 3-771.0.r774/329
+END
+ENDREP
+id: r-305.0.r774/833
+type: dir
+pred: r-305.0.r771/426
+count: 17
+text: 774 504 316 316 a0c2cdcaab946447a83976e558f21a0f
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-305.0.r766/5332
+K 8
+pristine
+V 22
+dir 2-305.0-773.r773/0
+K 8
+releases
+V 20
+dir r-305.0.r774/833
+END
+ENDREP
+id: 1-304.0.r774/1140
+type: dir
+pred: 1-304.0.r773/393
+count: 62
+text: 774 1004 123 123 84985047bbc6c1c73ab8de3ae68a9471
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r770/1306
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r759/1208
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r774/1140
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r744/1215
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r774/1694
+type: dir
+pred: 0-1.0.r773/943
+count: 770
+text: 774 1304 377 377 6dad5d0b93b05450954ad64bc6562f34
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r774/1694
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r774/1937
+type: dir
+pred: 0.0.r773/1183
+count: 774
+text: 774 1844 80 80 a82072f811635d04953a61c8d1e643d5
+cpath: /
+copyroot: 0 /
+
+2-305._0.t773-lh add-dir false false /cauldron/kernel-tmb/releases/2.6.38.7/1.mga1
+766 /cauldron/kernel-tmb/current
+
+1937 2074

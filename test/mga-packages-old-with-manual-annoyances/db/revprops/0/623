@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-14T21:26:07.347283Z
+K 7
+svn:log
+V 460
+- rediff patches:
+  3rd-3rdparty-merge.patch
+  acpi-add-proc-event-regs.patch
+  arm_fix_bad_udelay_usage.patch
+  net-netfilter-psd.patch
+  net-netfilter-psd-mdv.patch
+  platform-x86-add-shuttle-wmi-driver.patch
+  x86-cpufreq-speedstep-dothan-3.patch
+  x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+- drop merged patch:
+  net-usb-rndis_host-poll-status-channel-before-control-channel.patch
+- drop obsolete patch:
+  mv643xx_eth_csum_part2.patch
+
+
+END

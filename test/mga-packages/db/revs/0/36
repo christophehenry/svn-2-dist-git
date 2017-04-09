@@ -1,0 +1,78 @@
+id: 2-12.0-36.r36/0
+type: dir
+pred: 2-12.0.r34/577
+count: 7
+text: 34 488 76 76 262d42ecc4793b2fcdcd912237f284cd
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/pristine
+copyfrom: 35 /cauldron/rpm/current
+
+PLAIN
+K 7
+current
+V 18
+dir 2-12.0.r34/577
+K 8
+pristine
+V 19
+dir 2-12.0-36.r36/0
+K 8
+releases
+V 19
+dir 37-12.0.r32/516
+END
+ENDREP
+id: 1-11.0.r36/362
+type: dir
+pred: 1-11.0.r35/91
+count: 14
+text: 36 233 116 116 bc576af085af280339346c0fce995ff7
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r25/917
+K 6
+kernel
+V 17
+dir 1-5.0.r22/804
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 18
+dir 1-11.0.r36/362
+END
+ENDREP
+id: 0-1.0.r36/667
+type: dir
+pred: 0-1.0.r35/391
+count: 35
+text: 36 511 143 143 494353e2573034ef36035a9801a6fc80
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r36/667
+END
+ENDREP
+id: 0.0.r36/864
+type: dir
+pred: 0.0.r35/589
+count: 36
+text: 36 811 40 40 1f34e83754e2d4ded2dce78ca8a88a44
+cpath: /
+copyroot: 0 /
+
+2-12._0.t35-z add-dir false false /cauldron/rpm/pristine
+35 /cauldron/rpm/current
+
+864 994

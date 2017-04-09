@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-19T19:58:59.178514Z
+K 7
+svn:log
+V 72
+- fix Three integer overflows in glibc memory allocator (CVE-2013-4332)
+
+END

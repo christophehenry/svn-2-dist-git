@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-02-24T10:58:55.818272Z
+K 7
+svn:log
+V 44
+Add BR for docbook-style-xsl (for man pages)
+END

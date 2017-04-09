@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-19T18:53:17.026007Z
+K 7
+svn:log
+V 214
+- switch transparent hugepages from on by default to madvise (only enabled
+  for apps that requests it), as it fixes desktop freeze when accessing
+  slow media such as usb (thanks to fbui/mdv mail on @cooker ml).
+
+
+END

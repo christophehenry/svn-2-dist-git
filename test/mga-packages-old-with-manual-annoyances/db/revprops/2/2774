@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-01-27T15:52:43.834782Z
+K 7
+svn:log
+V 94
+Add some more upstream patches to solve problems of overzealous cleanup of PrivateTmp=yes dirs
+END

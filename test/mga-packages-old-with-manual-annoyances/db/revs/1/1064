@@ -1,0 +1,178 @@
+id: 3-1064.0.r1064/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases/3.1.2
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+K 8
+2.6.38.7
+V 20
+dir 3-485.0.r488/315
+K 8
+2.6.38.8
+V 20
+dir 3-501.0.r809/500
+K 5
+3.0.0
+V 20
+dir 3-648.0.r670/375
+K 5
+3.0.4
+V 20
+dir 3-760.0.r763/312
+K 5
+3.0.6
+V 20
+dir 3-863.0.r866/311
+K 5
+3.1.0
+V 21
+dir 3-891.0.r1016/445
+K 5
+3.1.1
+V 22
+dir 3-1048.0.r1051/332
+K 5
+3.1.2
+V 20
+dir 3-1064.0.r1064/0
+END
+ENDREP
+id: 2-14.0.r1064/870
+type: dir
+pred: 2-14.0.r1051/1244
+count: 54
+text: 1064 94 763 0 7dbae6c3361fd6d4ef56c9422fc936e3
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r1063/3502
+K 8
+pristine
+V 22
+dir 2-6.0-1050.r1050/0
+K 8
+releases
+V 20
+dir 2-14.0.r1064/870
+END
+ENDREP
+id: 1-5.0.r1064/1171
+type: dir
+pred: 1-5.0.r1063/3859
+count: 390
+text: 1064 1036 122 0 b81a2d2c921b2e541f671eacbf2460ce
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r968/982
+K 6
+kernel
+V 20
+dir 1-5.0.r1064/1171
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1057/1403
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r981/1314
+K 7
+systemd
+V 21
+dir 1-40.0.r1045/1430
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r1064/1578
+type: dir
+pred: 0-1.0.r1063/4266
+count: 969
+text: 1064 1330 235 0 933c8bdecec034f03a9df743474f7fb6
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1064/1578
+K 7
+updates
+V 22
+dir 0-539.0.r1059/7070
+END
+ENDREP
+id: 0.0.r1064/1826
+type: dir
+pred: 0.0.r1063/4514
+count: 1064
+text: 1064 1730 83 0 2ea8a959b28d0899977527bc9879b160
+cpath: /
+copyroot: 0 /
+
+_3.0.t1063-tj add-dir false false /cauldron/kernel/releases/3.1.2
+
+
+1826 1966

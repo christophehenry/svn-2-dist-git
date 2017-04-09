@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2011-12-18T22:36:53.560406Z
+K 7
+svn:log
+V 99
+Re-enable udev-acl. It's needed for non-systemd boots (caused double ACL on systemd, but that's OK)
+END

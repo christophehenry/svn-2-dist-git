@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-01-15T10:32:28.501754Z
+K 7
+svn:log
+V 41
+Remove ghosted files in /etc. Not needed.
+END

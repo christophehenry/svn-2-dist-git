@@ -1,0 +1,81 @@
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 19
+dir 2-8.0.r1819/686
+K 8
+releases
+V 20
+dir 35-8.0.r1721/895
+END
+ENDREP
+id: 1-7.0.r1821/135
+type: dir
+pred: 1-7.0.r1819/1077
+count: 94
+text: 1821 0 122 0 b8b6b84eba90f2e92e9bc0f6abda3c48
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r1821/135
+K 6
+kernel
+V 20
+dir 1-5.0.r1818/1852
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1816/2016
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1801/1867
+K 7
+systemd
+V 21
+dir 1-40.0.r1807/1537
+K 4
+udev
+V 21
+dir 1-27.0.r1820/1028
+END
+ENDREP
+id: 0-1.0.r1821/540
+type: dir
+pred: 0-1.0.r1820/1439
+count: 1697
+text: 1821 288 239 0 4d13b8ce0176690bc9e2ea37ec91b46c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r1821/540
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1821/786
+type: dir
+pred: 0.0.r1820/1688
+count: 1821
+text: 1821 691 82 0 b76fe16f04510cffde10d555b8a56fe5
+cpath: /
+copyroot: 0 /
+
+2-8.0-1720.r1720/0 delete-dir false false /cauldron/glibc/pristine
+
+
+786 924

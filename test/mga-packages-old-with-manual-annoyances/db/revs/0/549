@@ -1,0 +1,199 @@
+id: 5-549.0-540.r549/0
+type: file
+count: 0
+text: 494 53 266 249 ec422d05837f7b70bf43e7c38fcc2258 872a82cf9fb5bbc36715733d8f9f2dc2342eb785 548-f8/_7
+cpath: /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.8.bz2.sign
+copyroot: 540 /updates/1
+
+PLAIN
+K 21
+README.kernel-sources
+V 19
+file 6-3.0.r3/72034
+K 36
+disable-mrproper-in-devel-rpms.patch
+V 19
+file 9-3.0.r158/334
+K 14
+i386_defconfig
+V 19
+file b-3.0.r413/675
+K 25
+linux-2.6.38.tar.bz2.sign
+V 21
+file 6-184.0.r184/800
+K 23
+patch-2.6.38.8.bz2.sign
+V 23
+file 5-549.0-540.r549/0
+K 8
+sha1.lst
+V 23
+file f-3.0-540.r548/100
+K 16
+x86_64_defconfig
+V 20
+file h-3.0.r413/1150
+END
+ENDREP
+id: 4-3.0-540.r549/632
+type: dir
+pred: 4-3.0-540.r548/903
+count: 33
+text: 549 245 374 0 4cdab0cb39decb7d9b46b5c083ee2700
+cpath: /updates/1/kernel-linus/current/SOURCES
+copyroot: 540 /updates/1
+
+id: k-3.0-540.r549/826
+type: file
+pred: k-3.0.r473/1286
+count: 18
+text: 505 0 27 23424 d283576ab94bbc34fcaa352335803ae7 f27fb7f52f0df8ab9aee4452fbbe632cb21a0c7a 548-f8/_9
+cpath: /updates/1/kernel-linus/current/SPECS/kernel-linus.spec
+copyroot: 540 /updates/1
+
+PLAIN
+K 17
+kernel-linus.spec
+V 23
+file k-3.0-540.r549/826
+END
+ENDREP
+id: j-3.0-540.r549/1155
+type: dir
+pred: j-3.0.r473/1599
+count: 18
+text: 549 1086 56 0 bd303c0c9891b0656d5c4c7c316a0350
+cpath: /updates/1/kernel-linus/current/SPECS
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+SOURCES
+V 22
+dir 4-3.0-540.r549/632
+K 5
+SPECS
+V 23
+dir j-3.0-540.r549/1155
+END
+ENDREP
+id: 2-3.0-540.r549/1441
+type: dir
+pred: 2-3.0-540.r548/1186
+count: 37
+text: 549 1345 83 0 a2c2364e33f956c3f8aa59d6281df80d
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /updates/1/kernel-linus/current
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 23
+dir 2-3.0-540.r549/1441
+K 8
+pristine
+V 20
+dir 2-3.0-476.r476/0
+K 8
+releases
+V 18
+dir n-3.0.r477/906
+END
+ENDREP
+id: 1-2.0-540.r549/1817
+type: dir
+pred: 1-2.0-540.r548/1558
+count: 88
+text: 549 1683 121 0 1e82f481572ad91587b36181832be6a5
+cpath: /updates/1/kernel-linus
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 23
+dir 1-5.0-540.r547/1442
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r549/1817
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0-540.r549/2253
+type: dir
+pred: 0-1.0-540.r548/1990
+count: 489
+text: 549 1998 242 0 747126dd247897117a03335ed0a17078
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 23
+dir 0-1.0-540.r549/2253
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r549/2512
+type: dir
+pred: 0-539.0.r548/2249
+count: 10
+text: 549 2422 77 0 78b81365fbca65b755f203e9da067279
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r538/1783
+K 7
+updates
+V 21
+dir 0-539.0.r549/2512
+END
+ENDREP
+id: 0.0.r549/2756
+type: dir
+pred: 0.0.r548/2492
+count: 549
+text: 549 2662 81 0 ac47ade686302c195db60865c723f61f
+cpath: /
+copyroot: 0 /
+
+6-367.0.r367/849 delete-file false false /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.4.bz2.sign
+
+6-413.0.r413/918 delete-file false false /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.5.bz2.sign
+
+4-437.0.r437/429 delete-file false false /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.6.bz2.sign
+
+4-473.0.r473/331 delete-file false false /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.7.bz2.sign
+
+_5.0-540.t548-f8 add-file true false /updates/1/kernel-linus/current/SOURCES/patch-2.6.38.8.bz2.sign
+
+k-3.0-540.t548-f8 modify-file true false /updates/1/kernel-linus/current/SPECS/kernel-linus.spec
+
+
+2756 2892

@@ -1,0 +1,176 @@
+id: 2-3.0-1057.r1057/0
+type: dir
+pred: 2-3.0.r1052/3570
+count: 85
+text: 1052 3479 78 0 e3368b7483a7dcc7147e5e9c8bb24ad2
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/releases/3.1.1/1.mga2
+copyfrom: 1052 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga2
+V 22
+dir 2-3.0-1057.r1057/0
+END
+ENDREP
+id: 3-1054.0.r1057/329
+type: dir
+pred: 3-1054.0.r1054/0
+count: 1
+text: 1057 273 43 0 79632b7595b45b272eacf5f3b1e0f27c
+cpath: /cauldron/kernel-linus/releases/3.1.1
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+K 8
+2.6.38.4
+V 20
+dir 3-368.0.r371/325
+K 8
+2.6.38.5
+V 20
+dir 3-414.0.r417/325
+K 8
+2.6.38.6
+V 20
+dir 3-438.0.r441/325
+K 8
+2.6.38.7
+V 20
+dir 3-474.0.r477/325
+K 8
+2.6.38.8
+V 20
+dir 3-506.0.r552/362
+K 5
+3.0.0
+V 20
+dir 3-582.0.r667/565
+K 5
+3.0.4
+V 20
+dir 3-754.0.r757/322
+K 5
+3.1.0
+V 20
+dir 3-827.0.r972/543
+K 5
+3.1.1
+V 22
+dir 3-1054.0.r1057/329
+END
+ENDREP
+id: n-3.0.r1057/1097
+type: dir
+pred: n-3.0.r1054/688
+count: 44
+text: 1057 507 577 0 b95b47584878f1d182791f4de0665a34
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-3.0.r1052/3570
+K 8
+pristine
+V 22
+dir 2-3.0-1056.r1056/0
+K 8
+releases
+V 20
+dir n-3.0.r1057/1097
+END
+ENDREP
+id: 1-2.0.r1057/1403
+type: dir
+pred: 1-2.0.r1056/394
+count: 188
+text: 1057 1268 122 0 a278d711c26a638de709074c0790512d
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r968/982
+K 6
+kernel
+V 20
+dir 1-5.0.r1053/2233
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1057/1403
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r981/1314
+K 7
+systemd
+V 21
+dir 1-40.0.r1045/1430
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r1057/1815
+type: dir
+pred: 0-1.0.r1056/802
+count: 964
+text: 1057 1567 235 0 b2d0ccf15873b668abfc86e5e0488e23
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1057/1815
+K 7
+updates
+V 22
+dir 0-539.0.r1036/7364
+END
+ENDREP
+id: 0.0.r1057/2062
+type: dir
+pred: 0.0.r1056/1046
+count: 1057
+text: 1057 1966 83 0 05884fe63aad928dfa77586624b40a7d
+cpath: /
+copyroot: 0 /
+
+2-3._0.t1056-tc add-dir false false /cauldron/kernel-linus/releases/3.1.1/1.mga2
+1052 /cauldron/kernel-linus/current
+
+2062 2202

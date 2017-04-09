@@ -1,0 +1,109 @@
+id: 2-8.0-1276.r1276/0
+type: dir
+pred: 2-8.0.r1262/996
+count: 36
+text: 1262 905 78 0 6dd2dbeb737fbbb917543348164503d8
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/branches/2.15
+copyfrom: 1275 /cauldron/glibc/current
+
+PLAIN
+K 4
+2.15
+V 22
+dir 2-8.0-1276.r1276/0
+END
+ENDREP
+id: 2-1275.0.r1276/302
+type: dir
+pred: 2-1275.0.r1275/0
+count: 1
+text: 1276 248 41 0 28d7e21af7fe93b55d2bfc5056830e97
+cpath: /cauldron/glibc/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 22
+dir 2-1275.0.r1276/302
+K 7
+current
+V 19
+dir 2-8.0.r1262/996
+K 8
+pristine
+V 22
+dir 2-8.0-1264.r1264/0
+K 8
+releases
+V 20
+dir 35-8.0.r1265/776
+END
+ENDREP
+id: 1-7.0.r1276/642
+type: dir
+pred: 1-7.0.r1275/260
+count: 68
+text: 1276 467 162 0 bbfdd39f4f008eaf09acc2d0b3f05447
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r1276/642
+K 6
+kernel
+V 20
+dir 1-5.0.r1274/1790
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1243/1643
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1246/1328
+K 7
+systemd
+V 21
+dir 1-40.0.r1270/1677
+K 4
+udev
+V 21
+dir 1-27.0.r1195/1047
+END
+ENDREP
+id: 0-1.0.r1276/1048
+type: dir
+pred: 0-1.0.r1275/666
+count: 1167
+text: 1276 796 239 0 2741ff64542286c9a46b4150664f5850
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1276/1048
+K 7
+updates
+V 23
+dir 0-539.0.r1255/29516
+END
+ENDREP
+id: 0.0.r1276/1296
+type: dir
+pred: 0.0.r1275/913
+count: 1276
+text: 1276 1199 84 0 500a08a70905a903da6d22ea5a9e8391
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1275-zf add-dir false false /cauldron/glibc/branches/2.15
+1275 /cauldron/glibc/current
+
+1296 1435

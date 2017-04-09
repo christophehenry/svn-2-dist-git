@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T14:35:12.857893Z
+K 7
+svn:log
+V 144
+- md: check ->hot_remove_disk when removing disk
+- md/raid5: fix raid5_set_bi_hw_segments
+- md/raid5: fix FUA request handling in ops_run_io()
+
+
+END

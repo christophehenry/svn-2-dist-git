@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-09-03T10:05:41.425802Z
+K 7
+svn:log
+V 38
+[SCSI] pm80xx: fix Adaptec 71605H hang
+END

@@ -1,0 +1,156 @@
+id: 2-6.0-410.r410/0
+type: dir
+pred: 2-6.0.r406/1092
+count: 125
+text: 406 878 201 0 1b68dbe4166b7a25bfb97ea1c720b5e7
+props: 372 1199 65 0 523291c68480840f65ca2a330b093a51
+cpath: /cauldron/kernel/releases/2.6.38.5/0.rc1.1.mga1
+copyfrom: 406 /cauldron/kernel/current
+
+PLAIN
+K 12
+0.rc1.1.mga1
+V 20
+dir 2-6.0-410.r410/0
+END
+ENDREP
+id: 3-407.0.r410/327
+type: dir
+pred: 3-407.0.r407/0
+count: 1
+text: 410 266 48 0 e777cbef1b6dc0ad1c8d8faa02655ef2
+cpath: /cauldron/kernel/releases/2.6.38.5
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r410/327
+END
+ENDREP
+id: 2-14.0.r410/937
+type: dir
+pred: 2-14.0.r407/533
+count: 26
+text: 410 497 427 0 6661eb5af20663fe236b6de5a4e370ef
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r406/1092
+K 8
+pristine
+V 20
+dir 2-6.0-409.r409/0
+K 8
+releases
+V 19
+dir 2-14.0.r410/937
+END
+ENDREP
+id: 1-5.0.r410/1231
+type: dir
+pred: 1-5.0.r409/375
+count: 183
+text: 410 1100 118 0 c43c5f1d13cec6d02624a12c0a61f706
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r410/1231
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r394/1264
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r395/1348
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r365/999
+END
+ENDREP
+id: 0-1.0.r410/1630
+type: dir
+pred: 0-1.0.r409/770
+count: 409
+text: 410 1386 231 0 aae22d629cc6d478fa09c0476fc156f1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r410/1630
+END
+ENDREP
+id: 0.0.r410/1833
+type: dir
+pred: 0.0.r409/970
+count: 410
+text: 410 1778 42 0 c15f0102d3791a98883b07a337b6cf61
+cpath: /
+copyroot: 0 /
+
+2-6._0.t409-bd add-dir false false /cauldron/kernel/releases/2.6.38.5/0.rc1.1.mga1
+406 /cauldron/kernel/current
+
+1833 1968

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-08T17:02:17.705975Z
+K 7
+svn:log
+V 56
+drm/ttm: fix fence locking in ttm_buffer_object_transfer
+END

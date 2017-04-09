@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-27T20:34:15.150409Z
+K 7
+svn:log
+V 639
+- update to 3.4.51
+- drop merged patches:
+  * AA01-AA05: (stable queue fixes)
+- add patches:
+  * AA01: ARM: 7755/1: handle user space mapped pages in flush_kernel_dcache_page
+  * AA02: ARM: 7772/1: Fix missing flush_kernel_dcache_page() for noMMU
+  * AA03: Bluetooth: Fix crash in l2cap_build_cmd() with small MTU
+  * AA04: Bluetooth: Fix invalid length check in l2cap_information_rsp()
+  * AA05: dlci: acquire rtnl_lock before calling __dev_get_by_name()
+  * AA06: dlci: validate the net device in dlci_del()
+  * AA07: hw_breakpoint: Use cpu_possible_mask in {reserve,release}_bp_slot()
+  * AA08: net/tg3: Avoid delay during MMIO access
+
+
+END

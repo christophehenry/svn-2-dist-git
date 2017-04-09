@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-03-31T08:42:19.940882Z
+K 7
+svn:log
+V 119
+- restore framebuffer oops and deadlock fixes by Herton as
+  they seem to work better than the Ubuntu one (mdv#62864)
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-07T19:54:20.492961Z
+K 7
+svn:log
+V 34
+fix non-expanding xen-pvops macros
+END

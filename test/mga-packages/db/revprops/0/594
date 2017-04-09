@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-04-15T17:46:47.740662Z
+K 7
+svn:log
+V 99
+SILENT: delete file ./SOURCES/rpm-rpmbuild-check-useless-tags-in-non-existant-binary-packages.patch
+END

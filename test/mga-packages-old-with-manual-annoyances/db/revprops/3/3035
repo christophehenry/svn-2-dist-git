@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-13T18:01:36.502899Z
+K 7
+svn:log
+V 65
+conflict too old lvm2 rules to make upgrades work (tv, mga #9356)
+END

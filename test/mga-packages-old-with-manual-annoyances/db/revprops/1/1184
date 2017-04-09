@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-12-18T22:43:49.791681Z
+K 7
+svn:log
+V 133
+- trigger dkms build in posttrans so modules get built at kernel install
+  instead of at boot (speeds up boot time with new kernel)
+
+
+END

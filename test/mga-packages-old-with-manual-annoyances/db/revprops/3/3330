@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-23T13:35:23.332738Z
+K 7
+svn:log
+V 36
+revert broken rtl8192cu wep/wpa1 fix
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-07-24T21:46:09.208378Z
+K 7
+svn:log
+V 183
+- Provide the nss-myhostname package (with higher version than current separate package)
+- nsswitch.conf patching not included in favour of including directly in default conf in glibc
+END

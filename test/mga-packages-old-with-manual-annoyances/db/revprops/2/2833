@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-16T22:42:56.257265Z
+K 7
+svn:log
+V 48
+i2c-i801: Add Device IDs for Intel Wellsburg PCH
+END

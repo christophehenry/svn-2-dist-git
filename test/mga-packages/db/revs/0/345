@@ -1,0 +1,152 @@
+id: 2-12.0-345.r345/0
+type: dir
+pred: 2-12.0.r333/637
+count: 54
+text: 333 546 78 78 afea996e00ed672e219586d57715dc1f
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/4.mga1
+copyfrom: 333 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+K 6
+3.mga1
+V 21
+dir 2-12.0-329.r329/0
+K 6
+4.mga1
+V 21
+dir 2-12.0-345.r345/0
+END
+ENDREP
+id: 3-313.0.r345/423
+type: dir
+pred: 3-313.0.r329/385
+count: 4
+text: 345 254 156 156 e668940dfb03d844628f4a7611933268
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r345/423
+END
+ENDREP
+id: 37-12.0.r345/685
+type: dir
+pred: 37-12.0.r329/647
+count: 10
+text: 345 594 78 78 ed7853cbd0dd549814efb1f42f2bcd07
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 19
+dir 2-12.0.r333/637
+K 8
+pristine
+V 21
+dir 2-12.0-344.r344/0
+K 8
+releases
+V 20
+dir 37-12.0.r345/685
+END
+ENDREP
+id: 1-11.0.r345/1020
+type: dir
+pred: 1-11.0.r344/412
+count: 96
+text: 345 847 160 160 8ccbe72d6de9e84c7a9cff3cb75788f1
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r342/940
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r345/1020
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r345/1559
+type: dir
+pred: 0-1.0.r344/949
+count: 344
+text: 345 1174 372 372 9a2dfcb2db84ca00bae0fda15e1a8ed5
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r345/1559
+END
+ENDREP
+id: 0.0.r345/1764
+type: dir
+pred: 0.0.r344/1151
+count: 345
+text: 345 1709 42 42 52144978a51ef7f980b912b2ed63411c
+cpath: /
+copyroot: 0 /
+
+2-12._0.t344-9k add-dir false false /cauldron/rpm/releases/1:4.8.1/4.mga1
+333 /cauldron/rpm/current
+
+1764 1901

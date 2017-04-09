@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-03-15T20:04:36.176727Z
+K 7
+svn:log
+V 182
+- net: asix: init ASIX AX88772B MAC from EEPROM
+- net: asix: handle packets crossing URB boundaries
+- usb/net/asix_devices: Add USBNET HG20F9 ethernet dongle
+  (requested by Colin)
+
+
+END

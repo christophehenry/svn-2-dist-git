@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T18:21:07.141145Z
+K 7
+svn:log
+V 124
+- x86, quirks: Add workaround for AMD F16h Erratum 792
+- x86, cpu: Add workaround for AMD F16h Erratum 793 (CVE-2013-6885)
+
+
+END

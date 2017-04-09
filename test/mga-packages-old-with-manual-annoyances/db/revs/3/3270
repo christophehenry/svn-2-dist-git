@@ -1,0 +1,89 @@
+id: 2-3257.0-3270.r3270/0
+type: dir
+pred: 2-3257.0.r3267/1412
+count: 4
+text: 3267 1316 83 0 4b76c0fee120513a3714ecc49fd00920
+cpath: /cauldron/cgit/pristine
+copyfrom: 3269 /cauldron/cgit/current
+
+PLAIN
+K 7
+current
+V 23
+dir 2-3257.0.r3267/1412
+K 8
+pristine
+V 25
+dir 2-3257.0-3270.r3270/0
+K 8
+releases
+V 22
+dir j-3257.0.r3264/490
+END
+ENDREP
+id: 1-3256.0.r3270/338
+type: dir
+pred: 1-3256.0.r3269/99
+count: 11
+text: 3270 195 130 0 2ae88068872a3e0dc0f950443cd36436
+cpath: /cauldron/cgit
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3270/338
+K 5
+glibc
+V 20
+dir 1-7.0.r3255/1197
+K 6
+kernel
+V 20
+dir 1-5.0.r3245/3328
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3216/3196
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3251/2554
+K 7
+systemd
+V 21
+dir 1-40.0.r3224/1574
+END
+ENDREP
+id: 0-1.0.r3270/750
+type: dir
+pred: 0-1.0.r3269/508
+count: 2952
+text: 3270 496 241 0 d56116b0627f3f3be0f1f43823033955
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r3270/750
+K 7
+updates
+V 22
+dir 0-539.0.r3268/2726
+END
+ENDREP
+id: 0.0.r3270/995
+type: dir
+pred: 0.0.r3269/754
+count: 3270
+text: 3270 900 82 0 55c952967862e66140c56aa3b65aa335
+cpath: /
+copyroot: 0 /
+
+2-3257._0.t3269-2it add-dir false false /cauldron/cgit/pristine
+3269 /cauldron/cgit/current
+
+995 1132

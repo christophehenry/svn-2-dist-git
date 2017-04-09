@@ -1,0 +1,144 @@
+id: 2-12.0-325.r325/0
+type: dir
+pred: 2-12.0.r322/3658
+count: 49
+text: 322 3566 79 79 e11d6b074452904648a29c911c91c18b
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/releases/1:4.8.1/2.mga1
+copyfrom: 322 /cauldron/rpm/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-12.0-316.r316/0
+K 6
+2.mga1
+V 21
+dir 2-12.0-325.r325/0
+END
+ENDREP
+id: 3-313.0.r325/349
+type: dir
+pred: 3-313.0.r316/309
+count: 2
+text: 325 256 80 80 4f7f3060af17e06c0eefe5139bc5507e
+cpath: /cauldron/rpm/releases/1:4.8.1
+copyroot: 0 /
+
+PLAIN
+K 7
+1:4.6.1
+V 18
+dir 3-29.0.r86/410
+K 7
+1:4.8.1
+V 20
+dir 3-313.0.r325/349
+END
+ENDREP
+id: 37-12.0.r325/609
+type: dir
+pred: 37-12.0.r316/567
+count: 8
+text: 325 518 78 78 05c5708c031d85ab81039b0b246ad872
+cpath: /cauldron/rpm/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 20
+dir 2-12.0.r322/3658
+K 8
+pristine
+V 21
+dir 2-12.0-324.r324/0
+K 8
+releases
+V 20
+dir 37-12.0.r325/609
+END
+ENDREP
+id: 1-11.0.r325/944
+type: dir
+pred: 1-11.0.r324/415
+count: 85
+text: 325 770 161 161 23ce3f02e912ac0f0b142722fd20542e
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r321/1207
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r325/944
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r325/1481
+type: dir
+pred: 0-1.0.r324/952
+count: 324
+text: 325 1097 371 371 09db42fdfa6b632c9369dd728a26b9b1
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r325/1481
+END
+ENDREP
+id: 0.0.r325/1686
+type: dir
+pred: 0.0.r324/1154
+count: 325
+text: 325 1631 42 42 7e7ab1e195be146b5a00d996a62066c6
+cpath: /
+copyroot: 0 /
+
+2-12._0.t324-90 add-dir false false /cauldron/rpm/releases/1:4.8.1/2.mga1
+322 /cauldron/rpm/current
+
+1686 1823

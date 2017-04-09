@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-15T14:37:01.968824Z
+K 7
+svn:log
+V 60
+- add patch:
+  * FR02: reiser4: add user namespace support
+
+
+END

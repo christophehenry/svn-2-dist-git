@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-04-01T20:44:34.651031Z
+K 7
+svn:log
+V 141
+- No need to remove var-{lock,run}.mount units. Upstream patch removes them.
+- No need to set MountAuto/SwapAuto to yes. This is the default.
+END

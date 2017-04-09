@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-11-18T22:07:01.223131Z
+K 7
+svn:log
+V 76
+mm: bugfix: set current->reclaim_state to NULL while returning from kswapd()
+END

@@ -1,0 +1,76 @@
+id: 1-304.0.r304/0
+type: dir
+count: 0
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r303/1162
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 10
+kernel-tmb
+V 18
+dir 1-304.0.r304/0
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r272/991
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r304/463
+type: dir
+pred: 0-1.0.r303/1662
+count: 303
+text: 304 81 369 369 a79dec2512edfd23b842fc9830c12805
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r304/463
+END
+ENDREP
+id: 0.0.r304/665
+type: dir
+pred: 0.0.r303/1867
+count: 304
+text: 304 611 41 41 78d2af2bec209d9708fa42314cc1f173
+cpath: /
+copyroot: 0 /
+
+_1.0.t303-8f add-dir false false /cauldron/kernel-tmb
+
+
+665 800

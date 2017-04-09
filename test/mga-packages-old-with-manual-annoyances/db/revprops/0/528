@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-19T20:28:48.677377Z
+K 7
+svn:log
+V 234
+- update to 2.6.38.8 (CVE-2011-1017)
+- drop merged patches:
+    * AA01, DP15
+- add patches:
+    * CK02: update bfs scheduler to 0.406
+    * MK01: ksm: fix race between ksmd and exiting task (CVE-2011-2183)
+- add mgaver to 'uname -r'
+
+
+END

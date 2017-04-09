@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-24T18:39:09.346500Z
+K 7
+svn:log
+V 167
+- fix strcoll() integer overflow leading to buffer overflow (CVE-2012-4412),
+  and alloca() stack overflow in the strcoll() interface (CVE-2012-4424)
+  (fedora, P102)
+
+END

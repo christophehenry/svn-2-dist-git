@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-01T18:09:58.772992Z
+K 7
+svn:log
+V 58
+tty: fix up atime/mtime mess, take three (Linus, upstream)
+END

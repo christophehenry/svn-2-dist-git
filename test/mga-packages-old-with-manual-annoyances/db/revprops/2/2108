@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T08:53:47.851916Z
+K 7
+svn:log
+V 49
+Support embedded LED on Synaptics devices (#5694)
+END

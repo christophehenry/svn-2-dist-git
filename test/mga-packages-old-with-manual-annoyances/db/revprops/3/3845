@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-16T11:54:14.131275Z
+K 7
+svn:log
+V 99
+- Fix handling LC_CTYPE nonascii-case fallback in i686 SSE4.2 and SSSE3 
+  strcasecmp/strncasecmp
+
+
+END

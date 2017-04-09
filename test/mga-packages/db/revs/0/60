@@ -1,0 +1,98 @@
+id: 3-60.0.r60/0
+type: dir
+count: 0
+cpath: /cauldron/nss/releases/2:3.12.8
+copyroot: 0 /
+
+PLAIN
+K 8
+2:3.12.8
+V 16
+dir 3-60.0.r60/0
+END
+ENDREP
+id: t-57.0.r60/142
+type: dir
+pred: t-57.0.r57/14280
+count: 1
+text: 60 90 39 39 ab8303d127462128196f289a64254e29
+cpath: /cauldron/nss/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-57.0.r59/839
+K 9
+pristine@
+V 19
+dir 2-57.0-58.r58/0
+K 8
+releases
+V 18
+dir t-57.0.r60/142
+END
+ENDREP
+id: 1-56.0.r60/428
+type: dir
+pred: 1-56.0.r59/1182
+count: 4
+text: 60 299 116 116 4e71d83dae833de37916d81b77e03a28
+cpath: /cauldron/nss
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r60/428
+K 3
+rpm
+V 18
+dir 1-11.0.r37/841
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r60/799
+type: dir
+pred: 0-1.0.r59/1555
+count: 59
+text: 60 578 208 208 459e3091017d96893ecba521fd882fad
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r60/799
+END
+ENDREP
+id: 0.0.r60/997
+type: dir
+pred: 0.0.r59/1755
+count: 60
+text: 60 944 40 40 f6723e3a562a9f20e3748f83c6f598cf
+cpath: /
+copyroot: 0 /
+
+_3.0.t59-1n add-dir false false /cauldron/nss/releases/2:3.12.8
+
+
+997 1128

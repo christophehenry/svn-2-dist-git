@@ -1,0 +1,176 @@
+id: 2-150.0-1113.r1113/0
+type: dir
+pred: 2-150.0.r1105/4556
+count: 40
+text: 1105 4461 82 0 c23401fc4e3c92c8778ea1d323e25eb8
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/3.1.4/1.mga2
+copyfrom: 1105 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga2
+V 24
+dir 2-150.0-1113.r1113/0
+END
+ENDREP
+id: 3-1110.0.r1113/331
+type: dir
+pred: 3-1110.0.r1110/0
+count: 1
+text: 1113 273 45 0 0a625d511aeb3f7592645b6a851e24e7
+cpath: /cauldron/kernel-tmb/releases/3.1.4
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-152.0.r155/329
+K 8
+2.6.37.4
+V 20
+dir 3-239.0.r242/329
+K 8
+2.6.38.2
+V 20
+dir 3-292.0.r324/365
+K 8
+2.6.38.3
+V 20
+dir 3-348.0.r351/327
+K 8
+2.6.38.4
+V 20
+dir 3-388.0.r391/327
+K 8
+2.6.38.5
+V 20
+dir 3-428.0.r431/327
+K 8
+2.6.38.6
+V 20
+dir 3-455.0.r458/327
+K 8
+2.6.38.7
+V 20
+dir 3-489.0.r492/327
+K 8
+2.6.38.8
+V 20
+dir 3-530.0.r533/327
+K 5
+3.0.4
+V 20
+dir 3-765.0.r768/324
+K 5
+3.0.6
+V 20
+dir 3-867.0.r870/324
+K 5
+3.0.7
+V 20
+dir 3-941.0.r944/324
+K 5
+3.0.8
+V 20
+dir 3-978.0.r981/324
+K 5
+3.1.3
+V 22
+dir 3-1090.0.r1093/330
+K 5
+3.1.4
+V 22
+dir 3-1110.0.r1113/331
+END
+ENDREP
+id: r-150.0.r1113/1095
+type: dir
+pred: r-150.0.r1110/684
+count: 31
+text: 1113 507 575 0 2f5c5a200b71909cd6caea9a553cc3e3
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-150.0.r1105/4556
+K 8
+pristine
+V 24
+dir 2-150.0-1112.r1112/0
+K 8
+releases
+V 22
+dir r-150.0.r1113/1095
+END
+ENDREP
+id: 1-149.0.r1113/1409
+type: dir
+pred: 1-149.0.r1112/400
+count: 104
+text: 1113 1268 128 0 adf99ff25479dd9c665c0b1572fffee6
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1102/4844
+K 6
+kernel
+V 20
+dir 1-5.0.r1109/1648
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1104/2615
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1113/1409
+K 7
+systemd
+V 21
+dir 1-40.0.r1101/1512
+K 4
+udev
+V 19
+dir 1-27.0.r960/938
+END
+ENDREP
+id: 0-1.0.r1113/1826
+type: dir
+pred: 0-1.0.r1112/813
+count: 1018
+text: 1113 1575 238 0 fac78bd0b85fd55af45021aa85895055
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1113/1826
+K 7
+updates
+V 22
+dir 0-539.0.r1059/7070
+END
+ENDREP
+id: 0.0.r1113/2074
+type: dir
+pred: 0.0.r1112/1058
+count: 1113
+text: 1113 1978 83 0 37f77ed4b2b1be4f043365d7477d515b
+cpath: /
+copyroot: 0 /
+
+2-150._0.t1112-uw add-dir false false /cauldron/kernel-tmb/releases/3.1.4/1.mga2
+1105 /cauldron/kernel-tmb/current
+
+2074 2214

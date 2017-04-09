@@ -1,0 +1,90 @@
+id: 2-28.0-751.r751/0
+type: dir
+pred: 2-28.0.r748/3496
+count: 43
+text: 748 3404 79 0 3d90f2ffb32787ef201c913d23de5d8d
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/pristine
+copyfrom: 750 /cauldron/udev/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-28.0.r748/3496
+K 8
+pristine
+V 21
+dir 2-28.0-751.r751/0
+K 8
+releases
+V 20
+dir 1f-28.0.r749/269
+END
+ENDREP
+id: 1-27.0.r751/375
+type: dir
+pred: 1-27.0.r750/94
+count: 87
+text: 751 241 121 0 9ba02a7379cddc5ffc2e7e8cff420456
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r729/1380
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r724/3290
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r730/8300
+K 7
+systemd
+V 20
+dir 1-40.0.r747/1578
+K 4
+udev
+V 19
+dir 1-27.0.r751/375
+END
+ENDREP
+id: 0-1.0.r751/772
+type: dir
+pred: 0-1.0.r750/487
+count: 729
+text: 751 526 233 0 824b296587445e4e01839fbf25146717
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r751/772
+K 7
+updates
+V 22
+dir 0-539.0.r731/17520
+END
+ENDREP
+id: 0.0.r751/1012
+type: dir
+pred: 0.0.r750/727
+count: 751
+text: 751 918 81 0 601ff17e21821ea0ad41a6d204a9add8
+cpath: /
+copyroot: 0 /
+
+2-28._0.t750-ku add-dir false false /cauldron/udev/pristine
+750 /cauldron/udev/current
+
+1012 1146

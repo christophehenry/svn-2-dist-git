@@ -1,0 +1,110 @@
+id: 3-2132.0.r2132/0
+type: dir
+count: 0
+cpath: /cauldron/glibc/releases/6:2.16
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 20
+dir 3-2132.0.r2132/0
+END
+ENDREP
+id: 35-8.0.r2132/226
+type: dir
+pred: 35-8.0.r2043/1013
+count: 18
+text: 2132 94 119 0 b3f0877ba7e14b64a7205cc46af67f43
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2126/1905
+K 7
+current
+V 20
+dir 2-8.0.r2131/7847
+K 8
+pristine
+V 22
+dir 2-8.0-2042.r2042/0
+K 8
+releases
+V 20
+dir 35-8.0.r2132/226
+END
+ENDREP
+id: 1-7.0.r2132/568
+type: dir
+pred: 1-7.0.r2131/8241
+count: 118
+text: 2132 391 164 0 b1d324d3e0a294b4203d32eb00afcbda
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r2132/568
+K 6
+kernel
+V 20
+dir 1-5.0.r2130/1490
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2127/3814
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2052/2136
+K 7
+systemd
+V 21
+dir 1-40.0.r2105/1285
+END
+ENDREP
+id: 0-1.0.r2132/940
+type: dir
+pred: 0-1.0.r2131/8616
+count: 1981
+text: 2132 724 203 0 7aaa58e2d1e9bfabf96a42885380db14
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2132/940
+K 7
+updates
+V 22
+dir 0-539.0.r2119/2356
+END
+ENDREP
+id: 0.0.r2132/1186
+type: dir
+pred: 0.0.r2131/8865
+count: 2132
+text: 2132 1091 82 0 c1e2da856ffaee088b3840d73b7b8446
+cpath: /
+copyroot: 0 /
+
+_3.0.t2131-1n7 add-dir false false /cauldron/glibc/releases/6:2.16
+
+
+1186 1326

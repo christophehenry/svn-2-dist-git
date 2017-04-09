@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T19:37:34.186756Z
+K 7
+svn:log
+V 76
+- nl80211: fix check for valid SSID size in scan operations (CVE-2011-2517)
+
+END

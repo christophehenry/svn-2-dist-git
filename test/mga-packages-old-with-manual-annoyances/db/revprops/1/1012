@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-01T20:44:19.189223Z
+K 7
+svn:log
+V 120
+- md/raid10: Fix bug when activating a hot-spare.
+- md/raid5: fix bug that could result in reads from a failed device.
+
+
+END

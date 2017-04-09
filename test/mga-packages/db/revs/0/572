@@ -1,0 +1,148 @@
+id: 2-305.0-572.r572/0
+type: dir
+pred: 2-305.0.r569/3920
+count: 9
+text: 569 3827 80 80 ff58ab3aad51bee3476276af23268d69
+props: 532 1059 65 65 741df8b5da81df5dc918be07c532d1da
+cpath: /cauldron/kernel-tmb/releases/2.6.38.2/2.mga1
+copyfrom: 569 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga1
+V 22
+dir 2-305.0-536.r536/0
+K 6
+2.mga1
+V 22
+dir 2-305.0-572.r572/0
+END
+ENDREP
+id: 3-533.0.r572/367
+type: dir
+pred: 3-533.0.r536/327
+count: 2
+text: 572 272 82 82 e2406d554be2c5700835cc642c19753e
+cpath: /cauldron/kernel-tmb/releases/2.6.38.2
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-309.0.r312/331
+K 8
+2.6.37.4
+V 20
+dir 3-466.0.r469/331
+K 8
+2.6.38.2
+V 20
+dir 3-533.0.r572/367
+END
+ENDREP
+id: r-305.0.r572/678
+type: dir
+pred: r-305.0.r536/636
+count: 7
+text: 572 544 121 121 44570ef6c0c94beb0a06f3c2c6eaf31f
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-305.0.r569/3920
+K 8
+pristine
+V 22
+dir 2-305.0-571.r571/0
+K 8
+releases
+V 20
+dir r-305.0.r572/678
+END
+ENDREP
+id: 1-304.0.r572/984
+type: dir
+pred: 1-304.0.r571/392
+count: 25
+text: 572 848 123 123 b127ad2060dac20b35fd4cbd9ff282fd
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r543/1556
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r567/1185
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r529/1320
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r572/984
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r514/1175
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r509/929
+END
+ENDREP
+id: 0-1.0.r572/1534
+type: dir
+pred: 0-1.0.r571/941
+count: 568
+text: 572 1146 375 375 498bbe0defc6346d36ca01176810a420
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r572/1534
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r572/1777
+type: dir
+pred: 0.0.r571/1181
+count: 572
+text: 572 1684 80 80 509f860bce6a12e624e6804950da113e
+cpath: /
+copyroot: 0 /
+
+2-305._0.t571-fv add-dir false false /cauldron/kernel-tmb/releases/2.6.38.2/2.mga1
+569 /cauldron/kernel-tmb/current
+
+1777 1914

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T19:32:41.012663Z
+K 7
+svn:log
+V 77
+- acpi: add win8 osi blacklisting support
+- acpi: update win8 osi blacklist
+
+
+END

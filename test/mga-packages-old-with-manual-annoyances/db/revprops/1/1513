@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-16T21:55:11.215476Z
+K 7
+svn:log
+V 180
+- update to 3.2.6
+- add current stable queue (28 fixes, AA01-AA28)
+- require dracut >= 016-1 for xz compressed modules support and
+  other needed fixes
+- compress modules with xz
+
+
+END

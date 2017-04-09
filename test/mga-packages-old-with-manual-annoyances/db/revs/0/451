@@ -1,0 +1,160 @@
+id: 2-6.0-451.r451/0
+type: dir
+pred: 2-6.0.r447/1450
+count: 137
+text: 447 1235 202 0 5d75adb280c3bdddbd6241cd31c556f2
+props: 442 1138 65 0 01e884187fb9bf9554588bc3e72c32e1
+cpath: /cauldron/kernel/releases/2.6.38.6/1.mga1
+copyfrom: 447 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-451.r451/0
+END
+ENDREP
+id: 3-448.0.r451/315
+type: dir
+pred: 3-448.0.r448/0
+count: 1
+text: 451 261 41 0 553a30eaa110c44dbd7735bab6565725
+cpath: /cauldron/kernel/releases/2.6.38.6
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r451/315
+END
+ENDREP
+id: 2-14.0.r451/964
+type: dir
+pred: 2-14.0.r448/572
+count: 29
+text: 451 485 466 0 2cb18ebdabd23cd8e372b8f0bc635774
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r447/1450
+K 8
+pristine
+V 20
+dir 2-6.0-450.r450/0
+K 8
+releases
+V 19
+dir 2-14.0.r451/964
+END
+ENDREP
+id: 1-5.0.r451/1258
+type: dir
+pred: 1-5.0.r450/376
+count: 202
+text: 451 1127 118 0 c5b52d0446c634a002e98b7c3f333992
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r451/1258
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r441/1164
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r432/1941
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 19
+dir 1-27.0.r365/999
+END
+ENDREP
+id: 0-1.0.r451/1659
+type: dir
+pred: 0-1.0.r450/773
+count: 450
+text: 451 1413 233 0 e62d943f4b370f9718d0dba86e7d957c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r451/1659
+END
+ENDREP
+id: 0.0.r451/1862
+type: dir
+pred: 0.0.r450/973
+count: 451
+text: 451 1807 42 0 423db4f78f90c0f140d0e902b517c056
+cpath: /
+copyroot: 0 /
+
+2-6._0.t450-ci add-dir false false /cauldron/kernel/releases/2.6.38.6/1.mga1
+447 /cauldron/kernel/current
+
+1862 1997

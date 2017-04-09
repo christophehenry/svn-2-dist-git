@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-10-17T11:07:29.290727Z
+K 7
+svn:log
+V 151
+- re-enable usblp as it is needed by both usb-pp adapters and some printers (mga #2240, #2264)
+  (cups is patched to work with both usblp and libusb)
+
+
+END

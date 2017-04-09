@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2011-07-15T10:01:35.323308Z
+K 7
+svn:log
+V 204
+ - Fixup systemd Mageia support patch
+  o Use tabs rather than spaces in Makefile (otherwise it chokes)
+  o Fix a TARGET_MANDRIVA -> TARGET_MAGEIA leftover.
+  o Fix a define handling leftover in service.c
+END

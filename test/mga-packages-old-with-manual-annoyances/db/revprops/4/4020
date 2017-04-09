@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-12-08T23:43:04.605142Z
+K 7
+svn:log
+V 71
+Add upstream cherry pick to not set XDG_RUNTIME_DIR when raising privs.
+END

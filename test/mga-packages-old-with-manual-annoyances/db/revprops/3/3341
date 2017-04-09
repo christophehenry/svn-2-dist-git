@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-24T10:33:39.769464Z
+K 7
+svn:log
+V 764
+- add support extended stable builds
+- update to 3.8.13.3
+- add patches:
+  * AX10: KVM: x86: remove vcpu's CPL check in host-invoked XCR set
+  * AX11: x86: kvmclock: zero initialize pvclock shared memory area
+  * AX20: x86, mtrr: Fix original mtrr range get for mtrr_cleanup
+  * AX30: iommu/vt-d: add quirk for broken interrupt remapping on 55XX chipsets
+  * DA01: ACPI / resources: call acpi_get_override_irq() only for legacy
+          IRQ resources
+  * DN04: fix up alx AR8161 breakage (mga #10079)
+  * DN30: ath9k_htc: Handle IDLE state transition properly
+  * DN40: rt2800: fix RT5390 & RT3290 TX power settings regression
+  * DN50: rtlwifi: rtl8723ae: Fix typo in firmware names
+  * DS20: usb-audio: Fix invalid volume resolution on Logitech HD Webcam c310
+
+
+END

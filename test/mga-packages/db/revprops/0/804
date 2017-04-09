@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T19:40:17.825281Z
+K 7
+svn:log
+V 47
+- video: Fix use-after-free by vga16fb on rmmod
+END

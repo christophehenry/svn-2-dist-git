@@ -1,0 +1,172 @@
+id: 2-8.0-2043.r2043/0
+type: dir
+pred: 2-8.0.r2038/604
+count: 46
+text: 2038 513 78 0 7a0bdd6849faf80da17a4af85be4dac3
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.14.1/10.mga3
+copyfrom: 2038 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.2.mga2
+V 20
+dir 2-8.0-939.r939/0
+K 8
+0.4.mga2
+V 20
+dir 2-8.0-950.r950/0
+K 6
+1.mga2
+V 20
+dir 2-8.0-954.r954/0
+K 7
+10.mga3
+V 22
+dir 2-8.0-2043.r2043/0
+K 6
+2.mga2
+V 20
+dir 2-8.0-968.r968/0
+K 6
+3.mga2
+V 22
+dir 2-8.0-1127.r1127/0
+K 6
+4.mga2
+V 22
+dir 2-8.0-1265.r1265/0
+K 6
+5.mga2
+V 22
+dir 2-8.0-1582.r1582/0
+K 6
+6.mga2
+V 22
+dir 2-8.0-1705.r1705/0
+K 6
+7.mga2
+V 22
+dir 2-8.0-1721.r1721/0
+K 6
+8.mga2
+V 22
+dir 2-8.0-1823.r1823/0
+K 6
+9.mga3
+V 22
+dir 2-8.0-2037.r2037/0
+END
+ENDREP
+id: 3-936.0.r2043/742
+type: dir
+pred: 3-936.0.r2037/701
+count: 12
+text: 2043 260 469 0 1a97d05167e0d5b06884e12edda70bc4
+cpath: /cauldron/glibc/releases/6:2.14.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+END
+ENDREP
+id: 35-8.0.r2043/1013
+type: dir
+pred: 35-8.0.r2037/972
+count: 17
+text: 2043 918 82 0 05850a33fd8d9b16198fb4f845e2d829
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 19
+dir 2-8.0.r2038/604
+K 8
+pristine
+V 22
+dir 2-8.0-2042.r2042/0
+K 8
+releases
+V 21
+dir 35-8.0.r2043/1013
+END
+ENDREP
+id: 1-7.0.r2043/1355
+type: dir
+pred: 1-7.0.r2042/419
+count: 105
+text: 2043 1178 164 0 4225d385f643e92826ef3b706d7d926d
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2043/1355
+K 6
+kernel
+V 20
+dir 1-5.0.r2039/1557
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r2040/988
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2024/2095
+K 7
+systemd
+V 21
+dir 1-40.0.r2005/1381
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r2043/1764
+type: dir
+pred: 0-1.0.r2042/825
+count: 1912
+text: 2043 1512 239 0 2e6203e41c5c9b93dadd5c998a91fba6
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2043/1764
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r2043/2011
+type: dir
+pred: 0.0.r2042/1069
+count: 2043
+text: 2043 1916 82 0 ebdd7fc1f0d3feb8a113056a1b31633f
+cpath: /
+copyroot: 0 /
+
+2-8._0.t2042-1kq add-dir false false /cauldron/glibc/releases/6:2.14.1/10.mga3
+2038 /cauldron/glibc/current
+
+2011 2151

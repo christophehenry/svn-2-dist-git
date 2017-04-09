@@ -1,0 +1,140 @@
+id: 2-8.0-479.r479/0
+type: dir
+pred: 2-8.0.r475/604
+count: 16
+text: 475 515 76 76 0bd0127841cdd0d1f1b0c231d1b84d4a
+props: 8 73348 62 62 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.12.1/11.mga1
+copyfrom: 475 /cauldron/glibc/current
+
+PLAIN
+K 7
+10.mga1
+V 20
+dir 2-8.0-271.r271/0
+K 7
+11.mga1
+V 20
+dir 2-8.0-479.r479/0
+K 6
+9.mga1
+V 18
+dir 2-8.0-42.r42/0
+END
+ENDREP
+id: 3-39.0.r479/385
+type: dir
+pred: 3-39.0.r271/349
+count: 3
+text: 479 257 115 115 f3f5be4075f5252248e4352be7995401
+cpath: /cauldron/glibc/releases/6:2.12.1
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-39.0.r479/385
+END
+ENDREP
+id: 35-8.0.r479/612
+type: dir
+pred: 35-8.0.r271/573
+count: 4
+text: 479 557 42 42 a74f559f954b49b9baab3e2a1aa1ec01
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 18
+dir 2-8.0.r475/604
+K 8
+pristine
+V 20
+dir 2-8.0-478.r478/0
+K 8
+releases
+V 19
+dir 35-8.0.r479/612
+END
+ENDREP
+id: 1-7.0.r479/903
+type: dir
+pred: 1-7.0.r478/370
+count: 27
+text: 479 773 117 117 3a328c5c8c58dc84d8e58066ac1c53c9
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r476/3260
+K 5
+glibc
+V 18
+dir 1-7.0.r479/903
+K 6
+kernel
+V 19
+dir 1-5.0.r462/1023
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r428/1207
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r469/906
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r423/1137
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r410/889
+END
+ENDREP
+id: 0-1.0.r479/1443
+type: dir
+pred: 0-1.0.r478/909
+count: 478
+text: 479 1056 374 374 09b905054459312f0df3069639b979f3
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r479/1443
+END
+ENDREP
+id: 0.0.r479/1648
+type: dir
+pred: 0.0.r478/1111
+count: 479
+text: 479 1593 42 42 4e7d27afe0bcf0ed9c7a5bb0c57a9340
+cpath: /
+copyroot: 0 /
+
+2-8._0.t478-da add-dir false false /cauldron/glibc/releases/6:2.12.1/11.mga1
+475 /cauldron/glibc/current
+
+1648 1785

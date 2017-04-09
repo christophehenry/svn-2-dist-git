@@ -1,0 +1,23 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-01-05T02:31:49.602975Z
+K 7
+svn:log
+V 407
+- add patches:
+  * AA16: SGI-XP: handle non-fatal traps
+  * AA17: fix kernel stack disclosure in binfmt_script load_script()
+    (CVE-2012-4530)
+  * KM01, KM02: fix xfs module failing to init/load properly (#7375)
+- conflict dkms packages that does not support kernel-3.4 to help
+  upgrade ordering
+- drop build, source symlinking of source package to kernel tree as
+  it makes dkms build unusable modules
+
+
+END

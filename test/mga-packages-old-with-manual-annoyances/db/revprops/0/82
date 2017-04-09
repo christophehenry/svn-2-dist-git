@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-02-12T13:21:32.148324Z
+K 7
+svn:log
+V 54
+Use fedora as distro name as mageia is not yet defined
+END

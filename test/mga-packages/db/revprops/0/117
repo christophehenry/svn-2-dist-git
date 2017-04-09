@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-01-28T13:35:38.107237Z
+K 7
+svn:log
+V 50
+add back manbo-rpmrc patch in SOURCES (thanks rtp)
+END

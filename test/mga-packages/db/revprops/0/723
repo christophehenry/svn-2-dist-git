@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-10T12:45:06.472429Z
+K 7
+svn:log
+V 139
+- revert: "dell-laptop: Toggle the unsupported hardware killswitch"
+  as it causes regressions on existing hw (reported by Colin Guthrie)
+
+
+END

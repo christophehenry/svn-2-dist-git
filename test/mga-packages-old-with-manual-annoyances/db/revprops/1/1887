@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-12T20:25:25.417248Z
+K 7
+svn:log
+V 233
+- update to 3.3.6
+- drop merged patches:
+  * AA01-AA32: stable queue fixes
+  * DP10-DP13: samsung-laptop dmitable addons
+- switch server kernels back to SLAB allocator as it performs better
+  on bigger server hardware and workloads
+
+
+END

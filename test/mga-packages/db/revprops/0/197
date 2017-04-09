@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-02-10T20:12:47.102039Z
+K 7
+svn:log
+V 94
+Commit patches that not apply for now
+Fix file list
+Add rpm-libs package
+Add rpm-sign package
+
+END

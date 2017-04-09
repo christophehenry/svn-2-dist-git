@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2013-07-19T18:31:25.311377Z
+K 7
+svn:log
+V 46
+SILENT: new file ./SOURCES/patch-3.11-rc1.sign
+END

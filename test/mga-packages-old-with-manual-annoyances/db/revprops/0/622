@@ -1,0 +1,92 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-07-14T20:17:41.935090Z
+K 7
+svn:log
+V 4806
+- update to 3.0-rc7-git2
+  * drop merged patches:
+    ata-ahci-Intel-Panther-Point-ids.patch
+    ata-ata_piix-Intel-Panther-Point-ids.patch
+    block-blkdev_get-should-access-bd_disk-only-after.patch
+    block-export-blk_-get-put-_queue.patch
+    fs-ext4-init-timer-earlier-to-avoid-a-kernel-panic-in-__save_error_info_CVE-2011-2493.patch
+    fs-fat-fix-corrupt-inode-flags-when-remove-attr_sys-flag.patch
+    fs-proc-restrict-access-to-proc-PID-io_CVE-2011-2495.patch
+    gpu-drm-i915-add-a-no-lvds-quirk-for-the-asus-eeebox-pc-eb1007.patch
+    gpu-drm-i915-Avoid-unmapping-pages-from-a-NULL-address-s.patch
+    gpu-drm-i915-dp-Sanity-check-eDP-existence.patch
+    gpu-drm-i915-Enable-GPU-semaphores-by-default.patch
+    gpu-drm-i915-Fix-tiling-corruption-from-pipelined-fencin.patch
+    gpu-drm-i915-Restore-missing-command-flush-before-interr.patch
+    gpu-drm-radeon-kms-fix-for-radeon-on-systems-4gb-without.patch
+    gpu-drm-radeon-kms-viewport-height-has-to-be-even.patch
+    gpu-drm-Retry-i2c-transfer-of-EDID-block-after-failure.patch
+    hwmon-coretemp-relax-target-temperature-range-check.patch
+    kernel-taskstats-dont-allow-duplicate-entries-in-listener-mode_CVE-2011-2484.patch
+    mm-ksm-fix-race-between-ksmd-and-exiting-task-CVE-2011-2183.patch
+    net-bluetooth-l2cap-and-rfcomm-fix-1-byte-infoleak-to-userspace_CVE-2011-2492.patch
+    net-bluetooth-Prevent-buffer-overflow-in-l2cap-config-request_CVE-2011-2497.patch
+    net-ipv4-check-for-mistakenly-passed-in-non-ipv4-address.patch
+    net-ipv4-inet_diag-fix-inet_diag_bc_audit_CVE-2011-2213.patch
+    net-netfilter-ipset-6.2.patch
+    net-netfilter-ipset-6.4.patch
+    net-r8169-add-a-new-chip-for-RTL8105.patch
+    net-r8169-add-a-new-chip-for-RTL8168DP.patch
+    net-r8169-Be-verbose-when-unable-to-load-fw.patch
+    net-r8169-support-RTL8168E-RTL8111E.patch
+    net-r8169-support-the-new-chips-for-RTL8105E.patch
+    net-wireless-ath9k-Fix-a-locking-related-issue.patch
+    net-wireless-ath9k-fix-two-more-bugs-in-tx-power.patch
+    net-wireless-ath9k-reset-chip-on-baseband-hang.patch
+    net-wireless-ath9k-set-40-mhz-rate-only-if-hw-is-configured-in-ht40.patch
+    net-wireless-nl80211-fix-check-for-valid-ssid-size-in-scan-operations_CVE-2011-2517.patch
+    net-wireless-nl80211-fix-overflow-in-ssid_len_CVE-2011-2517.patch
+    pci-intel-iommu-add-domain-check-in-domain_remove_one_dev_info.patch
+    pci-intel-iommu-check-for-identity-mapping-candidate-using.patch
+    pci-intel-iommu-dont-cache-iova-above-32bit.patch
+    pci-intel-iommu-flush-unmaps-at-domain_exit.patch
+    pci-intel-iommu-only-unlink-device-domains-from-iommu.patch
+    pci-intel-iommu-remove-host-bridge-devices-from-identity.patch
+    pci-intel-iommu-speed-up-processing-of-the-identity_mapping.patch
+    pci-intel-iommu-use-coherent-dma-mask-when-requested.patch
+    platform-x86-hp-wmi-add-rfkill-support-for-wireless-query-0x1b.patch
+    platform-x86-hp-wmi-allow-setting-input-and-output-buffer-sizes-s.patch
+    platform-x86-hp-wmi-check-query-return-value-in-hp_wmi_perform_qu.patch
+    platform-x86-hp-wmi-clear-rfkill-device-pointers-when-appropriate.patch
+    platform-x86-hp-wmi-make-rfkill-initialization-failure-non-fatal.patch
+    platform-x86-hp-wmi-remove-a-variable-that-is-never-read.patch
+    platform-x86-hp-wmi-split-rfkill-initialization-out-of-hp_wmi_bio.patch
+    platform-x86-samsung-laptop-add-support-for-N230-model.patch
+    platform-x86-samsung-laptop-make-dmi_check_cb-to-return-1-instead-of-0.patch
+    platform-x86-samsung-laptop.patch
+    platform-x86-samsung-laptop-Samsung-R410P-backlight-driver.patch
+    revert-dell-laptop-Toggle-the-unsupported-hardware-killswitch.patch
+    revert-usb-option-add-id-for-zte-mf-330.patch
+    scsi-fix-oops-caused-by-queue-refcounting-failure.patch
+    security-tomoyo-fix-oops-in-tomoyo_mount_acl.patch
+    usb-cdc-acm-adding-second-acm-channel-support-for-nokia-e7.patch
+    usb-core-tolerate-protocol-stall-during-hub-and-port.patch
+    usb-option-add-alcatel-x200-to-sendsetup-blacklist.patch
+    usb-option-add-blacklist-for-zte-k3765-z-19d2-2002.patch
+    usb-option-add-prolink-ph300-modem-ids.patch
+    usb-option-add-zoom-4597-modem-usb-ids.patch
+    usb-serial-add-another-4n-galaxy.de-pid-to-ftdi_sio-driver.patch
+    usb-storage-redo-incorrect-reads.patch
+    usb-usbnet-cdc_ncm-add-missing-.reset_resume-hook.patch
+    video-fix-use-after-free-by-vga16fb-on-rmmod.patch
+    watchdog-iTCO_wdt-add-Intel-Panther-Point-support.patch
+    x86-amd-iommu-fix-3-possible-endless-loops.patch
+    x86-amd-iommu-fix-boot-crash-with-hidden-pci-devices.patch
+    x86-amd-iommu-use-only-per-device-dma_ops.patch
+    xen-irq-implement-bind_interdomain_evtchn_to_irqhandler-for-backend-drivers.patch
+    xen-network-backend-driver.patch
+    xen-off-by-one-errors-in-multicalls.c.patch
+
+
+END

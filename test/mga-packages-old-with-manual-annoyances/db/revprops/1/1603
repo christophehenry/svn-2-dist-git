@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-04T22:53:05.191502Z
+K 7
+svn:log
+V 45
+fix ndiswrapper build with 3.3 series kernels
+END

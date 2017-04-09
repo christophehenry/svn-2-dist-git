@@ -1,0 +1,78 @@
+id: 2-8.0-41.r41/0
+type: dir
+pred: 2-8.0.r38/4084
+count: 5
+text: 38 3997 74 74 778b4ef8c69bab6f56822ce145623117
+props: 8 73348 62 62 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/pristine
+copyfrom: 40 /cauldron/glibc/current
+
+PLAIN
+K 7
+current
+V 18
+dir 2-8.0.r38/4084
+K 8
+pristine
+V 18
+dir 2-8.0-41.r41/0
+K 8
+releases
+V 18
+dir 35-8.0.r39/144
+END
+ENDREP
+id: 1-7.0.r41/363
+type: dir
+pred: 1-7.0.r40/90
+count: 9
+text: 41 236 114 114 3297e4351a7082c93a2673488b77fbe8
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r41/363
+K 6
+kernel
+V 17
+dir 1-5.0.r22/804
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+rpm
+V 18
+dir 1-11.0.r37/841
+END
+ENDREP
+id: 0-1.0.r41/667
+type: dir
+pred: 0-1.0.r40/389
+count: 40
+text: 41 511 143 143 aac7b6ba04ddd367092c30d74b600450
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r41/667
+END
+ENDREP
+id: 0.0.r41/864
+type: dir
+pred: 0.0.r40/586
+count: 41
+text: 41 811 40 40 5bebe00951c46ecb126c9a62f7374f0a
+cpath: /
+copyroot: 0 /
+
+2-8._0.t40-14 add-dir false false /cauldron/glibc/pristine
+40 /cauldron/glibc/current
+
+864 994

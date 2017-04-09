@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T20:07:45.641314Z
+K 7
+svn:log
+V 59
+ACPI: Blacklist Win8 OSI for Asus VivoBook X202E (mga#7857)
+END

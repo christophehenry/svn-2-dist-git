@@ -1,0 +1,90 @@
+id: 2-3.0-2009.r2009/0
+type: dir
+pred: 2-3.0.r2006/2509
+count: 134
+text: 2006 2418 78 0 bd4ae43e22134484d0bbbb847f009dfa
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/pristine
+copyfrom: 2008 /cauldron/kernel-linus/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-3.0.r2006/2509
+K 8
+pristine
+V 22
+dir 2-3.0-2009.r2009/0
+K 8
+releases
+V 20
+dir n-3.0.r2007/1526
+END
+ENDREP
+id: 1-2.0.r2009/396
+type: dir
+pred: 1-2.0.r2008/94
+count: 340
+text: 2009 261 122 0 64cc19a1852be02f5bd2c6c9cc83aa67
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1823/1273
+K 6
+kernel
+V 20
+dir 1-5.0.r1978/2259
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r2009/396
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1982/2057
+K 7
+systemd
+V 21
+dir 1-40.0.r2005/1381
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r2009/809
+type: dir
+pred: 0-1.0.r2008/504
+count: 1878
+text: 2009 557 239 0 d20e8b64711031e92d546d0d2703f991
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2009/809
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r2009/1053
+type: dir
+pred: 0.0.r2008/749
+count: 2009
+text: 2009 959 81 0 6d4c8af8dbf26e1e6d096cee45eb96c8
+cpath: /
+copyroot: 0 /
+
+2-3._0.t2008-1js add-dir false false /cauldron/kernel-linus/pristine
+2008 /cauldron/kernel-linus/current
+
+1053 1191

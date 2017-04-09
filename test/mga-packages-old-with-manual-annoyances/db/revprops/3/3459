@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-07-24T21:27:19.440132Z
+K 7
+svn:log
+V 95
+- New version: 206
+- Drop upstream cherry-pick patches
+- Fix file lists
+- Rediff Mageia patches
+END

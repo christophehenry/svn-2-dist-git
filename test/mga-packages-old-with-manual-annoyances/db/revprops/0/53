@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-01-25T11:27:49.377449Z
+K 7
+svn:log
+V 125
+- add xz support for kernel, initrd and squashfs
+  (from upstream 2.6.38-rc1)
+- drop lzma support (obsoleted by xz support)
+
+
+END

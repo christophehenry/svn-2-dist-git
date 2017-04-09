@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-05T20:28:40.748876Z
+K 7
+svn:log
+V 36
+enable RT33XX/RT35XX pci/usb support
+END

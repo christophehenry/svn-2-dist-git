@@ -1,0 +1,164 @@
+id: 2-6.0-471.r471/0
+type: dir
+pred: 2-6.0.r468/1284
+count: 143
+text: 468 993 200 0 f262e1d79dfd01f74f81ce5bdc82913a
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/releases/2.6.38.6/2.mga1
+copyfrom: 468 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-451.r451/0
+K 6
+2.mga1
+V 20
+dir 2-6.0-471.r471/0
+END
+ENDREP
+id: 3-448.0.r471/351
+type: dir
+pred: 3-448.0.r451/315
+count: 2
+text: 471 260 78 0 6b27c0715f7458abf557a3ff7ffc2ae7
+cpath: /cauldron/kernel/releases/2.6.38.6
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+END
+ENDREP
+id: 2-14.0.r471/1002
+type: dir
+pred: 2-14.0.r451/964
+count: 30
+text: 471 523 466 0 78d480c6227b87f93afc0a7e028aefa7
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r468/1284
+K 8
+pristine
+V 20
+dir 2-6.0-470.r470/0
+K 8
+releases
+V 20
+dir 2-14.0.r471/1002
+END
+ENDREP
+id: 1-5.0.r471/1298
+type: dir
+pred: 1-5.0.r470/375
+count: 211
+text: 471 1166 119 0 e610868573ce3723586d57d452498c00
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r471/1298
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r441/1164
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0.r471/1700
+type: dir
+pred: 0-1.0.r470/773
+count: 470
+text: 471 1453 234 0 f7336e20fa13ec4741ac8ded63132387
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r471/1700
+END
+ENDREP
+id: 0.0.r471/1903
+type: dir
+pred: 0.0.r470/973
+count: 471
+text: 471 1848 42 0 840ff48c3710055002d3065e6805bf38
+cpath: /
+copyroot: 0 /
+
+2-6._0.t470-d2 add-dir false false /cauldron/kernel/releases/2.6.38.6/2.mga1
+468 /cauldron/kernel/current
+
+1903 2038

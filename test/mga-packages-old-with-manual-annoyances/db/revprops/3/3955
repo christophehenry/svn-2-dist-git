@@ -1,0 +1,31 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-17T00:17:59.518575Z
+K 7
+svn:log
+V 1010
+- add -stable queue patches:
+  * AA01: net/mlx4_core: Fix call to __mlx4_unregister_mac
+  * AA02: net: sctp: do not trigger BUG_ON in sctp_cmd_delete_tcb
+  * AA03: net: flow_dissector: fail on evil iph->ihl
+  * AA04: virtio-net: correctly handle cpu hotplug notifier during resuming
+  * AA05: xen-netback: use jiffies_64 value to calculate credit timeout
+  * AA06: cxgb3: Fix length calculation in write_ofld_wr() on 32-bit architectures
+  * AA07: tcp: gso: fix truesize tracking
+  * AA08: tcp: fix SYNACK RTT estimation in Fast Open
+  * AA09: tcp: only take RTT from timestamps if new data is acked
+  * AA10: tcp: do not rearm RTO when future data are sacked
+  * AA11: ipv6: ip6_dst_check needs to check for expired dst_entries
+  * AA12: ipv6: reset dst.expires value when clearing expire flag
+  * AA13: hyperv-fb: add pci stub
+  * AA14: USB: add new zte 3g-dongle's pid to option.c
+  * AA15: ALSA: hda - hdmi: Fix reported channel map on common default layouts
+  * DB10: bluetooth: fix suspend/resume issue
+
+
+END

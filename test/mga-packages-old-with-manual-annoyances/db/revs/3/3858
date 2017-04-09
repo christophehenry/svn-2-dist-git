@@ -1,0 +1,127 @@
+id: 2-3257.0-3858.r3858/0
+type: dir
+pred: 2-3257.0.r3855/609
+count: 5
+text: 3855 514 82 0 92a907dd8505537c35b3b43cd3000d17
+cpath: /cauldron/cgit/releases/0.9.2/3.mga4
+copyfrom: 3855 /cauldron/cgit/current
+
+PLAIN
+K 6
+1.mga4
+V 25
+dir 2-3257.0-3264.r3264/0
+K 6
+2.mga4
+V 25
+dir 2-3257.0-3271.r3271/0
+K 6
+3.mga4
+V 25
+dir 2-3257.0-3858.r3858/0
+END
+ENDREP
+id: 3-3261.0.r3858/349
+type: dir
+pred: 3-3261.0.r3271/309
+count: 3
+text: 3858 206 130 0 017c36d6994815cb6fd28d8b8f8ef327
+cpath: /cauldron/cgit/releases/0.9.2
+copyroot: 0 /
+
+PLAIN
+K 5
+0.9.2
+V 22
+dir 3-3261.0.r3858/349
+END
+ENDREP
+id: j-3257.0.r3858/577
+type: dir
+pred: j-3257.0.r3271/536
+count: 4
+text: 3858 522 42 0 38076baffcdce5c67fb63b005f993e92
+cpath: /cauldron/cgit/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 22
+dir 2-3257.0.r3855/609
+K 8
+pristine
+V 25
+dir 2-3257.0-3857.r3857/0
+K 8
+releases
+V 22
+dir j-3257.0.r3858/577
+END
+ENDREP
+id: 1-3256.0.r3858/885
+type: dir
+pred: 1-3256.0.r3857/335
+count: 16
+text: 3858 743 129 0 29771bba32bfe6352f45c8a4671430c7
+cpath: /cauldron/cgit
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3858/885
+K 5
+glibc
+V 20
+dir 1-7.0.r3849/1278
+K 6
+kernel
+V 20
+dir 1-5.0.r3854/4013
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3830/3566
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3834/2805
+K 7
+systemd
+V 21
+dir 1-40.0.r3808/1682
+END
+ENDREP
+id: 0-1.0.r3858/1298
+type: dir
+pred: 0-1.0.r3857/747
+count: 3428
+text: 3858 1044 241 0 a4f0aadb23304f25ef2b50f24bbac92d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3858/1298
+K 7
+updates
+V 22
+dir 0-539.0.r3844/5229
+END
+ENDREP
+id: 0.0.r3858/1546
+type: dir
+pred: 0.0.r3857/992
+count: 3858
+text: 3858 1450 83 0 e234150ec2770f6d5f98ec9f8e37db64
+cpath: /
+copyroot: 0 /
+
+2-3257._0.t3857-2z5 add-dir false false /cauldron/cgit/releases/0.9.2/3.mga4
+3855 /cauldron/cgit/current
+
+1546 1685

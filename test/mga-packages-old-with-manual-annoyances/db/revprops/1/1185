@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2011-12-18T22:46:09.303032Z
+K 7
+svn:log
+V 156
+Merge in start-udev speedboot patch as we carry the file separately. Also include code to disable speedboot on systemd (even tho' this should not be called)
+END

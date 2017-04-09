@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-19T18:33:51.765283Z
+K 7
+svn:log
+V 164
+- more stable fixes
+  * cifs: clean up various nits in unicode routines
+  * cifs: fix cifsConvertToUCS() for the mapchars case
+  * iwlegacy: fix IBSS mode crashes
+
+
+END

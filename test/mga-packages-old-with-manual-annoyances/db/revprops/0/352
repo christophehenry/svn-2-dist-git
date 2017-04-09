@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-16T12:25:29.324406Z
+K 7
+svn:log
+V 339
+- update 'drm/i915: Fix tiling corruption from pipelined fencing'
+- drm: Retry i2c transfer of EDID block after failure
+- drm/i915/dp: Sanity check eDP existence
+- drm/i915: Restore missing command flush before interrupt on BLT ring
+- drm/i915: Avoid unmapping pages from a NULL address space
+- drm/i915: Enable GPU semaphores by default
+
+
+END

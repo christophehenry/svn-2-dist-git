@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-01-19T21:32:25.319741Z
+K 7
+svn:log
+V 32
+drop P64, as it's manbo specific
+END

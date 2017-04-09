@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-08-24T23:55:20.586830Z
+K 7
+svn:log
+V 94
+Add some configuration file
+Add %%post with default commands ( ex: systemd-machine-id-setup )
+
+END

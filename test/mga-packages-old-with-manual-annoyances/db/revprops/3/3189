@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-05-12T12:56:12.807416Z
+K 7
+svn:log
+V 506
+- ACPICA: Fix possible buffer overflow during a field unit read operation
+- ALSA: HDA: Fix Oops caused by dereference NULL pointer
+- ARM: OMAP: RX-51: change probe order of touchscreen and panel SPI devices
+- ASoC: wm8994: missing break in wm8994_aif3_hw_params()
+- dm snapshot: fix error return code in snapshot_ctr
+- hp_accel: Ignore the error from lis3lv02d_poweron() at resume
+- KVM: VMX: fix halt emulation while emulating invalid guest sate
+- nfsd4: don't allow owner override on 4.1 CLAIM_FH opens
+
+
+END

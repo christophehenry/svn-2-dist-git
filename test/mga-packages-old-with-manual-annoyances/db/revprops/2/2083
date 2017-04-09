@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-01T09:43:59.930928Z
+K 7
+svn:log
+V 84
+drop P49 (rpc change revert) as its replaced by --enable-obsolete-rpc configure flag
+END

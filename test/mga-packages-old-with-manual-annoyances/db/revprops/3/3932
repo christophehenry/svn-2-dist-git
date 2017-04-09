@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-04T15:10:41.082684Z
+K 7
+svn:log
+V 106
+- update to 3.10.18
+- add patch:
+  * DC01: cpufreq: ondemand: Change the calculation of target frequency
+
+
+END

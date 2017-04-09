@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-07-04T07:11:11.069805Z
+K 7
+svn:log
+V 202
+- ipv6: ip6_sk_dst_check() must not assume ipv6 dst (CVE-2013-2232)
+- af_key: fix info leaks in notify messages (CVE-2013-2234)
+- af_key: initialize satype in key_notify_policy_flush() (CVE-2013-2237)
+
+
+END

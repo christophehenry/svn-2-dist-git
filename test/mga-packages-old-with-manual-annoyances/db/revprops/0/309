@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2011-04-07T14:47:08.233648Z
+K 7
+svn:log
+V 85
+- remove native pt_chown when generating cross glibc for non-biarch/mips* case
+  too
+
+END

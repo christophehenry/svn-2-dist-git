@@ -1,0 +1,129 @@
+id: 4-193.0.r193/0
+type: dir
+count: 0
+cpath: /cauldron/rpm/branches/4.9/SPECS
+copyroot: 0 /
+
+PLAIN
+K 5
+SPECS
+V 18
+dir 4-193.0.r193/0
+END
+ENDREP
+id: 3-170.0.r193/144
+type: dir
+pred: 3-170.0.r170/0
+count: 1
+text: 193 93 38 38 c85fda0563a6506fa327a470c905ba21
+cpath: /cauldron/rpm/branches/4.9
+copyroot: 0 /
+
+PLAIN
+K 3
+4.9
+V 20
+dir 3-170.0.r193/144
+END
+ENDREP
+id: 2-169.0.r193/357
+type: dir
+pred: 2-169.0.r170/136
+count: 2
+text: 193 306 38 38 7831583a466224e41f1edcb77ff65c03
+cpath: /cauldron/rpm/branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 20
+dir 2-169.0.r193/357
+K 7
+current
+V 20
+dir 2-12.0.r192/2763
+K 8
+pristine
+V 19
+dir 2-12.0-85.r85/0
+K 8
+releases
+V 19
+dir 37-12.0.r86/629
+END
+ENDREP
+id: 1-11.0.r193/688
+type: dir
+pred: 1-11.0.r192/3150
+count: 62
+text: 193 518 157 157 8d4eea24d4aec716d98d278dea3e8cf3
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r158/795
+K 7
+firefox
+V 19
+dir 1-63.0.r167/992
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r193/688
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r193/1183
+type: dir
+pred: 0-1.0.r192/3648
+count: 192
+text: 193 842 328 328 c902c016dec0c0058d98421b0afc7440
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r193/1183
+END
+ENDREP
+id: 0.0.r193/1388
+type: dir
+pred: 0.0.r192/3854
+count: 193
+text: 193 1333 42 42 87119c7d62219a2dfb8ebf72deef4a69
+cpath: /
+copyroot: 0 /
+
+_4.0.t192-5c add-dir false false /cauldron/rpm/branches/4.9/SPECS
+
+
+1388 1525

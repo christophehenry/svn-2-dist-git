@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 8
+schedbot
+K 8
+svn:date
+V 27
+2012-09-11T16:20:12.111316Z
+K 7
+svn:log
+V 113
+%repsys markrelease
+version: 3.5.3
+release: 2.mga3
+revision: 292370
+
+Copying 3.5.3-2.mga3 to releases/ directory.
+END

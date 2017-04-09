@@ -1,0 +1,144 @@
+id: 2-6.0-376.r376/0
+type: dir
+pred: 2-6.0.r372/1142
+count: 33
+text: 372 925 204 204 7fad7fb09cb72f8b9c99fcd3a08cb3e6
+props: 289 1093 64 64 22223f1dd7087f70bdc15318f9c27967
+cpath: /cauldron/kernel/releases/2.6.37.3/1.mga1
+copyfrom: 372 /cauldron/kernel/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-6.0-376.r376/0
+END
+ENDREP
+id: 3-373.0.r376/316
+type: dir
+pred: 3-373.0.r373/0
+count: 1
+text: 376 262 41 41 cada8a677588de97194e527db7832e3e
+cpath: /cauldron/kernel/releases/2.6.37.3
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 19
+dir 3-19.0.r102/346
+K 8
+2.6.37.1
+V 20
+dir 3-249.0.r252/316
+K 8
+2.6.37.2
+V 20
+dir 3-291.0.r294/315
+K 8
+2.6.37.3
+V 20
+dir 3-373.0.r376/316
+END
+ENDREP
+id: 2-18.0.r376/657
+type: dir
+pred: 2-18.0.r373/263
+count: 9
+text: 376 487 157 157 695f18bcfd95f55232859ea4d23a5c88
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r372/1142
+K 8
+pristine
+V 20
+dir 2-6.0-375.r375/0
+K 8
+releases
+V 19
+dir 2-18.0.r376/657
+END
+ENDREP
+id: 1-5.0.r376/952
+type: dir
+pred: 1-5.0.r375/377
+count: 54
+text: 376 821 118 118 4286707786d7593b79df3fce177951af
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r363/1250
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r376/952
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r370/1037
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r376/1492
+type: dir
+pred: 0-1.0.r375/916
+count: 375
+text: 376 1106 373 373 583675fcb5f6b351ad07f9d66a07e1d4
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r376/1492
+END
+ENDREP
+id: 0.0.r376/1697
+type: dir
+pred: 0.0.r375/1118
+count: 376
+text: 376 1642 42 42 07833e89f69727b150b71032244857d7
+cpath: /
+copyroot: 0 /
+
+2-6._0.t375-af add-dir false false /cauldron/kernel/releases/2.6.37.3/1.mga1
+372 /cauldron/kernel/current
+
+1697 1834

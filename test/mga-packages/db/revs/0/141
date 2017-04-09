@@ -1,0 +1,136 @@
+id: 2-64.0-141.r141/0
+type: dir
+pred: 2-64.0.r138/645
+count: 7
+text: 138 554 78 78 e855efb642875138134755c37385101f
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.b10.2.mga1
+copyfrom: 138 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+END
+ENDREP
+id: 3-110.0.r141/415
+type: dir
+pred: 3-110.0.r127/372
+count: 3
+text: 141 264 138 138 3679158e98d9dc5877906a6f2908e8e6
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r141/415
+END
+ENDREP
+id: 19-64.0.r141/641
+type: dir
+pred: 19-64.0.r127/596
+count: 4
+text: 141 588 40 40 449ee7ce6000ae300711095c21be65b0
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-64.0.r138/645
+K 8
+pristine
+V 21
+dir 2-64.0-140.r140/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r141/641
+END
+ENDREP
+id: 1-63.0.r141/978
+type: dir
+pred: 1-63.0.r140/417
+count: 17
+text: 141 806 159 159 69193d96d077a77fedb9ee80712ae889
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 19
+dir 1-63.0.r141/978
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r117/4687
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r141/1438
+type: dir
+pred: 0-1.0.r140/877
+count: 140
+text: 141 1135 290 290 8d879af1b6a6baaff75106299c5737bc
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r141/1438
+END
+ENDREP
+id: 0.0.r141/1643
+type: dir
+pred: 0.0.r140/1079
+count: 141
+text: 141 1588 42 42 09b6515fa706a9db27d77a91aac04233
+cpath: /
+copyroot: 0 /
+
+2-64._0.t140-3w add-dir false false /cauldron/firefox/releases/0:4.0/0.b10.2.mga1
+138 /cauldron/firefox/current
+
+1643 1780

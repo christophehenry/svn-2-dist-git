@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-30T21:12:52.229700Z
+K 7
+svn:log
+V 310
+- ext4: fix duplicated mnt_drop_write call in EXT4_IOC_MOVE_EXT
+- md: avoid crash when stopping md array races with closing other open fds
+- md/raid1: close some possible races on write errors during resync
+- dm raid1: fix crash with mirror recovery and discard
+- rds: set correct msg_namelen (CVE-2012-3430)
+
+
+END

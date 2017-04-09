@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-21T16:31:37.348699Z
+K 7
+svn:log
+V 788
+- remove a duplicate instance of user_pref("browser.startup.homepage"
+- remove user_pref("browser.ctrlTab.previews", true); and go with upstream default
+- add user_pref("browser.showQuitWarning", true);
+SILENT: rationale about user_pref("browser.showQuitWarning", true); :
+SILENT: o without that dialogue users may be confused whether the session was saved or not
+SILENT: o upstream offers a big "restore previous session" button in the about:home page
+SILENT:   (the default upstream home page); since the default home page in Mageia
+SILENT:   redirects to Mageia.org the situation is much worse without that pref set to
+SILENT:   true as that button won't be visible on first look for users (it exists in the
+SILENT:   History menu, which is not exactly the first place users will look)
+END

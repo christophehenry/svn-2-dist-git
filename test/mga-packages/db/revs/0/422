@@ -1,0 +1,106 @@
+id: 2-12.0-422.r422/0
+type: dir
+pred: 2-12.0.r420/4205
+count: 58
+text: 420 4113 79 79 75919790742f6722eeb972a127f21f79
+props: 12 80643 62 62 60502c31a49e919a5861754194f89c3f
+cpath: /cauldron/rpm/pristine
+copyfrom: 421 /cauldron/rpm/current
+
+PLAIN
+K 8
+branches
+V 21
+dir 2-169.0.r205/4603
+K 7
+current
+V 20
+dir 2-12.0.r420/4205
+K 8
+pristine
+V 21
+dir 2-12.0-422.r422/0
+K 8
+releases
+V 20
+dir 37-12.0.r354/763
+END
+ENDREP
+id: 1-11.0.r422/415
+type: dir
+pred: 1-11.0.r421/134
+count: 108
+text: 422 241 161 161 a464b5f387067ea597143ff4c45d44a4
+cpath: /cauldron/rpm
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r419/1389
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r399/992
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r391/1068
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r422/415
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r410/889
+END
+ENDREP
+id: 0-1.0.r422/954
+type: dir
+pred: 0-1.0.r421/672
+count: 421
+text: 422 569 372 372 311f247c3139b8c2b2b42451e5b25e4c
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r422/954
+END
+ENDREP
+id: 0.0.r422/1156
+type: dir
+pred: 0.0.r421/875
+count: 422
+text: 422 1102 41 41 25a378459c3a668b49cfec2a3e4b918b
+cpath: /
+copyroot: 0 /
+
+2-12._0.t421-bp add-dir false false /cauldron/rpm/pristine
+421 /cauldron/rpm/current
+
+1156 1292

@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-30T20:55:07.340782Z
+K 7
+svn:log
+V 450
+- fs/locks.c: Remove easily user-triggerable BUG from generic_setlease
+- HID: add support for 2012 MacBook Pro Retina
+- Input: bcm5974 - Add support for 2012 MacBook Pro Retina
+- md/raid1: fix use-after-free bug in RAID1 data-check code
+- iwlegacy: always monitor for stuck queues
+- iwlegacy: don't mess up the SCD when removing a key
+- net-wireless-iwlegacy-don-t-mess-up-the-scd-when-removing-a-key.patch
+- intel_ips: blacklist HP ProBook laptops
+
+
+END

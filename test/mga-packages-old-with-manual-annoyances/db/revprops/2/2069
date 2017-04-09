@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-06-30T20:32:47.735125Z
+K 7
+svn:log
+V 115
+- ARM: Orion: Fix Virtual/Physical mixup with watchdog
+- ARM: tegra: make tegra_cpu_reset_handler_enable() __init
+
+
+END

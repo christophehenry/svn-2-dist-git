@@ -1,0 +1,156 @@
+id: 2-64.0-303.r303/0
+type: dir
+pred: 2-64.0.r300/1661
+count: 24
+text: 300 1570 78 78 4c8bcc4ed68ced91cf6c377187c8b896
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/releases/0:4.0/0.b12.4.mga1
+copyfrom: 300 /cauldron/firefox/current
+
+PLAIN
+K 12
+0.b10.1.mga1
+V 21
+dir 2-64.0-127.r127/0
+K 12
+0.b10.2.mga1
+V 21
+dir 2-64.0-141.r141/0
+K 12
+0.b10.3.mga1
+V 21
+dir 2-64.0-148.r148/0
+K 12
+0.b10.4.mga1
+V 21
+dir 2-64.0-220.r220/0
+K 12
+0.b11.4.mga1
+V 21
+dir 2-64.0-260.r260/0
+K 12
+0.b12.4.mga1
+V 21
+dir 2-64.0-303.r303/0
+K 11
+0.b8.1.mga1
+V 21
+dir 2-64.0-112.r112/0
+END
+ENDREP
+id: 3-110.0.r303/598
+type: dir
+pred: 3-110.0.r260/553
+count: 7
+text: 303 267 318 318 8490e1efdd3d9b317094baaac9c62358
+cpath: /cauldron/firefox/releases/0:4.0
+copyroot: 0 /
+
+PLAIN
+K 5
+0:4.0
+V 20
+dir 3-110.0.r303/598
+END
+ENDREP
+id: 19-64.0.r303/824
+type: dir
+pred: 19-64.0.r260/779
+count: 8
+text: 303 771 40 40 ef81579fbd107d7627858421685f338c
+cpath: /cauldron/firefox/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r300/1661
+K 8
+pristine
+V 21
+dir 2-64.0-302.r302/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r303/824
+END
+ENDREP
+id: 1-63.0.r303/1162
+type: dir
+pred: 1-63.0.r302/421
+count: 46
+text: 303 989 160 160 b26bf874435a51709db5cf97c4c31f82
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r303/1162
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r294/911
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r278/893
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r272/991
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r303/1662
+type: dir
+pred: 0-1.0.r302/919
+count: 302
+text: 303 1320 329 329 107ab12bf28e586d9f6b3f7a0aa35429
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r303/1662
+END
+ENDREP
+id: 0.0.r303/1867
+type: dir
+pred: 0.0.r302/1121
+count: 303
+text: 303 1812 42 42 e6e040fe70ac93c171657666ad41658a
+cpath: /
+copyroot: 0 /
+
+2-64._0.t302-8e add-dir false false /cauldron/firefox/releases/0:4.0/0.b12.4.mga1
+300 /cauldron/firefox/current
+
+1867 2004

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+blino
+K 8
+svn:date
+V 27
+2011-01-09T17:34:11.016275Z
+K 7
+svn:log
+V 46
+update rpmbuild unpackaged files check for mga
+END

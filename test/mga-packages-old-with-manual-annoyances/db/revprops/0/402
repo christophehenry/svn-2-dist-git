@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-30T12:54:21.365932Z
+K 7
+svn:log
+V 72
+samsung-laptop: drop backlight type setting patch as its 2.6.39 specific
+END

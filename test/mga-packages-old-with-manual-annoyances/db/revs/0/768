@@ -1,0 +1,156 @@
+id: 2-150.0-768.r768/0
+type: dir
+pred: 2-150.0.r764/1163
+count: 32
+text: 764 1071 79 0 f87827c4c033bd473a7c5b7bbab9e65c
+props: 387 1417 65 0 2a6199073ab557ece7b9675006424e1b
+cpath: /cauldron/kernel-tmb/releases/3.0.4/1.mga2
+copyfrom: 764 /cauldron/kernel-tmb/current
+
+PLAIN
+K 6
+1.mga2
+V 22
+dir 2-150.0-768.r768/0
+END
+ENDREP
+id: 3-765.0.r768/324
+type: dir
+pred: 3-765.0.r765/0
+count: 1
+text: 768 268 43 0 e724f8df81a0c874bf4a28c09d751e15
+cpath: /cauldron/kernel-tmb/releases/3.0.4
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.2
+V 20
+dir 3-152.0.r155/329
+K 8
+2.6.37.4
+V 20
+dir 3-239.0.r242/329
+K 8
+2.6.38.2
+V 20
+dir 3-292.0.r324/365
+K 8
+2.6.38.3
+V 20
+dir 3-348.0.r351/327
+K 8
+2.6.38.4
+V 20
+dir 3-388.0.r391/327
+K 8
+2.6.38.5
+V 20
+dir 3-428.0.r431/327
+K 8
+2.6.38.6
+V 20
+dir 3-455.0.r458/327
+K 8
+2.6.38.7
+V 20
+dir 3-489.0.r492/327
+K 8
+2.6.38.8
+V 20
+dir 3-530.0.r533/327
+K 5
+3.0.4
+V 20
+dir 3-765.0.r768/324
+END
+ENDREP
+id: r-150.0.r768/899
+type: dir
+pred: r-150.0.r765/498
+count: 21
+text: 768 495 391 0 09f28e6a5b87d45870423699484cd5f3
+cpath: /cauldron/kernel-tmb/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-150.0.r764/1163
+K 8
+pristine
+V 22
+dir 2-150.0-767.r767/0
+K 8
+releases
+V 20
+dir r-150.0.r768/899
+END
+ENDREP
+id: 1-149.0.r768/1204
+type: dir
+pred: 1-149.0.r767/391
+count: 76
+text: 768 1068 123 0 3324d990d6a5b8ae393423d3f4d740b9
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r763/1404
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r757/1310
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 20
+dir 1-40.0.r747/1578
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r768/1612
+type: dir
+pred: 0-1.0.r767/795
+count: 746
+text: 768 1366 233 0 822578958ec261ea6a962f7d58a05b78
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r768/1612
+K 7
+updates
+V 22
+dir 0-539.0.r731/17520
+END
+ENDREP
+id: 0.0.r768/1855
+type: dir
+pred: 0.0.r767/1035
+count: 768
+text: 768 1760 82 0 70d4d1b1105f437a547b18968df02ddf
+cpath: /
+copyroot: 0 /
+
+2-150._0.t767-lb add-dir false false /cauldron/kernel-tmb/releases/3.0.4/1.mga2
+764 /cauldron/kernel-tmb/current
+
+1855 1991

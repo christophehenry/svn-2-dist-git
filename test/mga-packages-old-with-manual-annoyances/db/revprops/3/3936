@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-11-08T22:00:43.095953Z
+K 7
+svn:log
+V 96
+make 'Fast TSC calibration failed' message a debug one to hide it during normal boot (mga#11532)
+END

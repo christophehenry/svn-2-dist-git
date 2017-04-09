@@ -1,0 +1,200 @@
+PLAIN
+K 41
+firefox-3.0b3-check-default-browser.patch
+V 21
+file 6-64.0.r64/26860
+K 40
+firefox-3.5.3-default-mail-handler.patch
+V 21
+file 9-64.0.r64/27101
+K 27
+firefox-3.6.3-appname.patch
+V 21
+file b-64.0.r64/27344
+K 17
+firefox-kde.patch
+V 21
+file f-64.0.r411/8526
+K 32
+firefox-searchengines-askcom.xml
+V 21
+file j-64.0.r64/28284
+K 33
+firefox-searchengines-exalead.xml
+V 21
+file l-64.0.r64/28522
+K 33
+firefox-searchengines-jamendo.xml
+V 21
+file n-64.0.r64/28761
+K 15
+firefox.desktop
+V 21
+file p-64.0.r64/29000
+K 6
+kde.js
+V 21
+file r-64.0.r64/29221
+K 41
+mozilla-firefox-1.5-software-update.patch
+V 21
+file t-64.0.r64/29429
+K 41
+mozilla-firefox-1.5.0.6-systemproxy.patch
+V 21
+file v-64.0.r64/29675
+K 32
+mozilla-firefox-3.0.5-lang.patch
+V 21
+file x-64.0.r64/29920
+K 33
+mozilla-firefox-run-mozilla.patch
+V 22
+file 11-64.0.r64/30396
+K 8
+sha1.lst
+V 19
+file 13-64.0.r831/0
+K 42
+xulrunner_allow_to_use_system_libffi.patch
+V 22
+file 7-537.0.r537/7991
+K 36
+xulrunner_configure_neon_check.patch
+V 22
+file b-537.0.r537/8474
+K 21
+xulrunner_nojit.patch
+V 22
+file d-537.0.r537/8717
+END
+ENDREP
+id: 4-64.0.r834/1076
+type: dir
+pred: 4-64.0.r833/1135
+count: 31
+text: 834 0 1063 1063 976ac7d8a6b49cd948ce66ca256df5c1
+cpath: /cauldron/firefox/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-64.0.r834/1076
+K 5
+SPECS
+V 21
+dir 15-64.0.r666/2286
+END
+ENDREP
+id: 2-64.0.r834/1343
+type: dir
+pred: 2-64.0.r833/1402
+count: 58
+text: 834 1251 79 79 68f9c53817e54d7cab08deb69206ab59
+props: 115 605 91 91 e9c4e6755b85c5ac521e8c6171248955
+cpath: /cauldron/firefox/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-64.0.r834/1343
+K 8
+pristine
+V 21
+dir 2-64.0-676.r676/0
+K 9
+pristine@
+V 19
+dir 2-64.0-65.r65/0
+K 8
+releases
+V 20
+dir 19-64.0.r677/580
+END
+ENDREP
+id: 1-63.0.r834/1736
+type: dir
+pred: 1-63.0.r833/1795
+count: 112
+text: 834 1563 160 160 1442ef03cd5473e376995cd3d69ee4f0
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r818/1150
+K 7
+firefox
+V 20
+dir 1-63.0.r834/1736
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r811/1382
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r795/1247
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r830/1179
+K 3
+nss
+V 19
+dir 1-56.0.r778/940
+K 3
+rpm
+V 20
+dir 1-11.0.r826/1252
+K 7
+systemd
+V 19
+dir 1-70.0.r822/947
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r834/2288
+type: dir
+pred: 0-1.0.r833/2347
+count: 830
+text: 834 1897 378 378 7147b6747bb1b958aa96c720bc8634f3
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r834/2288
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r834/2532
+type: dir
+pred: 0.0.r833/2591
+count: 834
+text: 834 2439 80 80 9a11a49cdef5123fbab0ebec1783165e
+cpath: /
+copyroot: 0 /
+
+4-537.0.r537/7760 delete-file false false /cauldron/firefox/current/SOURCES/xulrunner-bug626035.patch
+
+
+2532 2669

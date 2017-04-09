@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-01-26T19:08:21.354183Z
+K 7
+svn:log
+V 233
+- intel_idle: update Sandy Bridge core C-state residency targets
+- intel_idle: open broadcast clock event to prevent boot hang
+              due to local apic stalls
+- intel_idle: fix a shutdown regression due to open broadcast fix
+
+
+END

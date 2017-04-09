@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-03T19:31:31.092118Z
+K 7
+svn:log
+V 36
+drm/radeon/dpm: disable ss on Cayman
+END

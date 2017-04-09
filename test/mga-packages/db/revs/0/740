@@ -1,0 +1,160 @@
+id: 2-44.0-740.r740/0
+type: dir
+pred: 2-44.0.r737/596
+count: 25
+text: 737 505 78 78 44c70fe4ed1648575e39609844a91a01
+props: 44 21896 64 64 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/166/5.mga1
+copyfrom: 737 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga1
+V 21
+dir 2-44.0-410.r410/0
+K 6
+2.mga1
+V 21
+dir 2-44.0-509.r509/0
+K 6
+3.mga1
+V 21
+dir 2-44.0-630.r630/0
+K 6
+4.mga1
+V 21
+dir 2-44.0-634.r634/0
+K 6
+5.mga1
+V 21
+dir 2-44.0-740.r740/0
+END
+ENDREP
+id: 3-407.0.r740/459
+type: dir
+pred: 3-407.0.r634/423
+count: 5
+text: 740 252 194 194 14690cc1ef3aae2b0e298e75aa978153
+cpath: /cauldron/udev/releases/166
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 19
+dir 3-52.0.r108/342
+K 3
+165
+V 20
+dir 3-134.0.r137/307
+K 3
+166
+V 20
+dir 3-407.0.r740/459
+END
+ENDREP
+id: 1f-44.0.r740/745
+type: dir
+pred: 1f-44.0.r634/709
+count: 11
+text: 740 627 105 105 e8829f1e326b5a7be146ada5e8a5ce23
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-44.0.r737/596
+K 8
+pristine
+V 21
+dir 2-44.0-739.r739/0
+K 8
+releases
+V 20
+dir 1f-44.0.r740/745
+END
+ENDREP
+id: 1-43.0.r740/1043
+type: dir
+pred: 1-43.0.r739/374
+count: 53
+text: 740 910 120 120 8b6ea30f4d7c7c7f82295bfb9a08cc09
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r729/1265
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r719/1169
+K 10
+kernel-tmb
+V 21
+dir 1-304.0.r736/1101
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r604/2568
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r740/1588
+type: dir
+pred: 0-1.0.r739/916
+count: 736
+text: 740 1198 377 377 899263229c4ce8a4be22025f3e7da27d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r740/1588
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r740/1831
+type: dir
+pred: 0.0.r739/1156
+count: 740
+text: 740 1738 80 80 bc3360ab751845730e6bd4fb8b1cde65
+cpath: /
+copyroot: 0 /
+
+2-44._0.t739-kj add-dir false false /cauldron/udev/releases/166/5.mga1
+737 /cauldron/udev/current
+
+1831 1968

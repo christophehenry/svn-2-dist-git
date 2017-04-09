@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-24T23:09:18.447897Z
+K 7
+svn:log
+V 81
+ALSA: usb-audio: fix possible hang and overflow in parse_uac2_sample_rate_range()
+END

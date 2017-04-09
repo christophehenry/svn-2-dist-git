@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T07:37:34.187697Z
+K 7
+svn:log
+V 83
+media/radio: si4713-i2c: avoid potential buffer overflow on si4713 (CVE-2011-2700)
+
+END

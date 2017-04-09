@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-02-21T17:37:18.877375Z
+K 7
+svn:log
+V 52
+Backport mdv commit 636905
+	- disable elf hack also
+
+END

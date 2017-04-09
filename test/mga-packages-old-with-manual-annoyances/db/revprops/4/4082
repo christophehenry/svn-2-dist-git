@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-12-29T14:17:44.498053Z
+K 7
+svn:log
+V 61
+drm/i915: Use the correct GMCH_CTRL register for Sandybridge+
+END

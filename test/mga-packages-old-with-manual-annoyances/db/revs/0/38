@@ -1,0 +1,78 @@
+id: 2-28.0-38.r38/0
+type: dir
+pred: 2-28.0.r34/1757
+count: 6
+text: 34 1668 76 0 6d0146e679a805f5d5fbed02567b17df
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/pristine
+copyfrom: 37 /cauldron/udev/current
+
+PLAIN
+K 7
+current
+V 19
+dir 2-28.0.r34/1757
+K 8
+pristine
+V 19
+dir 2-28.0-38.r38/0
+K 8
+releases
+V 19
+dir 1f-28.0.r36/133
+END
+ENDREP
+id: 1-27.0.r38/365
+type: dir
+pred: 1-27.0.r37/92
+count: 10
+text: 38 235 117 0 863a7d3cad7b5a9e15e6d82da0fd4efc
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 17
+dir 1-7.0.r26/804
+K 6
+kernel
+V 17
+dir 1-5.0.r35/917
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/370
+K 4
+udev
+V 18
+dir 1-27.0.r38/365
+END
+ENDREP
+id: 0-1.0.r38/670
+type: dir
+pred: 0-1.0.r37/392
+count: 37
+text: 38 513 144 0 38a35ee2f3d2f1dcf069886b16a75112
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r38/670
+END
+ENDREP
+id: 0.0.r38/865
+type: dir
+pred: 0.0.r37/587
+count: 38
+text: 38 812 40 0 8f37141da9c861dad00f5d33450aab9f
+cpath: /
+copyroot: 0 /
+
+2-28._0.t37-11 add-dir false false /cauldron/udev/pristine
+37 /cauldron/udev/current
+
+865 994

@@ -1,0 +1,143 @@
+id: d-150.0.r230/0
+type: file
+pred: d-150.0.r154/99
+count: 3
+text: 113 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 229-6d/_5
+cpath: /cauldron/bugzilla/current/SOURCES/sha1.lst
+copyroot: 0 /
+
+PLAIN
+K 28
+bugzilla-3.6-extern-id.patch
+V 23
+file 6-150.0.r150/14186
+K 39
+bugzilla-4.0-dont-mess-file-perms.patch
+V 26
+file 9-150.0-152.r152/2090
+K 22
+bugzilla-4.0-fhs.patch
+V 26
+file b-150.1-152.r152/2441
+K 8
+sha1.lst
+V 19
+file d-150.0.r230/0
+END
+ENDREP
+id: 4-150.0.r230/482
+type: dir
+pred: 4-150.0.r154/584
+count: 4
+text: 230 227 242 242 6c5938924860d07018083b3f473bbad5
+cpath: /cauldron/bugzilla/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-150.0.r230/482
+K 5
+SPECS
+V 21
+dir f-150.0.r152/3507
+END
+ENDREP
+id: 2-150.0.r230/749
+type: dir
+pred: 2-150.0.r154/851
+count: 4
+text: 230 657 79 79 1063376e5927df99bfc073a8ec5fc291
+cpath: /cauldron/bugzilla/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-150.0.r230/749
+K 8
+pristine
+V 22
+dir 2-150.0-157.r157/0
+K 8
+releases
+V 20
+dir j-150.0.r158/494
+END
+ENDREP
+id: 1-149.0.r230/1049
+type: dir
+pred: 1-149.0.r158/795
+count: 10
+text: 230 914 122 122 33872f7fe6d8e370f40bd12fc5531043
+cpath: /cauldron/bugzilla
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 21
+dir 1-149.0.r230/1049
+K 7
+firefox
+V 20
+dir 1-63.0.r220/1069
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 19
+dir 1-11.0.r221/977
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r230/1552
+type: dir
+pred: 0-1.0.r229/1386
+count: 229
+text: 230 1210 329 329 5e27c36cacadb7c438451e04152b20e7
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r230/1552
+END
+ENDREP
+id: 0.0.r230/1758
+type: dir
+pred: 0.0.r229/1591
+count: 230
+text: 230 1703 42 42 49cb081b0a977d7fa95e92a548923d40
+cpath: /
+copyroot: 0 /
+
+d-150.0.t229-6d modify-file true false /cauldron/bugzilla/current/SOURCES/sha1.lst
+
+
+1758 1895

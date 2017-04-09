@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2012-11-04T15:40:59.601976Z
+K 7
+svn:log
+V 36
+nsswitch.conf: document all modules
+
+END

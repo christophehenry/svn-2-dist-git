@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-13T22:10:40.173012Z
+K 7
+svn:log
+V 68
+drop merged: net-wireless-iwlagn-5000-do-not-support-idle-mode.patch
+END

@@ -1,0 +1,38 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-18T22:09:27.486835Z
+K 7
+svn:log
+V 979
+- update to 3.0.3
+- update patches:
+    * CK01: Con Kolivas -ck patchset including BFS
+    * FU01: unionfs 2.5.9.2
+    * KP01: TuxonIce 3.2
+- drop merged patches:
+    * CK02, DA60-DA61, DG10-DG14, DN08, DN15-DN19, DP05-DP08
+    * DP20-DP26, DP30, DV11, FU02-FU03, MK01, NI30-NI31
+- add patches:
+    * AA01: genirq: Fix wrong bit operation
+    * DP10-DP12: samsung-laptop: support nc110, nc210, r700, x520
+    * DP13: samsung-laptop: fix support for older N150, N210, N220
+    * FB01: btrfs: btrfs_calc_avail_data_space: cope with no read_write devices
+    * MB17: ndiswrapper buildfix for 3.0
+    * MC84: viahss buildfix for 3.0
+- rediff patches:
+    * NI16: netfilter psd mdv/mga modifications
+- disable patches:
+    * DV01-DV02: framebuffer oops fixes (should not be needed anymore)
+    * FR01: reiser4 support (broken)
+- adapt spec for 3.0 series version changes
+- change kernel-tmb-source to noarch
+- build with -s(ilent) to only log varnings and errors
+- update defconfigs
+
+
+END

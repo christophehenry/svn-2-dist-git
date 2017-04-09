@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-06-27T20:07:24.204716Z
+K 7
+svn:log
+V 482
+- ARM: 7755/1: handle user space mapped pages in flush_kernel_dcache_page
+- ARM: 7772/1: Fix missing flush_kernel_dcache_page() for noMMU
+- Bluetooth: Fix crash in l2cap_build_cmd() with small MTU
+- Bluetooth: Fix invalid length check in l2cap_information_rsp()
+- dlci: acquire rtnl_lock before calling __dev_get_by_name()
+- dlci: validate the net device in dlci_del()
+- hw_breakpoint: Use cpu_possible_mask in {reserve,release}_bp_slot()
+- net/tg3: Avoid delay during MMIO access
+
+
+END

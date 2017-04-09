@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 3
+rtp
+K 8
+svn:date
+V 27
+2011-03-30T07:40:09.985663Z
+K 7
+svn:log
+V 293
+- Arm support :
+  * Merge patch from mozilla bug 626035 to fix arm detection
+  * Use system libffi (only on arm) because internal one is using vfp insns
+  * Disable all javascrits jit (tracejit/methodjit) because arm softfloat support broken
+  * Backport alignment fix from mozilla bug 634954
+
+END

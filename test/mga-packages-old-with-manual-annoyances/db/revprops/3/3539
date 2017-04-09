@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-05T19:19:21.974783Z
+K 7
+svn:log
+V 175
+- atl1c: Fix misuse of netdev_alloc_skb in refilling rx ring
+- iwlwifi: dvm: don't send BT_CONFIG on devices w/o Bluetooth
+- iwlwifi: mvm: set SSID bits for passive channels
+
+
+END

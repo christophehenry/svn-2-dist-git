@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2011-04-15T17:46:32.849004Z
+K 7
+svn:log
+V 83
+SILENT: delete file ./SOURCES/introduce-apply_patches-and-lua-var-patches_num.patch
+END

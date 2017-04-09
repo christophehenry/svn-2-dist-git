@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-09-11T15:40:42.535917Z
+K 7
+svn:log
+V 116
+- ext3: Fix fdatasync() for files with only i_size changes (mga #7343)
+- udf: Fix data corruption for files in ICB
+
+
+END

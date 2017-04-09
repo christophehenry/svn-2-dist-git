@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-09-11T10:14:35.112763Z
+K 7
+svn:log
+V 40
+sync with -stable queue (30 added fixes)
+END

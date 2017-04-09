@@ -1,0 +1,106 @@
+id: 3-203.0.r203/0
+type: dir
+count: 0
+cpath: /cauldron/udev/releases/166
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 18
+dir 3-203.0.r203/0
+END
+ENDREP
+id: 1f-28.0.r203/201
+type: dir
+pred: 1f-28.0.r80/537
+count: 6
+text: 203 88 100 0 c6988d833dd04ce8997806613869cc76
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-28.0.r202/2476
+K 8
+pristine
+V 19
+dir 2-28.0-79.r79/0
+K 8
+releases
+V 20
+dir 1f-28.0.r203/201
+END
+ENDREP
+id: 1-27.0.r203/493
+type: dir
+pred: 1-27.0.r202/2822
+count: 33
+text: 203 361 119 0 920189b7923f278ac63da7879bbdcf0f
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r126/860
+K 6
+kernel
+V 18
+dir 1-5.0.r195/985
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r187/1062
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r155/863
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r203/493
+END
+ENDREP
+id: 0-1.0.r203/887
+type: dir
+pred: 0-1.0.r202/3219
+count: 202
+text: 203 646 228 0 b11d74263163b21b051ab7946bbf66ef
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r203/887
+END
+ENDREP
+id: 0.0.r203/1088
+type: dir
+pred: 0.0.r202/3423
+count: 203
+text: 203 1034 41 0 648c2a49f0b1f92bdd5e27ca8694bcc7
+cpath: /
+copyroot: 0 /
+
+_3.0.t202-5m add-dir false false /cauldron/udev/releases/166
+
+
+1088 1224

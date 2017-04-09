@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-16T17:07:09.937923Z
+K 7
+svn:log
+V 69
+ACPI/thermal: _TMP and _CRT/_HOT/_PSV/_ACx dependency fix (mga #9079)
+END

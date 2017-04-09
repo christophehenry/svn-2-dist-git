@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+dmorgan
+K 8
+svn:date
+V 27
+2011-11-28T07:38:55.729489Z
+K 7
+svn:log
+V 88
+Do not set hostname at first install only but always check if one is set even on upgrade
+END

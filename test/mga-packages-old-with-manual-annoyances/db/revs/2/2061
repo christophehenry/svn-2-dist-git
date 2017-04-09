@@ -1,0 +1,81 @@
+PLAIN
+K 7
+current
+V 21
+dir 2-41.0.r2060/8626
+K 8
+pristine
+V 23
+dir 2-41.0-2058.r2058/0
+K 8
+releases
+V 21
+dir p-41.0.r2059/1076
+END
+ENDREP
+id: 1-40.0.r2061/138
+type: dir
+pred: 1-40.0.r2060/9027
+count: 351
+text: 2061 0 125 0 01ec180ce9808562238ad1495ff38bec
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r2043/1355
+K 6
+kernel
+V 20
+dir 1-5.0.r2048/2335
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r2055/2320
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r2052/2136
+K 7
+systemd
+V 20
+dir 1-40.0.r2061/138
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0.r2061/548
+type: dir
+pred: 0-1.0.r2060/9442
+count: 1930
+text: 2061 296 239 0 c652a7613f0217e0432672c4ed3f2249
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r2061/548
+K 7
+updates
+V 21
+dir 0-539.0.r1912/292
+END
+ENDREP
+id: 0.0.r2061/793
+type: dir
+pred: 0.0.r2060/9690
+count: 2061
+text: 2061 699 81 0 a033b8980ac0a7cc0e8d8c6f07d52cec
+cpath: /
+copyroot: 0 /
+
+2-1935.0.r2056/1237 delete-dir false false /cauldron/systemd/branches
+
+
+793 931

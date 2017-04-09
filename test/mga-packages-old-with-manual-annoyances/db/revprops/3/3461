@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-07-24T21:54:21.426055Z
+K 7
+svn:log
+V 91
+- Remove the racy network device renaming loop patch + netif rules generator (mga4 feature)
+END

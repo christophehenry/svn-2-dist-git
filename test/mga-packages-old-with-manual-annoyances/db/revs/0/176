@@ -1,0 +1,132 @@
+id: 2-3.0-176.r176/0
+type: dir
+pred: 2-3.0.r173/2726
+count: 15
+text: 173 2637 76 0 c14c271fe3e7d1bfa2a1844fd2eb2727
+props: 172 1149 65 0 c250b0f9eea5bedf97b96672725e31d0
+cpath: /cauldron/kernel-linus/releases/2.6.38/0.rc8.1.mga1
+copyfrom: 173 /cauldron/kernel-linus/current
+
+PLAIN
+K 12
+0.rc7.1.mga1
+V 20
+dir 2-3.0-164.r164/0
+K 14
+0.rc7.2.1.mga1
+V 20
+dir 2-3.0-169.r169/0
+K 12
+0.rc8.1.mga1
+V 20
+dir 2-3.0-176.r176/0
+END
+ENDREP
+id: 3-161.0.r176/426
+type: dir
+pred: 3-161.0.r169/384
+count: 3
+text: 176 275 138 0 d628197ec9475d0d6cec80edaff313f7
+cpath: /cauldron/kernel-linus/releases/2.6.38
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r176/426
+END
+ENDREP
+id: n-3.0.r176/735
+type: dir
+pred: n-3.0.r169/692
+count: 8
+text: 176 603 119 0 0ef6710043ad3d8679c7123f7cfd6089
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r173/2726
+K 8
+pristine
+V 20
+dir 2-3.0-175.r175/0
+K 8
+releases
+V 18
+dir n-3.0.r176/735
+END
+ENDREP
+id: 1-2.0.r176/1031
+type: dir
+pred: 1-2.0.r175/385
+count: 34
+text: 176 901 117 0 5f1211b7628af6f1cbaa00cefa9b30c0
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r126/860
+K 6
+kernel
+V 19
+dir 1-5.0.r171/1489
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r176/1031
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r155/863
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 18
+dir 1-27.0.r80/824
+END
+ENDREP
+id: 0-1.0.r176/1431
+type: dir
+pred: 0-1.0.r175/782
+count: 175
+text: 176 1190 228 0 7ca8bbd51fc5173462e5dee7e28ba313
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r176/1431
+END
+ENDREP
+id: 0.0.r176/1634
+type: dir
+pred: 0.0.r175/982
+count: 176
+text: 176 1579 42 0 eaaad290129adc879f38b755f64cf4ed
+cpath: /
+copyroot: 0 /
+
+2-3._0.t175-4v add-dir false false /cauldron/kernel-linus/releases/2.6.38/0.rc8.1.mga1
+173 /cauldron/kernel-linus/current
+
+1634 1769

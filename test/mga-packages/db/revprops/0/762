@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-05-22T11:19:12.957575Z
+K 7
+svn:log
+V 118
+- r8169: add a new chip for RTL8105
+- r8169: add a new chip for RTL8168DP
+- r8169: add support for RTL8168E/RTL8111E
+
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-08-31T16:51:56.050641Z
+K 7
+svn:log
+V 74
+efi: corrupted GUID partition tables can cause kernel oops (CVE-2011-1776)
+END

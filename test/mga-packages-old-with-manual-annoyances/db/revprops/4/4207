@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T18:14:52.689789Z
+K 7
+svn:log
+V 121
+- ACPI: Blacklist Win8 OSI for some HP laptop 2013 models
+- ACPI: Blacklist Win8 OSI for Asus VivoBook X202E (mga#7857)
+
+
+END

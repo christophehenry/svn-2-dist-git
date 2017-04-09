@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-21T21:30:52.425905Z
+K 7
+svn:log
+V 59
+mac80211: add a flag to indicate CCK support for HT clients
+END

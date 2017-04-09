@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-08-28T16:25:08.991090Z
+K 7
+svn:log
+V 72
+Drop /proc/bus/usb mount as it's no longer available with kernels >= 3.5
+END

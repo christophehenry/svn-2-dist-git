@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-01-10T06:42:38.919460Z
+K 7
+svn:log
+V 62
+- rediff patches to apply cleanly
+- drop merged zram patches
+
+
+END

@@ -1,0 +1,64 @@
+id: 1-63.0.r63/0
+type: dir
+count: 0
+cpath: /cauldron/firefox
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 16
+dir 1-63.0.r63/0
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r62/842
+K 3
+rpm
+V 18
+dir 1-11.0.r37/841
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r63/331
+type: dir
+pred: 0-1.0.r62/1212
+count: 62
+text: 63 76 242 242 a22402039f5a37a17980508aba7fb20e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r63/331
+END
+ENDREP
+id: 0.0.r63/528
+type: dir
+pred: 0.0.r62/1411
+count: 63
+text: 63 475 40 40 5bf27c4ee5323cd9d19f34b06359f02c
+cpath: /
+copyroot: 0 /
+
+_1.0.t62-1q add-dir false false /cauldron/firefox
+
+
+528 659

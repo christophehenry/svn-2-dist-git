@@ -1,0 +1,155 @@
+id: 2-8.0-1380.r1380/0
+type: dir
+pred: 2-8.0-540.r1059/5993
+count: 24
+text: 1059 5893 87 0 df36b8b280b0f0f80f7529eddd375c5e
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /updates/1/glibc/releases/6:2.12.1/11.2.mga1
+copyfrom: 1059 /updates/1/glibc/current
+
+PLAIN
+K 7
+10.mga1
+V 20
+dir 2-8.0-126.r126/0
+K 9
+11.1.mga1
+V 22
+dir 2-8.0-1379.r1379/0
+K 9
+11.2.mga1
+V 22
+dir 2-8.0-1380.r1380/0
+K 7
+11.mga1
+V 20
+dir 2-8.0-248.r248/0
+K 6
+9.mga1
+V 18
+dir 2-8.0-26.r26/0
+END
+ENDREP
+id: 3-23.0-540.r1380/482
+type: dir
+pred: 3-23.0-540.r1379/440
+count: 5
+text: 1380 270 199 0 bc95df16ea962c8147dae7c5bb64bf58
+cpath: /updates/1/glibc/releases/6:2.12.1
+copyroot: 540 /updates/1
+
+PLAIN
+K 8
+6:2.12.1
+V 24
+dir 3-23.0-540.r1380/482
+END
+ENDREP
+id: 35-8.0-540.r1380/735
+type: dir
+pred: 35-8.0-540.r1379/688
+count: 6
+text: 1380 675 47 0 b4bbcb369764ef7ac87a7d424a696e66
+cpath: /updates/1/glibc/releases
+copyroot: 540 /updates/1
+
+PLAIN
+K 7
+current
+V 24
+dir 2-8.0-540.r1378/6285
+K 8
+pristine
+V 20
+dir 2-8.0-247.r247/0
+K 8
+releases
+V 24
+dir 35-8.0-540.r1380/735
+END
+ENDREP
+id: 1-7.0-540.r1380/1059
+type: dir
+pred: 1-7.0-540.r1379/1007
+count: 39
+text: 1380 918 128 0 944a43d1857b313f20a0792893561bf7
+cpath: /updates/1/glibc
+copyroot: 540 /updates/1
+
+PLAIN
+K 5
+glibc
+V 24
+dir 1-7.0-540.r1380/1059
+K 6
+kernel
+V 25
+dir 1-5.0-540.r1255/28803
+K 12
+kernel-linus
+V 23
+dir 1-2.0-540.r911/1784
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r458/1096
+K 7
+systemd
+V 20
+dir 1-40.0.r411/1029
+K 4
+udev
+V 24
+dir 1-27.0-540.r858/1022
+END
+ENDREP
+id: 0-1.0-540.r1380/1501
+type: dir
+pred: 0-1.0-540.r1379/1449
+count: 590
+text: 1380 1235 253 0 7f48ecb7184749f9e8027f685fc3dfd8
+cpath: /updates/1
+copyroot: 540 /updates/1
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1380/1501
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r1380/1764
+type: dir
+pred: 0-539.0.r1379/1712
+count: 111
+text: 1380 1673 78 0 ab65661d3411658a0c40e2985176bef5
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1376/1379
+K 7
+updates
+V 22
+dir 0-539.0.r1380/1764
+END
+ENDREP
+id: 0.0.r1380/2014
+type: dir
+pred: 0.0.r1379/1962
+count: 1380
+text: 1380 1918 83 0 414610acc5f5e5ef20677f89f7e78509
+cpath: /
+copyroot: 0 /
+
+2-8._0.t1379-12b add-dir false false /updates/1/glibc/releases/6:2.12.1/11.2.mga1
+1059 /updates/1/glibc/current
+
+2014 2154

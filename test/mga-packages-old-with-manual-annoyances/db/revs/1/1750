@@ -1,0 +1,164 @@
+id: 2-28.0-1750.r1750/0
+type: dir
+pred: 2-28.0.r1747/2461
+count: 70
+text: 1747 2367 81 0 99f5ed77fcac0985ccf3512cd40a0454
+props: 28 21870 64 0 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/releases/181/5.mga2
+copyfrom: 1747 /cauldron/udev/current
+
+PLAIN
+K 6
+1.mga2
+V 23
+dir 2-28.0-1485.r1485/0
+K 6
+2.mga2
+V 23
+dir 2-28.0-1551.r1551/0
+K 6
+3.mga2
+V 23
+dir 2-28.0-1555.r1555/0
+K 6
+4.mga2
+V 23
+dir 2-28.0-1681.r1681/0
+K 6
+5.mga2
+V 23
+dir 2-28.0-1750.r1750/0
+END
+ENDREP
+id: 3-1482.0.r1750/474
+type: dir
+pred: 3-1482.0.r1681/434
+count: 5
+text: 1750 257 204 0 601bf1b2305d5e8e6f9743826b18ee25
+cpath: /cauldron/udev/releases/181
+copyroot: 0 /
+
+PLAIN
+K 3
+164
+V 18
+dir 3-36.0.r70/333
+K 3
+165
+V 18
+dir 3-77.0.r80/298
+K 3
+166
+V 20
+dir 3-203.0.r462/457
+K 3
+172
+V 20
+dir 3-613.0.r674/419
+K 3
+173
+V 21
+dir 3-749.0.r1163/350
+K 3
+175
+V 22
+dir 3-1177.0.r1336/432
+K 3
+180
+V 22
+dir 3-1440.0.r1443/314
+K 3
+181
+V 22
+dir 3-1482.0.r1750/474
+END
+ENDREP
+id: 1f-28.0.r1750/937
+type: dir
+pred: 1f-28.0.r1681/897
+count: 32
+text: 1750 645 279 0 80003b6f194106450a8432cb5462fa1a
+cpath: /cauldron/udev/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 21
+dir 2-28.0.r1747/2461
+K 8
+pristine
+V 23
+dir 2-28.0-1749.r1749/0
+K 8
+releases
+V 21
+dir 1f-28.0.r1750/937
+END
+ENDREP
+id: 1-27.0.r1750/1241
+type: dir
+pred: 1-27.0.r1749/384
+count: 151
+text: 1750 1103 125 0 a4130548cc57a169cfc8bd65bf04e6c9
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 20
+dir 1-7.0.r1721/1236
+K 6
+kernel
+V 20
+dir 1-5.0.r1746/2072
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r1712/1940
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r1733/1828
+K 7
+systemd
+V 21
+dir 1-40.0.r1699/1333
+K 4
+udev
+V 21
+dir 1-27.0.r1750/1241
+END
+ENDREP
+id: 0-1.0.r1750/1652
+type: dir
+pred: 0-1.0.r1749/791
+count: 1626
+text: 1750 1399 240 0 d42dd69a5e449fdc1e2ae0a2decfdfb8
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r1750/1652
+K 7
+updates
+V 22
+dir 0-539.0.r1468/2602
+END
+ENDREP
+id: 0.0.r1750/1900
+type: dir
+pred: 0.0.r1749/1036
+count: 1750
+text: 1750 1804 83 0 41dd35a3a766815977579c4f40068674
+cpath: /
+copyroot: 0 /
+
+2-28._0.t1749-1cl add-dir false false /cauldron/udev/releases/181/5.mga2
+1747 /cauldron/udev/current
+
+1900 2040

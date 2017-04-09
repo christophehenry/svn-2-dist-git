@@ -1,0 +1,72 @@
+id: 1-149.0.r149/0
+type: dir
+count: 0
+cpath: /cauldron/bugzilla
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 18
+dir 1-149.0.r149/0
+K 7
+firefox
+V 20
+dir 1-63.0.r148/1024
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 20
+dir 1-5.0.r103/14110
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r117/4687
+K 7
+systemd
+V 20
+dir 1-70.0.r128/1074
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r149/420
+type: dir
+pred: 0-1.0.r148/1486
+count: 148
+text: 149 79 328 328 1b0407873bcff1f50d5f8ccdf6208ccb
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r149/420
+END
+ENDREP
+id: 0.0.r149/622
+type: dir
+pred: 0.0.r148/1691
+count: 149
+text: 149 568 41 41 83454e49e477d3d63a84efde03fc53bc
+cpath: /
+copyroot: 0 /
+
+_1.0.t148-44 add-dir false false /cauldron/bugzilla
+
+
+622 757

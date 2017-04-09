@@ -1,0 +1,204 @@
+PLAIN
+K 22
+50-udev-mandriva.rules
+V 21
+file 6-44.0.r44/15638
+K 29
+61-mobile-zte-drakx-net.rules
+V 21
+file 9-44.0.r44/15858
+K 19
+69-printeracl.rules
+V 21
+file b-44.0.r44/16087
+K 12
+76-net.rules
+V 19
+file d-44.0.r50/192
+K 19
+hotplug-usb.distmap
+V 21
+file f-44.0.r44/16517
+K 19
+hotplug-usb.handmap
+V 21
+file h-44.0.r44/16739
+K 8
+sha1.lst
+V 19
+file j-44.0.r132/92
+K 10
+start_udev
+V 21
+file l-44.0.r44/17208
+K 24
+udev-137-speedboot.patch
+V 21
+file n-44.0.r44/17474
+K 23
+udev-152-coldplug.patch
+V 21
+file p-44.0.r44/17698
+K 26
+udev-161-env_STARTUP.patch
+V 21
+file r-44.0.r44/17922
+K 32
+udev-161-use-add-for-retry.patch
+V 21
+file t-44.0.r44/18148
+K 34
+udev-162-VirtualBox-boot-fix.patch
+V 21
+file 4-104.0.r104/880
+K 35
+udev-162-udev-post_needs_dbus.patch
+V 21
+file v-44.0.r44/18380
+K 14
+udev-post.init
+V 21
+file z-44.0.r44/18836
+K 14
+udev.sysconfig
+V 22
+file 11-44.0.r44/19052
+K 19
+udev_import_usermap
+V 22
+file 13-44.0.r44/19268
+K 18
+udev_net.sysconfig
+V 22
+file 15-44.0.r44/19491
+K 15
+udev_net_action
+V 22
+file 17-44.0.r44/19712
+K 21
+udev_net_create_ifcfg
+V 22
+file 19-44.0.r44/19930
+END
+ENDREP
+id: 4-44.0.r400/1090
+type: dir
+pred: 4-44.0.r132/1459
+count: 7
+text: 400 0 1077 1077 ae87fa4be1368441df54e93d0df5487f
+cpath: /cauldron/udev/current/SOURCES
+copyroot: 0 /
+
+PLAIN
+K 7
+SOURCES
+V 20
+dir 4-44.0.r400/1090
+K 5
+SPECS
+V 20
+dir 1b-44.0.r133/515
+END
+ENDREP
+id: 2-44.0.r400/1352
+type: dir
+pred: 2-44.0.r133/773
+count: 13
+text: 400 1261 78 78 9f2eef872808598401c5ec9872d12a98
+props: 44 21896 64 64 ecc786e2be6ec808fea830c1d98888a2
+cpath: /cauldron/udev/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-44.0.r400/1352
+K 8
+pristine
+V 21
+dir 2-44.0-136.r136/0
+K 8
+releases
+V 20
+dir 1f-44.0.r137/555
+END
+ENDREP
+id: 1-43.0.r400/1703
+type: dir
+pred: 1-43.0.r137/850
+count: 26
+text: 400 1569 121 121 40e8c77311f8397a74892a09ea446596
+cpath: /cauldron/udev
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r386/1296
+K 5
+glibc
+V 18
+dir 1-7.0.r271/864
+K 6
+kernel
+V 18
+dir 1-5.0.r399/992
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r391/1068
+K 10
+kernel-tmb
+V 20
+dir 1-304.0.r312/867
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r354/1099
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 20
+dir 1-43.0.r400/1703
+END
+ENDREP
+id: 0-1.0.r400/2246
+type: dir
+pred: 0-1.0.r399/1532
+count: 399
+text: 400 1859 374 374 4be4cb44c2e22895f3a256b91919f568
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r400/2246
+END
+ENDREP
+id: 0.0.r400/2452
+type: dir
+pred: 0.0.r399/1737
+count: 400
+text: 400 2397 42 42 c9952aa929e347c0c26c0f9c61e26cc0
+cpath: /
+copyroot: 0 /
+
+4-131.0.r131/279 delete-file false false /cauldron/udev/current/SOURCES/udev-165.tar.bz2.sign
+
+
+2452 2589

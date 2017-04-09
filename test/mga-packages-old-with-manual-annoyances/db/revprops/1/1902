@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-05-17T15:45:22.094525Z
+K 7
+svn:log
+V 405
+- pull in fixes from stable queue:
+  * ALSA: echoaudio: Remove incorrect part of assertion
+  * ALSA: HDA: Lessen CPU usage when waiting for chip to respond
+  * ALSA: hda/realtek - Add missing CD-input pin for MSI-7350 mobo
+  * ALSA: hda/idt - Fix power-map for speaker-pins with some HP laptops
+  * usbnet: fix skb traversing races during unlink(v2)
+  * namespaces, pid_ns: fix leakage on fork() failure
+
+
+END

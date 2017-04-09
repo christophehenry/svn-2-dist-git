@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-10-25T18:25:24.772476Z
+K 7
+svn:log
+V 56
+SILENT: restore minimum required gcc / binutils versions
+END

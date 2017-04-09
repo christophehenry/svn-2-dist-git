@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-02-12T17:40:36.973354Z
+K 7
+svn:log
+V 375
+- Bluetooth: Fix handling of unexpected SMP PDUs
+- efi: Make 'efi_enabled' a function to query EFI facilities
+- samsung-laptop: Disable on EFI hardware
+- rtlwifi: Fix scheduling while atomic bug
+- rtlwifi: Fix the usage of the wrong variable in usb.c
+- kernel/resource.c: fix stack overflow in __reserve_region_with_split()
+- virtio_console: Don't access uninitialized data
+
+
+END

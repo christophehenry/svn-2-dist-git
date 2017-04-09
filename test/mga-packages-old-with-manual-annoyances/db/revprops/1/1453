@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-06T21:39:20.194951Z
+K 7
+svn:log
+V 81
+pull in carl9170-firmware too as it's not in upstream kernel-firmware yet (#2386)
+END

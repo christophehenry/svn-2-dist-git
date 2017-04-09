@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-01T01:16:05.036335Z
+K 7
+svn:log
+V 145
+- tighten the 'xulrunner' requires, otherwise firefox breaks if xulrunner is
+  updated while new firefox isn't built/available on the mirrors yet
+END

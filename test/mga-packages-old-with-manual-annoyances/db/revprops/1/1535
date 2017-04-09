@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-02-25T17:55:39.643043Z
+K 7
+svn:log
+V 36
+mac80211: Fix a rwlock bad magic bug
+END

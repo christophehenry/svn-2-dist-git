@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2012-03-19T16:43:00.942586Z
+K 7
+svn:log
+V 338
+- New version: 44 (numerous fixes to journal+endien conversions)
+- Set default pager to be more color and screen friendly
+- Disable journal coredump swallowing until it gets better tools to work with it.
+- Do not process modprobe.preload. This is handled by fedora-loadmodules.service
+- Add patch to address CVE-2012-1174 (symlink attack)
+END

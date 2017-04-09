@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-22T13:31:53.585903Z
+K 7
+svn:log
+V 62
+add aliases for old ieee1394 modules to the new firewire stack
+END

@@ -1,0 +1,316 @@
+id: 2-6.0-2856.r2856/0
+type: dir
+pred: 2-6.0-1912.r2823/1226
+count: 515
+text: 2823 995 218 0 85bb9039dbf1d73396750e5cdfec1afa
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /updates/2/kernel/releases/3.4.30/1.mga2
+copyfrom: 2823 /updates/2/kernel/current
+
+PLAIN
+K 6
+1.mga2
+V 22
+dir 2-6.0-2856.r2856/0
+END
+ENDREP
+id: 4-2856.0-1912.r2856/326
+type: dir
+count: 0
+text: 2856 270 43 0 0cb98495daa28745f9f22734f436841e
+cpath: /updates/2/kernel/releases/3.4.30
+copyroot: 1912 /updates/2
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+K 8
+2.6.38.4
+V 20
+dir 3-382.0.r385/315
+K 8
+2.6.38.5
+V 20
+dir 3-407.0.r427/358
+K 8
+2.6.38.6
+V 20
+dir 3-448.0.r471/351
+K 8
+2.6.38.7
+V 20
+dir 3-485.0.r488/315
+K 8
+2.6.38.8
+V 21
+dir 3-501.0.r1141/165
+K 5
+3.0.0
+V 20
+dir 3-648.0.r670/375
+K 5
+3.0.4
+V 20
+dir 3-760.0.r763/312
+K 5
+3.0.6
+V 20
+dir 3-863.0.r866/311
+K 5
+3.1.0
+V 21
+dir 3-891.0.r1016/445
+K 5
+3.1.1
+V 22
+dir 3-1048.0.r1051/332
+K 5
+3.1.2
+V 22
+dir 3-1064.0.r1067/332
+K 5
+3.1.3
+V 22
+dir 3-1082.0.r1085/318
+K 5
+3.1.4
+V 22
+dir 3-1106.0.r1130/358
+K 5
+3.1.6
+V 22
+dir 3-1172.0.r1235/402
+K 5
+3.2.0
+V 22
+dir 3-1258.0.r1297/413
+K 5
+3.2.1
+V 22
+dir 3-1344.0.r1374/357
+K 5
+3.2.2
+V 22
+dir 3-1419.0.r1422/318
+K 5
+3.2.5
+V 22
+dir 3-1454.0.r1457/319
+K 5
+3.2.6
+V 22
+dir 3-1475.0.r1512/404
+K 5
+3.2.7
+V 22
+dir 3-1538.0.r1541/319
+K 5
+3.2.9
+V 22
+dir 3-1568.0.r1589/358
+K 5
+3.3.0
+V 22
+dir 3-1612.0.r1690/450
+K 5
+3.3.1
+V 22
+dir 3-1725.0.r1746/358
+K 5
+3.3.3
+V 22
+dir 3-1794.0.r1797/319
+K 5
+3.3.4
+V 22
+dir 3-1827.0.r1830/319
+K 5
+3.3.5
+V 22
+dir 3-1864.0.r1867/318
+K 5
+3.3.6
+V 22
+dir 3-1888.0.r1907/358
+K 5
+3.3.8
+V 27
+dir 4-2845.0-1912.r2846/364
+K 6
+3.4.13
+V 27
+dir 4-2844.0-1912.r2844/326
+K 6
+3.4.16
+V 27
+dir 4-2843.0-1912.r2843/326
+K 6
+3.4.17
+V 27
+dir 4-2842.0-1912.r2842/329
+K 6
+3.4.19
+V 27
+dir 4-2841.0-1912.r2841/326
+K 6
+3.4.20
+V 27
+dir 4-2840.0-1912.r2840/327
+K 6
+3.4.24
+V 27
+dir 4-2837.0-1912.r2839/404
+K 6
+3.4.30
+V 27
+dir 4-2856.0-1912.r2856/326
+END
+ENDREP
+id: 2-14.0-1912.r2856/2232
+type: dir
+pred: 2-14.0-1912.r2846/2255
+count: 113
+text: 2856 494 1725 0 19d62dd979d0ef79c45e8aa61ff94503
+cpath: /updates/2/kernel/releases
+copyroot: 1912 /updates/2
+
+PLAIN
+K 7
+current
+V 26
+dir 2-6.0-1912.r2836/18545
+K 8
+pristine
+V 22
+dir 2-6.0-1906.r1906/0
+K 8
+releases
+V 26
+dir 2-14.0-1912.r2856/2232
+END
+ENDREP
+id: 1-5.0-1912.r2856/2572
+type: dir
+pred: 1-5.0-1912.r2846/2595
+count: 771
+text: 2856 2425 134 0 274fe152b37fc4886d56d029f91b1f13
+cpath: /updates/2/kernel
+copyroot: 1912 /updates/2
+
+PLAIN
+K 5
+glibc
+V 25
+dir 1-7.0-1912.r2434/1090
+K 6
+kernel
+V 25
+dir 1-5.0-1912.r2856/2572
+K 12
+kernel-linus
+V 25
+dir 1-2.0-1912.r2855/2592
+K 10
+kernel-tmb
+V 27
+dir 1-149.0-1912.r2681/4002
+K 7
+systemd
+V 21
+dir 1-40.0.r1911/1703
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0-1912.r2856/3027
+type: dir
+pred: 0-1.0-1912.r2855/3053
+count: 1922
+text: 2856 2754 260 0 cb4a13bebd4ef856394c6062bea36662
+cpath: /updates/2
+copyroot: 1912 /updates/2
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1468/2339
+K 1
+2
+V 25
+dir 0-1.0-1912.r2856/3027
+K 7
+infra_1
+V 20
+dir 0-1.0-541.r541/0
+END
+ENDREP
+id: 0-539.0.r2856/3331
+type: dir
+pred: 0-539.0.r2855/3357
+count: 257
+text: 2856 3203 115 0 c8a88c41608c1cab48d73b633d81db5a
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r2825/7100
+K 7
+updates
+V 22
+dir 0-539.0.r2856/3331
+END
+ENDREP
+id: 0.0.r2856/3582
+type: dir
+pred: 0.0.r2855/3608
+count: 2856
+text: 2856 3486 83 0 4612b38c61842c6b991d49150e579a6e
+cpath: /
+copyroot: 0 /
+
+_4.0-1912.t2855-27b add-dir false false /updates/2/kernel/releases/3.4.30
+
+2-6._0.t2855-27b add-dir false false /updates/2/kernel/releases/3.4.30/1.mga2
+2823 /updates/2/kernel/current
+
+3582 3722

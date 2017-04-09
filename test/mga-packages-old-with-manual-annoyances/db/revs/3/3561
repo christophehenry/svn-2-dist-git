@@ -1,0 +1,224 @@
+id: 2-41.0-3561.r3561/0
+type: dir
+pred: 2-41.0.r3558/637
+count: 210
+text: 3558 544 80 0 fb17a01d919a531ff2af360e40f4aeeb
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/206/5.mga4
+copyfrom: 3558 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga4
+V 23
+dir 2-41.0-3466.r3466/0
+K 6
+2.mga4
+V 23
+dir 2-41.0-3473.r3473/0
+K 6
+3.mga4
+V 23
+dir 2-41.0-3490.r3490/0
+K 6
+4.mga4
+V 23
+dir 2-41.0-3557.r3557/0
+K 6
+5.mga4
+V 23
+dir 2-41.0-3561.r3561/0
+END
+ENDREP
+id: 3-3463.0.r3561/478
+type: dir
+pred: 3-3463.0.r3557/438
+count: 5
+text: 3561 261 204 0 a1e6d35033e0fd505dd6c58a771a84d7
+cpath: /cauldron/systemd/releases/206
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 3
+185
+V 22
+dir 3-1991.0.r2095/606
+K 3
+186
+V 22
+dir 3-2102.0.r2143/358
+K 3
+187
+V 22
+dir 3-2151.0.r2234/518
+K 3
+188
+V 22
+dir 3-2270.0.r2273/320
+K 3
+189
+V 22
+dir 3-2291.0.r2350/478
+K 3
+192
+V 22
+dir 3-2375.0.r2378/320
+K 3
+193
+V 22
+dir 3-2386.0.r2393/358
+K 3
+194
+V 22
+dir 3-2415.0.r2477/400
+K 3
+195
+V 23
+dir 3-2479.0.r3134/1136
+K 3
+204
+V 22
+dir 3-3221.0.r3288/364
+K 3
+206
+V 22
+dir 3-3463.0.r3561/478
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r852/461
+K 2
+36
+V 20
+dir 3-896.0.r899/311
+K 2
+37
+V 21
+dir 3-904.0.r1270/955
+K 2
+38
+V 22
+dir 3-1305.0.r1364/560
+K 2
+39
+V 22
+dir 3-1392.0.r1433/396
+K 2
+40
+V 22
+dir 3-1460.0.r1499/356
+K 2
+43
+V 22
+dir 3-1530.0.r1647/479
+K 2
+44
+V 22
+dir 3-1667.0.r1911/804
+END
+ENDREP
+id: p-41.0.r3561/1467
+type: dir
+pred: p-41.0.r3557/1427
+count: 137
+text: 3561 652 802 0 a77e2d3608ce5ee9784c5dd948c3443a
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-41.0.r3558/637
+K 8
+pristine
+V 23
+dir 2-41.0-3560.r3560/0
+K 8
+releases
+V 21
+dir p-41.0.r3561/1467
+END
+ENDREP
+id: 1-40.0.r3561/1774
+type: dir
+pred: 1-40.0.r3560/387
+count: 594
+text: 3561 1637 124 0 17b320f3eb5e9327279ed424fbd842a8
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3506/1275
+K 6
+kernel
+V 20
+dir 1-5.0.r3543/3720
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3551/3775
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3365/2633
+K 7
+systemd
+V 21
+dir 1-40.0.r3561/1774
+END
+ENDREP
+id: 0-1.0.r3561/2189
+type: dir
+pred: 0-1.0.r3560/798
+count: 3177
+text: 3561 1935 241 0 8e4c5f6a34427364076eb37ab7711e3d
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3561/2189
+K 7
+updates
+V 22
+dir 0-539.0.r3390/6935
+END
+ENDREP
+id: 0.0.r3561/2437
+type: dir
+pred: 0.0.r3560/1043
+count: 3561
+text: 3561 2341 83 0 8bcb2be1c415b976f33506cac58a9e48
+cpath: /
+copyroot: 0 /
+
+2-41._0.t3560-2qw add-dir false false /cauldron/systemd/releases/206/5.mga4
+3558 /cauldron/systemd/current
+
+2437 2577

@@ -1,0 +1,20 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-04-09T17:28:24.791387Z
+K 7
+svn:log
+V 345
+- ata_piix: Fix DVD not dectected at some Haswell platforms
+- libata: fix DMA to stack in reading devslp_timing parameters
+- libata: Set max sector to 65535 for Slimtype DVD A DS8A8SH drive
+- libata: Use integer return value for atapi_command_packet_set
+- md: raid1,10: Handle REQ_WRITE_SAME flag in write bios
+  (fixes raid10 crash on mptsas)
+
+
+END

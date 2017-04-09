@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-29T09:08:41.362034Z
+K 7
+svn:log
+V 125
+- update to 3.1.4
+  * reverts usb patch that broke isochronous devices
+    (i.e. webcam, audio, or other streaming devices)
+
+
+END

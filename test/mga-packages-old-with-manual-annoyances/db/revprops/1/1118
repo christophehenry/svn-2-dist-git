@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-30T17:47:21.988866Z
+K 7
+svn:log
+V 66
+- update patch:
+  * CK01: upstream 3.1.0-ck2 including BFS 0.415
+
+
+END

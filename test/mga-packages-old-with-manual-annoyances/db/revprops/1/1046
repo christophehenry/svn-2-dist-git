@@ -1,0 +1,19 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-11-10T16:03:09.590676Z
+K 7
+svn:log
+V 95
+- update to 3.1.1-rc1
+  * rediff unionfs patch
+  * drop merged patches
+  * update defconfigs
+
+
+
+END

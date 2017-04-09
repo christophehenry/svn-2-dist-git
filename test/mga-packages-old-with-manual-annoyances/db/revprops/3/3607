@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2013-08-17T21:32:52.491362Z
+K 7
+svn:log
+V 100
+- Fix cbrtl for ldbl-96 (P100)
+- Fix CVE-2013-4237, BZ #14699: Buffer overflow in readdir_r (P101)
+
+
+END

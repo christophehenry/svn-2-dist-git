@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-02T19:09:54.075399Z
+K 7
+svn:log
+V 819
+- ALSA: Fix yet another race in disconnection
+- ALSA: hda - Fix SPDIF out regression on ALC889
+- ALSA: vmalloc buffers should use normal mmap
+- ath9k: Fix kernel panic in AR2427
+- cciss: fix lost command issue
+- crypto: aesni-intel - fix problem with packets that are not multiple of 64b
+- eCryptfs: ecryptfs_keyring_auth_tok_for_sig() bug fix
+- eCryptfs: Unlock page in write_begin error path
+- mac80211: initialize sta->last_rx in sta_info_alloc
+- myri10ge: fix rmmod crash
+- PCI/ACPI: Report ASPM support to BIOS if not disabled from command line
+- perf: Better fit max unprivileged mlock pages for tools needs
+- scsi/ses: Avoid kernel panic when lun 0 is not mapped
+- scsi/ses: show devices for enclosures with no page 7
+- sound/oss/opl3: validate voice and channel indexes
+- x86-64, mm: Put early page table high
+
+
+END

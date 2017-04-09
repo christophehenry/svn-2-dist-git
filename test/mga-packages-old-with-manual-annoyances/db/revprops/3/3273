@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 2
+tv
+K 8
+svn:date
+V 27
+2013-06-18T08:29:22.333807Z
+K 7
+svn:log
+V 44
+SILENT: delete file ./SOURCES/patch-3.9.4.xz
+END

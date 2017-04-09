@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-04-16T11:27:03.328473Z
+K 7
+svn:log
+V 75
+- update to 2.6.38.3 final (CVE-2011-2496)
+- drop merged xen revert patch
+
+
+END

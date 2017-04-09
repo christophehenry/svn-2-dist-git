@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2011-06-14T16:41:45.677865Z
+K 7
+svn:log
+V 135
+- ath9k: fix two more bugs in tx power
+- ath9k: Reset chip on baseband hang
+- ath9k: set 40 Mhz rate only if hw is configured in ht40
+
+
+END

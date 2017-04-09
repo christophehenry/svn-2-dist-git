@@ -1,0 +1,94 @@
+id: 2-71.0-72.r72/0
+type: dir
+pred: 2-71.0.r71/11623
+count: 1
+text: 71 11455 78 78 1ed37bcb62c87461d6e8beace8893441
+props: 71 11546 64 64 41077f2af38d963145ef324d7be5f4de
+cpath: /cauldron/systemd/pristine
+copyfrom: 71 /cauldron/systemd/current
+
+PLAIN
+K 7
+current
+V 20
+dir 2-71.0.r71/11623
+K 8
+pristine
+V 19
+dir 2-71.0-72.r72/0
+K 8
+releases
+V 20
+dir p-71.0.r71/11820
+END
+ENDREP
+id: 1-70.0.r72/377
+type: dir
+pred: 1-70.0.r71/12003
+count: 2
+text: 72 245 119 119 526e943c1a887841f8ec36e8831fda4a
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 7
+firefox
+V 18
+dir 1-63.0.r65/380
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 17
+dir 1-5.0.r51/921
+K 12
+kernel-linus
+V 16
+dir 1-2.0.r4/372
+K 3
+nss
+V 18
+dir 1-56.0.r62/842
+K 3
+rpm
+V 18
+dir 1-11.0.r69/879
+K 7
+systemd
+V 18
+dir 1-70.0.r72/377
+K 4
+udev
+V 18
+dir 1-43.0.r55/798
+END
+ENDREP
+id: 0-1.0.r72/825
+type: dir
+pred: 0-1.0.r71/12451
+count: 71
+text: 72 532 280 280 ad02624980a1adf3cc7a969f5bee88eb
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 17
+dir 0-1.0.r72/825
+END
+ENDREP
+id: 0.0.r72/1024
+type: dir
+pred: 0.0.r71/12654
+count: 72
+text: 72 971 40 40 e436348605b6ce18153b5be92cc50817
+cpath: /
+copyroot: 0 /
+
+2-71._0.t71-1z add-dir false false /cauldron/systemd/pristine
+71 /cauldron/systemd/current
+
+1024 1157

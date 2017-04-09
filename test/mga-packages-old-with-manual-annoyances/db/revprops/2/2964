@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+colin
+K 8
+svn:date
+V 27
+2013-04-01T08:53:49.316574Z
+K 7
+svn:log
+V 82
+- Fix install line
+- Make the write_net_rules able to make the rules dir if needed
+END

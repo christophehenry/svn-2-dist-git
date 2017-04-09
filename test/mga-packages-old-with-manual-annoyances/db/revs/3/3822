@@ -1,0 +1,160 @@
+id: 2-8.0-3822.r3822/0
+type: dir
+pred: 2-8.0.r3819/5305
+count: 113
+text: 3819 5213 79 0 f2507c47fa9fe46a562167973b7536ff
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /cauldron/glibc/releases/6:2.18/5.mga4
+copyfrom: 3819 /cauldron/glibc/current
+
+PLAIN
+K 8
+0.5.mga4
+V 22
+dir 2-8.0-3642.r3642/0
+K 6
+1.mga4
+V 22
+dir 2-8.0-3704.r3704/0
+K 6
+2.mga4
+V 22
+dir 2-8.0-3740.r3740/0
+K 6
+3.mga4
+V 22
+dir 2-8.0-3796.r3796/0
+K 6
+4.mga4
+V 22
+dir 2-8.0-3818.r3818/0
+K 6
+5.mga4
+V 22
+dir 2-8.0-3822.r3822/0
+END
+ENDREP
+id: 3-3639.0.r3822/513
+type: dir
+pred: 3-3639.0.r3818/472
+count: 6
+text: 3822 260 240 0 c58d10e4bd4d89bb7ae6587757a82ac0
+cpath: /cauldron/glibc/releases/6:2.18
+copyroot: 0 /
+
+PLAIN
+K 8
+6:2.12.1
+V 19
+dir 3-23.0.r248/383
+K 8
+6:2.14.1
+V 21
+dir 3-936.0.r2043/742
+K 6
+6:2.16
+V 22
+dir 3-2132.0.r2437/788
+K 6
+6:2.17
+V 22
+dir 3-2670.0.r3571/627
+K 6
+6:2.18
+V 22
+dir 3-3639.0.r3822/513
+END
+ENDREP
+id: 35-8.0.r3822/900
+type: dir
+pred: 35-8.0.r3818/859
+count: 48
+text: 3822 688 199 0 e2ee1c72b07a881d5f9a0c8709f90d7c
+cpath: /cauldron/glibc/releases
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r2667/5240
+K 7
+current
+V 20
+dir 2-8.0.r3819/5305
+K 8
+pristine
+V 22
+dir 2-8.0-3821.r3821/0
+K 8
+releases
+V 20
+dir 35-8.0.r3822/900
+END
+ENDREP
+id: 1-7.0.r3822/1242
+type: dir
+pred: 1-7.0.r3821/423
+count: 286
+text: 3822 1065 164 0 deabb48f9db9b15b8c9f90b900b9f3b0
+cpath: /cauldron/glibc
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3271/845
+K 5
+glibc
+V 20
+dir 1-7.0.r3822/1242
+K 6
+kernel
+V 20
+dir 1-5.0.r3781/3912
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r3770/3511
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r3791/2755
+K 7
+systemd
+V 21
+dir 1-40.0.r3808/1682
+END
+ENDREP
+id: 0-1.0.r3822/1653
+type: dir
+pred: 0-1.0.r3821/831
+count: 3398
+text: 3822 1399 241 0 46879a8a281c4bbca601eea54e21801f
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3822/1653
+K 7
+updates
+V 22
+dir 0-539.0.r3812/1852
+END
+ENDREP
+id: 0.0.r3822/1901
+type: dir
+pred: 0.0.r3821/1076
+count: 3822
+text: 3822 1805 83 0 bd4327501320da53ca54abe4138d23e6
+cpath: /
+copyroot: 0 /
+
+2-8._0.t3821-2y5 add-dir false false /cauldron/glibc/releases/6:2.18/5.mga4
+3819 /cauldron/glibc/current
+
+1901 2041

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+ahmad
+K 8
+svn:date
+V 27
+2011-03-01T01:20:37.003407Z
+K 7
+svn:log
+V 114
+- don't install kde.js, the xulrunner kde-integration patches aren't applied
+  so installing this file is useless
+
+END

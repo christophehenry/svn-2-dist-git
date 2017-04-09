@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-03-19T14:18:17.638558Z
+K 7
+svn:log
+V 76
+media: fix initialization on Hauppauge WinTV Nova HD-S2 and similar hardware
+END

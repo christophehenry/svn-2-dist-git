@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-07-12T17:39:37.509095Z
+K 7
+svn:log
+V 250
+- upstream net fixes:
+  * bcma:
+    add ext PA workaround for BCM4331 and BCM43431
+  * e1000e:
+    Disable ASPM L1 on 82574
+    Remove special case for 82573/82574 ASPM L1 disablement
+  * tg3:
+    Apply short DMA frag workaround to 5906 (mga #6293)
+
+
+END

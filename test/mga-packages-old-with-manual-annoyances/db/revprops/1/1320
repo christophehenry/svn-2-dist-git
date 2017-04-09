@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-14T17:53:17.108903Z
+K 7
+svn:log
+V 216
+- drop kernel-xen-pvops flavour as kernel-server provides all that is needed
+  * kernel-server-latest now obsoletes kernel-xen-pvops-latest
+  * kernel-server-devel-latest now obsoletes kernel-xen-pvops-devel-latest
+
+
+END

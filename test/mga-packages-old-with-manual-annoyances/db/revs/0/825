@@ -1,0 +1,144 @@
+id: 2-41.0-825.r825/0
+type: dir
+pred: 2-41.0.r822/604
+count: 43
+text: 822 515 76 0 457326de19cc8798a459985cf327ae34
+props: 59 1162 65 0 53a846a0fb2bc77697ef60714a0dc44a
+cpath: /cauldron/systemd/releases/35/3.mga2
+copyfrom: 822 /cauldron/systemd/current
+
+PLAIN
+K 6
+1.mga2
+V 21
+dir 2-41.0-816.r816/0
+K 6
+2.mga2
+V 21
+dir 2-41.0-820.r820/0
+K 6
+3.mga2
+V 21
+dir 2-41.0-825.r825/0
+END
+ENDREP
+id: 3-813.0.r825/385
+type: dir
+pred: 3-813.0.r820/349
+count: 3
+text: 825 254 118 0 2cdd64e2cea834dbe275213f758045da
+cpath: /cauldron/systemd/releases/35
+copyroot: 0 /
+
+PLAIN
+K 2
+15
+V 18
+dir 3-47.0.r50/302
+K 2
+17
+V 18
+dir 3-88.0.r91/304
+K 2
+18
+V 18
+dir 3-96.0.r99/302
+K 2
+30
+V 20
+dir 3-631.0.r639/348
+K 2
+35
+V 20
+dir 3-813.0.r825/385
+END
+ENDREP
+id: p-41.0.r825/729
+type: dir
+pred: p-41.0.r820/692
+count: 13
+text: 825 553 163 0 e0b77a581c6051ff6684bd7e8e1c97f4
+cpath: /cauldron/systemd/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-41.0.r822/604
+K 8
+pristine
+V 21
+dir 2-41.0-824.r824/0
+K 8
+releases
+V 19
+dir p-41.0.r825/729
+END
+ENDREP
+id: 1-40.0.r825/1025
+type: dir
+pred: 1-40.0.r824/376
+count: 73
+text: 825 893 119 0 ee11417ce6d19d525ada67cc52d9da78
+cpath: /cauldron/systemd
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 18
+dir 1-7.0.r810/982
+K 6
+kernel
+V 19
+dir 1-5.0.r809/1599
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r757/1310
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r768/1204
+K 7
+systemd
+V 20
+dir 1-40.0.r825/1025
+K 4
+udev
+V 19
+dir 1-27.0.r752/950
+END
+ENDREP
+id: 0-1.0.r825/1426
+type: dir
+pred: 0-1.0.r824/774
+count: 765
+text: 825 1181 232 0 a0b76c752c4d3808678f953891be9317
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r825/1426
+K 7
+updates
+V 21
+dir 0-539.0.r811/1995
+END
+ENDREP
+id: 0.0.r825/1668
+type: dir
+pred: 0.0.r824/1013
+count: 825
+text: 825 1574 81 0 bc71a756854afb6eff3fddb27af6eee7
+cpath: /
+copyroot: 0 /
+
+2-41._0.t824-mw add-dir false false /cauldron/systemd/releases/35/3.mga2
+822 /cauldron/systemd/current
+
+1668 1804

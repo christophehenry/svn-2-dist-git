@@ -1,0 +1,93 @@
+PLAIN
+K 7
+current
+V 21
+dir 2-305.0.r766/5332
+K 8
+releases
+V 20
+dir r-305.0.r771/426
+END
+ENDREP
+id: 1-304.0.r772/95
+type: dir
+pred: 1-304.0.r771/732
+count: 60
+text: 772 0 82 82 70ef310457e9fcc253f7c942a8012f96
+cpath: /cauldron/kernel-tmb
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 19
+dir 1-63.0.r677/919
+K 5
+glibc
+V 19
+dir 1-7.0.r557/1010
+K 6
+kernel
+V 19
+dir 1-5.0.r770/1306
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r759/1208
+K 10
+kernel-tmb
+V 19
+dir 1-304.0.r772/95
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r744/1215
+K 7
+systemd
+V 20
+dir 1-70.0.r689/1040
+K 4
+udev
+V 20
+dir 1-43.0.r740/1043
+END
+ENDREP
+id: 0-1.0.r772/640
+type: dir
+pred: 0-1.0.r771/1284
+count: 768
+text: 772 252 375 375 bf10a9fe3545184cf02fc120f86ede1f
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r772/640
+K 7
+updates
+V 20
+dir 0-539.0.r541/254
+END
+ENDREP
+id: 0.0.r772/881
+type: dir
+pred: 0.0.r771/1527
+count: 772
+text: 772 789 79 79 53b4632cf6bad48e13d36878197d2724
+cpath: /
+copyroot: 0 /
+
+2-305.0-735.r735/0 delete-dir false false /cauldron/kernel-tmb/pristine
+
+
+881 1016

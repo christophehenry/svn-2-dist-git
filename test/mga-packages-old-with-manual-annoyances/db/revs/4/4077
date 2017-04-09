@@ -1,0 +1,583 @@
+id: 2s-51.0.r4077/0
+type: file
+pred: 2s-51.0.r2701/976
+count: 5
+text: 4076 0 383 1359 7d1fafeb45cc8e0c3b9101934248067d 126595614d813f215930913a685bdadce7f45abe 4076-358/_6
+cpath: /cauldron/kernel/current/PATCHES/patches/char-agp-intel-new-Q57-id.patch
+copyroot: 0 /
+
+PLAIN
+K 27
+3rd-3rdparty-1.0-tree.patch
+V 22
+file t-51.0.r51/731654
+K 24
+3rd-3rdparty-merge.patch
+V 23
+file w-51.0.r3408/29705
+K 23
+3rd-acerhk-0.5.35.patch
+V 22
+file y-51.0.r51/732135
+K 32
+3rd-acerhk-2.6.36-buildfix.patch
+V 23
+file 10-51.0.r51/732376
+K 29
+3rd-acerhk-extra-cflags.patch
+V 23
+file 12-51.0.r51/732623
+K 47
+3rd-acerhk-fix-build-with-function-tracer.patch
+V 23
+file 14-51.0.r51/732868
+K 28
+3rd-acerhk-fix-include.patch
+V 21
+file 5-227.0.r227/534
+K 23
+3rd-acerhk-kbuild.patch
+V 23
+file 16-51.0.r51/733130
+K 37
+3rd-acerhk-proc_dir_entry-owner.patch
+V 23
+file 18-51.0.r51/733369
+K 24
+3rd-aes2501-kbuild.patch
+V 23
+file 1a-51.0.r51/733622
+K 21
+3rd-aes2501-r19.patch
+V 23
+file 1c-51.0.r51/733862
+K 32
+3rd-aes2501-rmmod-oops-fix.patch
+V 23
+file 1e-51.0.r51/734102
+K 26
+3rd-ndiswrapper-1.59.patch
+V 29
+file 1o-51.0-3984.r3984/12555
+K 29
+3rd-ndiswrapper-Kconfig.patch
+V 23
+file 1u-51.0.r51/736078
+K 40
+3rd-ndiswrapper-Makefile-build-fix.patch
+V 24
+file 1w-51.0.r3984/12905
+K 22
+3rd-rfswitch-1.3.patch
+V 23
+file 20-51.0.r51/736841
+K 31
+3rd-rfswitch-3.0-buildfix.patch
+V 22
+file a-640.0.r640/4768
+K 28
+3rd-rfswitch-build-fix.patch
+V 23
+file 22-51.0.r51/737082
+K 21
+3rd-viahss-0.92.patch
+V 23
+file 24-51.0.r51/737326
+K 32
+3rd-viahss-2.6.35-buildfix.patch
+V 23
+file 26-51.0.r51/737564
+K 29
+3rd-viahss-3.0-buildfix.patch
+V 22
+file c-640.0.r640/5011
+K 23
+3rd-viahss-config.patch
+V 23
+file 28-51.0.r51/737812
+K 31
+3rd-viahss-module-license.patch
+V 23
+file 2a-51.0.r51/738050
+K 15
+3rdparty.series
+V 23
+file 2c-51.0.r51/738296
+K 39
+acpi-CLEVO-M360S-disable_acpi_irq.patch
+V 23
+file 2e-51.0.r51/738526
+K 39
+acpi-processor-M720SR-limit-to-C2.patch
+V 23
+file 2m-51.0.r51/739530
+K 38
+arch-x86-kernel-tsc-hide-warning.patch
+V 23
+file 5-3936.0.r3936/541
+K 65
+ata-prefer-ata-drivers-over-ide-drivers-when-both-are-built.patch
+V 28
+file 5-1677.0-2603.r2603/193
+K 39
+block-floppy-disable-pnp-modalias.patch
+V 24
+file 5-1781.0.r1783/1769
+K 46
+bluetooth-hci_usb-disable-isoc-transfers.patch
+V 23
+file 2q-51.0.r51/740052
+K 31
+char-agp-intel-new-Q57-id.patch
+V 20
+file 2s-51.0.r4077/0
+K 21
+dm-raid-aliases.patch
+V 22
+file 8-301.0.r301/1768
+K 38
+firewire-ieee1394-module-aliases.patch
+V 24
+file 5-379.0.r3408/29968
+K 26
+fs-aufs-3.12-modular.patch
+V 30
+file 9-3410.0-3823.r3823/16622
+K 18
+fs-aufs-3.12.patch
+V 30
+file c-3410.1-3823.r3823/16972
+K 39
+fs-ovl01-vfs-add-i_op-dentry_open.patch
+V 25
+file 8-3408.0.r3823/17311
+K 53
+fs-ovl02-vfs-export-do_splice_direct-to-modules.patch
+V 24
+file a-3408.0.r3727/1906
+K 53
+fs-ovl03-vfs-export-inode_permission-to-modules.patch
+V 25
+file c-3408.0.r3823/17597
+K 48
+fs-ovl04-vfs-introduce-clone_private_mount.patch
+V 25
+file e-3408.0.r3408/31052
+K 33
+fs-ovl05-overlay-filesystem.patch
+V 24
+file g-3408.0.r3727/2203
+K 43
+fs-ovl06-overlayfs-add-statfs-support.patch
+V 25
+file i-3408.0.r3408/31576
+K 47
+fs-ovl07-overlayfs-implement-show_options.patch
+V 25
+file k-3408.0.r3408/31841
+K 55
+fs-ovl08-overlay-overlay-filesystem-documentation.patch
+V 25
+file m-3408.0.r3408/32110
+K 49
+fs-ovl09-fs-limit-filesystem-stacking-depth.patch
+V 25
+file o-3408.0.r3823/17898
+K 36
+fs-squashfs-decompressor-multi.patch
+V 25
+file 9-3971.0.r3971/14944
+K 65
+fs-squashfs-fix-failure-to-unlock-pages-on-decompress-error.patch
+V 23
+file 5-3997.0.r3997/776
+K 57
+fs-xfs-add-capability-check-to-free-eofblocks-ioctl.patch
+V 24
+file e-4035.0.r4035/2083
+K 54
+gpu-drm-cirrus-correct-register-values-for-16bpp.patch
+V 23
+file 5-3146.0.r3146/750
+K 34
+gpu-drm-i915-disable_pch_pwm.patch
+V 24
+file 5-3934.0.r3934/1117
+K 27
+gpu-drm-mach64-2.6.31.patch
+V 23
+file 34-51.0.r51/741801
+K 36
+gpu-drm-mach64-2.6.36-buildfix.patch
+V 23
+file 36-51.0.r51/742045
+K 36
+gpu-drm-mach64-2.6.37-buildfix.patch
+V 23
+file 38-51.0.r51/742297
+K 33
+gpu-drm-mach64-3.0-buildfix.patch
+V 22
+file e-640.0.r640/5253
+K 34
+gpu-drm-mach64-3.12-buildfix.patch
+V 25
+file g-3823.0.r3823/18195
+K 33
+gpu-drm-mach64-3.3-buildfix.patch
+V 23
+file 5-1607.0.r1607/687
+K 33
+gpu-drm-mach64-3.6-buildfix.patch
+V 24
+file 5-2448.0.r2448/1050
+K 33
+gpu-drm-mach64-3.7-buildfix.patch
+V 24
+file 8-2609.0.r2609/2354
+K 46
+gpu-drm-mach64-fix-for-changed-drm_ioctl.patch
+V 23
+file 3a-51.0.r51/742548
+K 50
+gpu-drm-mach64-fix-for-changed-drm_pci_alloc.patch
+V 23
+file 3c-51.0.r51/742809
+K 26
+gpu-drm-mach64-fixes.patch
+V 23
+file 3e-51.0.r51/743074
+K 37
+gpu-drm-mach64-include-module.h.patch
+V 23
+file 5-1253.0.r1253/441
+K 43
+gpu-drm-mach64-restore-mach64_PCI_IDS.patch
+V 25
+file i-3823.0.r3823/18449
+K 20
+gpu-drm-mach64.patch
+V 24
+file 3g-51.0.r3823/18713
+K 60
+gpu-drm-radeon-fix-render-backend-setup-for-SI-and-CIK.patch
+V 24
+file 5-4073.0.r4073/1324
+K 42
+hid-usbhid-IBM-BladeCenterHS20-quirk.patch
+V 22
+file 3i-51.0.r3731/176
+K 25
+ide-pci-sis5513-965.patch
+V 23
+file 3k-51.0.r51/743815
+K 35
+include-kbuild-export-pci_ids.patch
+V 23
+file 3m-51.0.r2602/3499
+K 43
+media-usb-pwc-lie-in-proc-usb-devices.patch
+V 28
+file 40-51.0-2602.r2602/3776
+K 20
+mpt-vmware-fix.patch
+V 23
+file 44-51.0.r51/746459
+K 48
+net-ipv4-netfilter-ipt_IFWLOG-3.6-buildfix.patch
+V 24
+file 8-2448.0.r2448/1298
+K 42
+net-netfilter-IFWLOG-2.6.35-buildfix.patch
+V 22
+file 46-51.0.r1122/319
+K 42
+net-netfilter-IFWLOG-2.6.37-buildfix.patch
+V 23
+file 48-51.0.r51/746952
+K 39
+net-netfilter-IFWLOG-3.7-buildfix.patch
+V 24
+file c-2609.0.r2609/2865
+K 30
+net-netfilter-IFWLOG-mdv.patch
+V 23
+file 4a-51.0.r2602/4152
+K 26
+net-netfilter-IFWLOG.patch
+V 24
+file 4c-51.0.r3823/18980
+K 39
+net-netfilter-psd-2.6.35-buildfix.patch
+V 23
+file 4g-51.0.r51/747948
+K 27
+net-netfilter-psd-mdv.patch
+V 24
+file 4i-51.0.r3408/32658
+K 23
+net-netfilter-psd.patch
+V 23
+file 4k-51.0.r1600/5240
+K 31
+net-sis190-fix-list-usage.patch
+V 23
+file 4m-51.0.r1249/4398
+K 52
+pci-add-ALI-M5229-ide-compatibility-mode-quirk.patch
+V 23
+file 5e-51.0.r51/752540
+K 28
+pci-pciprobe-CardBusNo.patch
+V 23
+file 5g-51.0.r2442/1110
+K 34
+pci-quirks-drop-devinit-exit.patch
+V 24
+file c-2725.0.r2725/3663
+K 41
+platform-x86-add-shuttle-wmi-driver.patch
+V 22
+file 5m-51.0.r3730/334
+K 48
+platform-x86-shuttle-wmi-drop-devinit-exit.patch
+V 24
+file e-2725.0.r2725/3915
+K 27
+pnp-isapnp-async-init.patch
+V 23
+file 5o-51.0.r51/753856
+K 32
+pnp-pnpbios-off-by-default.patch
+V 23
+file 5q-51.0.r51/754099
+K 34
+scsi-megaraid-new-sysfs-name.patch
+V 23
+file 5s-51.0.r2701/1528
+K 23
+scsi-ppscsi-2.6.2.patch
+V 23
+file 5u-51.0.r51/754595
+K 30
+scsi-ppscsi-3.0-buildfix.patch
+V 22
+file g-640.0.r640/5500
+K 28
+scsi-ppscsi-mdvbz45393.patch
+V 23
+file 5w-51.0.r51/754838
+K 34
+scsi-ppscsi-sg-helper-update.patch
+V 23
+file 5y-51.0.r51/755081
+K 45
+scsi-ppscsi-update-for-scsi_data_buffer.patch
+V 23
+file 60-51.0.r51/755331
+K 23
+scsi-ppscsi_fixes.patch
+V 23
+file 62-51.0.r51/755593
+K 6
+series
+V 23
+file 68-51.0.r4074/1346
+K 32
+smack-unionfs-deadlock-fix.patch
+V 23
+file 6a-51.0.r51/756543
+K 33
+sound-bluetooth-SCO-support.patch
+V 23
+file 6g-51.0.r51/757313
+K 53
+usb-storage-unusual_devs-add-id-2.6.37-buildfix.patch
+V 23
+file 6i-51.0.r2602/5215
+K 37
+usb-storage-unusual_devs-add-id.patch
+V 23
+file 6k-51.0.r2602/5511
+K 23
+video-mageia-logo.patch
+V 22
+file a-177.0.r177/7680
+K 35
+x86-boot-video-80x25-if-break.patch
+V 23
+file 6q-51.0.r51/758622
+K 38
+x86-default_poweroff_up_machines.patch
+V 23
+file 6u-51.0.r1600/5753
+K 64
+x86-increase-default-minimum-vmalloc-area-by-64MB-to-192MB.patch
+V 21
+file 5-405.0.r405/535
+K 61
+x86-p4_clockmod-reasonable-default-for-scaling_min_freq.patch
+V 22
+file 6w-51.0.r623/4827
+K 46
+x86-pci-toshiba-equium-a60-assign-busses.patch
+V 22
+file 6y-51.0.r877/3665
+END
+ENDREP
+id: s-51.0.r4077/7676
+type: dir
+pred: s-51.0.r4074/9006
+count: 419
+text: 4077 267 7396 0 83fca4a942f6106b1473fd146782dc83
+cpath: /cauldron/kernel/current/PATCHES/patches
+copyroot: 0 /
+
+PLAIN
+K 13
+Documentation
+V 21
+dir 7-51.0.r51/730212
+K 6
+broken
+V 21
+dir 4-210.0.r3735/694
+K 7
+configs
+V 21
+dir i-51.0.r4074/1161
+K 7
+patches
+V 21
+dir s-51.0.r4077/7676
+K 5
+queue
+V 22
+dir 6-627.0.r3411/1263
+K 7
+scripts
+V 23
+dir 70-51.0.r3823/27806
+END
+ENDREP
+id: 6-51.0.r4077/8119
+type: dir
+pred: 6-51.0.r4074/9450
+count: 510
+text: 4077 7861 245 0 0fd49c4d5fbc2987b426c2d19037a440
+cpath: /cauldron/kernel/current/PATCHES
+copyroot: 0 /
+
+PLAIN
+K 8
+Makefile
+V 20
+file 3-51.0.r1280/47
+K 7
+PATCHES
+V 21
+dir 6-51.0.r4077/8119
+K 7
+SOURCES
+V 19
+dir 4-6.0.r4054/762
+K 5
+SPECS
+V 21
+dir 6-6.0.r4053/11265
+K 13
+build_sources
+V 23
+file 7g-51.0.r51/771044
+END
+ENDREP
+id: 2-6.0.r4077/8513
+type: dir
+pred: 2-6.0.r4074/9845
+count: 877
+text: 4077 8296 204 0 aadc701222847ac2be6cc74c02367a36
+props: 468 1206 65 0 b9a2c12cf79f357612ac8a708b736576
+cpath: /cauldron/kernel/current
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 20
+dir 2-6.0.r4077/8513
+K 8
+pristine
+V 22
+dir 2-6.0-4071.r4071/0
+K 8
+releases
+V 21
+dir 2-14.0.r4072/3840
+END
+ENDREP
+id: 1-5.0.r4077/8870
+type: dir
+pred: 1-5.0.r4074/10203
+count: 1415
+text: 4077 8734 123 0 1e38b10bffd074ef89f69465ec1f6937
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 4
+cgit
+V 22
+dir 1-3256.0.r3858/885
+K 5
+glibc
+V 20
+dir 1-7.0.r3994/1361
+K 6
+kernel
+V 20
+dir 1-5.0.r4077/8870
+K 12
+kernel-linus
+V 20
+dir 1-2.0.r4058/3748
+K 10
+kernel-tmb
+V 22
+dir 1-149.0.r4068/2909
+K 7
+systemd
+V 21
+dir 1-40.0.r4024/1852
+END
+ENDREP
+id: 0-1.0.r4077/9285
+type: dir
+pred: 0-1.0.r4074/10621
+count: 3606
+text: 4077 9031 241 0 71154f230ffc1cfcec12ac3209102bab
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r4077/9285
+K 7
+updates
+V 23
+dir 0-539.0.r4076/10966
+END
+ENDREP
+id: 0.0.r4077/9536
+type: dir
+pred: 0.0.r4076/11222
+count: 4077
+text: 4077 9439 84 0 54ca7d541c44ee2bff9addba4020a848
+cpath: /
+copyroot: 0 /
+
+2s-51.0.t4076-358 modify-file true false /cauldron/kernel/current/PATCHES/patches/char-agp-intel-new-Q57-id.patch
+
+
+9536 9677

@@ -1,0 +1,152 @@
+id: 2-6.0-357.r357/0
+type: dir
+pred: 2-6.0.r354/1286
+count: 102
+text: 354 994 201 0 1e5b182ae9d5938dd13ee12a40ee3049
+props: 354 1208 65 0 55068cddb6dd1bd9bd53b456358cce9a
+cpath: /cauldron/kernel/releases/2.6.38.3/1.mga1
+copyfrom: 354 /cauldron/kernel/current
+
+PLAIN
+K 12
+0.rc1.1.mga1
+V 20
+dir 2-6.0-334.r334/0
+K 6
+1.mga1
+V 20
+dir 2-6.0-357.r357/0
+END
+ENDREP
+id: 3-331.0.r357/358
+type: dir
+pred: 3-331.0.r334/326
+count: 2
+text: 357 260 85 0 3bd8e6e6480438174759761631d4cd64
+cpath: /cauldron/kernel/releases/2.6.38.3
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 18
+dir 3-15.0.r64/339
+K 8
+2.6.37.1
+V 20
+dir 3-112.0.r115/313
+K 8
+2.6.37.2
+V 20
+dir 3-145.0.r148/312
+K 8
+2.6.37.3
+V 20
+dir 3-179.0.r182/313
+K 8
+2.6.37.4
+V 20
+dir 3-192.0.r195/313
+K 6
+2.6.38
+V 20
+dir 3-232.0.r235/310
+K 8
+2.6.38.1
+V 20
+dir 3-265.0.r268/313
+K 8
+2.6.38.2
+V 20
+dir 3-283.0.r319/387
+K 8
+2.6.38.3
+V 20
+dir 3-331.0.r357/358
+END
+ENDREP
+id: 2-14.0.r357/892
+type: dir
+pred: 2-14.0.r334/858
+count: 22
+text: 357 530 349 0 bc2bc92cf848a203d29e7705448ca324
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r354/1286
+K 8
+pristine
+V 20
+dir 2-6.0-356.r356/0
+K 8
+releases
+V 19
+dir 2-14.0.r357/892
+END
+ENDREP
+id: 1-5.0.r357/1186
+type: dir
+pred: 1-5.0.r356/375
+count: 152
+text: 357 1055 118 0 b05148160a5eed60a5e014836d4abd0e
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r357/1186
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r344/1047
+K 10
+kernel-tmb
+V 20
+dir 1-149.0.r351/978
+K 7
+systemd
+V 18
+dir 1-40.0.r99/859
+K 4
+udev
+V 19
+dir 1-27.0.r273/921
+END
+ENDREP
+id: 0-1.0.r357/1584
+type: dir
+pred: 0-1.0.r356/769
+count: 356
+text: 357 1341 230 0 43aaa3faec6d2718b7a59693e5e56dbe
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r357/1584
+END
+ENDREP
+id: 0.0.r357/1787
+type: dir
+pred: 0.0.r356/969
+count: 357
+text: 357 1732 42 0 c960ab1d630f908d4db61876c9a311e7
+cpath: /
+copyroot: 0 /
+
+2-6._0.t356-9w add-dir false false /cauldron/kernel/releases/2.6.38.3/1.mga1
+354 /cauldron/kernel/current
+
+1787 1922

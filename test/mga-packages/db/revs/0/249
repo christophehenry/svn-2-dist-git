@@ -1,0 +1,114 @@
+id: 3-249.0.r249/0
+type: dir
+count: 0
+cpath: /cauldron/kernel/releases/2.6.37.1
+copyroot: 0 /
+
+PLAIN
+K 6
+2.6.37
+V 19
+dir 3-19.0.r102/346
+K 8
+2.6.37.1
+V 18
+dir 3-249.0.r249/0
+END
+ENDREP
+id: 2-18.0.r249/185
+type: dir
+pred: 2-18.0.r102/567
+count: 4
+text: 249 95 77 77 2b97aefdd48b5b54d8046da94f5cbd7b
+cpath: /cauldron/kernel/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-6.0.r248/1112
+K 8
+pristine
+V 20
+dir 2-6.0-101.r101/0
+K 8
+releases
+V 19
+dir 2-18.0.r249/185
+END
+ENDREP
+id: 1-5.0.r249/477
+type: dir
+pred: 1-5.0.r248/1463
+count: 27
+text: 249 346 118 118 dbb72ba8f27a5dfce65d93d05f81dec5
+cpath: /cauldron/kernel
+copyroot: 0 /
+
+PLAIN
+K 8
+bugzilla
+V 20
+dir 1-149.0.r235/830
+K 7
+firefox
+V 20
+dir 1-63.0.r220/1069
+K 5
+glibc
+V 17
+dir 1-7.0.r42/808
+K 6
+kernel
+V 18
+dir 1-5.0.r249/477
+K 12
+kernel-linus
+V 18
+dir 1-2.0.r247/851
+K 3
+nss
+V 19
+dir 1-56.0.r124/900
+K 3
+rpm
+V 20
+dir 1-11.0.r240/1029
+K 7
+systemd
+V 19
+dir 1-70.0.r229/888
+K 4
+udev
+V 19
+dir 1-43.0.r137/850
+END
+ENDREP
+id: 0-1.0.r249/974
+type: dir
+pred: 0-1.0.r248/1964
+count: 248
+text: 249 632 329 329 1c25d6ca093759e1067bdbcb767226ed
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 18
+dir 0-1.0.r249/974
+END
+ENDREP
+id: 0.0.r249/1177
+type: dir
+pred: 0.0.r248/2170
+count: 249
+text: 249 1123 41 41 bbe1baaa563f454a879d01a98c8fd0f4
+cpath: /
+copyroot: 0 /
+
+_3.0.t248-6w add-dir false false /cauldron/kernel/releases/2.6.37.1
+
+
+1177 1314

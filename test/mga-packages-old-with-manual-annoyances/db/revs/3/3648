@@ -1,0 +1,356 @@
+id: 6-8.0-1912.r3648/0
+type: file
+pred: 6-8.0.r931/2590
+count: 2
+text: 3646 0 276 22544 976cda7f6f8b7f829ba4c6723e09daab 171a5fa2c6d4d3f4c5f79b87e207ebef8476bba5 3647-2tb/_6
+props: 8 56617 34 0 25e6c2f7558b7484000d4d090dea5b92
+cpath: /updates/2/glibc/current/SOURCES/crypt_freesec.c
+copyroot: 1912 /updates/2
+
+PLAIN
+K 30
+crypt_blowfish-1.2.tar.gz.sign
+V 21
+file 4-930.0.r930/723
+K 24
+crypt_blowfish_arm.patch
+V 23
+file 4-1102.0.r1102/467
+K 15
+crypt_freesec.c
+V 23
+file 6-8.0-1912.r3648/0
+K 15
+crypt_freesec.h
+V 20
+file 9-8.0.r931/2881
+K 37
+glibc-2.10.1-biarch-cpp-defines.patch
+V 19
+file b-8.0.r8/57192
+K 36
+glibc-2.10.1-mdv-avx-owl-crypt.patch
+V 19
+file d-8.0.r8/57425
+K 40
+glibc-2.10.1-mdv-owl-crypt_freesec.patch
+V 19
+file f-8.0.r8/57658
+K 28
+glibc-2.10.1-multiarch.patch
+V 19
+file h-8.0.r8/57896
+K 52
+glibc-2.11.1-localedef-archive-follow-symlinks.patch
+V 19
+file n-8.0.r8/58583
+K 60
+glibc-2.12.1-assign-global-scope-to-RFC-1918-addresses.patch
+V 19
+file t-8.0.r8/59333
+K 22
+glibc-2.12.1-fhs.patch
+V 19
+file v-8.0.r8/59591
+K 32
+glibc-2.14.1-CVE-2013-0242.patch
+V 29
+file 5-3128.0-1912.r3128/2265
+K 32
+glibc-2.14.1-CVE-2013-1914.patch
+V 27
+file 5-3129.0-1912.r3130/51
+K 40
+glibc-2.14.1-avx-increase_BF_FRAME.patch
+V 24
+file 1r-8.0-935.r935/842
+K 38
+glibc-2.14.1-avx-relocate_fcrypt.patch
+V 25
+file 2l-8.1-935.r935/1179
+K 47
+glibc-2.14.1-dont-tie-libcap-with-selinux.patch
+V 24
+file l-8.0-919.r919/4463
+K 44
+glibc-2.14.1-fix-segfault-at-dl-lookup.patch
+V 22
+file 4-947.0.r947/2227
+K 41
+glibc-2.14.1-mga-wrapper_handle_sha.patch
+V 26
+file 2d-8.0-2433.r2433/584
+K 23
+glibc-2.14.1.tar.xz.sig
+V 21
+file 4-918.0.r918/613
+K 27
+glibc-2.2-nss-upgrade.patch
+V 20
+file 1d-8.0.r8/61901
+K 27
+glibc-2.2.4-xterm-xvt.patch
+V 20
+file 1f-8.0.r8/62127
+K 49
+glibc-2.3.2-tcsetattr-kernel-bug-workaround.patch
+V 20
+file 1h-8.0.r8/62353
+K 29
+glibc-2.3.3-nscd-enable.patch
+V 20
+file 1j-8.0.r8/62602
+K 33
+glibc-2.3.4-i586-if-no-cmov.patch
+V 20
+file 1l-8.0.r8/62830
+K 26
+glibc-2.3.4-timezone.patch
+V 20
+file 1n-8.0.r123/168
+K 30
+glibc-2.3.5-biarch-utils.patch
+V 20
+file 1p-8.0.r8/63288
+K 31
+glibc-2.3.6-nsswitch.conf.patch
+V 19
+file 1t-8.0.r22/136
+K 36
+glibc-2.3.6-ppc-build-lddlibc4.patch
+V 20
+file 1v-8.0.r8/63987
+K 33
+glibc-2.3.6-pt_BR-i18nfixes.patch
+V 20
+file 1x-8.0.r8/64222
+K 40
+glibc-2.4.90-compat-EUR-currencies.patch
+V 20
+file 1z-8.0.r8/64454
+K 31
+glibc-2.4.90-gcc4-fortify.patch
+V 20
+file 21-8.0.r8/64695
+K 33
+glibc-2.4.90-i386-hwcapinfo.patch
+V 20
+file 23-8.0.r8/64925
+K 32
+glibc-2.4.90-i586-hptiming.patch
+V 20
+file 25-8.0.r8/65159
+K 38
+glibc-2.4.90-testsuite-ldbl-bits.patch
+V 20
+file 27-8.0.r8/65392
+K 43
+glibc-2.4.90-testsuite-rt-notparallel.patch
+V 20
+file 29-8.0.r8/65629
+K 24
+glibc-2.6-nice_fix.patch
+V 20
+file 2b-8.0.r8/65871
+K 54
+glibc-2.7-provide_CFI_for_the_outermost_function.patch
+V 20
+file 2f-8.0.r8/66333
+K 37
+glibc-2.8-ENOTTY-fr-translation.patch
+V 20
+file 2h-8.0.r8/66587
+K 38
+glibc-2.8-nscd-init-should-start.patch
+V 20
+file 2j-8.0.r8/66823
+K 28
+glibc-2.9-ldd-non-exec.patch
+V 20
+file 2n-8.0.r8/67295
+K 34
+glibc-2.9-nscd-no-host-cache.patch
+V 20
+file 2p-8.0.r8/67523
+K 28
+glibc-2.9-share-locale.patch
+V 20
+file 2r-8.0.r8/67756
+K 14
+glibc-check.sh
+V 20
+file 2t-8.0.r8/68057
+K 22
+glibc-find-requires.sh
+V 20
+file 2v-8.0.r8/68324
+K 29
+glibc-ports-2.14.1.tar.xz.sig
+V 21
+file 7-918.0.r918/887
+K 20
+glibc-post-wrapper.c
+V 20
+file 2x-8.0.r8/68600
+K 37
+glibc2.14-revert-sunrpc-removal.patch
+V 22
+file 4-965.0.r965/1255
+K 30
+glibc_mips_16k_page_size.patch
+V 22
+file 7-244.0.r244/3376
+K 12
+nscd.service
+V 23
+file 4-1702.0.r1718/100
+K 11
+nscd.socket
+V 23
+file 4-1701.0.r1701/163
+K 8
+sha1.lst
+V 20
+file 2z-8.0.r930/953
+END
+ENDREP
+id: 4-8.0-1912.r3648/3626
+type: dir
+pred: 4-8.0-1912.r3130/3649
+count: 24
+text: 3648 310 3303 0 1ac20abb07ba60763536462f046158ed
+cpath: /updates/2/glibc/current/SOURCES
+copyroot: 1912 /updates/2
+
+PLAIN
+K 7
+SOURCES
+V 25
+dir 4-8.0-1912.r3648/3626
+K 5
+SPECS
+V 25
+dir 31-8.0-1912.r3644/383
+END
+ENDREP
+id: 2-8.0-1912.r3648/3923
+type: dir
+pred: 2-8.0-1912.r3644/677
+count: 49
+text: 3648 3822 88 0 d638a7e7fc1fc33832a5698b3039cf60
+props: 8 73171 62 0 4f5041cbe8d1c1ab772b855f331dee2f
+cpath: /updates/2/glibc/current
+copyroot: 1912 /updates/2
+
+PLAIN
+K 8
+branches
+V 23
+dir 2-1275.0.r1434/6149
+K 7
+current
+V 25
+dir 2-8.0-1912.r3648/3923
+K 8
+pristine
+V 22
+dir 2-8.0-1822.r1822/0
+K 8
+releases
+V 20
+dir 35-8.0.r1823/933
+END
+ENDREP
+id: 1-7.0-1912.r3648/4344
+type: dir
+pred: 1-7.0-1912.r3644/1096
+count: 103
+text: 3648 4162 169 0 256cd7d4cae8f3fb2df0260340e8b67d
+cpath: /updates/2/glibc
+copyroot: 1912 /updates/2
+
+PLAIN
+K 5
+glibc
+V 25
+dir 1-7.0-1912.r3648/4344
+K 6
+kernel
+V 25
+dir 1-5.0-1912.r3385/1619
+K 12
+kernel-linus
+V 25
+dir 1-2.0-1912.r3381/4079
+K 10
+kernel-tmb
+V 27
+dir 1-149.0-1912.r3386/5248
+K 7
+systemd
+V 21
+dir 1-40.0.r1911/1703
+K 4
+udev
+V 21
+dir 1-27.0.r1826/1361
+END
+ENDREP
+id: 0-1.0-1912.r3648/4798
+type: dir
+pred: 0-1.0-1912.r3644/1549
+count: 1984
+text: 3648 4525 260 0 f7e6cf6bd5ec0cfc08650fa78c273f95
+cpath: /updates/2
+copyroot: 1912 /updates/2
+
+PLAIN
+K 1
+1
+V 24
+dir 0-1.0-540.r1468/2339
+K 1
+2
+V 25
+dir 0-1.0-1912.r3648/4798
+K 1
+3
+V 25
+dir 0-1.0-3200.r3647/4470
+K 7
+infra_1
+V 24
+dir 0-1.0-541.r3268/2371
+END
+ENDREP
+id: 0-539.0.r3648/5143
+type: dir
+pred: 0-539.0.r3647/4815
+count: 375
+text: 3648 4974 156 0 996ff9e757bb572d9aaab79b873dcc7d
+cpath: /updates
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 20
+dir 0-1.0.r3646/4786
+K 7
+updates
+V 22
+dir 0-539.0.r3648/5143
+END
+ENDREP
+id: 0.0.r3648/5394
+type: dir
+pred: 0.0.r3647/5066
+count: 3648
+text: 3648 5298 83 0 e3df4f6a08ab4595b13770e2d14dcbc3
+cpath: /
+copyroot: 0 /
+
+6-8.0-1912.t3647-2tb modify-file true false /updates/2/glibc/current/SOURCES/crypt_freesec.c
+
+
+5394 5534

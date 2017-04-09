@@ -1,0 +1,164 @@
+id: 2-3.0-552.r552/0
+type: dir
+pred: 2-3.0.r505/1733
+count: 37
+text: 505 1645 75 0 6a51f203ac2e7ecdba1f95e974a8545d
+props: 436 1029 65 0 80682aae770ff2d66ec2c283e6b020e5
+cpath: /cauldron/kernel-linus/releases/2.6.38.8/1.mga1
+copyfrom: 549 /cauldron/kernel-linus/current
+
+PLAIN
+K 6
+1.mga1
+V 20
+dir 2-3.0-552.r552/0
+K 6
+1.mga2
+V 20
+dir 2-3.0-509.r509/0
+END
+ENDREP
+id: 3-506.0.r552/362
+type: dir
+pred: 3-506.0.r509/325
+count: 2
+text: 552 271 78 0 49c0795eb12ad96a1f894a50240d1477
+cpath: /cauldron/kernel-linus/releases/2.6.38.8
+copyroot: 0 /
+
+PLAIN
+K 8
+2.6.37.1
+V 20
+dir 3-107.0.r110/321
+K 8
+2.6.37.2
+V 20
+dir 3-129.0.r132/323
+K 6
+2.6.38
+V 20
+dir 3-161.0.r187/457
+K 8
+2.6.38.1
+V 20
+dir 3-259.0.r262/324
+K 8
+2.6.38.2
+V 20
+dir 3-279.0.r282/324
+K 8
+2.6.38.3
+V 20
+dir 3-341.0.r344/325
+K 8
+2.6.38.4
+V 20
+dir 3-368.0.r371/325
+K 8
+2.6.38.5
+V 20
+dir 3-414.0.r417/325
+K 8
+2.6.38.6
+V 20
+dir 3-438.0.r441/325
+K 8
+2.6.38.7
+V 20
+dir 3-474.0.r477/325
+K 8
+2.6.38.8
+V 20
+dir 3-506.0.r552/362
+END
+ENDREP
+id: n-3.0.r552/984
+type: dir
+pred: n-3.0.r509/945
+count: 26
+text: 552 540 431 0 0f3e72d679fe43478d2fa276771bc84b
+cpath: /cauldron/kernel-linus/releases
+copyroot: 0 /
+
+PLAIN
+K 7
+current
+V 19
+dir 2-3.0.r505/1733
+K 8
+pristine
+V 20
+dir 2-3.0-551.r551/0
+K 8
+releases
+V 18
+dir n-3.0.r552/984
+END
+ENDREP
+id: 1-2.0.r552/1281
+type: dir
+pred: 1-2.0.r551/385
+count: 94
+text: 552 1151 117 0 a57ea5898899fba1bc1e355177112eb5
+cpath: /cauldron/kernel-linus
+copyroot: 0 /
+
+PLAIN
+K 5
+glibc
+V 19
+dir 1-7.0.r309/1007
+K 6
+kernel
+V 19
+dir 1-5.0.r538/1381
+K 12
+kernel-linus
+V 19
+dir 1-2.0.r552/1281
+K 10
+kernel-tmb
+V 21
+dir 1-149.0.r533/1174
+K 7
+systemd
+V 19
+dir 1-40.0.r529/940
+K 4
+udev
+V 20
+dir 1-27.0.r462/1034
+END
+ENDREP
+id: 0-1.0.r552/1687
+type: dir
+pred: 0-1.0.r551/787
+count: 540
+text: 552 1441 233 0 c0f44e10db5048294664d38a5a6e4a3e
+cpath: /cauldron
+copyroot: 0 /
+
+PLAIN
+K 8
+cauldron
+V 19
+dir 0-1.0.r552/1687
+K 7
+updates
+V 21
+dir 0-539.0.r549/2512
+END
+ENDREP
+id: 0.0.r552/1929
+type: dir
+pred: 0.0.r551/1026
+count: 552
+text: 552 1835 81 0 f3e8b2f89dcc4326ee46dc0d17221ac5
+cpath: /
+copyroot: 0 /
+
+2-3._0.t551-fb add-dir false false /cauldron/kernel-linus/releases/2.6.38.8/1.mga1
+549 /cauldron/kernel-linus/current
+
+1929 2065

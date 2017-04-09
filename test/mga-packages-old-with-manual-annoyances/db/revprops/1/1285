@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2012-01-04T20:03:17.228058Z
+K 7
+svn:log
+V 120
+- revert 'Handle EAGAIN from FUTEX_WAIT_REQUEUE_PI' (commit c5a0802a)
+  as it causing numerous problems and instability
+
+END

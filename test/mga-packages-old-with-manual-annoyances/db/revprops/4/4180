@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 3
+tmb
+K 8
+svn:date
+V 27
+2014-01-19T00:46:52.513453Z
+K 7
+svn:log
+V 148
+- fork: Allow CLONE_PARENT after setns(CLONE_NEWPID)
+- vfs: In d_path don't call d_dname on a mount point
+- vfs: Fix a regression in mounting proc
+
+
+END
